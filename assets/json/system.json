@@ -1,0 +1,24 @@
+{
+  "games": [
+    {
+      "title": "PUBG Mobile",
+      "thumb": "assets/thumb/pubg-mobile.webp",
+      "link": "/pubg-mobile.html"
+    },
+    {
+      "title": "COD Mobile",
+      "thumb": "assets/thumb/codm.webp",
+      "link": "/codm.html"
+    },
+    {
+      "title": "Free Fire",
+      "thumb": "assets/thumb/free-fire.webp",
+      "link": "/freefire.html"
+    },
+    {
+      "title": "Asphalt 9",
+      "thumb": "assets/thumb/asphalt-9.webp",
+      "link": "/asphalt9.html"
+    }
+  ]
+}

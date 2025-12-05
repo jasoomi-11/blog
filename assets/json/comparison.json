@@ -1,0 +1,26 @@
+[
+  {
+    "badge": "Popular",
+    "title": "PUBG Mobile",
+    "subtitle": "Complete Guide",
+    "img": "/assets/q.webp"
+  },
+  {
+    "badge": "New",
+    "title": "Free Fire",
+    "subtitle": "Game Overview",
+    "img": "assets/thumb/free-fire.webp"
+  },
+  {
+    "badge": "Updated",
+    "title": "COD Mobile",
+    "subtitle": "System Requirements",
+    "img": "assets/thumb/codm.webp"
+  },
+  {
+    "badge": "Trending",
+    "title": "GTA V",
+    "subtitle": "Comparison",
+    "img": "assets/thumb/gta-v.webp"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "title": "PUBG Mobile",
+    "subtitle": "Complete Guide",
+    "thumb": "/assets/y.webp",
+    "badge": "Popular",
+    "badgeColor": "royalblue",
+    "link": "game/pubg-mobile.html"
+  },
+  {
+    "title": "Free Fire",
+    "subtitle": "Overview",
+    "thumb": "assets/thumb/free-fire-poster.webp",
+    "badge": "New",
+    "badgeColor": "orangered",
+    "link": "game/free-fire.html"
+  }
+]
