@@ -1,0 +1,682 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Blueverse</title>
+
+<style>
+    :root {
+        --deep-black: #03040f;
+        --card-bg: #0a0f1a;
+        --text-light: #d9e6ff;
+        --text-blue: #7cc7ff;
+        --accent-blue: #4a90e2;
+    }
+
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: Arial, sans-serif;
+    }
+
+    body {
+        background: var(--deep-black);
+        color: var(--text-light);
+        padding-bottom: 60px;
+    }
+
+    /* ================= HEADER ================= */
+    .main-header {
+        width: 90%;
+        max-width: 1200px;
+        margin: 20px auto;
+        padding: 12px 18px;
+        background: var(--deep-black);
+        border-radius: 20px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        position: sticky;
+        top: 20px;
+        z-index: 1000;
+        box-shadow: 0 6px 25px rgba(0,0,0,0.5);
+    }
+
+    .logo img {
+        height: 40px;
+        width: 40px;
+        border-radius: 50%;
+        object-fit: cover;
+        display: block;
+    }
+
+    .hamburger {
+        font-size: 30px;
+        cursor: pointer;
+        color: var(--text-light);
+    }
+
+    /* ================= SIDEBAR ================= */
+    .sidebar {
+        position: fixed;
+        top: 0;
+        left: -260px;
+        width: 260px;
+        height: 100%;
+        background: #02030d;
+        box-shadow: 2px 0 10px rgba(0,0,0,0.6);
+        transition: left 0.3s ease;
+        z-index: 2000;
+        padding-top: 70px;
+    }
+    .sidebar.active { left: 0; }
+
+    .sidebar-header {
+        position: absolute;
+        top: 15px;
+        width: 100%;
+        padding: 0 20px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .close-btn {
+        font-size: 28px;
+        cursor: pointer;
+        color: var(--text-light);
+    }
+
+    .sidebar-section a {
+        display: block;
+        padding: 15px 20px;
+        color: var(--text-light);
+        text-decoration: none;
+        font-size: 16px;
+        border-bottom: 1px solid #0b1124;
+    }
+    .sidebar-section a:hover {
+        background: #0a1433;
+    }
+
+    /* BLANK PAGE CONTENT AREA */
+    .content-wrapper {
+        width: 90%;
+        max-width: 1200px;
+        margin: 40px auto;
+        padding: 20px;
+        text-align: center;
+        border: 2px dashed #0a1433;
+        border-radius: 15px;
+    }
+    
+    
+    
+    
+
+.poster-grid {
+  padding: 20px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 15px;
+}
+
+.poster-card {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1/1;
+  overflow: hidden;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: transform 0.25s ease;
+}
+
+.poster-card:hover {
+  transform: translateY(-5px);
+}
+
+.poster-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.badge {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background: royalblue;
+  color: white;
+  padding: 4px 10px;
+  font-size: 12px;
+  border-radius: 6px;
+  z-index: 3;
+}
+
+.overlay {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: 15px;
+  background: linear-gradient(transparent, rgba(0,0,0,0.8));
+  color: #fff;
+}
+
+.overlay h3 {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.overlay p {
+  margin: 0;
+  font-size: 13px;
+  opacity: 0.8;
+}
+ 
+    
+    
+    
+   /* Container for search bar */
+.search-container {
+  position: sticky; /* sticky below header */
+  top: 90px; /* adjust according to your header height */
+  max-width: 650px;
+  margin: 10px auto; /* center horizontally */
+  z-index: 999;
+  background: #0d1b2a; /* Blueverse dark blue background */
+  border-radius: 15px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
+/* Search input field */
+#universal-search {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  border: 1px solid #1b263b; /* subtle border */
+  border-radius: 8px;
+  outline: none;
+  box-sizing: border-box;
+  background: #1b263b; /* input dark blue */
+  color: #e0e1dd; /* light text */
+}
+
+/* Placeholder color */
+#universal-search::placeholder {
+  color: #8da0b8;
+}
+
+/* Search results dropdown */
+.search-results {
+  position: absolute;
+  top: 50px; /* below the search input */
+  width: 100%;
+  background: #0d1b2a; /* match container */
+  border: 1px solid #1b263b;
+  max-height: 300px;
+  overflow-y: auto;
+  z-index: 1000;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
+/* Individual search item card */
+.search-item {
+  display: flex;
+  gap: 12px;
+  padding: 12px;
+  border-bottom: 1px solid #1b263b;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+/* Hover or active item */
+.search-item:hover,
+.search-item.active {
+  background: #274156; /* highlight hover */
+}
+
+/* Thumbnail image */
+.search-item img {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 6px;
+  border: 1px solid #1b263b;
+}
+
+/* Title */
+.search-item h4 {
+  margin: 0;
+  font-size: 16px;
+  color: #e0e1dd; /* light text */
+}
+
+/* Description */
+.search-item p {
+  margin: 4px 0 0;
+  font-size: 12px;
+  color: #8da0b8; /* subtle text */
+}
+
+/* No results message */
+.search-results p {
+  padding: 12px;
+  margin: 0;
+  font-size: 14px;
+  color: #e0e1dd;
+  text-align: center;
+}
+
+/* Scrollbar styling */
+.search-results::-webkit-scrollbar {
+  width: 6px;
+}
+
+.search-results::-webkit-scrollbar-thumb {
+  background-color: #415a77; /* blueverse scrollbar thumb */
+  border-radius: 3px;
+}
+
+.search-results::-webkit-scrollbar-track {
+  background: #0d1b2a; /* track matches container */
+}
+
+/* Mobile adjustments */
+@media screen and (max-width: 480px) {
+  .search-container {
+    max-width: 70%;
+    top: 90px;
+  }
+
+  .search-item img {
+    width: 40px;
+    height: 40px;
+  }
+
+  .search-item h4 {
+    font-size: 14px;
+  }
+
+  .search-item p {
+    font-size: 11px;
+  }
+} 
+    
+</style>
+</head>
+
+<body>
+
+<!-- ================= HEADER ================= -->
+<header class="main-header">
+    <div class="logo">
+        <img src="/assets/thumb/logo.png" alt="Logo">
+    </div>
+    <div class="hamburger" onclick="toggleSidebar()">☰</div>
+</header>
+
+ <!-- Search Bar Container -->
+<div class="search-container">
+  <input type="text" id="universal-search" placeholder="Search Guides or games..." autocomplete="off"/>
+  <div id="search-results" class="search-results"></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<!-- UNIVERSAL BREADCRUMB -->
+<nav style="font-size:14px; margin:15px 0; padding:10px 15px; background:#111; border:1px solid #333; border-radius:8px; color:#ccc; display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+  
+  <a href="/" style="color:#4da3ff; text-decoration:none;">Home</a>
+  <span style="color:#777;">›</span>
+
+
+  <span style="color:#999;">Games system requirements </span>
+
+</nav>
+<!-- ================= SIDEBAR ================= -->
+<div class="sidebar" id="sidebar">
+    <div class="sidebar-header">
+        <h3 style="color: var(--text-light);">Menu</h3>
+        <div class="close-btn" onclick="toggleSidebar()">✖</div>
+    </div>
+
+   <div class="sidebar-section">
+        <a href="/index.html">Home</a>
+        <a href="/guides/games-guide.html">Games Guide</a>
+        <a href="/game-system/system.html">System Requirements</a>
+        <a href="/comparison/comparison.html">game comparison</a>
+        <a href="/about.html">/about</a>
+         <a href="/policies.html">privacy and policy</a>
+          <a href="/term.html">Terms and conditions</a>
+         
+    </div>
+</div>
+
+<main>
+  
+<!-- ================= HERO SECTION ================= -->
+<section style="
+    width: 100%;
+    padding: 60px 20px;
+    margin-top: 20px;
+    background: linear-gradient(135deg, #03040f, #06122b);
+    border-radius: 20px;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    box-shadow: 0 0 40px rgba(0,0,0,0.4);
+">
+
+    <h1 style="
+        font-size: 34px;
+        color: #7cc7ff;
+        font-weight: 700;
+        margin-bottom: 14px;
+    ">
+        Mobile Game System Requirements & Supported Devices
+    </h1>
+
+    <p style="
+        font-size: 16px;
+        color: #d9e6ff;
+        max-width: 750px;
+        margin: 0 auto;
+        line-height: 1.6;
+        opacity: 0.9;
+    ">
+        Find complete and verified system requirements for every major mobile game including
+        PUBG Mobile, Free Fire, COD Mobile, Genshin Impact, BGMI, and Fortnite.  
+        Check which devices support each game, recommended specs, and real-world performance benchmarks.
+    </p>
+
+</section>
+
+
+
+<section class="poster-grid" id="posterGrid"></section>
+
+
+
+
+
+
+
+
+</main>
+
+
+<script>
+fetch("/assets/json/System.json")
+  .then(response => response.json())
+  .then(data => {
+    const container = document.getElementById("posterGrid");
+
+    // Ensure "games" array exists
+    const games = data.games || [];
+
+    games.forEach(game => {
+      container.innerHTML += `
+        <a href="${game.link}" class="poster-card" style="text-decoration:none;">
+          <span class="badge">${game.badge}</span>
+
+          <img src="${game.thumb}" alt="${game.title}">
+
+          <div class="overlay">
+            <h3>${game.title}</h3>
+            <p>${game.subtitle}</p>
+          </div>
+        </a>
+      `;
+    });
+  })
+  .catch(err => console.error("JSON Load Error:", err));
+</script>
+
+
+
+<!-- ================= FOOTER ================= -->
+<footer style="background:#071a2b; padding:40px 20px; font-family:Arial, sans-serif; color:#d2ecff; margin-top:40px;">
+
+  <div style="max-width:1200px; margin:0 auto; display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:30px;">
+
+    <!-- Logo + About -->
+    <div>
+      <h2 style="color:#8fd1ff; margin-bottom:10px;">BlueVerse</h2>
+      <p style="font-size:0.9rem; line-height:1.5;">
+        BlueVerse is your hub for gaming system requirements, mobile gaming guides, comparisons and latest updates.
+      </p>
+    </div>
+
+    <!-- Quick Links -->
+    <div>
+      <h3 style="color:#8fd1ff; margin-bottom:10px;">Quick Links</h3>
+      <ul style="list-style:none; padding:0; margin:0; line-height:1.8;">
+        <li><a href="/index.html" style="color:#d2ecff; text-decoration:none;">Home</a></li>
+        
+        <li><a href="/guides/games-guide.html" style="color:#d2ecff; text-decoration:none;">Games Guides</a></li>
+        <li><a href="/mobile/mobile.html" style="color:#d2ecff; text-decoration:none;">Gaming Mobiles</a></li>
+        <li><a href="/comparison/comparison.html" style="color:#d2ecff; text-decoration:none;">Comparison</a></li>
+        <li><a href="/game-system/system.html" style="color:#d2ecff; text-decoration:none;">System Requirements</a></li>
+      </ul>
+    </div>
+
+    <!-- Policies -->
+    <div>
+      <h3 style="color:#8fd1ff; margin-bottom:10px;">Policies</h3>
+      <ul style="list-style:none; padding:0; margin:0; line-height:1.8;">
+        <li><a href="/policies.html" style="color:#d2ecff; text-decoration:none;">Privacy Policy</a></li>
+        <li><a href="/terms.html" style="color:#d2ecff; text-decoration:none;">Terms & Conditions</a></li>
+        <li><a href="/dmca.html" style="color:#d2ecff; text-decoration:none;">DMCA</a></li>
+        <li><a href="/contact.html" style="color:#d2ecff; text-decoration:none;">Contact</a></li>
+      </ul>
+    </div>
+
+    <!-- Social Icons -->
+    <div>
+      <h3 style="color:#8fd1ff; margin-bottom:10px;">Follow Us</h3>
+      <div style="display:flex; gap:12px;">
+
+        <a href="#" style="width:35px; height:35px; display:flex; align-items:center; justify-content:center; background:#0d2a45; border-radius:50%;">
+          <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="20">
+        </a>
+
+        <a href="#" style="width:35px; height:35px; display:flex; align-items:center; justify-content:center; background:#0d2a45; border-radius:50%;">
+          <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="20">
+        </a>
+
+        <a href="#" style="width:35px; height:35px; display:flex; align-items:center; justify-content:center; background:#0d2a45; border-radius:50%;">
+          <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" width="20">
+        </a>
+
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Disclaimer -->
+  <div style="text-align:center; margin-top:30px; font-size:0.85rem; line-height:1.6; color:#9ec8e6;">
+    <p>All game information, guides, system requirements and mobile details are for informational purposes only.</p>
+    <p>All images, company names, and assets belong to their respective owners.</p>
+  </div>
+
+  <div style="text-align:center; margin-top:20px; font-size:0.85rem; color:#7bb7dd;">
+    © 2025 BlueVerse. All Rights Reserved.
+  </div>
+
+</footer>
+<!-- ================= END FOOTER ================= -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+function toggleSidebar() {
+    document.getElementById("sidebar").classList.toggle("active");
+}
+</script>
+
+
+<script>
+let movies = [];
+let games = [];
+let currentFocus = -1;
+
+// Load all JSON data
+async function loadData() {
+  try {
+    const comparisonResp = await fetch('/assets/json/comparison.json');
+    const comparisonData = await comparisonResp.json();
+    const comparison = comparisonData.games || [];
+
+    const mobileResp = await fetch('/assets/json/mobile.json');
+    const mobile = await mobileResp.json();
+
+    const systemResp = await fetch('/assets/json/system.json');
+    const systemData = await systemResp.json();
+    const systemGames = systemData.games || [];
+
+    const guidesResp = await fetch('/assets/json/games-guide.json');
+    const guidesData = await guidesResp.json();
+    const guides = guidesData.guides || [];
+
+    // Merge into searchable arrays
+    movies = comparison;
+    games = [...mobile, ...systemGames, ...guides];
+
+  } catch (error) {
+    console.error("Error loading JSON data:", error);
+  }
+}
+
+// Search function
+function searchContent(query) {
+  query = query.toLowerCase();
+
+  const movieResults = movies.filter(item =>
+    (item.title && item.title.toLowerCase().includes(query)) ||
+    (item.thumb && item.thumb.toLowerCase().includes(query))
+  );
+
+  const gameResults = games.filter(item =>
+    (item.title && item.title.toLowerCase().includes(query)) ||
+    (item.thumb && item.thumb.toLowerCase().includes(query)) ||
+    (item.thumbnail && item.thumbnail.toLowerCase().includes(query)) ||
+    (item.link && item.link.toLowerCase().includes(query))
+  );
+
+  return [...movieResults, ...gameResults];
+}
+
+// Render search results
+function renderResults(results) {
+  const resultsContainer = document.getElementById('search-results');
+  resultsContainer.innerHTML = '';
+
+  if (!results.length) {
+    resultsContainer.innerHTML = '<p>No results found</p>';
+    return;
+  }
+
+  results.forEach(item => {
+    const thumb = item.thumb || item.thumbnail;
+    const link = item.link || "#";
+    const desc = item.subtitle || "";
+
+    const div = document.createElement('div');
+    div.classList.add('search-item');
+    div.innerHTML = `
+      <img src="${thumb}" alt="${item.title}" />
+      <div>
+        <h4>${item.title}</h4>
+        <p>${desc}</p>
+      </div>
+    `;
+
+    div.addEventListener('click', () => {
+      window.location.href = link;
+    });
+
+    resultsContainer.appendChild(div);
+  });
+}
+
+// Keyboard navigation
+function addKeyboardNavigation() {
+  const items = document.querySelectorAll('.search-item');
+  document.getElementById('universal-search').addEventListener('keydown', function(e) {
+    if (!items.length) return;
+
+    if (e.key === "ArrowDown") {
+      currentFocus++;
+      if (currentFocus >= items.length) currentFocus = 0;
+      setActive(items);
+    } else if (e.key === "ArrowUp") {
+      currentFocus--;
+      if (currentFocus < 0) currentFocus = items.length - 1;
+      setActive(items);
+    } else if (e.key === "Enter") {
+      e.preventDefault();
+      if (currentFocus > -1) items[currentFocus].click();
+    }
+  });
+}
+
+function setActive(items) {
+  items.forEach(i => i.classList.remove('active'));
+  if (currentFocus >= 0) items[currentFocus].classList.add('active');
+}
+
+// Input listener
+document.getElementById('universal-search').addEventListener('input', (e) => {
+  const query = e.target.value.trim();
+  currentFocus = -1;
+
+  if (query.length > 0) {
+    const results = searchContent(query);
+    renderResults(results);
+    addKeyboardNavigation();
+  } else {
+    document.getElementById('search-results').innerHTML = '';
+  }
+});
+
+// Close dropdown if clicked outside
+document.addEventListener('click', (e) => {
+  if (!e.target.closest('.search-container')) {
+    document.getElementById('search-results').innerHTML = '';
+  }
+});
+
+// Load data on page load
+window.addEventListener('DOMContentLoaded', loadData);
+</script>
+
+
+
+
+</body>
+</html>

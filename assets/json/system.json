@@ -1,24 +1,32 @@
 {
   "games": [
     {
+      "badge": "New",
+      "thumb": "https://blog.blueverse.space/assets/thumb/game1.webp",
+      "title": "Clash of Clans",
+      "subtitle": "Build your village and conquer enemies.",
+      "link": "/clash-of-clans-system-requirements.html"
+    },
+    {
+      "badge": "Hot",
+      "thumb": "https://blog.blueverse.space/assets/thumb/game2.webp",
+      "title": "God of War",
+      "subtitle": "Epic action-adventure for PC & consoles.",
+      "link": "/god-of-war-system-requirements.html"
+    },
+    {
+      "badge": "Top",
+      "thumb": "https://blog.blueverse.space/assets/thumb/game3.webp",
       "title": "PUBG Mobile",
-      "thumb": "assets/thumb/pubg-mobile.webp",
-      "link": "/pubg-mobile.html"
+      "subtitle": "Battle royale shooter with intense action.",
+      "link": "/pubg-mobile-system-requirements.html"
     },
     {
-      "title": "COD Mobile",
-      "thumb": "assets/thumb/codm.webp",
-      "link": "/codm.html"
-    },
-    {
-      "title": "Free Fire",
-      "thumb": "assets/thumb/free-fire.webp",
-      "link": "/freefire.html"
-    },
-    {
-      "title": "Asphalt 9",
-      "thumb": "assets/thumb/asphalt-9.webp",
-      "link": "/asphalt9.html"
+      "badge": "New",
+      "thumb": "https://blog.blueverse.space/assets/thumb/game4.webp",
+      "title": "Mobile Legends",
+      "subtitle": "Fast-paced MOBA action on your phone.",
+      "link": "/mobile-legends-system-requirements.html"
     }
   ]
 }

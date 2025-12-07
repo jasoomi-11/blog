@@ -1,0 +1,28 @@
+{
+  "guides": [
+    {
+      "thumbnail": "https://blog.blueverse.space/assets/guides/coc.webp",
+      "title": "Clash of Clans Beginners Guide",
+      "subtitle": "Best tips to start your village the right way.",
+      "link": "/guides/clash-of-clans-guide.html"
+    },
+    {
+      "thumbnail": "https://blog.blueverse.space/assets/guides/pubg.webp",
+      "title": "PUBG Mobile Sensitivity Guide",
+      "subtitle": "Pro sensitivity settings for better aim.",
+      "link": "/guides/pubg-sensitivity-guide.html"
+    },
+    {
+      "thumbnail": "https://blog.blueverse.space/assets/guides/mlbb.webp",
+      "title": "Mobile Legends Hero Guide",
+      "subtitle": "Learn the strongest heroes for each role.",
+      "link": "/guides/mobile-legends-hero-guide.html"
+    },
+    {
+      "thumbnail": "https://blog.blueverse.space/assets/guides/freefire.webp",
+      "title": "Free Fire Rank Push Guide",
+      "subtitle": "Push heroic rank fast with these strategies.",
+      "link": "/guides/free-fire-rank-guide.html"
+    }
+  ]
+}

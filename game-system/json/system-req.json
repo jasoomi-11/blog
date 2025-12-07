@@ -1,0 +1,115 @@
+{
+  "shortIntro": {
+    "title": "What This Game Needs to Run Smoothly",
+    "para1": "Clash of Clans is a lightweight and highly-optimized strategy game that runs smoothly on almost all Android and iOS devices. Performance mainly depends on RAM, CPU efficiency, and stable internet.",
+    "para2": "Low-end devices can run the game at around 30FPS, while mid-range and high-end devices deliver a stable 60FPS experience."
+  },
+
+  "intro": "Below are the official minimum and recommended specifications required to run Clash of Clans smoothly on Android devices.",
+
+  "minimum": {
+    "OS Version": "Android 5.0 or above",
+    "RAM": "1GB minimum",
+    "CPU": "Dual-core 1.4GHz",
+    "GPU": "Adreno 306 / Mali-T720",
+    "Storage": "300–500MB Free",
+    "Internet": "Stable 2–5 Mbps connection"
+  },
+
+  "recommended": {
+    "OS Version": "Android 10 or above",
+    "RAM": "2GB or more",
+    "CPU": "Quad-core 1.8GHz",
+    "GPU": "Adreno 506 / Mali-G52",
+    "Storage": "1GB Free",
+    "Internet": "5–10 Mbps stable connection"
+  },
+
+  "ios_intro": "iOS devices must meet the following minimum and recommended requirements for a smooth Clash of Clans experience.",
+
+  "ios_minimum": [
+    { "title": "OS Version", "value": "iOS 11 or later" },
+    { "title": "Device", "value": "iPhone 6 or newer" },
+    { "title": "Storage", "value": "300–500MB Free" }
+  ],
+
+  "ios_recommended": [
+    { "title": "OS Version", "value": "iOS 13 or later" },
+    { "title": "Device", "value": "iPhone 8, iPhone SE (2020) or newer" },
+    { "title": "Storage", "value": "1GB Free" }
+  ],
+
+  "fps_intro": "Device performance varies based on hardware capability. Below is the expected FPS output for different device categories.",
+  
+  "fps_list": [
+    { "category": "Low-End Devices", "fps": "25–30 FPS" },
+    { "category": "Mid-Range Devices", "fps": "40–60 FPS" },
+    { "category": "High-End Devices", "fps": "60 FPS Stable" }
+  ],
+
+  "settings_intro": "Below are the best in-game settings for both low-end and high-end devices to achieve smooth performance and lag-free gameplay.",
+
+  "low_end": [
+    { "title": "Graphics", "value": "Low" },
+    { "title": "FPS", "value": "Medium" },
+    { "title": "Effects", "value": "Low" },
+    { "title": "Shadows", "value": "OFF" },
+    { "title": "Animations", "value": "Standard" }
+  ],
+
+  "high_end": [
+    { "title": "Graphics", "value": "High" },
+    { "title": "FPS", "value": "High (60 FPS)" },
+    { "title": "Effects", "value": "High" },
+    { "title": "Shadows", "value": "ON" },
+    { "title": "Animations", "value": "High" }
+  ],
+
+  "sectionIntro": "Below is the list of popular Android and iOS devices known to run Clash of Clans smoothly and without lag.",
+
+  "androidDevices": [
+    "Samsung A Series",
+    "Samsung M Series",
+    "Redmi Note Series",
+    "Poco X Series",
+    "Realme Number Series",
+    "Vivo Y Series",
+    "Infinix Hot / Note Series"
+  ],
+
+  "iosDevices": [
+    "iPhone 6 / 6S",
+    "iPhone 7 / 7 Plus",
+    "iPhone 8 / 8 Plus",
+    "iPhone X / XR / XS",
+    "iPhone 11 Series",
+    "iPhone 12 Series",
+    "iPhone 13 Series",
+    "iPhone SE (2020 / 2022)"
+  ],
+
+  "storageIntroText": "Below is the complete breakdown of Clash of Clans’ download size, updates, and total required storage.",
+
+  "storageDetails": [
+    { "label": "Base Game Size", "value": "250–300 MB" },
+    { "label": "Additional Update Files", "value": "50–100 MB" },
+    { "label": "Total Required Space", "value": "500 MB – 1 GB recommended" }
+  ],
+
+  "faqIntroText": "Here are the most frequently asked questions about Clash of Clans performance, device support, and optimization.",
+
+  "faqList": [
+    {
+      "question": "Can Clash of Clans run on 1GB RAM devices?",
+      "answer": "Yes, the game can run on 1GB RAM devices, but performance is smoother on 2GB or higher."
+    },
+    {
+      "question": "Does Clash of Clans support 60 FPS?",
+      "answer": "Yes, most modern mid-range and high-end devices support stable 60 FPS gameplay."
+    },
+    {
+      "question": "How much internet speed is required for Clash of Clans?",
+      "answer": "The game requires only 2–5 Mbps for stable gameplay since it uses very low data."
+    }
+  ]
+}

@@ -1,26 +1,32 @@
-[
-  {
-    "badge": "Popular",
-    "title": "PUBG Mobile",
-    "subtitle": "Complete Guide",
-    "img": "/assets/q.webp"
-  },
-  {
-    "badge": "New",
-    "title": "Free Fire",
-    "subtitle": "Game Overview",
-    "img": "assets/thumb/free-fire.webp"
-  },
-  {
-    "badge": "Updated",
-    "title": "COD Mobile",
-    "subtitle": "System Requirements",
-    "img": "assets/thumb/codm.webp"
-  },
-  {
-    "badge": "Trending",
-    "title": "GTA V",
-    "subtitle": "Comparison",
-    "img": "assets/thumb/gta-v.webp"
-  }
-]
+{
+  "games": [
+    {
+      "badge": "New",
+      "thumb": "https://blog.blueverse.space/assets/thumb/game1.webp",
+      "title": "Clash of Clans",
+      "subtitle": "Build your village and conquer enemies.",
+      "link": "/clash-of-clans-system-requirements.html"
+    },
+    {
+      "badge": "Hot",
+      "thumb": "https://blog.blueverse.space/assets/thumb/game2.webp",
+      "title": "God of War",
+      "subtitle": "Epic action-adventure for PC & consoles.",
+      "link": "/god-of-war-system-requirements.html"
+    },
+    {
+      "badge": "Top",
+      "thumb": "https://blog.blueverse.space/assets/thumb/game3.webp",
+      "title": "PUBG Mobile",
+      "subtitle": "Battle royale shooter with intense action.",
+      "link": "/pubg-mobile-system-requirements.html"
+    },
+    {
+      "badge": "New",
+      "thumb": "https://blog.blueverse.space/assets/thumb/game4.webp",
+      "title": "Mobile Legends",
+      "subtitle": "Fast-paced MOBA action on your phone.",
+      "link": "/mobile-legends-system-requirements.html"
+    }
+  ]
+}

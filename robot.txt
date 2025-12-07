@@ -1,0 +1,26 @@
+# ======================================================
+# Robots.txt for Blueverse Mobile Games Site
+# ======================================================
+
+# Allow all search engines
+User-agent: *
+
+# No sensitive directories, all pages are crawlable
+
+# Explicitly allow all important pages and sections
+Allow: /index.html
+Allow: /about.html
+Allow: /contact.html
+Allow: /terms.html
+Allow: /policies.html
+Allow: /cookies.html
+Allow: /dmca.html
+
+# Explicit paths for your sections
+Allow: /comparison/comparison.html
+Allow: /guides/games-guide.html
+Allow: /game-system/system.html
+Allow: /mobile/mobile.html
+
+# Sitemap location
+Sitemap: https://blog.blueverse.space/sitemap.xml
