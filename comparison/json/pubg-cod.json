@@ -1,0 +1,179 @@
+{
+  "gameComparison": {
+    "games": [
+      {
+        "name": "PUBG Mobile",
+        "thumbnail": "/assets/thumb/pubg-mobile.webp",
+        "genre": "Battle Royale / Tactical Shooter",
+        "developer": "Tencent Games / Krafton",
+        "release": "2018",
+        "gameplay": "Realistic Survival Shooter"
+      },
+      {
+        "name": "Call of Duty Mobile",
+        "thumbnail": "/assets/thumb/call-of-duty-mobile.webp",
+        "genre": "FPS / Multiplayer Shooter",
+        "developer": "TiMi Studio / Activision",
+        "release": "2019",
+        "gameplay": "Fast-paced Arcade Shooter"
+      }
+    ]
+  },
+
+  "systemRequirements": {
+    "games": [
+      {
+        "name": "PUBG Mobile",
+        "platform": "Android / iOS",
+        "storage": "3–4 GB",
+        "ram": "3–4 GB",
+        "cpuGpu": "Snapdragon 625 / Mali-G51",
+        "fps": "30–40 FPS (Mid-Range)",
+        "graphics": "Smooth – HDR",
+        "online": "Online Only",
+        "battery": "High"
+      },
+      {
+        "name": "Call of Duty Mobile",
+        "platform": "Android / iOS",
+        "storage": "20–25 GB (after full download)",
+        "ram": "4–6 GB",
+        "cpuGpu": "Snapdragon 730G / A12 Bionic",
+        "fps": "40–60 FPS",
+        "graphics": "Low – Ultra",
+        "online": "Online Only",
+        "battery": "Very High"
+      }
+    ]
+  },
+
+  "keyFeatures": {
+    "games": [
+      {
+        "name": "PUBG Mobile",
+        "modes": "Battle Royale / TDM / Arena",
+        "playerLimits": "1–100 Players",
+        "graphicsStyle": "Realistic",
+        "customization": "Outfits, Gun Skins, Companions",
+        "events": "Monthly & Seasonal",
+        "mechanics": "Recoil Control, Gyroscope, Survival Strategy"
+      },
+      {
+        "name": "Call of Duty Mobile",
+        "modes": "BR / Multiplayer / Ranked / Zombies",
+        "playerLimits": "1–100 Players",
+        "graphicsStyle": "Arcade + Realistic Mix",
+        "customization": "Operators, Weapons, Loadouts",
+        "events": "Weekly & Seasonal",
+        "mechanics": "Slide, ADS Speed, Operator Skills"
+      }
+    ]
+  },
+
+  "prosCons": {
+    "games": [
+      {
+        "name": "PUBG Mobile",
+        "pros": [
+          "More realistic gameplay",
+          "Large open-world maps",
+          "Better survival-based mechanics",
+          "Lower file size",
+          "Very active esports scene"
+        ],
+        "cons": [
+          "High ping issues in some regions",
+          "Occasional hackers",
+          "Heavy battery drain"
+        ]
+      },
+      {
+        "name": "Call of Duty Mobile",
+        "pros": [
+          "Fast arcade style combat",
+          "High FPS support",
+          "Best-in-class multiplayer modes",
+          "Smooth animations",
+          "Strong loadout & operator system"
+        ],
+        "cons": [
+          "Very large storage size",
+          "Frequent large updates",
+          "High-end device needed for max FPS"
+        ]
+      }
+    ]
+  },
+
+  "popularityCommunity": {
+    "games": [
+      {
+        "name": "PUBG Mobile",
+        "activePlayers": "500M+ Downloads / Huge Active Playerbase",
+        "socialMedia": "45M Followers",
+        "tournaments": "PMGC / PMPL / Regional Esports",
+        "engagement": "Discord, YouTube, Esports Streams"
+      },
+      {
+        "name": "Call of Duty Mobile",
+        "activePlayers": "300M+ Downloads",
+        "socialMedia": "25M Followers",
+        "tournaments": "CODM World Championship",
+        "engagement": "Community Events & Ranked Grind"
+      }
+    ]
+  },
+
+  "pricingIAP": {
+    "games": [
+      {
+        "name": "PUBG Mobile",
+        "price": "Free",
+        "premiumFeatures": "UC Skins, Royale Pass",
+        "currency": "UC / AG Currency",
+        "specialOffers": "Seasonal RP, Lucky Spins"
+      },
+      {
+        "name": "Call of Duty Mobile",
+        "price": "Free",
+        "premiumFeatures": "CP Skins, Battle Pass",
+        "currency": "CP / Credits",
+        "specialOffers": "Lucky Draws, Mythic Weapons"
+      }
+    ]
+  },
+
+  "deviceCompatibility": {
+    "games": [
+      {
+        "name": "PUBG Mobile",
+        "devices": "Android Phones, Tablets, iPhones, iPads",
+        "osVersion": "Android 8.0+ / iOS 11+",
+        "crossPlatform": "Mobile Only",
+        "pcConsole": "Supports via Official Emulator"
+      },
+      {
+        "name": "Call of Duty Mobile",
+        "devices": "Android Phones, Tablets, iPhones, iPads",
+        "osVersion": "Android 10+ / iOS 12+",
+        "crossPlatform": "Mobile Only",
+        "pcConsole": "Supports via Gameloop Emulator"
+      }
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Which game is better for low-end devices?",
+      "answer": "PUBG Mobile is better optimized for low-end and mid-range devices compared to CODM."
+    },
+    {
+      "question": "Which game has better multiplayer modes?",
+      "answer": "Call of Duty Mobile has the best multiplayer modes like TDM, Hardpoint, Search & Destroy, and Ranked."
+    },
+    {
+      "question": "Which game takes more storage?",
+      "answer": "COD Mobile takes significantly more storage, ranging from 20–25 GB after full downloads."
+    }
+  ]
+}

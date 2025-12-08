@@ -2,31 +2,19 @@
   "games": [
     {
       "badge": "New",
-      "thumb": "https://blog.blueverse.space/assets/thumb/game1.webp",
-      "title": "Clash of Clans",
-      "subtitle": "Build your village and conquer enemies.",
-      "link": "/clash-of-clans-system-requirements.html"
+      "thumb": "/assets/comparison/pubg-cod.webp",
+      "title": "PUBG VS Call Of Duty",
+      "subtitle": "Hard Comparison Between Big Games",
+      "link": "/comparison/pubg-cod.html"
     },
     {
-      "badge": "Hot",
-      "thumb": "https://blog.blueverse.space/assets/thumb/game2.webp",
-      "title": "God of War",
-      "subtitle": "Epic action-adventure for PC & consoles.",
-      "link": "/god-of-war-system-requirements.html"
-    },
-    {
-      "badge": "Top",
-      "thumb": "https://blog.blueverse.space/assets/thumb/game3.webp",
-      "title": "PUBG Mobile",
-      "subtitle": "Battle royale shooter with intense action.",
-      "link": "/pubg-mobile-system-requirements.html"
-    },
-    {
-      "badge": "New",
-      "thumb": "https://blog.blueverse.space/assets/thumb/game4.webp",
-      "title": "Mobile Legends",
-      "subtitle": "Fast-paced MOBA action on your phone.",
-      "link": "/mobile-legends-system-requirements.html"
+      "badge": "VS",
+      "thumb": "/assets/comparison/genshine-honkai.webp",
+      "title": "Genshine VS Honkai",
+      "subtitle": "Hard Comparison Between Big Games",
+      "link": "/comparison/genshine-honkai.html"
     }
+    
+    
   ]
 }

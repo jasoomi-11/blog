@@ -1,0 +1,116 @@
+{
+  "shortIntro": {
+    "title": "What This Game Needs to Run Smoothly",
+    "para1": "Call of Duty Mobile (CODM) is one of the most optimized and feature-rich shooters available on mobile. To experience smooth gameplay, reduce lag, and enjoy high FPS modes, your device must meet certain minimum and recommended hardware requirements.",
+    "para2": "Low-end devices can run CODM at 30 FPS with basic graphics, while mid-range and flagship devices can easily achieve 60–120 FPS depending on the chipset and in-game settings."
+  },
+
+  "intro": "Below are the official and community-verified minimum and recommended specifications required to run Call of Duty Mobile smoothly on Android devices.",
+
+  "minimum": {
+    "OS Version": "Android 5.1 or above",
+    "RAM": "2GB minimum",
+    "CPU": "Snapdragon 429 / Helio P22 / Kirin 655 or equivalent",
+    "GPU": "Adreno 504 / PowerVR GE8320 or equivalent",
+    "Storage": "At least 4GB free space",
+    "Internet": "Stable 4G or broadband connection"
+  },
+
+  "recommended": {
+    "OS Version": "Android 8.0 or above",
+    "RAM": "4GB or more",
+    "CPU": "Snapdragon 660 / 720G / 730G / Dimensity 700 or better",
+    "GPU": "Adreno 610 / 618 or Mali-G57 or better",
+    "Storage": "6–8GB free space recommended",
+    "Internet": "Low-ping 4G/5G connection for smoother multiplayer"
+  },
+
+  "ios_intro": "iOS devices must meet the following minimum and recommended requirements for the best COD Mobile experience.",
+
+  "ios_minimum": [
+    { "title": "OS Version", "value": "iOS 9.0 or later" },
+    { "title": "Device", "value": "iPhone 6 / 6 Plus or newer" },
+    { "title": "Storage", "value": "Minimum 4GB free" }
+  ],
+
+  "ios_recommended": [
+    { "title": "OS Version", "value": "iOS 11 or later" },
+    { "title": "Device", "value": "iPhone 7 / 8 / X or newer" },
+    { "title": "Storage", "value": "6GB free recommended" }
+  ],
+
+  "fps_intro": "FPS output in Call of Duty Mobile heavily depends on device GPU, game mode, and enabled settings. Below is the expected FPS performance across different device tiers.",
+
+  "fps_list": [
+    { "category": "Low-End Devices", "fps": "25–30 FPS" },
+    { "category": "Mid-Range Devices", "fps": "40–60 FPS Stable" },
+    { "category": "High-End Devices", "fps": "90–120 FPS (on supported devices)" }
+  ],
+
+  "settings_intro": "Below are the recommended graphics and sensitivity settings for both low-end and high-end devices to achieve smooth frames and reduced heating.",
+
+  "low_end": [
+    { "title": "Graphics", "value": "Low" },
+    { "title": "FPS", "value": "Medium" },
+    { "title": "Shadows", "value": "OFF" },
+    { "title": "Depth of Field", "value": "OFF" },
+    { "title": "Bloom", "value": "OFF" }
+  ],
+
+  "high_end": [
+    { "title": "Graphics", "value": "Very High / Max" },
+    { "title": "FPS", "value": "Max (up to 120 FPS)" },
+    { "title": "Shadows", "value": "ON" },
+    { "title": "Anti-Aliasing", "value": "ON" },
+    { "title": "Real-Time Lights", "value": "ON" }
+  ],
+
+  "sectionIntro": "Here is a list of Android and iOS devices known to deliver smooth and stable performance in Call of Duty Mobile.",
+
+  "androidDevices": [
+    "Samsung Galaxy A52 / A53 / A73",
+    "Samsung Galaxy S10 to S24 Series",
+    "Redmi Note 9 / 10 / 11 / 12 / 13 Series",
+    "Poco X3 / X4 / X5 / F3 / F4 / F5",
+    "Realme 6 / 7 / 8 / 9 / 10 Pro Series",
+    "Vivo V21 / V23 / Y36 Series",
+    "Infinix Note / Zero Series (G99 variants)"
+  ],
+
+  "iosDevices": [
+    "iPhone 7 / 7 Plus",
+    "iPhone 8 / 8 Plus",
+    "iPhone X / XR / XS / XS Max",
+    "iPhone 11 / 11 Pro / 11 Pro Max",
+    "iPhone 12 / 12 Pro / 12 Pro Max",
+    "iPhone 13 / 13 Pro / 13 Pro Max",
+    "iPhone 14 / 14 Pro / 14 Pro Max",
+    "iPhone SE 2020 / 2022"
+  ],
+
+  "storageIntroText": "Below is the complete breakdown of Call of Duty Mobile’s download size, data packs, and required free space.",
+
+  "storageDetails": [
+    { "label": "Base Game Size", "value": "≈ 2.2 GB" },
+    { "label": "Multiplayer Pack", "value": "1–2 GB" },
+    { "label": "Battle Royale Pack", "value": "1.5–3 GB" },
+    { "label": "Total Required Space", "value": "5–8 GB recommended" }
+  ],
+
+  "faqIntroText": "Here are the most frequently asked questions about Call of Duty Mobile performance, FPS modes, and device support.",
+
+  "faqList": [
+    {
+      "question": "Can COD Mobile run on 2GB RAM?",
+      "answer": "Yes, but graphics remain on low settings and FPS is capped to ensure stability."
+    },
+    {
+      "question": "Does COD Mobile support 120 FPS?",
+      "answer": "Yes, but only on selected Snapdragon flagship-level devices and some iPhones."
+    },
+    {
+      "question": "Is internet speed important?",
+      "answer": "A stable 5–15 Mbps connection with low ping provides the best multiplayer experience."
+    }
+  ]
+}

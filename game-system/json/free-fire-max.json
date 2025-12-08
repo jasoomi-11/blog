@@ -1,0 +1,136 @@
+{
+  "shortIntro": {
+    "title": "What This Game Needs to Run Smoothly",
+    "para1": "Free Fire Max is a highly optimized battle royale game designed to deliver enhanced graphics, improved animations, and better performance compared to the classic Free Fire version. However, to enjoy ultra-smooth gameplay with fast loading, stable FPS, and high-quality textures, your device must meet a certain level of hardware specifications.",
+    "para2": "Low-end devices can run the game at 30 FPS with reduced settings, while mid-range and high-end devices can easily maintain 60 FPS with HD graphics, high textures, and smooth animations."
+  },
+
+  "intro": "Below are the official minimum and recommended specifications needed to run Free Fire Max smoothly on most Android devices without lag.",
+
+  "minimum": {
+    "OS Version": "Android 4.4 or above",
+    "RAM": "2GB minimum",
+    "CPU": "Snapdragon 450 / Helio P35 / Exynos 7870 or equivalent",
+    "GPU": "Adreno 506 / Mali-G52 or equivalent",
+    "Storage": "≈ 2GB Free",
+    "Internet": "Stable 4G connection (minimum 2 Mbps)"
+  },
+
+  "recommended": {
+    "OS Version": "Android 7.0 or above",
+    "RAM": "4GB or more",
+    "CPU": "Snapdragon 660 / Helio G80 / Exynos 9611 or better",
+    "GPU": "Adreno 512+ / Mali-G72 or better",
+    "Storage": "3–4GB Free",
+    "Internet": "Stable low-ping connection (4G/5G preferred)"
+  },
+
+  "ios_intro": "Free Fire Max also runs smoothly on modern iOS devices. Below are minimum and recommended requirements.",
+
+  "ios_minimum": [
+    { "title": "OS Version", "value": "iOS 11 or later" },
+    { "title": "Device", "value": "iPhone 6S / iPhone SE (1st Gen) or newer" },
+    { "title": "Storage", "value": "≈ 2GB Free" }
+  ],
+
+  "ios_recommended": [
+    { "title": "OS Version", "value": "iOS 12 or later" },
+    { "title": "Device", "value": "iPhone 8 / X / XR / XS or newer" },
+    { "title": "Storage", "value": "At least 3GB Free" }
+  ],
+
+  "fps_intro": "The FPS performance of Free Fire Max highly depends on your device’s processor, graphics capability, and RAM. Below is an estimated FPS output for different device categories.",
+
+  "fps_list": [
+    { "category": "Low-End Devices", "fps": "25–30 FPS" },
+    { "category": "Mid-Range Devices", "fps": "40–55 FPS" },
+    { "category": "High-End Devices", "fps": "60 FPS Stable" }
+  ],
+
+  "settings_intro": "Here are the best settings to achieve smoother gameplay, lower lag, and more stable FPS on both low-end and high-end devices.",
+
+  "low_end": [
+    { "title": "Graphics", "value": "Smooth" },
+    { "title": "FPS", "value": "Normal" },
+    { "title": "High-Resolution", "value": "OFF" },
+    { "title": "Shadows", "value": "OFF" },
+    { "title": "Auto-Scale", "value": "ON" }
+  ],
+
+  "high_end": [
+    { "title": "Graphics", "value": "Ultra" },
+    { "title": "FPS", "value": "High (60 FPS)" },
+    { "title": "High-Resolution", "value": "ON" },
+    { "title": "Shadows", "value": "ON" },
+    { "title": "Auto-Scale", "value": "OFF" }
+  ],
+
+  "sectionIntro": "Below is the list of Android and iOS devices that are known for delivering smooth and stable Free Fire Max gameplay.",
+
+  "androidDevices": [
+    "Samsung Galaxy A Series (A51, A52, A73)",
+    "Samsung Galaxy M / F Series",
+    "Poco X3 / X4 / F3 / F5",
+    "Redmi Note 8 / 10 / 11 / 12 Series",
+    "Realme 6 / 7 / 8 / 9 Series",
+    "Infinix Note / Hot / Zero Series",
+    "Vivo Y / V Series",
+    "Oppo A / Reno Series"
+  ],
+
+  "iosDevices": [
+    "iPhone 7 / 7 Plus",
+    "iPhone 8 / 8 Plus",
+    "iPhone X / XR / XS / XS Max",
+    "iPhone 11 / 12 / 13 / 14 Series",
+    "iPhone SE (2020 / 2022)"
+  ],
+
+  "storageIntroText": "Below is the complete breakdown of Free Fire Max download size and the total storage required after installing essential files.",
+
+  "storageDetails": [
+    { "label": "Base Game Size", "value": "≈ 1 GB" },
+    { "label": "Additional Resource Packs", "value": "0.5–2 GB" },
+    { "label": "Total Required Space", "value": "2–4 GB recommended" }
+  ],
+
+  "faqIntroText": "Here are the most frequently asked questions about Free Fire Max device performance, compatibility, and optimization.",
+
+  "faqList": [
+    {
+      "question": "Can Free Fire Max run on 2GB RAM devices?",
+      "answer": "Yes, the game is optimized for low-end phones. With 2GB RAM, the game runs on Smooth graphics with around 25–30 FPS."
+    },
+    {
+      "question": "Is Free Fire Max more heavy than classic Free Fire?",
+      "answer": "Yes, Free Fire Max has better graphics and textures, so it requires more RAM and storage than the classic version."
+    },
+    {
+      "question": "How much internet speed is needed for Free Fire Max?",
+      "answer": "A stable 2–5 Mbps connection is enough, but lower ping (below 50 ms) gives the best experience."
+    }
+  ],
+
+  "title": "Device Comparison Insights",
+  "description": "Compare the performance of top gaming devices for Free Fire Max. Check FPS stability, heating levels, and gameplay responsiveness.",
+  "rows": [
+    {
+      "device1": "Poco F5",
+      "device2": "Realme GT Neo 3",
+      "fps": "55–60 FPS",
+      "notes": "Poco F5 gives higher stability while GT Neo 3 offers better thermal control."
+    },
+    {
+      "device1": "Samsung Galaxy A52",
+      "device2": "Redmi Note 12 Pro",
+      "fps": "40–55 FPS",
+      "notes": "Note 12 Pro delivers slightly better GPU output, while A52 is more consistent in long matches."
+    },
+    {
+      "device1": "iPhone 12",
+      "device2": "iPhone XR",
+      "fps": "60 FPS",
+      "notes": "Both run at 60 FPS, but iPhone 12 handles high resolution textures more efficiently."
+    }
+  ]
+}

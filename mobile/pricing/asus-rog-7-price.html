@@ -3,7 +3,13 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Blueverse</title>
+
+
+
+
+
+
+
 
 <style>
     :root {
@@ -115,72 +121,73 @@
     
     
     
+    .poster-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Mobile = 2 cards */
+    gap: 14px;
+  }
 
-.poster-grid {
-  padding: 20px;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-  gap: 15px;
-}
+  .poster-card {
+    position: relative;
+    width: 100%;
+    padding-top: 160%; /* tall poster */
+    border-radius: 12px;
+    overflow: hidden;
+    cursor: pointer;
+    background: #111;
+    transition: transform .25s ease, box-shadow .25s ease;
+  }
 
-.poster-card {
-  position: relative;
-  width: 100%;
-  aspect-ratio: 1/1;
-  overflow: hidden;
-  border-radius: 12px;
-  cursor: pointer;
-  transition: transform 0.25s ease;
-}
+  .poster-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0px 10px 25px rgba(0,0,0,0.4);
+  }
 
-.poster-card:hover {
-  transform: translateY(-5px);
-}
+  .poster-card img {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    top: 0; left: 0;
+  }
 
-.poster-card img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
+  .poster-overlay {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+    background: linear-gradient(to top, rgba(0,0,0,0.8), transparent);
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+  }
 
-.badge {
-  position: absolute;
-  top: 10px;
-  left: 10px;
-  background: royalblue;
-  color: white;
-  padding: 4px 10px;
-  font-size: 12px;
-  border-radius: 6px;
-  z-index: 3;
-}
+  .poster-badge {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background: #00A8FF;
+    color: #fff;
+    padding: 5px 9px;
+    font-size: 11px;
+    font-weight: bold;
+    border-radius: 6px;
+    text-transform: uppercase;
+  }
 
-.overlay {
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  padding: 15px;
-  background: linear-gradient(transparent, rgba(0,0,0,0.8));
-  color: #fff;
-}
+  @media (min-width:768px){
+    .poster-grid {
+      grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+    }
+  }
 
-.overlay h3 {
-  margin: 0;
-  font-size: 16px;
-  font-weight: 600;
-}
-
-.overlay p {
-  margin: 0;
-  font-size: 13px;
-  opacity: 0.8;
-}
- 
-    
-    
-    
-   /* Container for search bar */
+  @media (min-width:1200px){
+    .poster-grid {
+      grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+    }
+  }
+  
+  /* Container for search bar */
 .search-container {
   position: sticky; /* sticky below header */
   top: 90px; /* adjust according to your header height */
@@ -305,8 +312,185 @@
   .search-item p {
     font-size: 11px;
   }
-} 
-    
+}
+  
+  
+
+.price-section {
+  width: 100%;
+  padding: 40px 0;
+  background: #0a0f1a;
+  color: #d9e6ff;
+}
+
+.price-title {
+  text-align: center;
+  font-size: 28px;
+  margin-bottom: 35px;
+  color: #7cc7ff;
+}
+
+.price-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.price-box {
+  margin-bottom: 18px;
+  border: 1px solid #1e2736;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.price-btn {
+  width: 100%;
+  background: #0f1624;
+  color: #d9e6ff;
+  padding: 18px;
+  text-align: left;
+  border: none;
+  font-size: 17px;
+  cursor: pointer;
+  
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.price-btn:hover {
+  background: #131c2e;
+}
+
+.price-content {
+  display: none;
+  background: #0a0f1a;
+  padding: 18px;
+  border-top: 1px solid #1e2736;
+}
+
+.price-content h4 {
+  margin-bottom: 10px;
+  color: #7cc7ff;
+}
+
+.price-content ul {
+  padding-left: 20px;
+  line-height: 1.8;
+}
+
+  
+  
+/* ========== MOBILE SUMMARY SECTION CSS ========== */
+
+.mobile-summary {
+  width: 100%;
+  padding: 35px 0;
+  background: #0a0f1a;
+  color: #d9e6ff;
+  text-align: center;
+
+  /* SPACE FROM OTHER SECTIONS */
+  margin-top: 45px;
+  margin-bottom: 45px;
+}
+
+.ms-title {
+  font-size: 28px;
+  margin-bottom: 25px;
+  color: #7cc7ff;
+}
+
+/* Thumbnails */
+.ms-thumbnails {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  margin-bottom: 25px;
+  flex-wrap: wrap;
+}
+
+.ms-thumb {
+  width: 130px;
+  height: auto;
+  border-radius: 12px;
+  transition: transform 0.3s ease;
+}
+
+.ms-thumb:hover {
+  transform: scale(1.05);
+}
+
+/* Name */
+.ms-name {
+  font-size: 22px;
+  color: #7cc7ff;
+  margin-bottom: 10px;
+}
+
+/* Description */
+.ms-desc {
+  max-width: 600px;
+  margin: 0 auto;
+  font-size: 15px;
+  line-height: 1.6;
+  opacity: 0.9;
+}
+
+/* Price */
+.ms-price {
+  margin-top: 15px;
+  font-size: 16px;
+  color: #7cc7ff;
+  font-weight: bold;
+}
+  
+  
+/* ===================== PRICING INTRO SECTION ===================== */
+
+.price-intro {
+    width: 100%;
+    padding: 60px 20px;
+    margin-top: 20px;
+    background: linear-gradient(135deg, #03040f, #06122b);
+    border-radius: 20px;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    box-shadow: 0 0 40px rgba(0,0,0,0.4);
+}
+
+.price-heading {
+    font-size: 34px;
+    color: #7cc7ff;
+    font-weight: 700;
+    margin-bottom: 14px;
+}
+
+.price-desc {
+    font-size: 16px;
+    color: #d9e6ff;
+    max-width: 750px;
+    margin: 0 auto;
+    line-height: 1.6;
+    opacity: 0.9;
+}
+
+/* Mobile Responsive */
+@media (max-width: 600px) {
+    .price-heading {
+        font-size: 26px;
+    }
+
+    .price-desc {
+        font-size: 14px;
+    }
+
+    .price-intro {
+        padding: 40px 18px;
+    }
+}
+  
 </style>
 </head>
 
@@ -328,24 +512,6 @@
 
 
 
-
-
-
-
-
-
-
-
-<!-- UNIVERSAL BREADCRUMB -->
-<nav style="font-size:14px; margin:15px 0; padding:10px 15px; background:#111; border:1px solid #333; border-radius:8px; color:#ccc; display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
-  
-  <a href="/" style="color:#4da3ff; text-decoration:none;">Home</a>
-  <span style="color:#777;">›</span>
-
-
-  <span style="color:#999;">Games Comparison  </span>
-
-</nav>
 <!-- ================= SIDEBAR ================= -->
 <div class="sidebar" id="sidebar">
     <div class="sidebar-header">
@@ -353,7 +519,7 @@
         <div class="close-btn" onclick="toggleSidebar()">✖</div>
     </div>
 
-   <div class="sidebar-section">
+    <div class="sidebar-section">
         <a href="/index.html">Home</a>
         <a href="/guides/games-guide.html">Games Guide</a>
         <a href="/game-system/system.html">System Requirements</a>
@@ -367,49 +533,99 @@
 
 <main>
   
-<!-- ================= HERO SECTION ================= -->
-<section style="
-    width: 100%;
-    padding: 60px 20px;
-    margin-top: 20px;
-    background: linear-gradient(135deg, #03040f, #06122b);
-    border-radius: 20px;
-    max-width: 1200px;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-    box-shadow: 0 0 40px rgba(0,0,0,0.4);
-">
 
-    <h1 style="
-        font-size: 34px;
-        color: #7cc7ff;
-        font-weight: 700;
-        margin-bottom: 14px;
-    ">
-        Compare Top Mobile Games & Features
+
+<!-- ================= HERO SECTION ================= -->
+<section class="price-intro">
+
+    <h1 class="price-heading">
+        Global Pricing – Best Gaming Mobiles
     </h1>
 
-    <p style="
-        font-size: 16px;
-        color: #d9e6ff;
-        max-width: 750px;
-        margin: 0 auto;
-        line-height: 1.6;
-        opacity: 0.9;
-    ">
-        Compare popular mobile games like PUBG Mobile, Free Fire, COD Mobile, Genshin Impact, BGMI, and Fortnite.
-        See detailed comparisons of gameplay, graphics, modes, system requirements, supported devices, and special features
-        to choose the best game for your device and playstyle.
+    <p class="price-desc">
+        Explore real-world market prices of top gaming smartphones across different 
+        countries. Compare variants, RAM/storage options, colors, and regional availability 
+        for the best gaming mobile based on your budget.
     </p>
 
 </section>
 
 
+<!-- ============ SINGLE MOBILE SUMMARY SECTION ============ -->
+<section class="mobile-summary" id="mobileSummary"></section>
+<!-- ============ END SINGLE MOBILE SUMMARY SECTION ============ -->
 
-<section class="poster-grid" id="posterGrid"></section>
+<!-- ===================== PRICE SECTION ===================== -->
+<section class="price-section">
+  <h2 class="price-title" id="priceTitle"></h2>
+  <div class="price-container" id="priceContainer"></div>
+</section>
+<!-- ===================== END PRICE SECTION ===================== -->
 
 
+
+
+
+
+<script>
+function togglePrice(btn) {
+  let panel = btn.nextElementSibling;
+  panel.style.display = panel.style.display === "block" ? "none" : "block";
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section style="padding:20px;">
+  <h2 style="color:#fff; margin-bottom:15px; font-size:22px;">Featured Posters</h2>
+
+  <div id="posterGrid" class="poster-grid"></div>
+</section>
+
+
+
+<script>
+fetch('/assets/json/mobile.json')  
+  .then(res => res.json())
+  .then(data => {
+      const container = document.getElementById("posterGrid");
+
+      data.forEach(mobile => {
+        container.innerHTML += `
+          <div class="poster-card" onclick="location.href='${mobile.link}'">
+
+            ${mobile.badge ? `<span class="poster-badge" style="background:${mobile.badgeColor || 'crimson'};">
+                ${mobile.badge}
+            </span>` : ""}
+
+            <img src="${mobile.thumb}" alt="${mobile.title}">
+            
+            <div class="poster-overlay">
+                <h3>${mobile.title}</h3>
+                <p>${mobile.subtitle}</p>
+            </div>
+
+          </div>
+        `;
+      });
+  })
+  .catch(err => console.error("JSON Load Error:", err));
+</script>
 
 
 
@@ -419,32 +635,7 @@
 </main>
 
 
-<script>
-fetch("/assets/json/comparison.json")
-  .then(response => response.json())
-  .then(data => {
-    const container = document.getElementById("posterGrid");
 
-    // Ensure "games" array exists
-    const games = data.games || [];
-
-    games.forEach(game => {
-      container.innerHTML += `
-        <a href="${game.link}" class="poster-card" style="text-decoration:none;">
-          <span class="badge">${game.badge}</span>
-
-          <img src="${game.thumb}" alt="${game.title}">
-
-          <div class="overlay">
-            <h3>${game.title}</h3>
-            <p>${game.subtitle}</p>
-          </div>
-        </a>
-      `;
-    });
-  })
-  .catch(err => console.error("JSON Load Error:", err));
-</script>
 
 
 
@@ -533,13 +724,12 @@ fetch("/assets/json/comparison.json")
 
 
 
+
 <script>
 function toggleSidebar() {
     document.getElementById("sidebar").classList.toggle("active");
 }
 </script>
-
-
 
 <script>
 let movies = [];
@@ -677,9 +867,63 @@ window.addEventListener('DOMContentLoaded', loadData);
 </script>
 
 
+<script>
+fetch("/mobile/json/asus-rog-7-price.json")
+  .then(res => res.json())
+  .then(data => {
+    const m = data.mobile;
+
+    /* --------------------- MOBILE SUMMARY --------------------- */
+    document.getElementById("mobileSummary").innerHTML = `
+      <h2 class="ms-title">Mobile Summary</h2>
+
+      <div class="ms-thumbnails">
+        ${m.thumbs.map(t => `<img src="${t}" class="ms-thumb">`).join("")}
+      </div>
+
+      <h3 class="ms-name">${m.name}</h3>
+
+      <p class="ms-desc">${m.summary}</p>
+
+      <p class="ms-price"><strong>Price:</strong> ${m.priceRange}</p>
+    `;
 
 
+    /* --------------------- PRICE SECTION --------------------- */
+    document.getElementById("priceTitle").innerText =
+      "Global Pricing – " + m.name;
 
+    const container = document.getElementById("priceContainer");
 
+    m.countries.forEach(country => {
+      container.innerHTML += `
+        <div class="price-box">
+          <button class="price-btn" onclick="togglePrice(this)">
+            <span>${country.flag} ${country.country} – ${country.currency}</span>
+            <span style="color:#7cc7ff; font-weight:bold;">${country.displayPrice}</span>
+          </button>
+
+          <div class="price-content">
+            <h4>Variants:</h4>
+            <ul>
+              ${country.variants
+                .map(v => `<li>${v.ram} — ${v.price}</li>`)
+                .join("")}
+            </ul>
+
+            <h4>Available Colors:</h4>
+            <p>${country.colors.join(", ")}</p>
+          </div>
+        </div>
+      `;
+    });
+  });
+
+/* Accordion toggle */
+function togglePrice(btn) {
+  const box = btn.nextElementSibling;
+  box.style.display = box.style.display === "block" ? "none" : "block";
+}
+</script>
 </body>
 </html>

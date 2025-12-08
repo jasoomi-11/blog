@@ -1,0 +1,164 @@
+{
+  "shortIntro": {
+    "title": "What Your Device Needs to Run Honkai: Star Rail Smoothly",
+    "para1": "Honkai: Star Rail is a visually stunning turn-based RPG developed by HoYoverse, known for its heavy graphics, high-resolution textures, and cinematic combat animations. Because of this, the game requires strong hardware to maintain smooth performance, fast loading, and stable battles.",
+    "para2": "Low-end devices may struggle due to large download size and high GPU demand, while mid-range and flagship phones can achieve seamless gameplay with faster loading times and stable frame rates."
+  },
+
+  "intro": "Below are the official and community-tested minimum and recommended system requirements for running Honkai: Star Rail on Android and iOS devices without lag or stutters.",
+
+  "minimum": {
+    "OS Version": "Android 8.0 or later",
+    "RAM": "4GB minimum",
+    "CPU": "Snapdragon 835 / Kirin 810 / Helio G95 or equivalent",
+    "GPU": "Adreno 540 / Mali-G76 or equivalent",
+    "Storage": "At least 10–12GB free space",
+    "Internet": "Stable 4G/5G recommended for updates & cloud sync"
+  },
+
+  "recommended": {
+    "OS Version": "Android 10 or above",
+    "RAM": "6GB or more",
+    "CPU": "Snapdragon 870 / 888 / 8 Gen 1 or higher",
+    "GPU": "Adreno 640 / 660 / 730 or Mali-G610+",
+    "Storage": "16–20GB free space recommended",
+    "Internet": "Fast stable 5G/WiFi for smooth downloads & updates"
+  },
+
+  "ios_intro": "iOS devices handle Honkai: Star Rail exceptionally well because of strong optimization by HoYoverse. Below are the minimum and recommended requirements.",
+
+  "ios_minimum": [
+    { "title": "OS Version", "value": "iOS 12 or later" },
+    { "title": "Device", "value": "iPhone 8 / X or newer" },
+    { "title": "Storage", "value": "At least 10GB free" }
+  ],
+
+  "ios_recommended": [
+    { "title": "OS Version", "value": "iOS 13 or later" },
+    { "title": "Device", "value": "iPhone 11 / 12 / 13 / 14 / 15 series" },
+    { "title": "Storage", "value": "12–20GB free recommended" }
+  ],
+
+  "fps_intro": "Honkai: Star Rail uses high-quality shaders and particle effects, making FPS performance heavily dependent on your GPU and graphics preset. These are the expected frame rates across different hardware tiers.",
+
+  "fps_list": [
+    { "category": "Low-End Devices", "fps": "20–30 FPS (with low settings)" },
+    { "category": "Mid-Range Devices", "fps": "30–45 FPS stable" },
+    { "category": "High-End Devices", "fps": "50–60 FPS (Very High preset)" }
+  ],
+
+  "settings_intro": "For the best experience, here are the recommended graphics settings for low-end and high-end devices. These settings reduce lag, heating, and loading time while improving visual clarity.",
+
+  "low_end": [
+    { "title": "Graphics", "value": "Low" },
+    { "title": "FPS", "value": "30" },
+    { "title": "Shadows", "value": "Low" },
+    { "title": "Bloom", "value": "OFF" },
+    { "title": "Character Quality", "value": "Low" }
+  ],
+
+  "high_end": [
+    { "title": "Graphics", "value": "High / Very High" },
+    { "title": "FPS", "value": "60" },
+    { "title": "Shadows", "value": "High" },
+    { "title": "Anti-Aliasing", "value": "ON" },
+    { "title": "Rendering Resolution", "value": "High" }
+  ],
+
+  "sectionIntro": "These Android and iOS devices are known to deliver excellent performance in Honkai: Star Rail, based on testing and community feedback.",
+
+  "androidDevices": [
+    "Samsung Galaxy S20 / S21 / S22 / S23 / S24 Series",
+    "Samsung Galaxy A52 / A54 / A73",
+    "Redmi Note 12 / 13 Pro Series",
+    "Xiaomi 11T / 12 / 13 / 14 Series",
+    "Poco F3 / F4 / F5 / X5 Pro",
+    "Realme GT Neo 3 / Neo 5",
+    "Vivo V27 / V29 / iQOO Series",
+    "Infinix Zero Ultra / GT 20 Pro"
+  ],
+
+  "iosDevices": [
+    "iPhone X / XR / XS / XS Max",
+    "iPhone 11 / 11 Pro / 11 Pro Max",
+    "iPhone 12 / 12 Pro / 12 Pro Max",
+    "iPhone 13 / 13 Pro / 13 Pro Max",
+    "iPhone 14 / 14 Pro / 14 Pro Max",
+    "iPhone 15 / 15 Pro / 15 Pro Max",
+    "iPhone SE 2020 / 2022"
+  ],
+
+  "storageIntroText": "Honkai: Star Rail has a massive download size due to high-resolution cutscenes and character models. Below is the storage breakdown.",
+
+  "storageDetails": [
+    { "label": "Base Game Size", "value": "≈ 8–10 GB" },
+    { "label": "Voice Packs (Optional)", "value": "3–6 GB" },
+    { "label": "High-Quality Cutscenes", "value": "2–4 GB" },
+    { "label": "Total Required Space", "value": "15–20 GB recommended" }
+  ],
+
+  "faqIntroText": "Here are the most commonly asked questions about Honkai: Star Rail performance and device support.",
+
+  "faqList": [
+    {
+      "question": "Can Honkai: Star Rail run on 4GB RAM?",
+      "answer": "Yes, but you will need to use low graphics settings and expect longer loading times."
+    },
+    {
+      "question": "Is Honkai: Star Rail heavy for mobile?",
+      "answer": "Yes. It is one of the most graphically demanding mobile RPGs because of detailed environments and cinematic effects."
+    },
+    {
+      "question": "Does HSR support 60 FPS?",
+      "answer": "Yes, but stable 60 FPS is only possible on high-end Android phones and recent iPhones."
+    },
+    {
+      "question": "Why does the game take so much storage?",
+      "answer": "Because it includes high-quality cutscenes, character animations, and multi-language voice packs."
+    }
+  ],
+  
+  
+  "title": "Device Comparison Insights – Honkai: Star Rail",
+  "description": "Compare real-world Honkai: Star Rail performance across popular flagship and gaming smartphones. This comparison highlights FPS stability, thermal performance, and battery efficiency to help players choose the best device for smooth gameplay.",
+
+  "rows": [
+    {
+      "device1": "iPhone 15 Pro",
+      "device2": "Samsung Galaxy S24 Ultra",
+      "fps": "50–60 FPS",
+      "notes": "iPhone delivers more stable sustained FPS due to optimized Metal API; S24 Ultra offers slightly higher peak graphics quality but heats more during long sessions."
+    },
+
+    {
+      "device1": "Asus ROG Phone 7",
+      "device2": "RedMagic 9 Pro",
+      "fps": "55–60 FPS",
+      "notes": "Both gaming phones maintain excellent thermals with minimal throttling. RedMagic’s built-in fan keeps FPS slightly more stable in high-density combat scenes."
+    },
+
+    {
+      "device1": "OnePlus 12",
+      "device2": "Xiaomi 14",
+      "fps": "45–55 FPS",
+      "notes": "OnePlus performs better in long sessions because of improved cooling. Xiaomi 14 renders higher texture quality but drops frames during cutscenes."
+    },
+
+    {
+      "device1": "Samsung Galaxy A54",
+      "device2": "Redmi Note 13 Pro+",
+      "fps": "30–40 FPS",
+      "notes": "Galaxy A54 stays cooler and offers smoother loading; Note 13 Pro+ gives higher resolution visuals but struggles in crowded areas."
+    },
+
+    {
+      "device1": "Poco F5",
+      "device2": "Realme GT Neo 3",
+      "fps": "40–50 FPS",
+      "notes": "Poco F5’s Snapdragon 7+ Gen 2 provides more stable FPS. GT Neo 3 shows faster load times but heats up quicker in high graphics mode."
+    }
+  ]
+
+  
+  
+}

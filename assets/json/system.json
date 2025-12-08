@@ -1,32 +1,49 @@
 {
   "games": [
     {
-      "badge": "New",
-      "thumb": "https://blog.blueverse.space/assets/thumb/game1.webp",
-      "title": "Clash of Clans",
-      "subtitle": "Build your village and conquer enemies.",
-      "link": "/clash-of-clans-system-requirements.html"
+      "badge": "TOP",
+      "thumb": "/assets/thumb/pubg-mobile.webp",
+      "title": "PUBG:Mobile ",
+      "subtitle": "System Requirements,FPS,Tips Optimization",
+      "link": "/game-system/pubg-mobile.html"
     },
     {
-      "badge": "Hot",
-      "thumb": "https://blog.blueverse.space/assets/thumb/game2.webp",
-      "title": "God of War",
-      "subtitle": "Epic action-adventure for PC & consoles.",
-      "link": "/god-of-war-system-requirements.html"
+      "badge": "TOP",
+      "thumb": "/assets/thumb/call-of-duty-mobile.webp",
+      "title": "Call Of Duty: Mobile ",
+      "subtitle": "System Requirements,FPS,Tips Optimization",
+      "link": "/game-system/call-of-duty-mobile.html"
+    },
+    
+    {
+      "badge": "TOP",
+      "thumb": "/assets/thumb/free-fire-max.webp",
+      "title": "Free Fire Max",
+      "subtitle": "System Requirements,FPS,Tips Optimization",
+      "link": "/game-system/free-fire-max.html"
     },
     {
-      "badge": "Top",
-      "thumb": "https://blog.blueverse.space/assets/thumb/game3.webp",
-      "title": "PUBG Mobile",
-      "subtitle": "Battle royale shooter with intense action.",
-      "link": "/pubg-mobile-system-requirements.html"
+      "badge": "TOP",
+      "thumb": "/assets/thumb/genshine-impact.webp",
+      "title": "Genshine Impact",
+      "subtitle": "System Requirements,FPS,Tips Optimization",
+      "link": "/game-system/genshine-impact.html"
     },
+    
     {
-      "badge": "New",
-      "thumb": "https://blog.blueverse.space/assets/thumb/game4.webp",
-      "title": "Mobile Legends",
-      "subtitle": "Fast-paced MOBA action on your phone.",
-      "link": "/mobile-legends-system-requirements.html"
+      "badge": "Best",
+      "thumb": "/assets/thumb/solo-leveling-arise.webp",
+      "title": "Solo Leveling: Arise",
+      "subtitle": "System Requirements,FPS,Tips Optimization",
+      "link": "/game-system/solo-leveling-arise.html"
+    },
+     {
+      "badge": "Best",
+      "thumb": "/assets/thumb/honkai-star-rail.webp",
+      "title": "Honkai: Star Rail",
+      "subtitle": "System Requirements,FPS,Tips Optimization",
+      "link": "/game-system/honkai-star-rail.html"
     }
+    
   ]
 }

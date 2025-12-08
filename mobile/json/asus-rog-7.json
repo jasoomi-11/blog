@@ -1,0 +1,161 @@
+{
+  "gameTitle": "Asus ROG Phone 7",
+  "subtitle": "A flagship-level gaming smartphone built for extreme performance, stable FPS, advanced cooling, and competitive esports gameplay.",
+
+  "posters": [
+    "/assets/thumb/asus-rog-7.webp",
+    ""
+  ],
+
+  "performance": {
+    "cpu": "Qualcomm Snapdragon 8 Gen 2 (3.2GHz Prime Core)",
+    "gpu": "Adreno 740",
+    "ram": "12GB / 16GB LPDDR5X",
+    "storage": "256GB / 512GB UFS 4.0",
+    "cooling": "Advanced GameCool 7 Vapor Chamber Cooling System"
+  },
+
+  "benchmark": {
+    "antutu": "1,320,000+",
+    "geekbench": "Single-Core: 1950, Multi-Core: 5250"
+  },
+
+  "display": {
+    "refreshRate": "165Hz",
+    "touchRate": "720Hz Touch Sampling",
+    "resolution": "FHD+ (2448 × 1080)",
+    "panelType": "Samsung AMOLED HDR10+"
+  },
+
+  "battery": {
+    "size": "6000mAh Dual-Cell",
+    "fastCharging": "65W HyperCharge",
+    "gamingDrain": "8% – 12% per hour (smooth gameplay)"
+  },
+
+  "temperature": {
+    "heatLevel": "36°C – 42°C",
+    "fpsStability": "Very Stable (92% – 96%)"
+  },
+
+  "heavyGames": [
+    "PUBG Mobile",
+    "BGMI",
+    "Call of Duty Mobile",
+    "Genshin Impact",
+    "Fortnite",
+    "Honkai Star Rail",
+    "Asphalt 9",
+    "Farlight 84",
+    "Warzone Mobile"
+  ],
+
+  "playability": {
+    "PUBG Mobile": "Ultra HD + 90FPS Support",
+    "Call of Duty Mobile": "Very High Graphics + Max FPS",
+    "Genshin Impact": "60FPS Stable on High Settings",
+    "Fortnite": "Epic Quality + 60FPS",
+    "Honkai Star Rail": "Max Settings Smooth"
+  },
+
+  "fpsBenchmarks": [
+    {
+      "game": "PUBG Mobile",
+      "settings": "Ultra HD",
+      "fps": "70–90 FPS Stable"
+    },
+    {
+      "game": "COD Mobile",
+      "settings": "Max",
+      "fps": "120 FPS Stable"
+    },
+    {
+      "game": "Genshin Impact",
+      "settings": "High",
+      "fps": "52–60 FPS"
+    },
+    {
+      "game": "Fortnite",
+      "settings": "Epic",
+      "fps": "60 FPS Stable"
+    }
+  ],
+
+  "thermalTests": [
+    {
+      "game": "PUBG Mobile",
+      "heat15": "Cool (thanks to vapor chamber)",
+      "heat30": "Warm but stable",
+      "fpsDrop": "1–2 FPS Only"
+    },
+    {
+      "game": "COD Mobile",
+      "heat15": "Normal",
+      "heat30": "Slight Warm",
+      "fpsDrop": "0–1 FPS"
+    },
+    {
+      "game": "Genshin Impact",
+      "heat15": "Warm",
+      "heat30": "Hot",
+      "fpsDrop": "3–4 FPS"
+    },
+    {
+      "game": "Fortnite",
+      "heat15": "Normal",
+      "heat30": "Warm",
+      "fpsDrop": "0 FPS"
+    }
+  ],
+
+  "batteryTests": [
+    {
+      "game": "PUBG Mobile",
+      "drop": "12%"
+    },
+    {
+      "game": "COD Mobile",
+      "drop": "10%"
+    },
+    {
+      "game": "Genshin Impact",
+      "drop": "16%"
+    }
+  ],
+
+  "gamingFeatures": [
+    "AirTrigger 6 Ultrasonic Shoulder Buttons",
+    "X Mode Gaming Performance Engine",
+    "Dedicated Gaming Dashboard",
+    "Game Genie Real-Time Controls",
+    "4D Vibration",
+    "Dirac Tuned Stereo Speakers",
+    "AeroActive Cooler 7 Support",
+    "RGB ROG Logo Backlight"
+  ],
+
+  "customTable": {
+    "title": "Custom Table Section",
+    "columns": ["Category", "Details", "Performance Impact"],
+    "rows": [
+      ["Cooling System", "GameCool 7 Vapor Chamber", "Excellent Heat Control"],
+      ["Gaming Triggers", "AirTrigger 6", "Pro-Level Aim & Shoot"],
+      ["Charging", "65W HyperCharge", "Fast Refuel During Matches"],
+      ["Speaker Quality", "Dual Front Speakers", "Immersive Sound"],
+      ["Build Quality", "Gorilla Glass Victus", "Premium Durable"],
+      ["Software", "ROG UI (Android 14)", "Gaming Optimized"]
+    ]
+  },
+
+  "dynamicList": {
+    "title": "Key Features",
+    "items": [
+      "165Hz AMOLED Display",
+      "LPDDR5X RAM",
+      "UFS 4.0 Storage",
+      "AeroActive Cooler Support",
+      "Advanced Thermal Control",
+      "Esports-Grade FPS Stability"
+    ]
+  }
+}

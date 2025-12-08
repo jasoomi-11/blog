@@ -1,0 +1,179 @@
+{
+  "gameComparison": {
+    "games": [
+      {
+        "name": "Genshin Impact",
+        "thumbnail": "/assets/thumb/genshine-impact.webp",
+        "genre": "Open-World Action RPG",
+        "developer": "HoYoverse",
+        "release": "2020",
+        "gameplay": "Open-world exploration with elemental combat"
+      },
+      {
+        "name": "Honkai: Star Rail",
+        "thumbnail": "/assets/thumb/honkai-star-rail.webp",
+        "genre": "Turn-Based Strategy RPG",
+        "developer": "HoYoverse",
+        "release": "2023",
+        "gameplay": "Turn-based combat with cinematic story progression"
+      }
+    ]
+  },
+
+  "systemRequirements": {
+    "games": [
+      {
+        "name": "Genshin Impact",
+        "platform": "Android / iOS / PC / PlayStation",
+        "storage": "25–30 GB",
+        "ram": "4–8 GB",
+        "cpuGpu": "Snapdragon 845 / Kirin 980 / A12 Bionic",
+        "fps": "30–60 FPS (Device Dependent)",
+        "graphics": "Low – Highest",
+        "online": "Online Only",
+        "battery": "Very High"
+      },
+      {
+        "name": "Honkai: Star Rail",
+        "platform": "Android / iOS / PC / PlayStation",
+        "storage": "20–25 GB",
+        "ram": "4–8 GB",
+        "cpuGpu": "Snapdragon 855 / Dimensity 1000 / A12 Fusion",
+        "fps": "30–60 FPS",
+        "graphics": "Low – High",
+        "online": "Online Only",
+        "battery": "High"
+      }
+    ]
+  },
+
+  "keyFeatures": {
+    "games": [
+      {
+        "name": "Genshin Impact",
+        "modes": "Single Player (Online)",
+        "playerLimits": "Solo Play",
+        "graphicsStyle": "Anime Open-World",
+        "customization": "Characters, Weapons, Artifacts",
+        "events": "Monthly & Seasonal",
+        "mechanics": "Elemental Combos, Exploration, Climbing, Gliding"
+      },
+      {
+        "name": "Honkai: Star Rail",
+        "modes": "Single Player (Online)",
+        "playerLimits": "Solo Play",
+        "graphicsStyle": "Anime Cinematic Turn-Based",
+        "customization": "Characters, Light Cones, Relics",
+        "events": "Weekly & Seasonal",
+        "mechanics": "Turn-based strategy, Ultimate Abilities, Weakness Break"
+      }
+    ]
+  },
+
+  "prosCons": {
+    "games": [
+      {
+        "name": "Genshin Impact",
+        "pros": [
+          "Massive open-world exploration",
+          "Beautiful anime graphics",
+          "Elemental combo-based combat",
+          "Frequent events & updates",
+          "High-quality story and voice acting"
+        ],
+        "cons": [
+          "High storage usage",
+          "Demands powerful devices for max settings",
+          "Resin system limits daily progression"
+        ]
+      },
+      {
+        "name": "Honkai: Star Rail",
+        "pros": [
+          "Highly polished turn-based combat",
+          "Cinematic story experience",
+          "Optimized for most devices",
+          "Regular content updates",
+          "Less performance demanding than Genshin"
+        ],
+        "cons": [
+          "No open-world exploration",
+          "Heavy reliance on gacha system",
+          "Large update sizes"
+        ]
+      }
+    ]
+  },
+
+  "popularityCommunity": {
+    "games": [
+      {
+        "name": "Genshin Impact",
+        "activePlayers": "Over 70M+ Monthly Active Players",
+        "socialMedia": "55M Followers",
+        "tournaments": "Community & Challenge Events",
+        "engagement": "YouTube, Discord, Fan Art, Cosplay"
+      },
+      {
+        "name": "Honkai: Star Rail",
+        "activePlayers": "40M+ Downloads",
+        "socialMedia": "25M Followers",
+        "tournaments": "Challenge & Seasonal Events",
+        "engagement": "Discord Community, Strategy Videos"
+      }
+    ]
+  },
+
+  "pricingIAP": {
+    "games": [
+      {
+        "name": "Genshin Impact",
+        "price": "Free",
+        "premiumFeatures": "Primogems, Battle Pass, Character Banners",
+        "currency": "Primogems / Genesis Crystals",
+        "specialOffers": "Limited-Time Character Banners"
+      },
+      {
+        "name": "Honkai: Star Rail",
+        "price": "Free",
+        "premiumFeatures": "Star Rail Passes, Event Warps",
+        "currency": "Stellar Jade / Oneiric Shards",
+        "specialOffers": "Limited Light Cones & Characters"
+      }
+    ]
+  },
+
+  "deviceCompatibility": {
+    "games": [
+      {
+        "name": "Genshin Impact",
+        "devices": "Android, iOS, PC, PS4, PS5",
+        "osVersion": "Android 8.0+ / iOS 11+",
+        "crossPlatform": "Mobile + PlayStation",
+        "pcConsole": "Official PC Launcher + PS"
+      },
+      {
+        "name": "Honkai: Star Rail",
+        "devices": "Android, iOS, PC, PS5",
+        "osVersion": "Android 8.0+ / iOS 12+",
+        "crossPlatform": "Mobile + PC + PS",
+        "pcConsole": "Official PC Launcher + PS5"
+      }
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Which game is better for low-end devices?",
+      "answer": "Honkai: Star Rail is better optimized and runs smoother on mid-range phones."
+    },
+    {
+      "question": "Which game offers more exploration?",
+      "answer": "Genshin Impact has a full open-world with exploration, puzzles, and traversal."
+    },
+    {
+      "question": "Which game has better combat?",
+      "answer": "It depends—Genshin offers real-time elemental combat, while HSR focuses on deep turn-based strategy."
+    }
+  ]
+}

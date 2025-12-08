@@ -387,7 +387,7 @@
         font-weight: 700;
         margin-bottom: 14px;
     ">
-        Mobile Game System Requirements & Supported Devices
+        Compare Top Mobile Games & Features
     </h1>
 
     <p style="
@@ -398,9 +398,9 @@
         line-height: 1.6;
         opacity: 0.9;
     ">
-        Find complete and verified system requirements for every major mobile game including
-        PUBG Mobile, Free Fire, COD Mobile, Genshin Impact, BGMI, and Fortnite.  
-        Check which devices support each game, recommended specs, and real-world performance benchmarks.
+        Compare popular mobile games like PUBG Mobile, Free Fire, COD Mobile, Genshin Impact, BGMI, and Fortnite.
+        See detailed comparisons of gameplay, graphics, modes, system requirements, supported devices, and special features
+        to choose the best game for your device and playstyle.
     </p>
 
 </section>
@@ -420,13 +420,16 @@
 
 
 <script>
-fetch("/assets/json/System.json")
+fetch("/assets/json/system.json")
   .then(response => response.json())
   .then(data => {
     const container = document.getElementById("posterGrid");
 
-    // Ensure "games" array exists
-    const games = data.games || [];
+    // Check if data.games exists and is an array
+    const games = Array.isArray(data.games) ? data.games : [];
+
+    // Clear previous items (optional)
+    container.innerHTML = "";
 
     games.forEach(game => {
       container.innerHTML += `
@@ -538,6 +541,7 @@ function toggleSidebar() {
     document.getElementById("sidebar").classList.toggle("active");
 }
 </script>
+
 
 
 <script>
@@ -674,6 +678,8 @@ document.addEventListener('click', (e) => {
 // Load data on page load
 window.addEventListener('DOMContentLoaded', loadData);
 </script>
+
+
 
 
 

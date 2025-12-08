@@ -1,18 +1,11 @@
 [
   {
-    "title": "PUBG Mobile",
-    "subtitle": "Complete Guide",
-    "thumb": "/assets/y.webp",
+    "title": "Asus ROG 7",
+    "subtitle": "See Before Buy",
+    "thumb": "/assets/thumb/asus-rog-7.webp",
     "badge": "Popular",
     "badgeColor": "royalblue",
-    "link": "game/pubg-mobile.html"
-  },
-  {
-    "title": "Free Fire",
-    "subtitle": "Overview",
-    "thumb": "assets/thumb/free-fire-poster.webp",
-    "badge": "New",
-    "badgeColor": "orangered",
-    "link": "game/free-fire.html"
+    "link": "/mobile/asus-rog-7.html"
   }
+
 ]
