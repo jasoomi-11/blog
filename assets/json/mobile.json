@@ -6,6 +6,15 @@
     "badge": "Popular",
     "badgeColor": "royalblue",
     "link": "/mobile/asus-rog-7.html"
+  },
+  
+  {
+    "title": "Infinix Note 30 Pro",
+    "subtitle": "Gaming Phone To buy",
+    "thumb": "/assets/thumb/infinix-note-30-pro.webp",
+    "badge": "Mid Range",
+    "badgeColor": "red",
+    "link": "/mobile/infinix-note-30-pro.html"
   }
 
 ]

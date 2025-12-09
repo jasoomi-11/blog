@@ -1,0 +1,144 @@
+{
+  "shortIntro": {
+    "title": "What Your Device Needs for Smooth Clash of Clans Gameplay",
+    "para1": "Clash of Clans is one of the most optimized strategy games on mobile. It runs smoothly on most modern Android and iOS devices, but players still need a stable device to avoid slow loading, lag during attacks, and animation delays.",
+    "para2": "Even though COC is not a heavy FPS title, having a slightly better chipset, faster storage, and updated OS helps in keeping gameplay responsive during Clan War attacks, Legends League pushes, and high-troop-count battles."
+  },
+
+  "intro": "Below are the updated minimum and recommended specifications required to run Clash of Clans smoothly on Android and iOS devices. These details are based on official requirements and community-tested benchmarks.",
+
+  "minimum": {
+    "OS Version": "Android 5.0 or higher",
+    "RAM": "1GB minimum",
+    "CPU": "Any Quad-Core processor (1.3GHz or above)",
+    "GPU": "Basic GPU support (Adreno 306 / Mali-400 or equivalent)",
+    "Storage": "At least 500MB free space",
+    "Internet": "Stable 2–5 Mbps connection to avoid attack disconnections"
+  },
+
+  "recommended": {
+    "OS Version": "Android 8.0 or higher",
+    "RAM": "2–3GB or more",
+    "CPU": "Snapdragon 450 / 625 / 662 / 720G or newer",
+    "GPU": "Adreno 506 / 610 or better",
+    "Storage": "800MB–1GB free space recommended",
+    "Internet": "Low-ping 4G/5G or Wi-Fi for stable Multiplayer & Clan War attacks"
+  },
+
+  "ios_intro": "iOS devices are generally more optimized for COC. Here are the minimum and recommended requirements for smooth performance.",
+
+  "ios_minimum": [
+    { "title": "OS Version", "value": "iOS 11 or later" },
+    { "title": "Device", "value": "iPhone 6s / SE (1st Gen) or newer" },
+    { "title": "Storage", "value": "Minimum 500MB free" }
+  ],
+
+  "ios_recommended": [
+    { "title": "OS Version", "value": "iOS 13 or later" },
+    { "title": "Device", "value": "iPhone 7 / 8 / X / newer" },
+    { "title": "Storage", "value": "800MB–1GB free recommended" }
+  ],
+
+  "fps_intro": "Clash of Clans does not rely on high FPS, but smoother animations and faster UI responses occur on devices with better CPUs and higher refresh rate screens.",
+
+  "fps_list": [
+    { "category": "Low-End Devices", "fps": "30 FPS stable animations" },
+    { "category": "Mid-Range Devices", "fps": "45–60 FPS smoother transitions" },
+    { "category": "High-End Devices", "fps": "60–90 FPS ultra-smooth UI on 90–120Hz screens" }
+  ],
+
+  "settings_intro": "To ensure smooth village navigating and lag-free war attacks, below are the ideal device settings for low-end and high-end devices.",
+
+  "low_end": [
+    { "title": "Battery Saver Mode", "value": "OFF (reduces lag)" },
+    { "title": "Background Apps", "value": "Close all for smoother performance" },
+    { "title": "Graphics", "value": "Default (unchangeable but optimized)" },
+    { "title": "Notifications", "value": "Disable unnecessary apps to avoid lag during attacks" }
+  ],
+
+  "high_end": [
+    { "title": "Refresh Rate", "value": "Enable 90Hz/120Hz if available" },
+    { "title": "Game Booster", "value": "Enable for enhanced stability" },
+    { "title": "Thermal Control", "value": "Keep device cool for long war sessions" },
+    { "title": "RAM Optimization", "value": "Keep at least 1GB free" }
+  ],
+
+  "sectionIntro": "Below are Android and iOS devices known for delivering the best, lag-free Clash of Clans experience.",
+
+  "androidDevices": [
+    "Samsung Galaxy A52 / A53 / A73",
+    "Samsung Galaxy S10 to S24 Series",
+    "Redmi Note 10 / 11 / 12 / 13 Series",
+    "Poco X3 / X4 / X5 / F3 / F4 / F5",
+    "Realme 7 / 8 / 9 / 10 Pro Series",
+    "Vivo V21 / V23 Series",
+    "Infinix Note / Zero Series"
+  ],
+
+  "iosDevices": [
+    "iPhone 7 / 7 Plus",
+    "iPhone 8 / 8 Plus",
+    "iPhone X / XR / XS / XS Max",
+    "iPhone 11 Series",
+    "iPhone 12 Series",
+    "iPhone 13 Series",
+    "iPhone 14 Series",
+    "iPhone SE 2020 / 2022"
+  ],
+
+  "storageIntroText": "Below is a complete breakdown of Clash of Clans’ storage requirements, including data files, updates, and additional downloadable content.",
+
+  "storageDetails": [
+    { "label": "Base Game Size", "value": "≈ 300–400 MB" },
+    { "label": "Additional Data", "value": "100–200 MB (varies per update)" },
+    { "label": "Seasonal Assets", "value": "50–150 MB (Clan Games, Events)" },
+    { "label": "Total Required Space", "value": "600MB–1GB recommended" }
+  ],
+
+  "faqIntroText": "Here are the most frequently asked questions related to Clash of Clans performance, device support, and stability.",
+
+  "faqList": [
+    {
+      "question": "Can COC run smoothly on low-end devices?",
+      "answer": "Yes, COC is optimized for older phones, but loading and troop animations may feel slower."
+    },
+    {
+      "question": "Does Clash of Clans support high FPS or 120Hz screens?",
+      "answer": "The game runs at a capped internal FPS, but high refresh rate displays improve UI smoothness."
+    },
+    {
+      "question": "Is fast internet required?",
+      "answer": "A stable low-latency connection is more important than high speed. Even 3–5 Mbps is enough."
+    }
+  ],
+  
+  
+  
+  
+  "title": "Device Comparison Insights",
+  "description": "Compare the smoothness, loading speed, animation performance, and multitasking efficiency of top devices for Clash of Clans.",
+  "rows": [
+    {
+      "device1": "Poco F5",
+      "device2": "Realme GT Neo 3",
+      "performance": "Both run extremely smooth with fast village loading.",
+      "notes": "Poco F5 offers faster menu navigation thanks to Snapdragon 7+ Gen 2, while GT Neo 3 delivers slightly better thermals during long Clan War sessions."
+    },
+    {
+      "device1": "Samsung Galaxy A52",
+      "device2": "Redmi Note 12 Pro",
+      "performance": "Smooth gameplay with stable animations and quick troop deployment.",
+      "notes": "A52 is more stable on long playing hours, while Note 12 Pro loads bases faster due to newer chipset and better storage speed."
+    },
+    {
+      "device1": "iPhone 12",
+      "device2": "iPhone XR",
+      "performance": "Both offer excellent smoothness with instant base loading.",
+      "notes": "iPhone 12’s A14 chip handles high-troop-count battles more fluidly, while XR still performs reliably but with slightly slower UI transitions."
+    }
+  ]
+
+  
+  
+  
+}

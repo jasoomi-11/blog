@@ -1,0 +1,135 @@
+{
+  "shortIntro": {
+    "title": "What Your Device Needs for Smooth Clash Royale Gameplay",
+    "para1": "Clash Royale is a real-time strategy and card-based battle game that requires consistent performance, stable touch response, and low input delay. Since battles are fast-paced, even minor lag or slow animations can affect your match outcome.",
+    "para2": "Although Clash Royale is not a graphics-heavy title, better processors, higher refresh rate screens, and faster storage help deliver smoother troop deployment, quicker elixir management, and more responsive controls."
+  },
+
+  "intro": "Below are the updated minimum and recommended specifications required to run Clash Royale smoothly on Android and iOS devices. These values are based on official requirements, competitive player feedback, and real device testing.",
+
+  "minimum": {
+    "OS Version": "Android 5.1 or higher",
+    "RAM": "1GB minimum",
+    "CPU": "Quad-Core processor (1.2–1.5GHz)",
+    "GPU": "Adreno 306 / Mali-T720 or equivalent",
+    "Storage": "300–500MB free space",
+    "Internet": "Stable connection with <80ms ping"
+  },
+
+  "recommended": {
+    "OS Version": "Android 8.0 or higher",
+    "RAM": "2–3GB or more",
+    "CPU": "Snapdragon 625 / 660 / 720G / 860 or newer",
+    "GPU": "Adreno 510 / 610 / 640 or better",
+    "Storage": "600MB–1GB free space recommended",
+    "Internet": "Low-ping 4G/5G or Wi-Fi for competitive ladder matches"
+  },
+
+  "ios_intro": "iOS devices maintain strong performance in Clash Royale due to better optimization and quicker touch response.",
+
+  "ios_minimum": [
+    { "title": "OS Version", "value": "iOS 11 or later" },
+    { "title": "Device", "value": "iPhone 6s or newer" },
+    { "title": "Storage", "value": "300–500MB minimum" }
+  ],
+
+  "ios_recommended": [
+    { "title": "OS Version", "value": "iOS 13 or later" },
+    { "title": "Device", "value": "iPhone 7 / 8 / X / 11 or newer" },
+    { "title": "Storage", "value": "700MB–1GB free recommended" }
+  ],
+
+  "fps_intro": "Clash Royale is fast-paced, and smooth animations help players react faster. While the game is capped internally, high refresh rate screens still improve overall responsiveness.",
+
+  "fps_list": [
+    { "category": "Low-End Devices", "fps": "30–40 FPS stable animations" },
+    { "category": "Mid-Range Devices", "fps": "50–60 FPS smoother gameplay" },
+    { "category": "High-End Devices", "fps": "60–120 FPS-like feel on 90–144Hz displays" }
+  ],
+
+  "settings_intro": "For stable gameplay and quick troop placement, the following settings are ideal for low-end and high-end devices.",
+
+  "low_end": [
+    { "title": "Battery Saver Mode", "value": "Turn OFF to avoid animation slowdowns" },
+    { "title": "Background Apps", "value": "Close all to reduce touch delay" },
+    { "title": "Graphics", "value": "Default (game auto-optimizes)" },
+    { "title": "Touch Sensitivity", "value": "Increase slightly for faster card drops" }
+  ],
+
+  "high_end": [
+    { "title": "Refresh Rate", "value": "Enable 90Hz/120Hz for smoother inputs" },
+    { "title": "Game Booster", "value": "Turn ON for better frame timing" },
+    { "title": "Thermal Control", "value": "Avoid overheating during long ladder sessions" },
+    { "title": "RAM Optimization", "value": "Keep 1GB+ available for best response" }
+  ],
+
+  "sectionIntro": "Below are well-known Android and iOS devices that deliver reliable, lag-free performance in Clash Royale.",
+
+  "androidDevices": [
+    "Samsung Galaxy A52 / A54 / A73",
+    "Samsung Galaxy S10–S24 Series",
+    "Xiaomi Redmi Note 11 / 12 / 13 Series",
+    "Poco X3 / X4 / X6 / F3 / F5",
+    "Realme 8 / 9 / 10 Pro Series",
+    "Vivo V21 / V25 Series",
+    "Infinix Zero / GT Series"
+  ],
+
+  "iosDevices": [
+    "iPhone 7 / 7 Plus",
+    "iPhone 8 / 8 Plus",
+    "iPhone X / XR / XS",
+    "iPhone 11 / 12 / 13 Series",
+    "iPhone 14 Series",
+    "iPhone SE 2020 / 2022"
+  ],
+
+  "storageIntroText": "Here is a detailed breakdown of Clash Royale’s storage usage, including updates and in-game downloadable content.",
+
+  "storageDetails": [
+    { "label": "Base Game Size", "value": "≈ 250–350 MB" },
+    { "label": "Additional Data", "value": "100–180 MB depending on season updates" },
+    { "label": "Visual Assets", "value": "50–120 MB (arenas, emotes, banners)" },
+    { "label": "Total Required Space", "value": "500MB–800MB recommended" }
+  ],
+
+  "faqIntroText": "These are the most commonly asked questions about Clash Royale’s performance and device optimization.",
+
+  "faqList": [
+    {
+      "question": "Does Clash Royale need a powerful device?",
+      "answer": "No, but a faster chipset improves troop deployment speed and reduces input delay."
+    },
+    {
+      "question": "Does the game support 90Hz or 120Hz displays?",
+      "answer": "The game itself is capped, but high refresh rate screens make touch animations smoother."
+    },
+    {
+      "question": "Why is internet stability important?",
+      "answer": "Clash Royale is real-time, so unstable ping can cause card drop delays and lag spikes."
+    }
+  ],
+
+  "title": "Device Comparison Insights",
+  "description": "Compare real-time responsiveness, animation fluidity, touch accuracy, and latency performance of top devices for Clash Royale.",
+  "rows": [
+    {
+      "device1": "Poco F5",
+      "device2": "Realme GT Neo 3",
+      "performance": "Both deliver smooth animations and fast card deployment.",
+      "notes": "Poco F5 feels slightly more responsive due to its powerful Snapdragon 7+ Gen 2, while GT Neo 3 stays cooler during long ladder sessions."
+    },
+    {
+      "device1": "Samsung Galaxy A52",
+      "device2": "Redmi Note 12 Pro",
+      "performance": "Both handle matches smoothly with minimal input delay.",
+      "notes": "A52 offers more consistent frame pacing, while Note 12 Pro opens matches and menus faster thanks to its better CPU/GPU balance."
+    },
+    {
+      "device1": "iPhone 12",
+      "device2": "iPhone XR",
+      "performance": "Both run Clash Royale flawlessly with quick card response.",
+      "notes": "iPhone 12 provides faster animations thanks to A14 Bionic, while XR performs well but shows slightly slower transitions in busy arenas."
+    }
+  ]
+}

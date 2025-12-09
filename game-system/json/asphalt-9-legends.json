@@ -1,0 +1,134 @@
+{
+  "shortIntro": {
+    "title": "What Your Device Needs for Smooth Asphalt 9: Legends Gameplay",
+    "para1": "Asphalt 9: Legends is a high-speed arcade racing game with premium graphics, realistic reflections, and heavy particle effects. Because of its detailed environments and high-intensity races, the game demands strong GPU performance and fast storage to maintain stable gameplay.",
+    "para2": "Smooth racing, quick nitro activation, and fast drift animations depend heavily on your device’s graphics processor, refresh rate, and cooling system. Stronger hardware results in better visual clarity, faster loading, and reduced lag during races."
+  },
+
+  "intro": "Below are the updated minimum and recommended specifications required to run Asphalt 9: Legends smoothly on Android and iOS devices. These values are based on real testing, racing mode benchmarks, and feedback from high-ranked players.",
+
+  "minimum": {
+    "OS Version": "Android 6.0 or higher",
+    "RAM": "2GB minimum",
+    "CPU": "Octa-Core processor (1.6–2.0GHz)",
+    "GPU": "Adreno 506 / Mali-G51 or equivalent",
+    "Storage": "2.5–3GB free space",
+    "Internet": "Stable internet for multiplayer & downloads"
+  },
+
+  "recommended": {
+    "OS Version": "Android 10 or higher",
+    "RAM": "4GB–6GB or more",
+    "CPU": "Snapdragon 720G / 732G / 860 / 870 / 7+ Gen 2 or newer",
+    "GPU": "Adreno 618 / 640 / 730 or better",
+    "Storage": "4GB+ free space recommended",
+    "Internet": "Strong Wi-Fi or 5G for multiplayer races"
+  },
+
+  "ios_intro": "Asphalt 9 runs extremely well on iOS devices due to Apple’s strong GPU optimization and fast NVMe storage, giving smoother race transitions and quicker nitro effects.",
+
+  "ios_minimum": [
+    { "title": "OS Version", "value": "iOS 11 or later" },
+    { "title": "Device", "value": "iPhone 7 or newer" },
+    { "title": "Storage", "value": "2.5–3GB minimum required" }
+  ],
+
+  "ios_recommended": [
+    { "title": "OS Version", "value": "iOS 13 or later" },
+    { "title": "Device", "value": "iPhone X, XR, 11 Series or newer" },
+    { "title": "Storage", "value": "4GB+ free space recommended" }
+  ],
+
+  "fps_intro": "Asphalt 9 is visually heavy and performance depends on graphics tier. Higher-end devices offer faster rendering and smoother motion during races, especially in multiplayer.",
+
+  "fps_list": [
+    { "category": "Low-End Devices", "fps": "24–30 FPS (Low graphics)" },
+    { "category": "Mid-Range Devices", "fps": "40–50 FPS (Medium/High graphics)" },
+    { "category": "High-End Devices", "fps": "60 FPS (High graphics + smooth nitro effects)" }
+  ],
+
+  "settings_intro": "Optimal settings help improve visual clarity while keeping the FPS stable, especially during drifting, takedown animations, and nitro boosts.",
+
+  "low_end": [
+    { "title": "Graphics Quality", "value": "Low or Default for stable FPS" },
+    { "title": "Frame Rate", "value": "Standard mode only (no high FPS)" },
+    { "title": "Effects", "value": "Reduce motion blur for smoother play" },
+    { "title": "Background Apps", "value": "Close all to reduce stuttering mid-race" }
+  ],
+
+  "high_end": [
+    { "title": "Graphics Quality", "value": "High or Ultra (if supported)" },
+    { "title": "Frame Rate", "value": "Enable High FPS mode (60 FPS)" },
+    { "title": "Thermal Control", "value": "Avoid overheating to prevent throttling" },
+    { "title": "Storage Speed", "value": "Keep at least 1GB free for fast map loading" }
+  ],
+
+  "sectionIntro": "These Android and iOS devices offer the best performance in Asphalt 9: Legends with smooth animations and near-zero lag.",
+
+  "androidDevices": [
+    "Samsung Galaxy A52 / A54 / A73",
+    "Samsung Galaxy S20–S24 Series",
+    "Xiaomi Redmi Note 11 / 12 / 13 Pro Series",
+    "Poco X3 / X4 / X6 / F5 / F6",
+    "Realme GT / GT Neo 2 / GT Neo 3",
+    "Google Pixel 6 / 7 / 8 Series",
+    "Infinix GT 20 Pro / Zero Series"
+  ],
+
+  "iosDevices": [
+    "iPhone X / XR / XS",
+    "iPhone 11 / 12 / 13 / 14 Series",
+    "iPhone SE 2020 / 2022",
+    "iPad Mini 5 / Mini 6",
+    "iPad Air (3rd Gen or newer)"
+  ],
+
+  "storageIntroText": "Asphalt 9 is a large game due to high-resolution tracks, car models, and seasonal updates. Here’s a complete storage breakdown:",
+
+  "storageDetails": [
+    { "label": "Base Game Size", "value": "≈ 1.5–2GB" },
+    { "label": "HD Texture Pack", "value": "500MB–1GB (depending on quality)" },
+    { "label": "Seasonal Updates", "value": "300–700MB each season" },
+    { "label": "Total Required Space", "value": "3–4GB recommended" }
+  ],
+
+  "faqIntroText": "These are the most commonly asked questions about Asphalt 9 device performance, graphics settings, and lag issues.",
+
+  "faqList": [
+    {
+      "question": "Is Asphalt 9 a heavy game?",
+      "answer": "Yes. Its graphics, reflections, and car textures require strong GPU performance and fast storage."
+    },
+    {
+      "question": "Does Asphalt 9 support 60 FPS?",
+      "answer": "Yes, but only on mid-range and high-end devices that meet GPU requirements."
+    },
+    {
+      "question": "Why does my device heat up during Asphalt 9?",
+      "answer": "The game uses heavy rendering during nitro, drift, and multiplayer races, which increases heat on low-end chipsets."
+    }
+  ],
+
+  "title": "Device Comparison Insights",
+  "description": "Compare real racing performance, graphics handling, input smoothness, and GPU stability for top devices running Asphalt 9: Legends.",
+  "rows": [
+    {
+      "device1": "Poco F5",
+      "device2": "Realme GT Neo 3",
+      "performance": "Both deliver strong racing performance with stable GPU rendering.",
+      "notes": "Poco F5 handles Ultra graphics better, while GT Neo 3 maintains cooler temperatures in longer races."
+    },
+    {
+      "device1": "Samsung Galaxy A52",
+      "device2": "Redmi Note 12 Pro",
+      "performance": "Both run Asphalt 9 smoothly on Medium settings.",
+      "notes": "A52 offers more consistent frame pacing, while Note 12 Pro loads race tracks slightly faster."
+    },
+    {
+      "device1": "iPhone 12",
+      "device2": "iPhone XR",
+      "performance": "Both perform well with fast nitro effects and smooth drifting.",
+      "notes": "iPhone 12 supports higher-quality graphics with better lighting, while XR performs solidly but may show small dips in busy maps."
+    }
+  ]
+}

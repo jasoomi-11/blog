@@ -1,0 +1,123 @@
+{
+  "mobile": {
+    "name": "Infinix Note 30 Pro",
+    "thumbs": [
+      "/assets/thumb/infinix-note-30-pro.webp",
+      ""
+    ],
+    "summary": "Infinix Note 30 Pro — a budget performance smartphone featuring Helio G99, 120Hz AMOLED display, 68W fast charging, and solid gaming for mid-range users.",
+    "priceRange": "Budget to Mid-Range",
+
+    "countries": [
+      {
+        "flag": "🇺🇸",
+        "country": "United States",
+        "currency": "USD",
+        "displayPrice": "$199 – $249 (Import Only)",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "$199" }
+        ],
+        "colors": ["Magic Black", "Variable Gold"]
+      },
+
+      {
+        "flag": "🇮🇳",
+        "country": "India",
+        "currency": "INR",
+        "displayPrice": "₹13,999 – ₹15,999",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "₹13,999" }
+        ],
+        "colors": ["Magic Black", "Variable Gold"]
+      },
+
+      {
+        "flag": "🇵🇰",
+        "country": "Pakistan",
+        "currency": "PKR",
+        "displayPrice": "Rs 54,999 – Rs 59,999",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "Rs 54,999" }
+        ],
+        "colors": ["Magic Black", "Variable Gold"]
+      },
+
+      {
+        "flag": "🇬🇧",
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "displayPrice": "£160 – £190",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "£160" }
+        ],
+        "colors": ["Magic Black", "Variable Gold"]
+      },
+
+      {
+        "flag": "🇨🇦",
+        "country": "Canada",
+        "currency": "CAD",
+        "displayPrice": "CA$260 – CA$290",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "CA$260" }
+        ],
+        "colors": ["Magic Black", "Variable Gold"]
+      },
+
+      {
+        "flag": "🇦🇺",
+        "country": "Australia",
+        "currency": "AUD",
+        "displayPrice": "A$310 – A$350",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "A$310" }
+        ],
+        "colors": ["Magic Black", "Variable Gold"]
+      },
+
+      {
+        "flag": "🇦🇪",
+        "country": "United Arab Emirates",
+        "currency": "AED",
+        "displayPrice": "AED 600 – AED 699",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "AED 630" }
+        ],
+        "colors": ["Magic Black", "Variable Gold"]
+      },
+
+      {
+        "flag": "🇧🇩",
+        "country": "Bangladesh",
+        "currency": "BDT",
+        "displayPrice": "৳ 22,000 – ৳ 24,000",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "৳ 22,000" }
+        ],
+        "colors": ["Magic Black", "Variable Gold"]
+      },
+
+      {
+        "flag": "🇵🇭",
+        "country": "Philippines",
+        "currency": "PHP",
+        "displayPrice": "₱ 8,999 – ₱ 10,500",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "₱ 9,500" }
+        ],
+        "colors": ["Magic Black", "Variable Gold"]
+      },
+
+      {
+        "flag": "🇪🇺",
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "displayPrice": "€170 – €190",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "€170" }
+        ],
+        "colors": ["Magic Black", "Variable Gold"]
+      }
+    ]
+  }
+}

@@ -3,47 +3,78 @@
     {
       "badge": "TOP",
       "thumb": "/assets/thumb/pubg-mobile.webp",
-      "title": "PUBG:Mobile ",
-      "subtitle": "System Requirements,FPS,Tips Optimization",
+      "title": "PUBG: Mobile",
+      "subtitle": "System Requirements, FPS Benchmarks, Graphics & Optimization",
       "link": "/game-system/pubg-mobile.html"
     },
     {
       "badge": "TOP",
       "thumb": "/assets/thumb/call-of-duty-mobile.webp",
-      "title": "Call Of Duty: Mobile ",
-      "subtitle": "System Requirements,FPS,Tips Optimization",
+      "title": "Call of Duty: Mobile",
+      "subtitle": "System Requirements, FPS Test, Performance Settings",
       "link": "/game-system/call-of-duty-mobile.html"
     },
-    
     {
-      "badge": "TOP",
+      "badge": "TRENDING",
       "thumb": "/assets/thumb/free-fire-max.webp",
       "title": "Free Fire Max",
-      "subtitle": "System Requirements,FPS,Tips Optimization",
+      "subtitle": "Device Requirements, Smooth Gameplay Settings, Lag Fix",
       "link": "/game-system/free-fire-max.html"
     },
     {
-      "badge": "TOP",
+      "badge": "HEAVY",
       "thumb": "/assets/thumb/genshine-impact.webp",
-      "title": "Genshine Impact",
-      "subtitle": "System Requirements,FPS,Tips Optimization",
+      "title": "Genshin Impact",
+      "subtitle": "High-End Requirements, FPS Boost, Device Compatibility",
       "link": "/game-system/genshine-impact.html"
+    },
+    {
+      "badge": "BEST",
+      "thumb": "/assets/thumb/solo-leveling-arise.webp",
+      "title": "Solo Leveling: Arise",
+      "subtitle": "System Requirements, Device Tests, Best Settings",
+      "link": "/game-system/solo-leveling-arise.html"
+    },
+    {
+      "badge": "BEST",
+      "thumb": "/assets/thumb/honkai-star-rail.webp",
+      "title": "Honkai: Star Rail",
+      "subtitle": "Requirements, Performance Guide, Phone Compatibility",
+      "link": "/game-system/honkai-star-rail.html"
+    },
+    {
+      "badge": "POPULAR",
+      "thumb": "/assets/thumb/clash-of-clans.webp",
+      "title": "Clash of Clans",
+      "subtitle": "System Requirements, Base Smoothness, Device Support",
+      "link": "/game-system/clash-of-clans.html"
+    },
+    {
+      "badge": "POPULAR",
+      "thumb": "/assets/thumb/clash-royal.webp",
+      "title": "Clash Royale",
+      "subtitle": "Device Requirements, Touch Response, Lag-Free Settings",
+      "link": "/game-system/clash-royale.html"
+    },
+    {
+      "badge": "TRENDING",
+      "thumb": "/assets/thumb/stumble-guys.webp",
+      "title": "Stumble Guys",
+      "subtitle": "Requirements, FPS Stability, Best Performance Settings",
+      "link": "/game-system/stumble-guys.html"
     },
     
     {
-      "badge": "Best",
-      "thumb": "/assets/thumb/solo-leveling-arise.webp",
-      "title": "Solo Leveling: Arise",
-      "subtitle": "System Requirements,FPS,Tips Optimization",
-      "link": "/game-system/solo-leveling-arise.html"
-    },
-     {
-      "badge": "Best",
-      "thumb": "/assets/thumb/honkai-star-rail.webp",
-      "title": "Honkai: Star Rail",
-      "subtitle": "System Requirements,FPS,Tips Optimization",
-      "link": "/game-system/honkai-star-rail.html"
+      "badge": "TRENDING",
+      "thumb": "/assets/thumb/asphalt-9.webp",
+      "title": "Asphalt 9: Legends",
+      "subtitle": "Requirements, FPS Stability, Best Performance Settings",
+      "link": "/game-system/asphalt-9-legends.html"
     }
+    
+    
+    
+    
     
   ]
 }

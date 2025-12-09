@@ -1,0 +1,183 @@
+{
+  "gameComparison": {
+    "games": [
+      {
+        "name": "Clash of Clans",
+        "thumbnail": "/assets/thumb/clash-of-clans.webp",
+        "genre": "Base-Building Strategy",
+        "developer": "Supercell",
+        "release": "2012",
+        "gameplay": "Build villages, train troops, and attack other players in large-scale battles."
+      },
+      {
+        "name": "Clash Royale",
+        "thumbnail": "/assets/thumb/clash-royal.webp",
+        "genre": "Real-Time Strategy Card Battler",
+        "developer": "Supercell",
+        "release": "2016",
+        "gameplay": "Real-time 1v1 battles using cards, elixir management, and fast tactical decisions."
+      }
+    ]
+  },
+
+  "systemRequirements": {
+    "games": [
+      {
+        "name": "Clash of Clans",
+        "platform": "Android / iOS",
+        "storage": "1–2 GB",
+        "ram": "1–2 GB",
+        "cpuGpu": "Any modern entry-level chipset",
+        "fps": "60 FPS Stable",
+        "graphics": "Low – Medium",
+        "online": "Online Required",
+        "battery": "Low"
+      },
+      {
+        "name": "Clash Royale",
+        "platform": "Android / iOS",
+        "storage": "500 MB – 1 GB",
+        "ram": "1–2 GB",
+        "cpuGpu": "Any mid/entry-level chipset",
+        "fps": "60 FPS",
+        "graphics": "Low – Medium",
+        "online": "Online Required",
+        "battery": "Very Low"
+      }
+    ]
+  },
+
+  "keyFeatures": {
+    "games": [
+      {
+        "name": "Clash of Clans",
+        "modes": "Single Player + Multiplayer (Clan Wars, Clan Games)",
+        "playerLimits": "1v1 Attacks + Clan Participation",
+        "graphicsStyle": "Colorful 3D Strategy Art",
+        "customization": "Village Layouts, Troops, Heroes, Pets",
+        "events": "Seasonal Pass, Clan Games, Builder Base Events",
+        "mechanics": "Base building, troop training, strategic raids, clan teamwork"
+      },
+      {
+        "name": "Clash Royale",
+        "modes": "1v1, 2v2, Challenges, Events",
+        "playerLimits": "Real-Time PvP Battles",
+        "graphicsStyle": "Fast-paced Cartoon Arena Style",
+        "customization": "Card Decks, Emotes, Tower Skins",
+        "events": "Seasonal Challenges, Global Tournaments, Special Event Modes",
+        "mechanics": "Card synergy, elixir management, real-time troop placement"
+      }
+    ]
+  },
+
+  "prosCons": {
+    "games": [
+      {
+        "name": "Clash of Clans",
+        "pros": [
+          "Deep base-building strategy",
+          "Large community with active clans",
+          "Many troops, spells, and heroes for variety",
+          "Long-term progression keeps players engaged",
+          "Highly rewarding clan wars and clan games"
+        ],
+        "cons": [
+          "Upgrades take a long time",
+          "Not real-time battles",
+          "Requires consistent farming to progress fast"
+        ]
+      },
+      {
+        "name": "Clash Royale",
+        "pros": [
+          "Fast and exciting real-time PvP battles",
+          "Easy to learn but highly skill-based",
+          "Low device requirements",
+          "Short matches (2–3 minutes)",
+          "Constant new balance changes keep meta fresh"
+        ],
+        "cons": [
+          "Matchmaking can feel unfair",
+          "High skill curve for beginners",
+          "Progress can be slow without good card levels"
+        ]
+      }
+    ]
+  },
+
+  "popularityCommunity": {
+    "games": [
+      {
+        "name": "Clash of Clans",
+        "activePlayers": "Over 100M Monthly Players",
+        "socialMedia": "55M+ Followers",
+        "tournaments": "Clan War Leagues, Community Tournaments",
+        "engagement": "YouTube base designs, attack strategies, clan streams"
+      },
+      {
+        "name": "Clash Royale",
+        "activePlayers": "Over 80M Active Players",
+        "socialMedia": "40M Followers",
+        "tournaments": "Global Tournaments, CRL Events",
+        "engagement": "Strategy videos, deck guides, pro gameplay content"
+      }
+    ]
+  },
+
+  "pricingIAP": {
+    "games": [
+      {
+        "name": "Clash of Clans",
+        "price": "Free",
+        "premiumFeatures": "Gold Pass, Builder Pass, Resource Packs",
+        "currency": "Gems, Gold, Elixir, Dark Elixir",
+        "specialOffers": "Seasonal boosts, value packs"
+      },
+      {
+        "name": "Clash Royale",
+        "price": "Free",
+        "premiumFeatures": "Pass Royale, Magic Items, Chest Offers",
+        "currency": "Gems, Gold",
+        "specialOffers": "Card offers, chest deals, seasonal bundles"
+      }
+    ]
+  },
+
+  "deviceCompatibility": {
+    "games": [
+      {
+        "name": "Clash of Clans",
+        "devices": "Android & iOS",
+        "osVersion": "Android 5.0+ / iOS 10+",
+        "crossPlatform": "Mobile Only",
+        "pcConsole": "Playable via emulators unofficially"
+      },
+      {
+        "name": "Clash Royale",
+        "devices": "Android & iOS",
+        "osVersion": "Android 5.0+ / iOS 10+",
+        "crossPlatform": "Mobile Only",
+        "pcConsole": "Playable via emulators unofficially"
+      }
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Which is better for fast gameplay?",
+      "answer": "Clash Royale is better because it offers 2–3 minute real-time battles."
+    },
+    {
+      "question": "Which game is better for long-term progression?",
+      "answer": "Clash of Clans offers deeper base-building and long-term village growth."
+    },
+    {
+      "question": "Are both games free to play?",
+      "answer": "Yes, both are free with optional purchases that speed up progression."
+    },
+    {
+      "question": "Which game has more strategy?",
+      "answer": "Both are strategic, but CoC focuses on planning & building, while CR focuses on real-time tactics."
+    }
+  ]
+}

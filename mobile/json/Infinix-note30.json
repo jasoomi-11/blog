@@ -1,0 +1,161 @@
+{
+  "gameTitle": "Infinix Note 30 Pro",
+  "subtitle": "A mid-range smartphone offering solid performance, fast charging, AMOLED display, and reliable FPS stability for popular mobile games.",
+
+  "posters": [
+    "/assets/thumb/infinix-note-30-pro.webp",
+    "/assets/thumb/infinix-note-30-pro-front.webp"
+  ],
+
+  "performance": {
+    "cpu": "MediaTek Helio G99 (6nm)",
+    "gpu": "Mali-G57 MC2",
+    "ram": "8GB LPDDR4X (+8GB Virtual RAM)",
+    "storage": "256GB UFS 2.2",
+    "cooling": "VC Liquid Cooling with Graphite Layers"
+  },
+
+  "benchmark": {
+    "antutu": "410,000+",
+    "geekbench": "Single-Core: 730, Multi-Core: 1950"
+  },
+
+  "display": {
+    "refreshRate": "120Hz",
+    "touchRate": "240Hz Touch Sampling",
+    "resolution": "FHD+ (1080 × 2400)",
+    "panelType": "AMOLED 10-bit Display"
+  },
+
+  "battery": {
+    "size": "5000mAh",
+    "fastCharging": "68W Super Charge",
+    "gamingDrain": "10% – 15% per hour (depending on game)"
+  },
+
+  "temperature": {
+    "heatLevel": "33°C – 40°C",
+    "fpsStability": "Stable (82% – 88%)"
+  },
+
+  "heavyGames": [
+    "PUBG Mobile",
+    "Free Fire Max",
+    "Call of Duty Mobile",
+    "Genshin Impact",
+    "Mobile Legends",
+    "Asphalt 9",
+    "Honkai Impact 3rd",
+    "Farlight 84",
+    "Warzone Mobile (Low Playable Only)"
+  ],
+
+  "playability": {
+    "PUBG Mobile": "Smooth + Ultra (40FPS Stable)",
+    "Call of Duty Mobile": "Medium–High + 60FPS Stable",
+    "Genshin Impact": "Low–Medium Settings at 30FPS",
+    "Asphalt 9": "High Settings Smooth",
+    "Free Fire Max": "Ultra + 50–60FPS"
+  },
+
+  "fpsBenchmarks": [
+    {
+      "game": "PUBG Mobile",
+      "settings": "Smooth + Ultra",
+      "fps": "38–40 FPS Stable"
+    },
+    {
+      "game": "COD Mobile",
+      "settings": "Medium–High",
+      "fps": "58–60 FPS"
+    },
+    {
+      "game": "Genshin Impact",
+      "settings": "Low–Medium",
+      "fps": "28–35 FPS"
+    },
+    {
+      "game": "Asphalt 9",
+      "settings": "High",
+      "fps": "55–60 FPS Smooth"
+    }
+  ],
+
+  "thermalTests": [
+    {
+      "game": "PUBG Mobile",
+      "heat15": "Cool",
+      "heat30": "Warm",
+      "fpsDrop": "2–3 FPS"
+    },
+    {
+      "game": "COD Mobile",
+      "heat15": "Normal",
+      "heat30": "Warm",
+      "fpsDrop": "1–2 FPS"
+    },
+    {
+      "game": "Genshin Impact",
+      "heat15": "Warm",
+      "heat30": "Hot",
+      "fpsDrop": "4–5 FPS"
+    },
+    {
+      "game": "Asphalt 9",
+      "heat15": "Normal",
+      "heat30": "Slight Warm",
+      "fpsDrop": "0–1 FPS"
+    }
+  ],
+
+  "batteryTests": [
+    {
+      "game": "PUBG Mobile",
+      "drop": "12–14%"
+    },
+    {
+      "game": "COD Mobile",
+      "drop": "10–12%"
+    },
+    {
+      "game": "Genshin Impact",
+      "drop": "15–18%"
+    }
+  ],
+
+  "gamingFeatures": [
+    "AMOLED 120Hz Display",
+    "Dual Stereo Speakers",
+    "VC Liquid Cooling System",
+    "Ultra Power Saving Mode",
+    "Game Mode Panel",
+    "AI Background App Control",
+    "6nm Power Efficient Chip",
+    "Fast 68W Charging"
+  ],
+
+  "customTable": {
+    "title": "Custom Table Section",
+    "columns": ["Category", "Details", "Performance Impact"],
+    "rows": [
+      ["Cooling System", "VC Liquid Cooling + Graphite Sheets", "Better Temperature Control"],
+      ["Display", "120Hz AMOLED", "Smooth UI & Gameplay"],
+      ["Charging", "68W Fast Charge", "Quick Recharge for Gaming"],
+      ["Speakers", "Dual Stereo JBL-Tuned", "Enhanced Game Audio"],
+      ["Build Quality", "Glass Finish", "Premium Feel"],
+      ["Software", "XOS 13 (Android 13)", "Smooth Daily Performance"]
+    ]
+  },
+
+  "dynamicList": {
+    "title": "Key Features",
+    "items": [
+      "120Hz AMOLED Display",
+      "Helio G99 6nm Chip",
+      "Dual Speakers",
+      "68W Fast Charging",
+      "VC Cooling System",
+      "Stable 40–60 FPS Gaming"
+    ]
+  }
+}

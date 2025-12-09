@@ -4,7 +4,7 @@
   <!-- Section Homepage -->
   <url>
     <loc>https://blog.blueverse.space/comparison/comparison.html</loc>
-    <lastmod>2025-12-08</lastmod>
+    <lastmod>2025-12-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -27,6 +27,17 @@
   <url>
     <loc>https://blog.blueverse.space/comparison/genshine-honkai.html</loc>
     <lastmod>2025-12-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  
+    <!-- 9 Dec Update To 9 Jan -->
+  
+  
+<url>
+    <loc>https://blog.blueverse.space/comparison/coc-cr.html</loc>
+    <lastmod>2025-12-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
