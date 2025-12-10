@@ -4,7 +4,7 @@
   <!-- Section Homepage -->
   <url>
     <loc>https://blog.blueverse.space/comparison/comparison.html</loc>
-    <lastmod>2025-12-09</lastmod>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -38,6 +38,19 @@
 <url>
     <loc>https://blog.blueverse.space/comparison/coc-cr.html</loc>
     <lastmod>2025-12-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  
+  
+    
+    <!-- 10  Dec Update To 10 Jan -->
+  
+  
+  <url>
+    <loc>https://blog.blueverse.space/comparison/minecraft-roblox.html</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>

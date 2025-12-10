@@ -1,0 +1,163 @@
+{
+  "gameTitle": "Nubia RedMagic 10 Pro (Global Version)",
+  "subtitle": "The ultimate gaming beast featuring Snapdragon 8 Elite / Gen 3, massive 7050mAh battery, 144Hz UDC AMOLED, and built-in ICE-X fan 🎮🔥",
+
+  "posters": [
+    "/assets/thumb/nobia-redmagic-10-pro.webp"
+   
+  ],
+
+  "performance": {
+    "cpu": "Snapdragon 8 Elite / Snapdragon 8 Gen 3 (4nm)",
+    "gpu": "Adreno 750",
+    "ram": "12GB / 16GB LPDDR5X Ultra",
+    "storage": "256GB / 512GB UFS 4.1 Pro",
+    "cooling": "ICE-X Magic Cooling System (Fan + Liquid Metal VC + Graphite + Thermal Gel)"
+  },
+
+  "benchmark": {
+    "antutu": "3,291,328+ (claimed score for series)",
+    "geekbench": "Single-Core: ~1240, Multi-Core: ~3900 (Estimates based on Gen 3)"
+  },
+
+  "display": {
+    "refreshRate": "144Hz",
+    "touchRate": "960Hz Avg / 2500Hz Max Touch Sampling",
+    "resolution": "FHD+ (2688 × 1216)",
+    "panelType": "AMOLED 10-bit HDR Display (BOE Q9+)",
+    "features": "Under-Display Camera (UDC), 2000 nits peak brightness"
+  },
+
+  "battery": {
+    "size": "7050mAh (Dual-Cell, Silicon-Carbon)",
+    "fastCharging": "80W in-box (Supports up to 100W wired charging)",
+    "gamingDrain": "7–10% per 30 min of heavy gaming 🔥"
+  },
+
+  "temperature": {
+    "heatLevel": "35°C – 42°C",
+    "fpsStability": "Stable (90% – 95%)"
+  },
+
+  "heavyGames": [
+    "PUBG Mobile",
+    "Call of Duty Mobile",
+    "Genshin Impact",
+    "Asphalt 9",
+    "Free Fire Max",
+    "Honkai Impact 3rd",
+    "Farlight 84",
+    "Warzone Mobile (Low Playable Only)",
+    "Mobile Legends"
+  ],
+
+  "playability": {
+    "PUBG Mobile": "Ultra + Extreme (50–60FPS Stable, buttery smooth 😎)",
+    "Call of Duty Mobile": "High + Max FPS (60FPS Stable, recoil handled like a pro)",
+    "Genshin Impact": "High Settings 40–50FPS (Explore Teyvat freely!)",
+    "Asphalt 9": "Ultra Settings Smooth Nitro Drifts 🏎️💨",
+    "Free Fire Max": "Ultra + 60FPS (No more laggy chicken dinners 🐔)"
+  },
+
+  "fpsBenchmarks": [
+    {
+      "game": "PUBG Mobile",
+      "settings": "Ultra + Extreme",
+      "fps": "50–60 FPS Stable"
+    },
+    {
+      "game": "COD Mobile",
+      "settings": "High + Max FPS",
+      "fps": "58–60 FPS Stable"
+    },
+    {
+      "game": "Genshin Impact",
+      "settings": "High",
+      "fps": "40–50 FPS Smooth"
+    },
+    {
+      "game": "Asphalt 9",
+      "settings": "Ultra",
+      "fps": "60 FPS Stable"
+    }
+  ],
+
+  "thermalTests": [
+    {
+      "game": "PUBG Mobile",
+      "heat15": "Cool",
+      "heat30": "Warm",
+      "fpsDrop": "1–2 FPS"
+    },
+    {
+      "game": "COD Mobile",
+      "heat15": "Normal",
+      "heat30": "Warm",
+      "fpsDrop": "0–1 FPS"
+    },
+    {
+      "game": "Genshin Impact",
+      "heat15": "Warm",
+      "heat30": "Hot",
+      "fpsDrop": "3–4 FPS"
+    },
+    {
+      "game": "Asphalt 9",
+      "heat15": "Normal",
+      "heat30": "Slight Warm",
+      "fpsDrop": "0 FPS"
+    }
+  ],
+
+  "batteryTests": [
+    {
+      "game": "PUBG Mobile",
+      "drop": "6–8%"
+    },
+    {
+      "game": "COD Mobile",
+      "drop": "5–7%"
+    },
+    {
+      "game": "Genshin Impact",
+      "drop": "10–12%"
+    }
+  ],
+
+  "gamingFeatures": [
+    "144Hz UDC AMOLED Display 🖤",
+    "Dual 1115K Stereo Speakers 🎧",
+    "ICE-X Cooling Fan + Liquid Metal VC ❄️",
+    "520Hz Shoulder Triggers 🎮",
+    "Ultra Game Mode Panel",
+    "AI Background App Control 🤖",
+    "Snapdragon 8 Elite / Gen 3 Power",
+    "80W/100W Super Fast Charging ⚡",
+    "3.5mm Headphone Jack 🎧"
+  ],
+
+  "customTable": {
+    "title": "Custom Table Section",
+    "columns": ["Category", "Details", "Performance Impact"],
+    "rows": [
+      ["Cooling System", "ICE-X Fan + Liquid Metal VC + Graphite + Thermal Gel", "Ultra-Lag-Free Gaming 🥶"],
+      ["Display", "144Hz UDC AMOLED FHD+", "Smooth UI & FPS 🔥"],
+      ["Charging", "80W / Supports 100W Super Charge", "Quick Recharge for Marathon Gaming ⚡"],
+      ["Speakers", "Dual 1115K Stereo JBL-Tuned", "Immersive Game Audio 🎵"],
+      ["Build Quality", "Aluminum Frame + Glass Back", "Premium & Sturdy"],
+      ["Software", "RedMagic OS 10.0 (Android 14)", "Smooth Gaming & Daily Use"]
+    ]
+  },
+
+  "dynamicList": {
+    "title": "Key Features",
+    "items": [
+      "144Hz UDC AMOLED FHD+ Display",
+      "Snapdragon 8 Elite / Gen 3 Chip",
+      "Dual 1115K Stereo Speakers",
+      "80W/100W Super Fast Charging",
+      "ICE-X Cooling Fan + Liquid Metal VC",
+      "Stable 50–60 FPS Gaming for Heavy Titles"
+    ]
+  }
+}

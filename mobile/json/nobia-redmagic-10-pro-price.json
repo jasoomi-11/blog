@@ -1,0 +1,71 @@
+{
+  "mobile": {
+    "name": "Nubia Red Magic 10 Pro",
+    "thumbs": [
+      "nobia-redmagic-10-pro.webp",
+      "eu.redmagic.gg"
+    ],
+    "summary": "Flagship gaming smartphone with Snapdragon 8 Elite, 7050mAh battery, 144Hz AMOLED UDC display, and built-in ICE-X fan for ultimate performance.",
+    "priceRange": "Flagship Gaming",
+
+    "countries": [
+      {
+        "flag": "🇺🇸",
+        "country": "United States",
+        "currency": "USD",
+        "displayPrice": "$649 – $999",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "$649" },
+          { "ram": "16GB / 512GB", "price": "$799" },
+          { "ram": "24GB / 1TB", "price": "$999" }
+        ],
+        "colors": ["Shadow (Black)", "Dusk (Transparent)", "Moonlight (Transparent White)"]
+      },
+      {
+        "flag": "🇪🇺",
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "displayPrice": "€649 – €999",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "€649" },
+          { "ram": "16GB / 512GB", "price": "€799" },
+          { "ram": "24GB / 1TB", "price": "€999" }
+        ],
+        "colors": ["Shadow (Black)", "Dusk (Transparent)", "Moonlight (Transparent White)"]
+      },
+      {
+        "flag": "🇬🇧",
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "displayPrice": "£579 – £879",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "£579" },
+          { "ram": "1TB Variant Estimate", "price": "£879" }
+        ],
+        "colors": ["Shadow (Black)", "Dusk (Transparent)", "Moonlight (Transparent White)"]
+      },
+      {
+        "flag": "🇵🇰",
+        "country": "Pakistan",
+        "currency": "PKR",
+        "displayPrice": "Rs 249,990 – Rs 299,990 (Non-PTA Estimate)",
+        "variants": [
+          { "ram": "16GB / 512GB", "price": "Rs 249,990" }
+        ],
+        "colors": ["Shadow (Black)", "Dusk (Transparent)", "Moonlight (Transparent White)"]
+      },
+      {
+        "flag": "🇸🇬",
+        "country": "Singapore",
+        "currency": "SGD",
+        "displayPrice": "S$999 – S$1,499",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "S$999" },
+          { "ram": "16GB / 512GB", "price": "S$1,299" },
+          { "ram": "24GB / 1TB", "price": "S$1,499" }
+        ],
+        "colors": ["Shadow (Black)", "Dusk (Transparent)", "Moonlight (Transparent White)"]
+      }
+    ]
+  }
+}

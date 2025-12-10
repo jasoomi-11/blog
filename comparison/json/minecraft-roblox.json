@@ -1,0 +1,174 @@
+{
+  "gameComparison": {
+    "games": [
+      {
+        "name": "Minecraft",
+        "thumbnail": "/assets/thumb/minecraft.webp",
+        "genre": "Sandbox Survival & Creativity",
+        "developer": "Mojang Studios",
+        "release": "2011",
+        "gameplay": "Mine blocks, craft tools, build dream bases, and then lose everything to lava like a pro 😭🔥."
+      },
+      {
+        "name": "Roblox",
+        "thumbnail": "/assets/thumb/roblox.webp",
+        "genre": "User-Created Game Platform",
+        "developer": "Roblox Corporation",
+        "release": "2006",
+        "gameplay": "Play millions of user-created experiences – from Obbies to horror games that will make you scream like a microwave timer 👻😂."
+      }
+    ]
+  },
+
+  "systemRequirements": {
+    "games": [
+      {
+        "name": "Minecraft",
+        "platform": "Android / iOS / PC / Console",
+        "storage": "1–3 GB",
+        "ram": "2–4 GB",
+        "cpuGpu": "Any basic CPU + simple GPU (Potato Mode Supported 🥔)",
+        "fps": "30–60 FPS",
+        "graphics": "Legendary block-style graphics",
+        "online": "Optional",
+        "battery": "Medium (TNT spam will increase battery sadness 💥🔋)"
+      },
+      {
+        "name": "Roblox",
+        "platform": "Android / iOS / PC",
+        "storage": "300–800 MB",
+        "ram": "2–4 GB",
+        "cpuGpu": "Entry-level CPU (varies per game)",
+        "fps": "30–60 FPS",
+        "graphics": "Depends on the game (some are beautiful, some look like 2006 😅)",
+        "online": "Always Online",
+        "battery": "Medium to High depending on game"
+      }
+    ]
+  },
+
+  "keyFeatures": {
+    "games": [
+      {
+        "name": "Minecraft",
+        "modes": "Survival, Creative, Hardcore, Multiplayer",
+        "playerLimits": "Server-dependent",
+        "graphicsStyle": "Iconic block-style",
+        "customization": "Skins, shaders, mods, texture packs",
+        "events": "Minecraft Live, Community Maps",
+        "mechanics": "Crafting, building, exploration, monster fighting (mostly running from Creepers 💚💥)"
+      },
+      {
+        "name": "Roblox",
+        "modes": "Millions of user-created games",
+        "playerLimits": "Depends on each game",
+        "graphicsStyle": "Varies (blocky, realistic, cute, anime — everything exists)",
+        "customization": "Avatars, accessories, animations, emotes",
+        "events": "Concerts, collabs, brand events",
+        "mechanics": "Obbies, roleplay, FPS, tycoons, horror games — literally anything."
+      }
+    ]
+  },
+
+  "prosCons": {
+    "games": [
+      {
+        "name": "Minecraft",
+        "pros": [
+          "Endless creativity 🎨",
+          "Massive modding community",
+          "Great for multiplayer",
+          "Relaxing + adventurous",
+          "Perfect for building huge worlds"
+        ],
+        "cons": [
+          "Can lag on low-end phones",
+          "Lava = heartbreak simulator 💔🔥",
+          "Updates sometimes break worlds"
+        ]
+      },
+      {
+        "name": "Roblox",
+        "pros": [
+          "Millions of free games",
+          "Huge social community",
+          "Highly customizable avatars",
+          "Great for roleplaying and creativity"
+        ],
+        "cons": [
+          "Game quality depends on developers",
+          "Can lag on cheap devices",
+          "Some games are pay-to-win 💸"
+        ]
+      }
+    ]
+  },
+
+  "popularityCommunity": {
+    "games": [
+      {
+        "name": "Minecraft",
+        "activePlayers": "140M+ Monthly Players",
+        "socialMedia": "70M+ Followers",
+        "tournaments": "Minecraft Championships, SMP Events",
+        "engagement": "Speedruns, builds, survival series"
+      },
+      {
+        "name": "Roblox",
+        "activePlayers": "200M+ Monthly Players",
+        "socialMedia": "45M+ Followers",
+        "tournaments": "Community Events & Competitions",
+        "engagement": "Roleplay videos, horror gameplay reactions 👻😂"
+      }
+    ]
+  },
+
+  "pricingIAP": {
+    "games": [
+      {
+        "name": "Minecraft",
+        "price": "Paid (platform-dependent)",
+        "premiumFeatures": "Realms, Skin Packs, Texture Packs",
+        "currency": "Minecoins",
+        "specialOffers": "Marketplace bundles"
+      },
+      {
+        "name": "Roblox",
+        "price": "Free",
+        "premiumFeatures": "Robux purchases for items/gamepasses",
+        "currency": "Robux",
+        "specialOffers": "Limited items + avatar drops"
+      }
+    ]
+  },
+
+  "deviceCompatibility": {
+    "games": [
+      {
+        "name": "Minecraft",
+        "devices": "Mobile, PC, Console, Switch",
+        "osVersion": "Android 5.0+ / iOS 10+ / Windows 10+",
+        "crossPlatform": "Fully cross-platform",
+        "pcConsole": "Native support"
+      },
+      {
+        "name": "Roblox",
+        "devices": "Mobile, PC, Xbox",
+        "osVersion": "Android 6.0+ / iOS 11+",
+        "crossPlatform": "Yes",
+        "pcConsole": "Native on PC & Xbox"
+      }
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Which one is better for creativity?",
+      "answer": "Minecraft is better for building worlds 🌍, while Roblox is better for building entire games 🎮."
+    },
+    {
+      "question": "Which game is safer for kids?",
+      "answer": "Minecraft is safer and simpler, but Roblox offers more variety with proper parental controls 👍."
+    }
+  ]
+}

@@ -70,7 +70,34 @@
       "title": "Asphalt 9: Legends",
       "subtitle": "Requirements, FPS Stability, Best Performance Settings",
       "link": "/game-system/asphalt-9-legends.html"
-    }
+    },
+    
+    
+    {
+      "badge": "TRENDING",
+      "thumb": "/assets/thumb/roblox.webp",
+      "title": " 😍 Roblox",
+      "subtitle": "Requirements, FPS Stability, Best Performance Settings",
+      "link": "/game-system/roblox.html"
+    },
+    
+      {
+      "badge": "TRENDING",
+      "thumb": "/assets/thumb/minecraft.webp",
+      "title": " Minecraft ",
+      "subtitle": "Requirements, FPS Stability, Best Performance Settings",
+      "link": "/game-system/minecraft.html"
+    },
+    
+   {
+      "badge": "TRENDING",
+      "thumb": "/assets/thumb/ea-sports-football.webp",
+      "title": " EA Sports Football ",
+      "subtitle": "Requirements, FPS Stability, Best Performance Settings",
+      "link": "/game-system/ea-sports-football.html"
+    }  
+    
+    
     
     
     

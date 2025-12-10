@@ -12,7 +12,22 @@
       "title": "Clash Of Clans All guides",
       "subtitle": "TownHall Guides,Tips For Anti 3 stars...",
       "link": "/guides/coc/all.html"
-    }
+    },
+    
+    {
+  "thumbnail": "/assets/thumb/call-of-duty-mobile.webp",
+  "title": "Call of Duty Mobile All Guides",
+  "subtitle": "Beginner Tips, Weapons, Loadouts & Survival Strategies 🎮🔥",
+  "link": "/guides/cod/all.html"
+},
+
+
+{
+  "thumbnail": "/assets/thumb/clash-royal.webp",
+  "title": "Clash Royale All Guides",
+  "subtitle": "Beginner Tips, Decks, Cards & Winning Strategies 🏰⚔️",
+  "link": "/guides/clash-royal/all.html"
+}
     
    
   ]

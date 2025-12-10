@@ -1,0 +1,135 @@
+{
+  "shortIntro": {
+    "title": "What Your Device Needs to Kick Goals Smoothly ⚽",
+    "para1": "EA Sports Football is a high-action soccer game with detailed stadiums, realistic player animations, and smooth ball physics. If your device is weak, expect missed passes, laggy tackles, and goals that feel like they happen in slow motion 🐢.",
+    "para2": "Low-end devices can manage casual matches at 25–30 FPS, while mid-range and high-end devices will let you dribble past defenders and score stunning goals at 60 FPS or higher. And yes, your celebrations will look epic! 🎉"
+  },
+
+  "intro": "Below are the updated minimum and recommended specifications for EA Sports Football on Android and iOS devices. These are tested on real matches, stadium graphics, and multiplayer online games ⚡.",
+
+  "minimum": {
+    "OS Version": "Android 6.0 or higher",
+    "RAM": "2GB minimum",
+    "CPU": "Quad-Core 1.5–2.0GHz or equivalent",
+    "GPU": "Adreno 506 / Mali-G51 or equivalent",
+    "Storage": "≈ 2GB free space",
+    "Internet": "Stable connection for online matches (2–5 Mbps)"
+  },
+
+  "recommended": {
+    "OS Version": "Android 10 or higher",
+    "RAM": "4GB–6GB or more",
+    "CPU": "Snapdragon 720G / 732G / 860 / 870 or newer",
+    "GPU": "Adreno 618 / 640 / 730 or better",
+    "Storage": "4GB+ free space recommended",
+    "Internet": "Strong Wi-Fi or 5G for online multiplayer ⚡"
+  },
+
+  "ios_intro": "EA Sports Football runs buttery smooth on iOS devices thanks to Apple’s GPU optimization and fast storage. Prepare for perfect passes, insane volleys, and no lag in your fantasy squad! 🍏",
+
+  "ios_minimum": [
+    { "title": "OS Version", "value": "iOS 11 or later" },
+    { "title": "Device", "value": "iPhone 7 or newer" },
+    { "title": "Storage", "value": "≈ 2GB free" }
+  ],
+
+  "ios_recommended": [
+    { "title": "OS Version", "value": "iOS 13 or later" },
+    { "title": "Device", "value": "iPhone X / XR / 11 Series or newer" },
+    { "title": "Storage", "value": "4GB+ free recommended" }
+  ],
+
+  "fps_intro": "FPS performance depends on your device’s processor, graphics, and RAM. Higher FPS means smoother ball control, faster sprints, and fewer laggy tackles 🏃💨.",
+
+  "fps_list": [
+    { "category": "Low-End Devices", "fps": "25–30 FPS (good for casual matches) ⚽" },
+    { "category": "Mid-Range Devices", "fps": "40–50 FPS (smooth enough to score that perfect curve shot) 🎯" },
+    { "category": "High-End Devices", "fps": "60 FPS or higher (like playing with superpowers) ⚡" }
+  ],
+
+  "settings_intro": "Optimal settings help your device handle player animations, stadium lighting, and real-time physics without turning the match into a slideshow of doom 🖼️.",
+
+  "low_end": [
+    { "title": "Graphics Quality", "value": "Low / Medium for stable FPS" },
+    { "title": "Frame Rate", "value": "Standard (High FPS may drop frames)" },
+    { "title": "Effects", "value": "Turn off motion blur and reduce shadows" },
+    { "title": "Background Apps", "value": "Close them for smoother gameplay" }
+  ],
+
+  "high_end": [
+    { "title": "Graphics Quality", "value": "High / Ultra (stadiums look amazing!) 🏟️" },
+    { "title": "Frame Rate", "value": "60 FPS or higher for buttery smooth dribbles" },
+    { "title": "Thermal Control", "value": "Avoid overheating, keep your device cool ❄️" },
+    { "title": "Storage Speed", "value": "Keep at least 1–2GB free for fast stadium loading" }
+  ],
+
+  "sectionIntro": "These Android and iOS devices are known to handle EA Sports Football without laggy tackles or slow-motion goals.",
+
+  "androidDevices": [
+    "Samsung Galaxy S20–S24 Series",
+    "Samsung Galaxy A52 / A54 / A73",
+    "Xiaomi Redmi Note 11 / 12 / 13 Pro",
+    "Poco X3 / X4 / F5 / F6",
+    "Realme GT / GT Neo 2 / GT Neo 3",
+    "Google Pixel 6 / 7 / 8",
+    "Infinix Zero / Note / GT Series"
+  ],
+
+  "iosDevices": [
+    "iPhone X / XR / XS",
+    "iPhone 11 / 12 / 13 / 14 Series",
+    "iPhone SE 2020 / 2022",
+    "iPad Mini 5 / 6",
+    "iPad Air 3rd Gen or newer"
+  ],
+
+  "storageIntroText": "EA Sports Football is huge thanks to detailed stadiums, player models, and seasonal updates. Here’s how much space you’ll need:",
+
+  "storageDetails": [
+    { "label": "Base Game Size", "value": "≈ 1.5–2GB ⚽" },
+    { "label": "High-Resolution Player & Stadium Textures", "value": "500MB–1GB" },
+    { "label": "Seasonal Updates", "value": "300–700MB each season" },
+    { "label": "Total Required Space", "value": "≈ 3–4GB recommended" }
+  ],
+
+  "faqIntroText": "Most common questions from football fans who love smooth gameplay and epic goals 🥅:",
+
+  "faqList": [
+    {
+      "question": "Is EA Sports Football heavy on devices?",
+      "answer": "Yes. Detailed stadiums, real-time physics, and player animations require strong GPUs and fast storage."
+    },
+    {
+      "question": "Can I play at 60 FPS?",
+      "answer": "Yes, but only on mid-range to high-end devices with capable GPUs."
+    },
+    {
+      "question": "Why does my phone heat up during matches?",
+      "answer": "The game renders players, stadiums, physics, and multiplayer interactions in real-time. On low-end devices, this can generate heat 🔥."
+    }
+  ],
+
+  "title": "Device Comparison Insights",
+  "description": "Compare top devices for EA Sports Football. Check FPS stability, thermal performance, and smoothness for real football matches ⚽🔥.",
+
+  "rows": [
+    {
+      "device1": "Samsung Galaxy S21",
+      "device2": "Xiaomi Redmi Note 12 Pro",
+      "performance": "Both handle smooth gameplay at 50–60 FPS.",
+      "notes": "S21 keeps frames consistent, while Note 12 Pro loads stadium textures slightly faster."
+    },
+    {
+      "device1": "Poco F5",
+      "device2": "Realme GT Neo 3",
+      "performance": "Perfect for fast dribbles and precise shots.",
+      "notes": "Poco F5 handles Ultra graphics better, GT Neo 3 keeps device cooler in longer sessions."
+    },
+    {
+      "device1": "iPhone 12",
+      "device2": "iPhone XR",
+      "performance": "Smooth gameplay and fast response for online matches.",
+      "notes": "iPhone 12 manages higher graphics settings, XR performs reliably with minor dips in crowded stadiums."
+    }
+  ]
+}

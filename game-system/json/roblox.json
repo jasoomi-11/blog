@@ -1,0 +1,133 @@
+{
+  "shortIntro": {
+    "title": "What Your Device Needs for Smooth Roblox Gameplay 🧱⚡🎮",
+    "para1": "Roblox isn’t one game — it’s millions of player-made worlds 🌍. Some games are light, some are heavy, and some run your phone hotter than a biryani deg on Eid 🔥🍲. Because every experience is different, your device needs balanced performance, strong GPU consistency, and good thermals.",
+    "para2": "Roblox may look simple, but high-player maps, shadows, particles, and realistic physics can destroy weak phones emotionally 😭📱. A better processor, faster storage, and stable internet help you avoid lag, rubberbanding, and the classic 'Why am I falling through the floor?' moments 🕳️😐."
+  },
+
+  "intro": "Below are the updated minimum and recommended specifications required to run Roblox smoothly on Android and iOS devices 📱💨. These values are based on real testing across popular Roblox games like Brookhaven, Blox Fruits, Arsenal, Doors, and more.",
+
+  "minimum": {
+    "OS Version": "Android 6.0 or higher 📲",
+    "RAM": "2GB minimum 🧠",
+    "CPU": "Quad-Core Processor (1.6–2.0GHz) ⚙️",
+    "GPU": "Mali-G52 / Adreno 506 or equivalent 🎨",
+    "Storage": "1GB free space 💾",
+    "Internet": "Stable 5–20 Mbps with <90ms ping 🌐"
+  },
+
+  "recommended": {
+    "OS Version": "Android 10 or higher 📲",
+    "RAM": "4–6GB recommended 🚀",
+    "CPU": "Snapdragon 720G / 732G / 860 / 870 or newer ⚡",
+    "GPU": "Adreno 618 / 640 / 650 or better 🎮",
+    "Storage": "2–4GB free space recommended 💾",
+    "Internet": "Fast 4G/5G or stable Wi-Fi for online multiplayer 📡"
+  },
+
+  "ios_intro": "Roblox on iOS performs better 🍏 due to strong optimization, faster storage, and Apple’s predictable GPU performance.",
+
+  "ios_minimum": [
+    { "title": "OS Version", "value": "iOS 11 or later 🍏" },
+    { "title": "Device", "value": "iPhone 7 or newer 📱" },
+    { "title": "Storage", "value": "1GB minimum required 💾" }
+  ],
+
+  "ios_recommended": [
+    { "title": "OS Version", "value": "iOS 13 or later 🍏" },
+    { "title": "Device", "value": "iPhone X / XR / 11 or newer ⚡" },
+    { "title": "Storage", "value": "2–4GB free recommended 💾" }
+  ],
+
+  "fps_intro": "Roblox performance depends on the game you're playing 🧩. Some games run like butter 🧈, others run like potatoes wearing shoes 🥔👞. Still, average FPS expectations look like this:",
+
+  "fps_list": [
+    { "category": "Low-End Devices", "fps": "20–30 FPS in heavy games, 40 FPS in light games 📉" },
+    { "category": "Mid-Range Devices", "fps": "40–60 FPS in most games with stable performance 📊" },
+    { "category": "High-End Devices", "fps": "60–120 FPS feel in optimized titles ⚡🎯" }
+  ],
+
+  "settings_intro": "Roblox has variable graphics depending on the experience. Below are the best settings for low-end and high-end phones ⚙️📱:",
+
+  "low_end": [
+    { "title": "Graphics Quality", "value": "Set to 1–3 for smoother gameplay 🎮" },
+    { "title": "Shadows", "value": "Turn OFF to reduce lag 🌑❌" },
+    { "title": "Background Apps", "value": "Close everything (yes, even TikTok) 🚪📵" },
+    { "title": "FPS Unlocker (Mobile)", "value": "Roblox auto-manages, but low settings improve stability ⚡" }
+  ],
+
+  "high_end": [
+    { "title": "Graphics Quality", "value": "6–10 depending on the game 🌟" },
+    { "title": "Refresh Rate", "value": "Enable 90Hz / 120Hz screen modes if supported 🔄" },
+    { "title": "Thermal Control", "value": "Avoid long sessions in heavy games like Blox Fruits 🔥🍇" },
+    { "title": "RAM Optimization", "value": "Keep 1GB RAM free for consistent FPS 🧠⚡" }
+  ],
+
+  "sectionIntro": "Below are well-known Android and iOS devices that deliver reliable, lag-free Roblox performance — even during boss fights or explosion-heavy scenes 💥🛡️.",
+
+  "androidDevices": [
+    "Poco F5 / Poco X6 Pro ⚡",
+    "Redmi Note 12 / 13 Series 📱",
+    "Samsung Galaxy A54 / A73 / S20–S24 Series 🌌",
+    "Realme GT Neo 3 / Neo 5 🚀",
+    "Vivo V25 / V29 Series 📸",
+    "Infinix GT 20 Pro / Zero Series 💨"
+  ],
+
+  "iosDevices": [
+    "iPhone X / XR / XS 🍏",
+    "iPhone 11 / 12 / 13 Series ⚡",
+    "iPhone 14 / 15 Series 🚀",
+    "iPhone SE 2020 / SE 2022 📱"
+  ],
+
+  "storageIntroText": "Roblox storage depends heavily on the games you play 📦. Some are tiny, some download enough assets to fill your phone like a suitcase on a one-week trip 🎒😅.",
+
+  "storageDetails": [
+    { "label": "Base App Size", "value": "≈ 300–400 MB 📦" },
+    { "label": "Game Asset Downloads", "value": "200MB–2GB depending on game worlds 🌍" },
+    { "label": "High-Detail Games", "value": "Maps like Brookhaven, Blox Fruits can reach 500MB+ 🗺️" },
+    { "label": "Total Required Space", "value": "2–4GB recommended 💾" }
+  ],
+
+  "faqIntroText": "These are the most commonly asked Roblox performance questions — answered simply, honestly, and without sugarcoating 🎤😄.",
+
+  "faqList": [
+    {
+      "question": "Why does Roblox lag on my phone? 🥲",
+      "answer": "Some games are heavy. If your device is old or hot, Roblox starts acting like it needs a break 😮‍💨."
+    },
+    {
+      "question": "Does Roblox support 90Hz or 120Hz? 🔄",
+      "answer": "Some devices feel smoother due to display refresh rate, but FPS depends on game optimization ⚙️."
+    },
+    {
+      "question": "Why do some Roblox games run smooth and others lag? 🤔",
+      "answer": "Each game is made by different creators. Some are well optimized… others are built like LEGO towers during load-shedding 💡😂."
+    }
+  ],
+
+  "title": "Device Comparison Insights 📊📱",
+  "description": "Compare responsiveness, loading speed, thermal control, and FPS stability in popular Roblox games 🌡️⚡.",
+
+  "rows": [
+    {
+      "device1": "Poco F5",
+      "device2": "Realme GT Neo 3",
+      "performance": "Both deliver excellent FPS in heavy Roblox games with little lag 🎮🔥.",
+      "notes": "Poco F5 has stronger sustained performance, while Neo 3 loads large maps quicker thanks to its faster storage 🚀💾."
+    },
+    {
+      "device1": "Samsung Galaxy A52",
+      "device2": "Redmi Note 12 Pro",
+      "performance": "Both run medium-weight games well, with occasional drops in heavy maps 📉.",
+      "notes": "A52 manages heat better 🌡️, while Note 12 Pro renders shadows and textures faster 🎨⚡."
+    },
+    {
+      "device1": "iPhone 12",
+      "device2": "iPhone XR",
+      "performance": "iPhone 12 breezes through even heavy games 🍏⚡, while XR holds up decently.",
+      "notes": "iPhone 12 stays smoother during long sessions, while XR may dip FPS in crowded worlds 👥📉."
+    }
+  ]
+}
