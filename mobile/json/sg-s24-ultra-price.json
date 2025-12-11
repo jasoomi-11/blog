@@ -1,0 +1,134 @@
+{
+  "mobile": {
+    "name": "Samsung Galaxy S24 Ultra",
+    "thumbs": [
+      "/assets/thumb/sg-s24-ultra.webp"
+      
+    ],
+    "summary": "Samsung Galaxy S24 Ultra — a premium flagship with Snapdragon 8 Gen 3/Exynos 2400, QHD+ AMOLED 120Hz display, powerful camera system, and excellent optimized gaming performance.",
+    "priceRange": "Varies by region",
+
+    "countries": [
+      {
+        "flag": "🇺🇸",
+        "country": "United States",
+        "currency": "USD",
+        "displayPrice": "$1,099 – $1,499",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "$1,099" },
+          { "ram": "12GB / 512GB", "price": "$1,199" },
+          { "ram": "12GB / 1TB", "price": "$1,499" }
+        ],
+        "colors": ["Titanium Black", "Titanium Gray", "Titanium Violet", "Titanium Blue"]
+      },
+      {
+        "flag": "🇮🇳",
+        "country": "India",
+        "currency": "INR",
+        "displayPrice": "₹1,29,999 – ₹1,59,999",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "₹1,29,999" },
+          { "ram": "12GB / 512GB", "price": "₹1,39,999" },
+          { "ram": "12GB / 1TB", "price": "₹1,59,999" }
+        ],
+        "colors": ["Titanium Black", "Titanium Gray", "Titanium Violet"]
+      },
+      {
+        "flag": "🇵🇰",
+        "country": "Pakistan",
+        "currency": "PKR",
+        "displayPrice": "Rs 339,000 – Rs 399,000",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "Rs 339,000" },
+          { "ram": "12GB / 512GB", "price": "Rs 365,000" },
+          { "ram": "12GB / 1TB", "price": "Rs 399,000" }
+        ],
+        "colors": ["Titanium Black", "Titanium Gray"]
+      },
+      {
+        "flag": "🇬🇧",
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "displayPrice": "£1,149 – £1,449",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "£1,149" },
+          { "ram": "12GB / 512GB", "price": "£1,249" },
+          { "ram": "12GB / 1TB", "price": "£1,449" }
+        ],
+        "colors": ["Titanium Black", "Titanium Gray", "Titanium Violet"]
+      },
+      {
+        "flag": "🇨🇦",
+        "country": "Canada",
+        "currency": "CAD",
+        "displayPrice": "CA$1,650 – CA$2,050",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "CA$1,650" },
+          { "ram": "12GB / 512GB", "price": "CA$1,750" },
+          { "ram": "12GB / 1TB", "price": "CA$2,050" }
+        ],
+        "colors": ["Titanium Black", "Titanium Gray"]
+      },
+      {
+        "flag": "🇦🇺",
+        "country": "Australia",
+        "currency": "AUD",
+        "displayPrice": "A$1,950 – A$2,350",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "A$1,950" },
+          { "ram": "12GB / 512GB", "price": "A$2,099" },
+          { "ram": "12GB / 1TB", "price": "A$2,350" }
+        ],
+        "colors": ["Titanium Black", "Titanium Gray"]
+      },
+      {
+        "flag": "🇦🇪",
+        "country": "United Arab Emirates",
+        "currency": "AED",
+        "displayPrice": "AED 4,699 – AED 5,799",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "AED 4,699" },
+          { "ram": "12GB / 512GB", "price": "AED 4,999" },
+          { "ram": "12GB / 1TB", "price": "AED 5,799" }
+        ],
+        "colors": ["Titanium Black", "Titanium Blue"]
+      },
+      {
+        "flag": "🇧🇩",
+        "country": "Bangladesh",
+        "currency": "BDT",
+        "displayPrice": "৳ 165,000 – ৳ 195,000",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "৳ 165,000" },
+          { "ram": "12GB / 512GB", "price": "৳ 178,000" },
+          { "ram": "12GB / 1TB", "price": "৳ 195,000" }
+        ],
+        "colors": ["Titanium Black", "Titanium Gray"]
+      },
+      {
+        "flag": "🇵🇭",
+        "country": "Philippines",
+        "currency": "PHP",
+        "displayPrice": "₱ 68,000 – ₱ 85,000",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "₱ 68,000" },
+          { "ram": "12GB / 512GB", "price": "₱ 75,000" },
+          { "ram": "12GB / 1TB", "price": "₱ 85,000" }
+        ],
+        "colors": ["Titanium Black", "Titanium Gray"]
+      },
+      {
+        "flag": "🇪🇺",
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "displayPrice": "€ 1,249 – € 1,649",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "€ 1,249" },
+          { "ram": "12GB / 512GB", "price": "€ 1,349" },
+          { "ram": "12GB / 1TB", "price": "€ 1,649" }
+        ],
+        "colors": ["Titanium Black", "Titanium Gray", "Titanium Violet"]
+      }
+    ]
+  }
+}

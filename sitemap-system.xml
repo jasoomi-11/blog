@@ -4,7 +4,7 @@
   <!-- Section Homepage -->
   <url>
     <loc>https://blog.blueverse.space/game-system/system.html</loc>
-    <lastmod>2025-12-10</lastmod>
+    <lastmod>2025-12-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -126,6 +126,20 @@
    <url>
     <loc>https://blog.blueverse.space/game-system/ea-sports-football.html</loc>
      <lastmod>2025-12-10T17:00:00+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  
+  
+  
+  <!--11 Dec Must Update 11 Jan -->
+
+
+  
+   <url>
+    <loc>https://blog.blueverse.space/game-system/fortnite.html</loc>
+     <lastmod>2025-12-11T17:00:00+05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>

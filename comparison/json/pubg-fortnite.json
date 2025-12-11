@@ -1,0 +1,185 @@
+{
+  "title": "PUBG Mobile VS Fortnite Mobile – Complete Comparison",
+  
+  "gameComparison": {
+    "games": [
+      {
+        "name": "PUBG Mobile",
+        "thumbnail": "/assets/thumb/pubg-mobile.webp",
+        "genre": "Battle Royale Shooter 🔫",
+        "developer": "Krafton / Tencent",
+        "release": "2018",
+        "gameplay": "Drop from the plane, loot fast, survive the chaos, and become the last person standing — simple plan, difficult execution 😭."
+      },
+      {
+        "name": "Fortnite Mobile",
+        "thumbnail": "/assets/thumb/fortnite.webp",
+        "genre": "Battle Royale + Building 🧱🎯",
+        "developer": "Epic Games",
+        "release": "2017",
+        "gameplay": "Shoot, build, edit, crank 90s, and confuse enemies with skyscrapers made in 3 seconds 😂."
+      }
+    ]
+  },
+
+  "systemRequirements": {
+    "games": [
+      {
+        "name": "PUBG Mobile",
+        "platform": "Android / iOS",
+        "storage": "2.5–3 GB 📦",
+        "ram": "3–6 GB Recommended",
+        "cpuGpu": "Mid-range chipset needed for stable FPS",
+        "fps": "Up to 90 FPS (on supported devices)",
+        "graphics": "Smooth – HDR",
+        "online": "Always Online 🌐",
+        "battery": "High 🔥 (Your phone may start a mini summer)"
+      },
+      {
+        "name": "Fortnite Mobile",
+        "platform": "Android (iOS no longer supported officially)",
+        "storage": "8–10 GB 😭",
+        "ram": "6–8 GB Recommended",
+        "cpuGpu": "High-end flagship needed for smooth play",
+        "fps": "Up to 90 FPS (flagships only)",
+        "graphics": "High – Epic",
+        "online": "Always Online 🌍",
+        "battery": "Very High ⚡ (Phone: 'Bro please stop…')"
+      }
+    ]
+  },
+
+  "keyFeatures": {
+    "games": [
+      {
+        "name": "PUBG Mobile",
+        "modes": "Classic BR, TDM, Arena, Payload, Metro Royale",
+        "playerLimits": "100 Players Per Match",
+        "graphicsStyle": "Realistic War-Themed Graphics 🎖️",
+        "customization": "Gun skins, outfits, voice packs, emotes",
+        "events": "Seasonal Royale Pass & Limited-Time Modes",
+        "mechanics": "Gun recoil control, survival, rotations, looting, tactical combat"
+      },
+      {
+        "name": "Fortnite Mobile",
+        "modes": "Battle Royale, Zero Build, Creative, LTMs",
+        "playerLimits": "100 Players Per Match",
+        "graphicsStyle": "Cartoonish & Colorful Fortnite Style 🌈",
+        "customization": "Skins, emotes, pickaxes, gliders",
+        "events": "Live concerts, crossover events, giant map-changing updates",
+        "mechanics": "Building, editing, fast movement, outplaying enemies with crazy builds"
+      }
+    ]
+  },
+
+  "prosCons": {
+    "games": [
+      {
+        "name": "PUBG Mobile",
+        "pros": [
+          "Realistic gunplay feels super satisfying 🔥",
+          "Huge maps with intense survival gameplay",
+          "Team communication & tactics matter a lot 🎧",
+          "Lots of fun modes beyond battle royale",
+          "Runs well even on mid-range phones"
+        ],
+        "cons": [
+          "Higher recoil means beginners cry a little 😭",
+          "Matches can take long (20–30 mins)",
+          "Too many bots at low ranks"
+        ]
+      },
+      {
+        "name": "Fortnite Mobile",
+        "pros": [
+          "Super creative building mechanics 🧱",
+          "Colorful and fun art style",
+          "Huge crossover events (Marvel, Star Wars etc.) 🌌",
+          "Fast-paced gameplay with crazy outplays",
+          "Zero Build mode available for non-builders"
+        ],
+        "cons": [
+          "Very heavy game — needs a flagship phone 💸",
+          "Building skill gap is MASSIVE 😭",
+          "Storage requirement is… painful"
+        ]
+      }
+    ]
+  },
+
+  "popularityCommunity": {
+    "games": [
+      {
+        "name": "PUBG Mobile",
+        "activePlayers": "Over 300M Monthly Players 🌍",
+        "socialMedia": "100M+ Followers",
+        "tournaments": "PMGC, PMWI, Regional Esports",
+        "engagement": "Montages, clutch videos, myth-busting, sensitivity settings"
+      },
+      {
+        "name": "Fortnite Mobile",
+        "activePlayers": "Originally 80M+, but now limited to Android users",
+        "socialMedia": "90M+ Followers",
+        "tournaments": "FNCS, Creative Competitions",
+        "engagement": "Build tutorials, creative maps, event reactions"
+      }
+    ]
+  },
+
+  "pricingIAP": {
+    "games": [
+      {
+        "name": "PUBG Mobile",
+        "price": "Free",
+        "premiumFeatures": "Royale Pass, Prime, Outfits, Gun Skins",
+        "currency": "UC, AG",
+        "specialOffers": "Lucky spins, crates, seasonal bundles"
+      },
+      {
+        "name": "Fortnite Mobile",
+        "price": "Free",
+        "premiumFeatures": "Battle Pass, Skins, Emotes",
+        "currency": "V-Bucks",
+        "specialOffers": "Special collab outfits, event bundles"
+      }
+    ]
+  },
+
+  "deviceCompatibility": {
+    "games": [
+      {
+        "name": "PUBG Mobile",
+        "devices": "Android & iOS",
+        "osVersion": "Android 5.1+ / iOS 11+",
+        "crossPlatform": "Mobile Only",
+        "pcConsole": "Playable via emulators (official: Gameloop)"
+      },
+      {
+        "name": "Fortnite Mobile",
+        "devices": "Android Only (iOS removed)",
+        "osVersion": "Android 8.0+",
+        "crossPlatform": "Mobile + PC + Console ecosystem",
+        "pcConsole": "Playable on all consoles & PC"
+      }
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Which game is better for realistic shooting?",
+      "answer": "PUBG Mobile — recoil, bullet drop, and gunplay is way more realistic 🔫."
+    },
+    {
+      "question": "Which game is more fast-paced?",
+      "answer": "Fortnite — especially with players building Eiffel Tower in 3 seconds 😂."
+    },
+    {
+      "question": "Which one is more beginner-friendly?",
+      "answer": "PUBG is easier to start. Fortnite beginners usually cry while facing builders 🧱😭."
+    },
+    {
+      "question": "Which game needs a stronger device?",
+      "answer": "Fortnite — it eats storage, RAM, battery… everything 💀."
+    }
+  ]
+}

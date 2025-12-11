@@ -1,0 +1,135 @@
+{
+  "shortIntro": {
+    "title": "What Your Device Needs for Smooth Fortnite Mobile Gameplay 🕹️",
+    "para1": "Fortnite Mobile is a visually stunning battle royale with fast-paced shooting, building mechanics, and frequent live events 🌈🎯. The game requires strong GPU performance, enough RAM, and fast storage to maintain smooth gameplay and ultra-responsive building.",
+    "para2": "Quick builds, edits, and fast-paced fights depend heavily on your device’s graphics processing, refresh rate, and thermal control 🔥. High-end devices deliver smoother animations, faster load times, and minimal lag during chaotic build battles."
+  },
+
+  "intro": "Below are the updated minimum and recommended specifications to run Fortnite Mobile smoothly on Android and iOS devices. Values are based on real-world testing, multiplayer benchmarks, and pro player feedback 🏆.",
+
+  "minimum": {
+    "OS Version": "Android 8.0 or higher",
+    "RAM": "4GB minimum",
+    "CPU": "Octa-Core processor (2.0GHz or higher)",
+    "GPU": "Adreno 618 / Mali-G72 MP3 or equivalent",
+    "Storage": "8GB free space",
+    "Internet": "Stable connection required 🌐"
+  },
+
+  "recommended": {
+    "OS Version": "Android 12 or higher",
+    "RAM": "6–8GB or more",
+    "CPU": "Snapdragon 865 / 870 / 8+ Gen 2 or equivalent",
+    "GPU": "Adreno 650 / Mali-G78 or better",
+    "Storage": "10GB+ free space recommended",
+    "Internet": "Strong Wi-Fi or 5G for lag-free matches"
+  },
+
+  "ios_intro": "Fortnite runs extremely well on iOS thanks to Apple’s optimized GPUs and NVMe storage 🍏. This ensures smoother editing, faster building, and high frame rates even during intense battles.",
+
+  "ios_minimum": [
+    { "title": "OS Version", "value": "iOS 13 or later" },
+    { "title": "Device", "value": "iPhone 8 or newer" },
+    { "title": "Storage", "value": "8GB minimum required" }
+  ],
+
+  "ios_recommended": [
+    { "title": "OS Version", "value": "iOS 15 or later" },
+    { "title": "Device", "value": "iPhone 12 / 13 / 14 Series or newer" },
+    { "title": "Storage", "value": "10GB+ free space recommended" }
+  ],
+
+  "fps_intro": "Fortnite is graphically heavy due to building animations, particle effects, and dynamic maps 🌌. Device tier greatly impacts FPS during fights, edits, and high-pressure battles.",
+
+  "fps_list": [
+    { "category": "Low-End Devices", "fps": "30–40 FPS (Low graphics)" },
+    { "category": "Mid-Range Devices", "fps": "50–60 FPS (Medium/High graphics)" },
+    { "category": "High-End Devices", "fps": "90 FPS (High/EPIC graphics + smooth building)" }
+  ],
+
+  "settings_intro": "Optimizing settings is crucial for responsive builds, clear visuals, and maintaining stable FPS during hectic matches 🎮.",
+
+  "low_end": [
+    { "title": "Graphics Quality", "value": "Low / Medium to reduce lag" },
+    { "title": "Frame Rate", "value": "Standard (30–50 FPS)" },
+    { "title": "Effects", "value": "Turn off shadows & post-processing for smoother play" },
+    { "title": "Background Apps", "value": "Close all to prevent stuttering mid-fight" }
+  ],
+
+  "high_end": [
+    { "title": "Graphics Quality", "value": "High / Epic for full visual experience" },
+    { "title": "Frame Rate", "value": "Enable High FPS (60–90 FPS)" },
+    { "title": "Thermal Control", "value": "Avoid overheating to prevent FPS drops 🔥" },
+    { "title": "Storage Speed", "value": "Keep at least 2GB free for faster map loading" }
+  ],
+
+  "sectionIntro": "Here’s a curated list of Android and iOS devices that deliver the best Fortnite Mobile experience with ultra-smooth edits and near-zero lag ✨.",
+
+  "androidDevices": [
+    "Samsung Galaxy S20–S24 Series",
+    "Samsung Galaxy Note 20 / 21",
+    "Xiaomi Mi 11 / 12 / 13 / 13 Pro",
+    "Poco F4 / F5 / X5 Pro",
+    "Realme GT Neo 3 / GT 3",
+    "Google Pixel 6 / 7 / 8",
+    "OnePlus 9 / 10 / 11 Series"
+  ],
+
+  "iosDevices": [
+    "iPhone X / XR / XS",
+    "iPhone 11 / 12 / 13 / 14 / 15 Series",
+    "iPhone SE 2020 / 2022",
+    "iPad Mini 6",
+    "iPad Air 4 / 5"
+  ],
+
+  "storageIntroText": "Fortnite Mobile is a heavy game due to high-resolution textures, building assets, and seasonal events 🎁. Here’s the complete storage breakdown:",
+
+  "storageDetails": [
+    { "label": "Base Game Size", "value": "≈ 8GB" },
+    { "label": "Epic Texture Pack", "value": "1–2GB depending on quality" },
+    { "label": "Seasonal Updates", "value": "500MB–1GB per season" },
+    { "label": "Total Required Space", "value": "10–12GB recommended" }
+  ],
+
+  "faqIntroText": "Commonly asked questions about Fortnite Mobile device performance, graphics, and gameplay 👇:",
+
+  "faqList": [
+    {
+      "question": "Can Fortnite Mobile run on older phones?",
+      "answer": "It runs, but expect low FPS, slower builds, and laggy edits 😅."
+    },
+    {
+      "question": "Can I enable 90 FPS?",
+      "answer": "Yes, but only on high-end Android phones or the newest iPhones 🍏."
+    },
+    {
+      "question": "Why does my phone heat up while building?",
+      "answer": "Fast building, edits, and particle effects consume GPU heavily 🔥. Mid-range phones will heat quickly during intense fights."
+    }
+  ],
+
+  "title": "Device Comparison Insights – Fortnite Mobile",
+  "description": "Compare performance, graphics handling, input smoothness, and GPU stability on top Android and iOS devices for Fortnite Mobile 🎮.",
+  
+  "rows": [
+    {
+      "device1": "Samsung Galaxy S23 Ultra",
+      "device2": "Xiaomi 13 Pro",
+      "performance": "Both deliver buttery-smooth 90 FPS and fast building performance.",
+      "notes": "S23 Ultra handles EPIC textures better, while 13 Pro stays cooler during long sessions."
+    },
+    {
+      "device1": "Poco F5",
+      "device2": "Realme GT Neo 3",
+      "performance": "Medium to High graphics run very well with minimal lag.",
+      "notes": "Poco F5 has slightly better FPS stability, while GT Neo 3 excels in thermal management."
+    },
+    {
+      "device1": "iPhone 14",
+      "device2": "iPhone 12",
+      "performance": "Both run Fortnite at 60–90 FPS with ultra-smooth building.",
+      "notes": "iPhone 14 has better lighting and particle rendering, while 12 performs solidly in crowded fights."
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   <!-- Section Homepage -->
   <url>
     <loc>https://blog.blueverse.space/comparison/comparison.html</loc>
-    <lastmod>2025-12-10</lastmod>
+    <lastmod>2025-12-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -54,5 +54,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
+
+
+    <!-- 11  Dec Update To 11 Jan -->
+  
+
+
+  <url>
+    <loc>https://blog.blueverse.space/comparison/pubg-fortnite.html</loc>
+    <lastmod>2025-12-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
 
 </urlset>

@@ -25,6 +25,15 @@
     "badge": "overpowered 🫵",
     "badgeColor": "red",
     "link": "/mobile/nobia-redmagic-10-pro.html"
+  },
+  
+    {
+    "title": "Galaxy S24 Ultra",
+    "subtitle": "For Richers Like you🫵",
+    "thumb": "/assets/thumb/sg-s24-ultra.webp",
+    "badge": "Undisputed 🔥",
+    "badgeColor": "Green",
+    "link": "/mobile/sg-s24-ultra.html"
   }
 
 ]

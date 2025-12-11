@@ -1,0 +1,161 @@
+{
+  "gameTitle": "Samsung Galaxy S24 Ultra",
+  "subtitle": "Samsung’s flagship powerhouse with elite gaming performance, beautiful display, and optimized thermals — perfect for high FPS mobile gaming 🚀🎮.",
+
+  "posters": [
+    "/assets/thumb/sg-s24-ultra.webp"
+  
+  ],
+
+  "performance": {
+    "cpu": "Qualcomm Snapdragon 8 Gen 3 (or Exynos 2400 depending on region)",
+    "gpu": "Adreno 750 / Xclipse GPU (Android gaming optimized)",
+    "ram": "12GB / 16GB LPDDR5X",
+    "storage": "256GB / 512GB / 1TB UFS 4.0",
+    "cooling": "Samsung Vapor Chamber Cooling & AI heat management"
+  },
+
+  "benchmark": {
+    "antutu": "1,450,000+ (top-tier mobile)",
+    "geekbench": "Single-Core: 2200+, Multi-Core: 6000+"
+  },
+
+  "display": {
+    "refreshRate": "Up to 120Hz Adaptive",
+    "touchRate": "240Hz Touch Sampling",
+    "resolution": "QHD+ (3088 × 1440)",
+    "panelType": "Dynamic AMOLED 2X HDR10+"
+  },
+
+  "battery": {
+    "size": "5000mAh",
+    "fastCharging": "45W Super Fast Charge",
+    "gamingDrain": "6% – 10% per hour (very efficient)"
+  },
+
+  "temperature": {
+    "heatLevel": "35°C – 40°C (controlled even in long sessions)",
+    "fpsStability": "Extremely Stable (95%+)"
+  },
+
+  "heavyGames": [
+    "PUBG Mobile",
+    "BGMI",
+    "Call of Duty Mobile",
+    "Genshin Impact",
+    "Fortnite",
+    "Honkai Star Rail",
+    "Asphalt 9",
+    "Farlight 84",
+    "Warzone Mobile"
+  ],
+
+  "playability": {
+    "PUBG Mobile": "Ultra HD + 90FPS + HDR Support",
+    "Call of Duty Mobile": "Very High Graphics + Max FPS",
+    "Genshin Impact": "60FPS Stable on Max",
+    "Fortnite": "High to Epic + 60FPS",
+    "Honkai Star Rail": "Max Settings Smooth"
+  },
+
+  "fpsBenchmarks": [
+    {
+      "game": "PUBG Mobile",
+      "settings": "Ultra + HDR",
+      "fps": "80–90 FPS Stable"
+    },
+    {
+      "game": "COD Mobile",
+      "settings": "Max Graphics",
+      "fps": "120 FPS Stable"
+    },
+    {
+      "game": "Genshin Impact",
+      "settings": "Ultra",
+      "fps": "55–60 FPS"
+    },
+    {
+      "game": "Fortnite",
+      "settings": "High/Epic",
+      "fps": "60 FPS"
+    }
+  ],
+
+  "thermalTests": [
+    {
+      "game": "PUBG Mobile",
+      "heat15": "Cool thanks to vapor chamber",
+      "heat30": "Warm but controlled",
+      "fpsDrop": "1–2 FPS only"
+    },
+    {
+      "game": "COD Mobile",
+      "heat15": "Normal",
+      "heat30": "Warm",
+      "fpsDrop": "0–1 FPS"
+    },
+    {
+      "game": "Genshin Impact",
+      "heat15": "Warm",
+      "heat30": "Hot",
+      "fpsDrop": "3–4 FPS"
+    },
+    {
+      "game": "Fortnite",
+      "heat15": "Normal",
+      "heat30": "Warm",
+      "fpsDrop": "1 FPS"
+    }
+  ],
+
+  "batteryTests": [
+    {
+      "game": "PUBG Mobile",
+      "drop": "8%"
+    },
+    {
+      "game": "COD Mobile",
+      "drop": "7%"
+    },
+    {
+      "game": "Genshin Impact",
+      "drop": "14%"
+    }
+  ],
+
+  "gamingFeatures": [
+    "120Hz Dynamic AMOLED 2X Display 🖼️",
+    "Game Booster AI Optimization ⚙️",
+    "Vapor Chamber Cooling System ❄️",
+    "Stereo Speakers with Dolby Atmos 🔊",
+    "Ultrasonic Touch Response 🖐️",
+    "Long-lasting 5000mAh Battery 🔋",
+    "Wi-Fi 7 & 5G Network Support 🌐",
+    "Samsung Game Launcher Enhancements 🎮"
+  ],
+
+  "customTable": {
+    "title": "Custom Table Section",
+    "columns": ["Category", "Details", "Performance Impact"],
+    "rows": [
+      ["Cooling System", "Vapor Chamber Cooling + AI Modulation", "Excellent heat control during long matches"],
+      ["Display", "Dynamic AMOLED 2X QHD+ 120Hz", "Smooth visuals & responsive touch"],
+      ["Charging", "45W Super Fast Charge", "Quick top-ups between sessions"],
+      ["Battery", "5000mAh", "Great endurance for long gaming days"],
+      ["Speakers", "Stereo + Dolby Atmos", "Immersive sound experience"],
+      ["Game Booster", "AI Optimization", "Intelligent resource allocation for performance"]
+    ]
+  },
+
+  "dynamicList": {
+    "title": "Key Features",
+    "items": [
+      "Adaptive 120Hz AMOLED Display",
+      "LPDDR5X RAM",
+      "UFS 4.0 Storage",
+      "Advanced Thermal Control",
+      "Game Booster AI",
+      "Dolby Atmos Stereo"
+    ]
+  }
+}
