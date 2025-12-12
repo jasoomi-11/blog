@@ -1,0 +1,138 @@
+{
+  "shortIntro": {
+    "title": "What Your Device Needs for Smooth Standoff Mobile Gameplay 🔫",
+    "para1": "Standoff Mobile is a fast-paced tactical shooter with realistic maps, weapon skins, and multiplayer battles. Its detailed textures, dynamic lighting, and particle effects demand strong GPU and CPU performance for smooth gameplay.",
+    "para2": "Accurate aiming, fast shooting, and stable multiplayer action rely heavily on your device’s processing power, refresh rate, and thermal management. Better hardware ensures crisp visuals, faster load times, and near-zero lag during firefights."
+  },
+
+  "intro": "Here are the latest minimum and recommended specifications for running Standoff Mobile smoothly on Android and iOS devices. These are based on real-world testing, multiplayer benchmarks, and top-player feedback 🏆.",
+
+  "minimum": {
+    "OS Version": "Android 7.0 or higher",
+    "RAM": "2GB minimum",
+    "CPU": "Quad-Core 1.6GHz or equivalent",
+    "GPU": "Adreno 506 / Mali-G51 or equivalent",
+    "Storage": "2.5–3GB free space",
+    "Internet": "Stable 4G or Wi-Fi connection"
+  },
+
+  "recommended": {
+    "OS Version": "Android 11 or higher",
+    "RAM": "4GB–6GB or more",
+    "CPU": "Snapdragon 720G / 732G / 860 / 870 or better",
+    "GPU": "Adreno 618 / 640 / 730 or better",
+    "Storage": "4GB+ free space recommended",
+    "Internet": "Strong Wi-Fi or 5G for smooth multiplayer"
+  },
+
+  "ios_intro": "Standoff Mobile is optimized for iOS devices 🍏, delivering smooth shooting, fast map loading, and stable multiplayer performance thanks to Apple’s powerful GPUs and NVMe storage.",
+
+  "ios_minimum": [
+    { "title": "OS Version", "value": "iOS 12 or later" },
+    { "title": "Device", "value": "iPhone 7 or newer" },
+    { "title": "Storage", "value": "2.5–3GB minimum required" }
+  ],
+
+  "ios_recommended": [
+    { "title": "OS Version", "value": "iOS 14 or later" },
+    { "title": "Device", "value": "iPhone X / XR / 11 Series or newer" },
+    { "title": "Storage", "value": "4GB+ free space recommended" }
+  ],
+
+  "fps_intro": "Standoff Mobile’s FPS output varies by device tier. High-end devices offer ultra-smooth motion during firefights and tactical movements 🎯.",
+
+  "fps_list": [
+    { "category": "Low-End Devices", "fps": "24–30 FPS (Low graphics)" },
+    { "category": "Mid-Range Devices", "fps": "40–50 FPS (Medium graphics)" },
+    { "category": "High-End Devices", "fps": "60 FPS (High graphics + smooth animations)" }
+  ],
+
+  "settings_intro": "Optimizing graphics and FPS ensures smooth gameplay, especially during fast shootouts, grenade throws, and map transitions 🔧.",
+
+  "low_end": [
+    { "title": "Graphics Quality", "value": "Low or Default for stable FPS" },
+    { "title": "Frame Rate", "value": "Standard only (no high FPS)" },
+    { "title": "Effects", "value": "Disable motion blur for clearer visuals" },
+    { "title": "Background Apps", "value": "Close all to reduce stuttering mid-match" }
+  ],
+
+  "high_end": [
+    { "title": "Graphics Quality", "value": "High or Ultra (if supported)" },
+    { "title": "Frame Rate", "value": "Enable High FPS mode (60 FPS)" },
+    { "title": "Thermal Control", "value": "Avoid overheating during long sessions" },
+    { "title": "Storage Speed", "value": "Keep at least 1GB free for fast map loading" }
+  ],
+
+  "sectionIntro": "These Android and iOS devices offer the best performance in Standoff Mobile, delivering smooth animations and stable FPS 🔥.",
+
+  "androidDevices": [
+    "Samsung Galaxy S21 / S22 / S23 / S24 Series",
+    "Samsung Galaxy A53 / A54 / A73",
+    "Xiaomi Redmi Note 12 / 13 Pro Series",
+    "Poco F4 / F5 / X4 Pro",
+    "Realme GT Neo 3 / GT 3",
+    "Google Pixel 6 / 7 / 8 Series",
+    "Infinix Zero 5 / GT 20 Pro"
+  ],
+
+  "iosDevices": [
+    "iPhone X / XR / XS / 11 / 12 / 13 / 14 / 15 Series",
+    "iPhone SE 2020 / 2022",
+    "iPad Mini 5 / 6",
+    "iPad Air 3rd Gen or newer"
+  ],
+
+  "storageIntroText": "Standoff Mobile requires significant storage due to HD maps, weapon skins, and seasonal updates 🗂️:",
+
+  "storageDetails": [
+    { "label": "Base Game Size", "value": "≈ 1.5–2GB" },
+    { "label": "HD Texture Pack", "value": "500MB–1GB depending on quality" },
+    { "label": "Seasonal Updates", "value": "300–600MB each season" },
+    { "label": "Total Required Space", "value": "3–4GB recommended" }
+  ],
+
+  "faqIntroText": "Here are the most commonly asked questions about Standoff Mobile performance, graphics, and device compatibility ❓:",
+
+  "faqList": [
+    {
+      "question": "Is Standoff Mobile a heavy game?",
+      "answer": "Yes. Its HD maps, weapons, and effects require strong GPU performance and fast storage."
+    },
+    {
+      "question": "Can my device run 60 FPS?",
+      "answer": "Yes, but only mid-range and high-end devices meeting GPU and RAM requirements can maintain stable 60 FPS."
+    },
+    {
+      "question": "Why does my phone heat up during gameplay?",
+      "answer": "Fast rendering, multiplayer battles, and special effects generate heat, especially on low-end devices."
+    },
+    {
+      "question": "Can I play with low storage space?",
+      "answer": "Not recommended. Less than 3–4GB free may cause lag or stuttering."
+    }
+  ],
+
+  "title": "Device Comparison Insights 🔍",
+  "description": "Compare real-world performance, graphics stability, shooting response, and thermal handling for top devices playing Standoff Mobile.",
+
+  "rows": [
+    {
+      "device1": "Poco F5",
+      "device2": "Realme GT Neo 3",
+      "performance": "Both deliver strong FPS and stable gunplay.",
+      "notes": "Poco F5 handles Ultra graphics slightly better; GT Neo 3 remains cooler during long matches."
+    },
+    {
+      "device1": "Samsung Galaxy A54",
+      "device2": "Redmi Note 12 Pro",
+      "performance": "Both run smoothly on Medium settings.",
+      "notes": "A54 provides more consistent frame pacing; Note 12 Pro loads maps faster."
+    },
+    {
+      "device1": "iPhone 12",
+      "device2": "iPhone XR",
+      "performance": "Both maintain smooth shooting and map transitions.",
+      "notes": "iPhone 12 supports higher graphics quality; XR performs solidly but may dip in crowded zones."
+    }
+  ]
+}

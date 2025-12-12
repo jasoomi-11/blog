@@ -104,13 +104,28 @@
       "title": " Fortnite Mobile",
       "subtitle": "🧐 System Requirements, FPS,And Compability",
       "link": "/game-system/fortnite.html"
+    },
+    
+    
+    
+    
+    
+    {
+      "badge": "TRENDING",
+      "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/delta-force.webp",
+      "title": "Delta Force ",
+      "subtitle": "🧐 System Requirements, FPS,And Compability",
+      "link": "/game-system/delta-force.html"
+    },
+    
+    
+    {
+      "badge": "⚔️🫵🏆",
+      "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/standoff.webp",
+      "title": " StandOff ",
+      "subtitle": "🧐 System Requirements, FPS,And Compability",
+      "link": "/game-system/standoff.html"
     }
-    
-    
-    
-    
-    
-    
     
   ]
 }

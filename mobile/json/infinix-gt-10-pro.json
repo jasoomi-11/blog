@@ -1,0 +1,162 @@
+{
+  "gameTitle": "Infinix GT 10 Pro 🔥",
+  "subtitle": "A budget gaming beast with a futuristic cyberpunk design, strong performance, stable FPS, and surprisingly cool temperatures for long gaming sessions. 🎮⚡",
+
+  "posters": [
+    "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/infinix-gt-10-pro.webp"
+  
+    
+  ],
+
+  "performance": {
+    "cpu": "MediaTek Dimensity 8050 (3.0GHz Prime Core) ⚙️",
+    "gpu": "Mali-G77 MC9 🎨",
+    "ram": "8GB LPDDR4X (Up to 16GB with MemFusion) 💾",
+    "storage": "256GB UFS 3.1 🚀",
+    "cooling": "Vapor Chamber + Graphene Layer Cooling System ❄️"
+  },
+
+  "benchmark": {
+    "antutu": "680,000+ 🧪",
+    "geekbench": "Single-Core: 1110, Multi-Core: 3700"
+  },
+
+  "display": {
+    "refreshRate": "120Hz ⚡",
+    "touchRate": "360Hz Touch Sampling 🎯",
+    "resolution": "FHD+ (2400 × 1080)",
+    "panelType": "AMOLED HDR10+ 🌈"
+  },
+
+  "battery": {
+    "size": "5000mAh 🔋",
+    "fastCharging": "45W Fast Charge ⚡",
+    "gamingDrain": "10% – 14% per hour (depending on game) 🎮"
+  },
+
+  "temperature": {
+    "heatLevel": "34°C – 40°C 🌡️",
+    "fpsStability": "85% – 92% 📈"
+  },
+
+  "heavyGames": [
+    "PUBG Mobile",
+    "BGMI",
+    "Call of Duty Mobile",
+    "Genshin Impact",
+    "Honkai Star Rail",
+    "Asphalt 9",
+    "Farlight 84",
+    "Free Fire MAX",
+    "Warzone Mobile (Playable on Medium)"
+  ],
+
+  "playability": {
+    "PUBG Mobile": "HDR + Ultra Support 🎯",
+    "Call of Duty Mobile": "Very High Graphics + High FPS 🎮",
+    "Genshin Impact": "Medium–High Settings 45–55 FPS 🌌",
+    "Fortnite": "Not officially supported ❌",
+    "Honkai Star Rail": "Medium Settings Smooth ⭐"
+  },
+
+  "fpsBenchmarks": [
+    {
+      "game": "PUBG Mobile",
+      "settings": "HDR",
+      "fps": "50–60 FPS Stable"
+    },
+    {
+      "game": "COD Mobile",
+      "settings": "Very High",
+      "fps": "60 FPS Stable"
+    },
+    {
+      "game": "Genshin Impact",
+      "settings": "Medium–High",
+      "fps": "45–55 FPS"
+    },
+    {
+      "game": "Free Fire MAX",
+      "settings": "Ultra",
+      "fps": "58–60 FPS"
+    }
+  ],
+
+  "thermalTests": [
+    {
+      "game": "PUBG Mobile",
+      "heat15": "Cool ❄️",
+      "heat30": "Warm 🙂",
+      "fpsDrop": "2–3 FPS Only"
+    },
+    {
+      "game": "COD Mobile",
+      "heat15": "Normal 🙂",
+      "heat30": "Warm",
+      "fpsDrop": "1–2 FPS"
+    },
+    {
+      "game": "Genshin Impact",
+      "heat15": "Warm 🟠",
+      "heat30": "Hot 🔴",
+      "fpsDrop": "4–6 FPS"
+    },
+    {
+      "game": "Free Fire MAX",
+      "heat15": "Cool ❄️",
+      "heat30": "Slight Warm 🙂",
+      "fpsDrop": "0 FPS"
+    }
+  ],
+
+  "batteryTests": [
+    {
+      "game": "PUBG Mobile",
+      "drop": "14%"
+    },
+    {
+      "game": "COD Mobile",
+      "drop": "11%"
+    },
+    {
+      "game": "Genshin Impact",
+      "drop": "17%"
+    }
+  ],
+
+  "gamingFeatures": [
+    "Cyber Mecha Back Design with LED Lights 🤖✨",
+    "XArena Gaming Mode 🎮",
+    "MemFusion – Up to 16GB Virtual RAM 💾",
+    "Dedicated Gaming HUD 📊",
+    "4D Vibration (Basic) 🔊",
+    "Dual Stereo Speakers by DTS 🎵",
+    "Enhanced Touch Response 🎯",
+    "Cooling System with Vapor Chamber ❄️"
+  ],
+
+  "customTable": {
+    "title": "Custom Table Section",
+    "columns": ["Category", "Details", "Performance Impact"],
+    "rows": [
+      ["Cooling System", "Vapor Chamber + Graphene", "Good Heat Control 👍"],
+      ["Gaming Enhancements", "X Arena Engine", "Boosts FPS Stability"],
+      ["Charging", "45W Fast Charging", "Quick Top-Up 🔌"],
+      ["Speakers", "DTS Stereo Speakers", "Immersive Sound 🔊"],
+      ["Build Quality", "Cyberpunk LED Back", "Stylish & Durable 😎"],
+      ["Software", "XOS 13 (Android 13)", "Game-Optimized"]
+    ]
+  },
+
+  "dynamicList": {
+    "title": "Key Features 💡",
+    "items": [
+      "120Hz AMOLED Display ⚡",
+      "Dimensity 8050 Processor 🚀",
+      "UFS 3.1 Storage 📦",
+      "Dual Speakers with DTS 🎧",
+      "Cyberpunk LED Back 😍",
+      "Cooling System with Vapor Chamber ❄️"
+    ]
+  }
+}

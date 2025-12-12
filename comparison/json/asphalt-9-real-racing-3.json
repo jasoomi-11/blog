@@ -1,0 +1,183 @@
+{
+  "gameComparison": {
+    "games": [
+      {
+        "name": "Asphalt 9: Legends",
+        "thumbnail": "/assets/thumb/asphalt-9.webp",
+        "genre": "Arcade Racing 🚀",
+        "developer": "Gameloft",
+        "release": "2018",
+        "gameplay": "High-speed arcade racing with Nitro boosts, stunts, drifting, and cinematic racing moments. 🎮🔥"
+      },
+      {
+        "name": "Real Racing 3",
+        "thumbnail": "/assets/thumb/real-racing-3.webp",
+        "genre": "Simulation Racing 🏁",
+        "developer": "Firemonkeys Studio (EA)",
+        "release": "2013",
+        "gameplay": "Realistic track-based racing with licensed cars, accurate physics, and competitive motorsport events. 🏎️⚡"
+      }
+    ]
+  },
+
+  "systemRequirements": {
+    "games": [
+      {
+        "name": "Asphalt 9: Legends",
+        "platform": "Android / iOS",
+        "storage": "3–3.5 GB 📦",
+        "ram": "3–4 GB Recommended",
+        "cpuGpu": "Mid-range to Flagship chipset (Snapdragon 720G/778G/A15)",
+        "fps": "30–60 FPS (Device-dependent)",
+        "graphics": "High cinematic graphics 🌆🔥",
+        "online": "Online Required",
+        "battery": "High due to graphics ⚡"
+      },
+      {
+        "name": "Real Racing 3",
+        "platform": "Android / iOS",
+        "storage": "2.5–3 GB 📦",
+        "ram": "2–3 GB",
+        "cpuGpu": "Any mid-range chipset (Snapdragon 660+ / A12+)",
+        "fps": "60 FPS Smooth",
+        "graphics": "Realistic simulation-style graphics 🏎️",
+        "online": "Online Required",
+        "battery": "Moderate"
+      }
+    ]
+  },
+
+  "keyFeatures": {
+    "games": [
+      {
+        "name": "Asphalt 9: Legends",
+        "modes": "Career Mode, Multiplayer, Club Racing, Events",
+        "playerLimits": "Up to 8-player multiplayer 🧑‍🤝‍🧑",
+        "graphicsStyle": "Arcade-style cinematic graphics with stunts and effects ✨",
+        "customization": "Car upgrades, blueprints, paint & nitro customization 🎨",
+        "events": "Daily Events, Special Stages, Seasonal Events",
+        "mechanics": "Nitro boost, drifting, airborne stunts, TouchDrive control"
+      },
+      {
+        "name": "Real Racing 3",
+        "modes": "Career/Season Mode, Real-Time Multiplayer, Time Trials",
+        "playerLimits": "16–player grid races 🏁",
+        "graphicsStyle": "Ultra-realistic physics & car models 👌",
+        "customization": "Car upgrades, tuning, maintenance",
+        "events": "Motorsport series, limited-time events",
+        "mechanics": "Realistic braking, cornering physics, track-based racing"
+      }
+    ]
+  },
+
+  "prosCons": {
+    "games": [
+      {
+        "name": "Asphalt 9: Legends",
+        "pros": [
+          "Super cinematic racing with amazing visuals 🎥🔥",
+          "Easy controls (TouchDrive)",
+          "Huge collection of hypercars",
+          "Fast-paced and fun arcade experience 🚗💨",
+          "Regular events and updates"
+        ],
+        "cons": [
+          "Blueprint grinding takes long ⏳",
+          "High battery usage",
+          "Not realistic (fully arcade-based)"
+        ]
+      },
+      {
+        "name": "Real Racing 3",
+        "pros": [
+          "Most realistic mobile racing physics 🏎️",
+          "Licensed tracks & cars",
+          "Long career mode with hundreds of races",
+          "Smooth performance even on mid-range phones",
+          "Great for motorsport fans"
+        ],
+        "cons": [
+          "Car repairs take time 🛠️",
+          "Progress is slow for free-to-play",
+          "Graphics feel older compared to Asphalt 9"
+        ]
+      }
+    ]
+  },
+
+  "popularityCommunity": {
+    "games": [
+      {
+        "name": "Asphalt 9: Legends",
+        "activePlayers": "Over 50M Monthly Players 🌍",
+        "socialMedia": "10M+ Followers",
+        "tournaments": "Gameloft eSports Events",
+        "engagement": "YouTube stunts, multiplayer races, competitive clubs"
+      },
+      {
+        "name": "Real Racing 3",
+        "activePlayers": "Over 30M Active Players",
+        "socialMedia": "5M+ Followers",
+        "tournaments": "EA Motorsports Events",
+        "engagement": "Track strategies, car tuning guides"
+      }
+    ]
+  },
+
+  "pricingIAP": {
+    "games": [
+      {
+        "name": "Asphalt 9: Legends",
+        "price": "Free",
+        "premiumFeatures": "Car blueprints, premium packs, Season Pass 🎫",
+        "currency": "Tokens, Credits",
+        "specialOffers": "Seasonal crates, limited car packs"
+      },
+      {
+        "name": "Real Racing 3",
+        "price": "Free",
+        "premiumFeatures": "Gold currency, car upgrades, time skips",
+        "currency": "Gold, R$",
+        "specialOffers": "Car bundles, event tickets"
+      }
+    ]
+  },
+
+  "deviceCompatibility": {
+    "games": [
+      {
+        "name": "Asphalt 9: Legends",
+        "devices": "Android & iOS",
+        "osVersion": "Android 7.0+ / iOS 12+",
+        "crossPlatform": "Mobile only",
+        "pcConsole": "Playable via Windows Store + emulators"
+      },
+      {
+        "name": "Real Racing 3",
+        "devices": "Android & iOS",
+        "osVersion": "Android 5.0+ / iOS 10+",
+        "crossPlatform": "Mobile only",
+        "pcConsole": "Playable via emulators unofficially"
+      }
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Which game is better for realistic racing?",
+      "answer": "Real Racing 3 🏎️ gives a more simulation-based and realistic driving experience."
+    },
+    {
+      "question": "Which game has better graphics?",
+      "answer": "Asphalt 9 🎥🔥 offers more cinematic and visually stunning gameplay."
+    },
+    {
+      "question": "Which game is easier for beginners?",
+      "answer": "Asphalt 9 is beginner-friendly due to TouchDrive controls."
+    },
+    {
+      "question": "Which game is better for long-term progression?",
+      "answer": "Real Racing 3 has a deeper career mode and long-term progression."
+    }
+  ]
+}
