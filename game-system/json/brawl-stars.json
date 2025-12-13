@@ -1,0 +1,135 @@
+{
+  "shortIntro": {
+    "title": "What Your Device Needs for Smooth Brawl Stars Gameplay",
+    "para1": "Brawl Stars is a fast-paced multiplayer action game with vibrant graphics, unique characters, and dynamic arenas. Its colorful animations, particle effects, and real-time PvP battles demand stable GPU performance and responsive touch input for the best experience. 🎨⚡",
+    "para2": "Smooth attacks, abilities, and fast character movement depend on your device’s processor, RAM, and graphics handling. Better hardware ensures reduced lag, smoother animations, and stable online performance. 🔥🎮"
+  },
+
+  "intro": "Here are the updated minimum and recommended system specifications to run Brawl Stars smoothly on Android and iOS devices. These are based on real gameplay testing, multiplayer benchmarks, and feedback from competitive players.",
+
+  "minimum": {
+    "OS Version": "Android 5.0 or higher",
+    "RAM": "2GB minimum",
+    "CPU": "Quad-Core processor (1.5–1.8GHz)",
+    "GPU": "Adreno 506 / Mali-G51 or equivalent",
+    "Storage": "1.5–2GB free space",
+    "Internet": "Stable connection for online PvP matches 🌐"
+  },
+
+  "recommended": {
+    "OS Version": "Android 9 or higher",
+    "RAM": "3–4GB or more",
+    "CPU": "Snapdragon 720G / 732G / 860 / 870 or newer",
+    "GPU": "Adreno 618 / 640 / 730 or better",
+    "Storage": "3GB+ free space recommended",
+    "Internet": "Strong Wi-Fi or 5G for multiplayer battles ⚡"
+  },
+
+  "ios_intro": "Brawl Stars runs exceptionally well on iOS devices thanks to Apple’s GPU optimization and fast storage, providing smoother animations, faster abilities, and low-lag multiplayer action. 🍎🎮",
+
+  "ios_minimum": [
+    { "title": "OS Version", "value": "iOS 11 or later" },
+    { "title": "Device", "value": "iPhone 6S or newer" },
+    { "title": "Storage", "value": "1.5–2GB minimum" }
+  ],
+
+  "ios_recommended": [
+    { "title": "OS Version", "value": "iOS 13 or later" },
+    { "title": "Device", "value": "iPhone X, XR, 11 Series or newer" },
+    { "title": "Storage", "value": "3GB+ free space recommended" }
+  ],
+
+  "fps_intro": "Brawl Stars performance depends on graphics rendering and device tier. Higher-end devices offer faster frame rates, smoother character movement, and stable online matches.",
+
+  "fps_list": [
+    { "category": "Low-End Devices", "fps": "30 FPS (Standard Graphics)" },
+    { "category": "Mid-Range Devices", "fps": "45–50 FPS (High Graphics)" },
+    { "category": "High-End Devices", "fps": "60 FPS (Ultra Graphics + Smooth PvP Action)" }
+  ],
+
+  "settings_intro": "Optimal settings improve gameplay clarity, maintain smooth FPS, and reduce stutter during ability animations and fast combat.",
+
+  "low_end": [
+    { "title": "Graphics Quality", "value": "Low or Default for stable FPS" },
+    { "title": "Frame Rate", "value": "Standard mode only" },
+    { "title": "Effects", "value": "Reduce particle effects for smoother play" },
+    { "title": "Background Apps", "value": "Close all to avoid interruptions during matches" }
+  ],
+
+  "high_end": [
+    { "title": "Graphics Quality", "value": "High or Ultra" },
+    { "title": "Frame Rate", "value": "Enable 60 FPS mode" },
+    { "title": "Thermal Control", "value": "Prevent overheating to avoid lag" },
+    { "title": "Storage Speed", "value": "Keep at least 1GB free for fast asset loading" }
+  ],
+
+  "sectionIntro": "These Android and iOS devices deliver the best Brawl Stars experience with smooth PvP battles, crisp graphics, and responsive controls. 🎮✨",
+
+  "androidDevices": [
+    "Samsung Galaxy A52 / A54 / A73",
+    "Samsung Galaxy S20–S24 Series",
+    "Xiaomi Redmi Note 11 / 12 / 13 Pro Series",
+    "Poco X3 / X4 / X6 / F5 / F6",
+    "Realme GT / GT Neo 2 / GT Neo 3",
+    "Google Pixel 6 / 7 / 8 Series",
+    "Infinix GT 10 Pro / Zero Series"
+  ],
+
+  "iosDevices": [
+    "iPhone X / XR / XS",
+    "iPhone 11 / 12 / 13 / 14 Series",
+    "iPhone SE 2020 / 2022",
+    "iPad Mini 5 / Mini 6",
+    "iPad Air (3rd Gen or newer)"
+  ],
+
+  "storageIntroText": "Brawl Stars requires sufficient storage for assets, updates, and animations. Here’s a breakdown:",
+
+  "storageDetails": [
+    { "label": "Base Game Size", "value": "≈ 1.5–2GB" },
+    { "label": "Character & Skin Packs", "value": "500MB–1GB depending on downloaded content" },
+    { "label": "Seasonal Updates", "value": "200–400MB each season" },
+    { "label": "Total Required Space", "value": "≈ 3–3.5GB recommended" }
+  ],
+
+  "faqIntroText": "Frequently asked questions about Brawl Stars performance, device compatibility, and lag issues. 🧐",
+
+  "faqList": [
+    {
+      "question": "Is Brawl Stars a heavy game?",
+      "answer": "Not too heavy, but smooth gameplay depends on GPU and RAM. Mid-range devices run it well."
+    },
+    {
+      "question": "Can Brawl Stars run at 60 FPS?",
+      "answer": "Yes, on high-end devices with sufficient RAM and GPU capabilities."
+    },
+    {
+      "question": "Why does my phone heat up during Brawl Stars?",
+      "answer": "High-intensity PvP matches with multiple abilities and particle effects can increase device temperature."
+    }
+  ],
+
+  "title": "Device Comparison Insights",
+  "description": "Compare real PvP performance, graphics smoothness, input response, and GPU stability for top devices running Brawl Stars. 🔥",
+
+  "rows": [
+    {
+      "device1": "Poco F5",
+      "device2": "Realme GT Neo 3",
+      "performance": "Both handle high-intensity Brawl Stars matches smoothly with stable FPS.",
+      "notes": "Poco F5 provides better visuals at Ultra graphics, while GT Neo 3 stays cooler in long sessions."
+    },
+    {
+      "device1": "Samsung Galaxy A52",
+      "device2": "Redmi Note 12 Pro",
+      "performance": "Smooth gameplay on Medium graphics settings.",
+      "notes": "A52 has consistent frame pacing, while Note 12 Pro loads characters and maps slightly faster."
+    },
+    {
+      "device1": "iPhone 12",
+      "device2": "iPhone XR",
+      "performance": "Both run Brawl Stars with smooth controls and responsive abilities.",
+      "notes": "iPhone 12 supports higher-quality graphics and better effects, while XR performs solidly with minor dips on crowded maps."
+    }
+  ]
+}

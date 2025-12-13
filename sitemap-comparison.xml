@@ -4,7 +4,7 @@
   <!-- Section Homepage -->
   <url>
     <loc>https://blog.blueverse.space/comparison/comparison.html</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -82,5 +82,27 @@
 
 
 
+
+    <!-- 13 Dec Update To 13 Jan -->
+  
+
+
+
+<url>
+    <loc>https://blog.blueverse.space/comparison/stumble-guys-fall-guys.html</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.blueverse.space/comparison/brawl-stars-squad-busters.html</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  
+  
 
 </urlset>

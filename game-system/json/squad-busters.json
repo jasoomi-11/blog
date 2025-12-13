@@ -1,0 +1,164 @@
+{
+  "shortIntro": {
+    "title": "What Your Device Needs for Smooth Squad Busters Gameplay 🎮💥",
+    "para1": "Squad Busters is a fast-paced multiplayer shooter game with vibrant graphics, tactical gameplay, and real-time squad battles. Smooth performance depends on strong GPU, sufficient RAM, and optimized storage to handle maps, weapons, and effects.",
+    "para2": "Fast aiming, real-time shooting, and squad coordination require a capable processor and high refresh rate. Mid-range to high-end devices provide smoother gameplay, better frame stability, and reduced lag during intense battles."
+  },
+
+  "intro": "Below are the updated minimum and recommended specifications to play Squad Busters on Android and iOS devices smoothly, based on real testing, multiplayer benchmarks, and top player feedback 🏆.",
+
+  "minimum": {
+    "OS Version": "Android 7.0 or higher",
+    "RAM": "3GB minimum",
+    "CPU": "Quad-Core processor (1.8–2.0GHz)",
+    "GPU": "Adreno 512 / Mali-G57 or equivalent",
+    "Storage": "2–2.5GB free space",
+    "Internet": "Stable connection required for multiplayer battles"
+  },
+
+  "recommended": {
+    "OS Version": "Android 11 or higher",
+    "RAM": "4GB–6GB or more",
+    "CPU": "Snapdragon 720G / 732G / 860 / 870 or newer",
+    "GPU": "Adreno 618 / 640 or higher",
+    "Storage": "3–4GB free space recommended",
+    "Internet": "Strong Wi-Fi or 5G for real-time battles"
+  },
+
+  "ios_intro": "Squad Busters runs extremely well on iOS devices due to Apple’s optimized GPU and NVMe storage, providing smoother aiming, faster skill activation, and lag-free squad battles.",
+
+  "ios_minimum": [
+    { "title": "OS Version", "value": "iOS 12 or later" },
+    { "title": "Device", "value": "iPhone 7 or newer" },
+    { "title": "Storage", "value": "2GB minimum required" }
+  ],
+
+  "ios_recommended": [
+    { "title": "OS Version", "value": "iOS 14 or later" },
+    { "title": "Device", "value": "iPhone X, XR, 11 Series or newer" },
+    { "title": "Storage", "value": "3GB+ free space recommended" }
+  ],
+
+  "fps_intro": "Squad Busters performance depends on graphics tier and device capabilities. High-end devices deliver smoother shooting animations and faster map rendering during multiplayer matches.",
+
+  "fps_list": [
+    { "category": "Low-End Devices", "fps": "30–40 FPS (Low graphics) ⚡" },
+    { "category": "Mid-Range Devices", "fps": "50–55 FPS (Medium/High graphics) 🎯" },
+    { "category": "High-End Devices", "fps": "60 FPS+ (Ultra graphics + smooth skill animations) 🌟" }
+  ],
+
+  "settings_intro": "Optimizing graphics settings helps improve FPS stability and responsiveness during intense squad battles.",
+
+  "low_end": [
+    { "title": "Graphics Quality", "value": "Low/Default for smoother performance" },
+    { "title": "Frame Rate", "value": "Standard only (no high FPS)" },
+    { "title": "Effects", "value": "Disable motion blur for clarity" },
+    { "title": "Background Apps", "value": "Close apps to reduce lag" }
+  ],
+
+  "high_end": [
+    { "title": "Graphics Quality", "value": "High or Ultra (if supported) 🎨" },
+    { "title": "Frame Rate", "value": "Enable High FPS (60+) 🏹" },
+    { "title": "Thermal Control", "value": "Avoid overheating during long sessions 🔥" },
+    { "title": "Storage Speed", "value": "Keep 1GB+ free for faster map loading 💾" }
+  ],
+
+  "sectionIntro": "These Android and iOS devices provide the best Squad Busters experience with smooth controls, near-zero lag, and high FPS.",
+
+  "androidDevices": [
+    "Samsung Galaxy S21 / S22 / S23 Series",
+    "Samsung Galaxy A53 / A54 / A73",
+    "Xiaomi Redmi Note 12 Pro / 13 Pro Series",
+    "Poco X4 / X5 / F5 / F6",
+    "Realme GT Neo 2 / GT Neo 3 / GT 3",
+    "Google Pixel 6 / 7 / 8 Series",
+    "Infinix Zero 30 / GT 20 Pro"
+  ],
+
+  "iosDevices": [
+    "iPhone X / XR / XS",
+    "iPhone 11 / 12 / 13 / 14 Series",
+    "iPhone SE 2020 / 2022",
+    "iPad Mini 6",
+    "iPad Air 4 / 5"
+  ],
+
+  "storageIntroText": "Squad Busters is a visually rich game. Here’s the storage breakdown for smooth gameplay:",
+
+  "storageDetails": [
+    { "label": "Base Game Size", "value": "≈ 1.2–1.8GB 📦" },
+    { "label": "High-Quality Textures", "value": "400–600MB depending on settings 🎨" },
+    { "label": "Seasonal Updates & Events", "value": "300–500MB each season 🔥" },
+    { "label": "Total Recommended Space", "value": "≈ 3–4GB ✅" }
+  ],
+
+  "keyFeatures": [
+    "Real-time squad battles up to 4v4 🥷💥",
+    "Dynamic map events and daily challenges 🎯",
+    "Customizable characters, skins, and weapons 🎨",
+    "Clans & community events 🌍",
+    "Skill-based combat with ultimate abilities ⚡"
+  ],
+
+  "prosCons": [
+    {
+      "pros": [
+        "Fast-paced multiplayer action 🔥",
+        "Vibrant graphics & animations 🎨",
+        "Easy to pick up but hard to master 🏆",
+        "Regular updates and seasonal events 🎁",
+        "Strong community & competitive clans 👥"
+      ],
+      "cons": [
+        "Can be battery intensive ⚡",
+        "Occasional lag on older devices 🐢",
+        "Microtransactions for premium skins 💰"
+      ]
+    }
+  ],
+
+  "popularityCommunity": {
+    "activePlayers": "Over 20M Monthly Players 🌍",
+    "socialMedia": "5M+ Followers across Instagram, YouTube, and TikTok",
+    "tournaments": "Official eSports Events & Online Competitions 🏆",
+    "engagement": "YouTube gameplay, live streams, and clan battles 👥"
+  },
+
+  "faqIntroText": "Most commonly asked questions about Squad Busters gameplay, device requirements, and optimization.",
+
+  "faqList": [
+    {
+      "question": "Is Squad Busters heavy on mobile devices?",
+      "answer": "Yes. High graphics and real-time multiplayer require strong CPU/GPU and enough RAM."
+    },
+    {
+      "question": "Can my device run Squad Busters at 60 FPS?",
+      "answer": "Yes, on mid-range and high-end devices that meet recommended specifications."
+    },
+    {
+      "question": "Which devices offer the smoothest gameplay?",
+      "answer": "Top Android devices like Samsung S23, Poco F6, and iPhones 12/13/14 series provide stable 60 FPS performance."
+    }
+  ],
+
+  "deviceComparison": [
+    {
+      "device1": "Poco F5",
+      "device2": "Realme GT Neo 3",
+      "performance": "Both devices handle Squad Busters at Ultra graphics with stable FPS.",
+      "notes": "Poco F5 heats slightly more, while GT Neo 3 maintains cooler temperatures in long matches."
+    },
+    {
+      "device1": "Samsung Galaxy A54",
+      "device2": "Redmi Note 12 Pro",
+      "performance": "Both run the game smoothly at High settings.",
+      "notes": "Galaxy A54 offers better frame consistency; Note 12 Pro loads maps slightly faster."
+    },
+    {
+      "device1": "iPhone 13",
+      "device2": "iPhone XR",
+      "performance": "iPhone 13 provides ultra-smooth gameplay with better lighting; XR runs well but with occasional FPS dips.",
+      "notes": "iPhone 13 is best for competitive players seeking top visuals."
+    }
+  ]
+}

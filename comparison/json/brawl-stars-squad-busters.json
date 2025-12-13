@@ -1,0 +1,192 @@
+{
+  "gameComparison": {
+    "games": [
+      {
+        "name": "Brawl Stars",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/brawl-stars.webp",
+        
+        
+        
+        
+        
+        "genre": "Action Shooter / MOBA ⚔️",
+        "developer": "Supercell",
+        "release": "2018",
+        "gameplay": "Fast-paced 3v3 and solo battles where players control unique Brawlers with special abilities, gadgets, and supers. Matches are short, competitive, and highly skill-based. 🎮🔥"
+      },
+      {
+        "name": "Squad Busters",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/squad-busters.webp",
+        
+        
+        
+        
+        "genre": "Action Strategy / Casual 🧠",
+        "developer": "Supercell",
+        "release": "2024",
+        "gameplay": "Build a squad by collecting and merging characters from Supercell universes. Focuses on survival, exploration, looting, and chaotic multiplayer action. 🌍💥"
+      }
+    ]
+  },
+
+  "systemRequirements": {
+    "games": [
+      {
+        "name": "Brawl Stars",
+        "platform": "Android / iOS",
+        "storage": "700MB – 1GB 📦",
+        "ram": "2GB+ Recommended",
+        "cpuGpu": "Any modern mid-range chipset (Snapdragon 660+ / A11+)",
+        "fps": "60 FPS Smooth",
+        "graphics": "Cartoon-style optimized graphics 🎨",
+        "online": "Online Required",
+        "battery": "Low to Moderate 🔋"
+      },
+      {
+        "name": "Squad Busters",
+        "platform": "Android / iOS",
+        "storage": "1.5–2.5 GB 📦",
+        "ram": "3–4GB Recommended",
+        "cpuGpu": "Mid-range chipset (Snapdragon 720G+ / A13+)",
+        "fps": "40–60 FPS (Device-dependent)",
+        "graphics": "Colorful 3D visuals with effects ✨",
+        "online": "Online Required",
+        "battery": "Moderate"
+      }
+    ]
+  },
+
+  "keyFeatures": {
+    "games": [
+      {
+        "name": "Brawl Stars",
+        "modes": "Gem Grab, Showdown, Brawl Ball, Heist, Knockout",
+        "playerLimits": "3v3 and Solo/Duo modes 🧑‍🤝‍🧑",
+        "graphicsStyle": "Smooth cartoon visuals with clear animations 🎨",
+        "customization": "Brawler skins, gadgets, star powers",
+        "events": "Daily modes, Power League, Seasonal Pass",
+        "mechanics": "Aiming, dodging, supers, team coordination"
+      },
+      {
+        "name": "Squad Busters",
+        "modes": "Squad Survival, PvPvE Battles, Exploration",
+        "playerLimits": "Up to 10 players per match 👥",
+        "graphicsStyle": "Bright 3D environments with chaos-driven action 🌈",
+        "customization": "Squad upgrades, character merging",
+        "events": "Limited-time events, seasonal updates",
+        "mechanics": "Auto-attacks, squad merging, map control"
+      }
+    ]
+  },
+
+  "prosCons": {
+    "games": [
+      {
+        "name": "Brawl Stars",
+        "pros": [
+          "Highly competitive and skill-based gameplay 🧠",
+          "Runs smoothly on low-end devices",
+          "Balanced characters and frequent updates",
+          "Short, fast matches perfect for mobile 📱",
+          "Strong esports and community scene"
+        ],
+        "cons": [
+          "Can feel repetitive over long sessions",
+          "Progression slows at higher trophies",
+          "Requires good internet for competitive play"
+        ]
+      },
+      {
+        "name": "Squad Busters",
+        "pros": [
+          "Fresh and unique gameplay concept 🌟",
+          "Fun crossover characters from Supercell games",
+          "Easy to learn and beginner-friendly",
+          "Great for casual and relaxed gaming",
+          "Constant chaos keeps matches exciting"
+        ],
+        "cons": [
+          "Less competitive depth than Brawl Stars",
+          "Heavier on storage and battery",
+          "More RNG-based outcomes"
+        ]
+      }
+    ]
+  },
+
+  "popularityCommunity": {
+    "games": [
+      {
+        "name": "Brawl Stars",
+        "activePlayers": "50M+ Monthly Active Players 🌍",
+        "socialMedia": "15M+ Followers",
+        "tournaments": "Brawl Stars Championship & regional esports",
+        "engagement": "Competitive ladder, esports, YouTube & Twitch streams"
+      },
+      {
+        "name": "Squad Busters",
+        "activePlayers": "20M+ Players (Growing Rapidly 🚀)",
+        "socialMedia": "5M+ Followers",
+        "tournaments": "Community events & in-game challenges",
+        "engagement": "Casual gameplay clips, creator content, challenges"
+      }
+    ]
+  },
+
+  "pricingIAP": {
+    "games": [
+      {
+        "name": "Brawl Stars",
+        "price": "Free",
+        "premiumFeatures": "Brawl Pass, skins, progression boosts 🎟️",
+        "currency": "Gems, Coins",
+        "specialOffers": "Seasonal passes, skin bundles"
+      },
+      {
+        "name": "Squad Busters",
+        "price": "Free",
+        "premiumFeatures": "Character upgrades, faster progression",
+        "currency": "Coins, Premium Tokens",
+        "specialOffers": "Starter packs, limited-time bundles"
+      }
+    ]
+  },
+
+  "deviceCompatibility": {
+    "games": [
+      {
+        "name": "Brawl Stars",
+        "devices": "Android & iOS",
+        "osVersion": "Android 7.0+ / iOS 12+",
+        "crossPlatform": "Mobile only",
+        "pcConsole": "Not officially supported"
+      },
+      {
+        "name": "Squad Busters",
+        "devices": "Android & iOS",
+        "osVersion": "Android 8.0+ / iOS 13+",
+        "crossPlatform": "Mobile only",
+        "pcConsole": "Not supported"
+      }
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Which game is more competitive?",
+      "answer": "Brawl Stars ⚔️ is more competitive with ranked modes, esports, and skill-based gameplay."
+    },
+    {
+      "question": "Which game is better for casual players?",
+      "answer": "Squad Busters 🌈 is more casual and relaxing with less pressure to win."
+    },
+    {
+      "question": "Which game runs better on low-end phones?",
+      "answer": "Brawl Stars runs smoothly even on low-end and older devices."
+    },
+    {
+      "question": "Which game has more long-term depth?",
+      "answer": "Brawl Stars offers deeper progression, competitive ladders, and long-term mastery."
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "gameComparison": {
+    "games": [
+      {
+        "name": "Stumble Guys",
+        "thumbnail": "/assets/thumb/stumble-guys.webp",
+        "genre": "Party | Battle Royale | Casual 🎉",
+        "developer": "Scopely",
+        "release": "2020",
+        "gameplay": "Fast-paced multiplayer party game where players compete in chaotic obstacle courses, dodge traps, and try to survive till the final round. Simple controls, crazy physics, and instant fun. 🤸‍♂️💥"
+      },
+      {
+        "name": "Fall Guys",
+        "thumbnail": "/assets/thumb/fall-guys.webp",
+        "genre": "Party | Platformer | Battle Royale 🎭",
+        "developer": "Mediatonic (Epic Games)",
+        "release": "2020",
+        "gameplay": "Colorful competitive platformer featuring large-scale obstacle courses, team rounds, and knockout challenges with polished animations and skill-based movement. 🎮🌈"
+      }
+    ]
+  },
+
+  "systemRequirements": {
+    "games": [
+      {
+        "name": "Stumble Guys",
+        "platform": "Android / iOS",
+        "storage": "400–600 MB 📦",
+        "ram": "2 GB Minimum",
+        "cpuGpu": "Entry-level to mid-range chipset (Snapdragon 460+)",
+        "fps": "30–60 FPS",
+        "graphics": "Simple cartoon visuals 🎨",
+        "online": "Online Required",
+        "battery": "Low to Moderate 🔋"
+      },
+      {
+        "name": "Fall Guys",
+        "platform": "PC / PlayStation / Xbox / Nintendo Switch",
+        "storage": "8–10 GB 📦",
+        "ram": "8 GB Recommended",
+        "cpuGpu": "Mid-range PC GPU / Console hardware",
+        "fps": "60 FPS Stable",
+        "graphics": "High-quality 3D visuals ✨",
+        "online": "Online Required",
+        "battery": "Console/PC dependent"
+      }
+    ]
+  },
+
+  "keyFeatures": {
+    "games": [
+      {
+        "name": "Stumble Guys",
+        "modes": "Solo, Party Mode, Custom Rooms",
+        "playerLimits": "Up to 32 players 👥",
+        "graphicsStyle": "Lightweight cartoon graphics",
+        "customization": "Skins, emotes, animations 👕",
+        "events": "Weekly events, ranked seasons",
+        "mechanics": "Jump, dive, ragdoll physics"
+      },
+      {
+        "name": "Fall Guys",
+        "modes": "Solo Show, Squad Mode, Limited-Time Events",
+        "playerLimits": "Up to 60 players 🎯",
+        "graphicsStyle": "Polished colorful 3D visuals",
+        "customization": "Costumes, patterns, celebrations 🎭",
+        "events": "Seasonal passes, crossover events",
+        "mechanics": "Precise platforming, grabbing, physics-based movement"
+      }
+    ]
+  },
+
+  "prosCons": {
+    "games": [
+      {
+        "name": "Stumble Guys",
+        "pros": [
+          "Runs smoothly on low-end phones 📱",
+          "Quick matches and instant fun",
+          "Easy controls for all ages",
+          "Free-to-play friendly",
+          "Great for casual multiplayer 🎉"
+        ],
+        "cons": [
+          "Less polished than Fall Guys",
+          "Repetitive maps over time",
+          "Limited depth for competitive players"
+        ]
+      },
+      {
+        "name": "Fall Guys",
+        "pros": [
+          "High-quality visuals and animations 🌈",
+          "Large-scale matches with variety",
+          "Skill-based gameplay",
+          "Regular updates and collaborations",
+          "Strong competitive appeal 🏆"
+        ],
+        "cons": [
+          "Not available on mobile",
+          "Requires powerful hardware",
+          "Longer match times"
+        ]
+      }
+    ]
+  },
+
+  "popularityCommunity": {
+    "games": [
+      {
+        "name": "Stumble Guys",
+        "activePlayers": "50M+ Monthly Players 🌍",
+        "socialMedia": "Huge TikTok & YouTube presence",
+        "tournaments": "Community & creator events",
+        "engagement": "Short clips, funny fails, casual gameplay"
+      },
+      {
+        "name": "Fall Guys",
+        "activePlayers": "30M+ Registered Players",
+        "socialMedia": "Strong console & PC community",
+        "tournaments": "Seasonal competitive events",
+        "engagement": "Strategy guides, speedruns, squad plays"
+      }
+    ]
+  },
+
+  "pricingIAP": {
+    "games": [
+      {
+        "name": "Stumble Guys",
+        "price": "Free",
+        "premiumFeatures": "Skins, emotes, season pass 🎫",
+        "currency": "Gems, Tokens",
+        "specialOffers": "Limited-time bundles"
+      },
+      {
+        "name": "Fall Guys",
+        "price": "Free (Epic Games)",
+        "premiumFeatures": "Show-Bucks, Battle Pass",
+        "currency": "Show-Bucks",
+        "specialOffers": "Crossover cosmetic packs"
+      }
+    ]
+  },
+
+  "deviceCompatibility": {
+    "games": [
+      {
+        "name": "Stumble Guys",
+        "devices": "Android & iOS",
+        "osVersion": "Android 6.0+ / iOS 11+",
+        "crossPlatform": "Mobile only",
+        "pcConsole": "Playable via emulators"
+      },
+      {
+        "name": "Fall Guys",
+        "devices": "PC & Consoles",
+        "osVersion": "Windows 10+ / Console OS",
+        "crossPlatform": "Yes (Epic Account)",
+        "pcConsole": "Official PC & Console support"
+      }
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Which game is better for mobile users?",
+      "answer": "Stumble Guys 📱 is the best choice for mobile gaming."
+    },
+    {
+      "question": "Which game has better graphics?",
+      "answer": "Fall Guys 🌈 offers more polished and high-quality visuals."
+    },
+    {
+      "question": "Which game is more competitive?",
+      "answer": "Fall Guys 🏆 is more skill-based and competitive."
+    },
+    {
+      "question": "Which game is better for quick fun?",
+      "answer": "Stumble Guys 🎉 is perfect for quick, casual matches."
+    }
+  ]
+}
