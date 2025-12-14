@@ -4,7 +4,7 @@
   <!-- Section Homepage -->
   <url>
     <loc>https://blog.blueverse.space/game-system/system.html</loc>
-    <lastmod>2025-12-13</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -183,5 +183,38 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
+
+
+  <!--14 Dec Must Update 14 Jan -->
+  
+
+
+
+<url>
+    <loc>https://blog.blueverse.space/game-system/modern-combat-5.html</loc>
+     <lastmod>2025-12-14T17:00:00+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://blog.blueverse.space/game-system/mobile-legends-bang-bang.html</loc>
+     <lastmod>2025-12-14T18:00:00+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  
+  <url>
+    <loc>https://blog.blueverse.space/game-system/arena-of-valor.html</loc>
+     <lastmod>2025-12-14T19:00:00+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+
 
 </urlset>

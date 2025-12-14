@@ -1,0 +1,134 @@
+{
+  "shortIntro": {
+    "title": "What Your Device Needs for Smooth Arena of Valor Gameplay ⚔️📱",
+    "para1": "Arena of Valor (AOV) is a fast-paced MOBA with stunning graphics, flashy skills, and epic team fights. To slay in the arena, your device needs to handle heavy rendering, smooth animations, and lag-free input.",
+    "para2": "Quick skill combos, flawless ultimates, and smooth team fights heavily depend on your device’s GPU, RAM, and cooling system. The better your hardware, the more you’ll dominate the battlefield without random skill lags ruining your plays!"
+  },
+
+  "intro": "Here’s the full updated minimum and recommended specifications to enjoy Arena of Valor on Android and iOS. Tested by pro gamers and casual noobs alike 😎🔥.",
+
+  "minimum": {
+    "OS Version": "Android 6.0 or higher",
+    "RAM": "2GB minimum (you can barely survive in mid lane with this 😅)",
+    "CPU": "Quad/Octa-Core processor 1.5–1.8GHz",
+    "GPU": "Adreno 505 / Mali-T720 or equivalent",
+    "Storage": "2–3GB free space",
+    "Internet": "Stable internet for smooth PvP"
+  },
+
+  "recommended": {
+    "OS Version": "Android 10 or higher",
+    "RAM": "4GB–6GB+ for ultra smooth plays 💨",
+    "CPU": "Snapdragon 730 / 750 / 860 or newer",
+    "GPU": "Adreno 618 / 640 or better",
+    "Storage": "4GB+ recommended (for skins, heroes & updates)",
+    "Internet": "Fast Wi-Fi or 5G – lag is a hero killer!"
+  },
+
+  "ios_intro": "Arena of Valor is extremely optimized for iOS devices 🍏. Smooth skills, zero lag, and perfect team fight animations thanks to Apple’s GPU magic.",
+
+  "ios_minimum": [
+    { "title": "OS Version", "value": "iOS 11 or later" },
+    { "title": "Device", "value": "iPhone 7 / 7 Plus or newer" },
+    { "title": "Storage", "value": "2–3GB free space minimum" }
+  ],
+
+  "ios_recommended": [
+    { "title": "OS Version", "value": "iOS 13 or later" },
+    { "title": "Device", "value": "iPhone X / XR / 11 Series or newer" },
+    { "title": "Storage", "value": "4GB+ free space recommended for skins & updates" }
+  ],
+
+  "fps_intro": "FPS matters in MOBAs! Higher FPS = smoother skill combos, less input lag, and happier teammates 😎.",
+
+  "fps_list": [
+    { "category": "Low-End Devices", "fps": "24–30 FPS (barely playable 😬)" },
+    { "category": "Mid-Range Devices", "fps": "40–50 FPS (smooth enough for casual plays)" },
+    { "category": "High-End Devices", "fps": "60 FPS+ (pro-level skill combos and zero lag 💪)" }
+  ],
+
+  "settings_intro": "Optimizing your graphics settings is key! Less lag = more pentakills 🏆.",
+
+  "low_end": [
+    { "title": "Graphics Quality", "value": "Low or Default for stable FPS" },
+    { "title": "Frame Rate", "value": "Standard mode only (no pro skills here 😅)" },
+    { "title": "Effects", "value": "Reduce particle effects to see minions clearly" },
+    { "title": "Background Apps", "value": "Close all to avoid rage quits 😡" }
+  ],
+
+  "high_end": [
+    { "title": "Graphics Quality", "value": "High / Ultra (if you like pretty skills ✨)" },
+    { "title": "Frame Rate", "value": "Enable High FPS (60 FPS+) for pro-level combos" },
+    { "title": "Thermal Control", "value": "Avoid heating or your phone might DC mid-teamfight 🔥" },
+    { "title": "Storage Speed", "value": "Keep 1GB+ free for faster hero & map loading" }
+  ],
+
+  "sectionIntro": "These Android & iOS devices give you the ultimate Arena of Valor experience with smooth hero animations and zero lag.",
+
+  "androidDevices": [
+    "Samsung Galaxy S21 / S22 / S23 / S24 Series",
+    "Xiaomi Redmi Note 12 / 13 Pro / Poco X5 / F6",
+    "Realme GT Neo 2 / 3 / 4",
+    "OnePlus Nord 3 / 4 / 5",
+    "Google Pixel 6 / 7 / 8 Series",
+    "Infinix Zero / GT Series"
+  ],
+
+  "iosDevices": [
+    "iPhone X / XR / XS",
+    "iPhone 11 / 12 / 13 / 14 Series",
+    "iPhone SE 2020 / 2022",
+    "iPad Mini 5 / 6",
+    "iPad Air 3rd Gen+"
+  ],
+
+  "storageIntroText": "Arena of Valor isn’t a small download – skins, heroes, and map updates add up fast. Here’s the storage breakdown 📦:",
+
+  "storageDetails": [
+    { "label": "Base Game Size", "value": "≈ 1.5GB" },
+    { "label": "HD Texture Pack", "value": "300–500MB (optional, but gorgeous ✨)" },
+    { "label": "Seasonal Updates", "value": "200–600MB per season" },
+    { "label": "Total Required Space", "value": "3–4GB recommended for smooth play" }
+  ],
+
+  "faqIntroText": "FAQs for Arena of Valor players – answers to keep you slaying without rage quitting 😎:",
+
+  "faqList": [
+    {
+      "question": "Is Arena of Valor heavy on phones?",
+      "answer": "Yes, especially during 5v5 team fights. A strong GPU and 4GB+ RAM makes your life easier."
+    },
+    {
+      "question": "Can my phone run AOV at 60 FPS?",
+      "answer": "Only mid-range or high-end devices can handle 60 FPS with Ultra settings. Low-end phones will struggle."
+    },
+    {
+      "question": "Why does my phone heat up during AOV?",
+      "answer": "All the flashy skills, map details, and particle effects make your phone work hard. Close apps and stay cool 😅."
+    }
+  ],
+
+  "title": "Device Comparison Insights 🔍",
+  "description": "Compare real-world AOV performance, FPS stability, graphics handling, and input smoothness for top Android & iOS devices.",
+
+  "rows": [
+    {
+      "device1": "Samsung Galaxy S22",
+      "device2": "Xiaomi Redmi Note 13 Pro",
+      "performance": "Both handle 5v5 matches smoothly with minimal lag.",
+      "notes": "S22 offers higher FPS in Ultra mode, Note 13 Pro stays cooler over long matches."
+    },
+    {
+      "device1": "Realme GT Neo 3",
+      "device2": "Poco F6",
+      "performance": "Both devices run AOV with high-quality textures without stutter.",
+      "notes": "GT Neo 3 excels in long matches, Poco F6 has slightly faster hero loading."
+    },
+    {
+      "device1": "iPhone 13",
+      "device2": "iPhone XR",
+      "performance": "Both run smooth 60 FPS in team fights.",
+      "notes": "iPhone 13 shines with higher-quality hero effects, XR is solid but may drop a frame during heavy clashes."
+    }
+  ]
+}

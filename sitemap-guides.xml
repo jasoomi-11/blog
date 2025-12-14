@@ -20,7 +20,7 @@
   
   <url>
     <loc>https://blog.blueverse.space/guides/coc/all.html</loc>
-    <lastmod>2025-12-13</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -136,7 +136,47 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  
+  
+  
+  
+  
+   <!-- 14 Dec to 14 Jan -->
+  
+  
+  
+  
+  
+   <url>
+    <loc>https://blog.blueverse.space/guides/coc/th11-13.html</loc>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
  
- 
+  <url>
+    <loc>https://blog.blueverse.space/guides/coc/th14-16.html</loc>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+
+<url>
+    <loc>https://blog.blueverse.space/guides/coc/clan-wars.html</loc>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  
+  <url>
+    <loc>https://blog.blueverse.space/guides/coc/farming-resource.html</loc>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+
 
 </urlset>

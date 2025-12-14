@@ -1,70 +1,74 @@
 {
   "games": [
     {
-      "badge": "New",
+      "badge": "🔥Battle Royale Clash🔥",
       "thumb": "/assets/comparison/pubg-cod.webp",
       "title": "PUBG VS Call Of Duty",
-      "subtitle": "Hard Comparison Between Big Games",
+      "subtitle": "Epic Shooter Face-off: Who Dominates the Battleground?",
       "link": "/comparison/pubg-cod.html"
     },
     {
-      "badge": "VS",
+      "badge": "⚡Anime Action Duel⚡",
       "thumb": "/assets/comparison/genshine-honkai.webp",
       "title": "Genshine VS Honkai",
-      "subtitle": "Hard Comparison Between Big Games",
+      "subtitle": "Anime Heroes Battle: Stunning Skills & Explosions Galore!",
       "link": "/comparison/genshine-honkai.html"
     },
     {
-      "badge": "VS",
+      "badge": "🏰Clash Of Kingdoms🏹",
       "thumb": "/assets/comparison/coc-cr.webp",
       "title": "Clash Of Clans VS Clash Royale",
-      "subtitle": "Hard Comparison Between Big Games",
+      "subtitle": "Strategy Legends Face-off: Build, Battle, Conquer!",
       "link": "/comparison/coc-cr.html"
     },
     {
-      "badge": "VS",
+      "badge": "🎮Block Battle🎨",
       "thumb": "/assets/comparison/roblox-minecraft.webp",
-      "title": " Minecraft VS Roblox",
-      "subtitle": "Hard Comparison Between Big Games",
+      "title": "Minecraft VS Roblox",
+      "subtitle": "Creative Worlds Collide: Build, Explore, Survive!",
       "link": "/comparison/minecraft-roblox.html"
     },
-    
     {
-      "badge": "VS",
+      "badge": "💥Battle Royale Madness💥",
       "thumb": "/assets/comparison/pubg-fortnite.webp",
-      "title": " PUBG VS Fortnite",
-      "subtitle": "Will Your Favorite Wins🔥😍",
+      "title": "PUBG VS Fortnite",
+      "subtitle": "Your Favorite Royale Showdown: Guns, Builds & Glory!",
       "link": "/comparison/pubg-fortnite.html"
     },
-    
     {
-      "badge": "VS",
+      "badge": "🏎️Speed vs Realism🏁",
       "thumb": "/assets/comparison/asphalt-real-racing-3.webp",
-      "title": " Asphalt 9 VS Real Racing 3",
-      "subtitle": "Will Your Favorite Wins🔥😍",
+      "title": "Asphalt 9 VS Real Racing 3",
+      "subtitle": "Fast Cars Face-off: Cinematic Thrills or Realistic Racing?",
       "link": "/comparison/asphalt-9-real-racing-3.html"
     },
-    
-    
-     {
-      "badge": "Stumble Or Fall 🤔",
+    {
+      "badge": "🤹‍♂️Wacky Fun Showdown🤔",
       "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/stumble-fall.webp",
-      "title": " Stumble Guys VS Fall Guys ",
-      "subtitle": "Boss😎 STUMBLE OR FALL, Which You Want",
+      "title": "Stumble Guys VS Fall Guys",
+      "subtitle": "Crazy Obstacle Madness: Who Will Stumble or Fall First?",
       "link": "/comparison/stumble-guys-fall-guys.html"
     },
-    
     {
-      "badge": "Old Or New 🫣🤔",
+      "badge": "🛡️Old vs New Brawlers🕹️",
       "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/brawl-squad.webp",
-      "title": " Brawl Stars VS Squad Busters",
-      "subtitle": "Old and New Comparison Time⏳",
+      "title": "Brawl Stars VS Squad Busters",
+      "subtitle": "Classic Brawls vs New Squad Action: Who Wins Your Heart?",
       "link": "/comparison/brawl-stars-squad-busters.html"
+    },
+    {
+      "badge": "🪖Shooter Clash🔥",
+      "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/call-of-duty-modern-combat-5.webp",
+      "title": "Call Of Duty: Mobile VS Modern Combat 5",
+      "subtitle": "Intense Mobile Shooter Battle: Guns, Tactics & Victory!",
+      "link": "/comparison/call-of-duty-modern-combat-5.html"
+    },
+    {
+      "badge": "🔥Epic MOBA Clash🔥",
+      "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/mobile-legends-arena-valor.webp",
+      "title": "Mobile Legends VS Arena OF Valor",
+      "subtitle": "Full Detailed Comparison Between Two Legendary Mobile MOBAs",
+      "link": "/comparison/mobile-legends-arena-valor.html"
     }
-    
-    
-    
-    
-    
   ]
 }

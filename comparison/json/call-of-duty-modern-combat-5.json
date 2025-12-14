@@ -1,0 +1,185 @@
+{
+  "gameComparison": {
+    "games": [
+      {
+        "name": "Call of Duty: Mobile",
+        "thumbnail": "/assets/thumb/call-of-duty-mobile.webp",
+        "genre": "FPS / Battle Royale 🎯",
+        "developer": "TiMi Studio Group (Tencent)",
+        "release": "2019",
+        "gameplay": "Fast-paced shooter with multiplayer, Battle Royale, ranked leagues, operator skills, iconic maps, and legendary guns. Shoot, loot, repeat! 🔫💥"
+      },
+      {
+        "name": "Modern Combat 5",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/modern-combat-5.webp",
+        
+        
+        
+        "genre": "FPS / Multiplayer Shooter 🔥",
+        "developer": "Gameloft",
+        "release": "2014",
+        "gameplay": "Military-style tactical shooter with campaign, multiplayer, squad missions, jetpacks, and epic PvP battles. Feel like a mini action hero! 🪖🚀"
+      }
+    ]
+  },
+
+  "systemRequirements": {
+    "games": [
+      {
+        "name": "Call of Duty: Mobile",
+        "platform": "Android / iOS",
+        "storage": "3–4 GB 📦",
+        "ram": "3–6 GB Recommended",
+        "cpuGpu": "Mid-range to Flagship (Snapdragon 720G/855+, A12+)",
+        "fps": "30–120 FPS (device dependent)",
+        "graphics": "High-quality graphics with HDR effects 🌆",
+        "online": "Required",
+        "battery": "High – bring charger! ⚡"
+      },
+      {
+        "name": "Modern Combat 5",
+        "platform": "Android / iOS",
+        "storage": "2–3 GB 📦",
+        "ram": "2–4 GB",
+        "cpuGpu": "Mid-range chipsets (Snapdragon 660+, A10+)",
+        "fps": "30–60 FPS",
+        "graphics": "Decent mobile graphics, cinematic cutscenes 🎬",
+        "online": "Required for multiplayer",
+        "battery": "Moderate"
+      }
+    ]
+  },
+
+  "keyFeatures": {
+    "games": [
+      {
+        "name": "Call of Duty: Mobile",
+        "modes": "Team Deathmatch, Domination, Search & Destroy, Gunfight, BR, Ranked",
+        "playerLimits": "Up to 100 in Battle Royale, 10v10 in Multiplayer",
+        "graphicsStyle": "High-quality realistic FPS graphics with HDR & shadows 🌟",
+        "customization": "Operator skins, weapon camos, attachments, loadouts",
+        "events": "Seasonal events, collaborations, tournaments 🏆",
+        "mechanics": "Recoil control, operator skills, scorestreaks, fast movement, tactical gameplay"
+      },
+      {
+        "name": "Modern Combat 5",
+        "modes": "Campaign, Multiplayer, Co-op Missions, Squad Battles",
+        "playerLimits": "8–10 players per match",
+        "graphicsStyle": "Military realism with colorful maps 🎨",
+        "customization": "Weapon upgrades, soldier classes, perks, jetpacks",
+        "events": "Weekly missions, limited-time events",
+        "mechanics": "Tactical shooting, cover system, squad coordination, jetpacks"
+      }
+    ]
+  },
+
+  "prosCons": {
+    "games": [
+      {
+        "name": "Call of Duty: Mobile",
+        "pros": [
+          "Ultra-realistic graphics and smooth FPS gameplay 🎮",
+          "Large player base – always action",
+          "Regular seasonal updates and events",
+          "Battle Royale + Multiplayer in one app 🔫",
+          "Custom loadouts and weapon mastery"
+        ],
+        "cons": [
+          "Battery hog – better keep charger handy ⚡",
+          "Blueprints and skins can be grindy ⏳",
+          "Some matches can be laggy on low-end devices"
+        ]
+      },
+      {
+        "name": "Modern Combat 5",
+        "pros": [
+          "Tactical gameplay with squad-based strategy 🪖",
+          "Fun campaign with cinematic cutscenes 🎬",
+          "Lightweight compared to CODM",
+          "Decent multiplayer with cooperative missions"
+        ],
+        "cons": [
+          "Graphics not as modern as CODM 😅",
+          "Player base smaller than CODM",
+          "Some weapon upgrades require grind or IAP"
+        ]
+      }
+    ]
+  },
+
+  "popularityCommunity": {
+    "games": [
+      {
+        "name": "Call of Duty: Mobile",
+        "activePlayers": "Over 100M Monthly Players 🌍",
+        "socialMedia": "20M+ Followers",
+        "tournaments": "CODM eSports & Seasonal Leagues",
+        "engagement": "YouTube guides, TikTok clips, and fan competitions"
+      },
+      {
+        "name": "Modern Combat 5",
+        "activePlayers": "Over 20M Monthly Players",
+        "socialMedia": "3M+ Followers",
+        "tournaments": "Community tournaments & in-game events",
+        "engagement": "Tactical guides, fan-made clips, squad co-op challenges"
+      }
+    ]
+  },
+
+  "pricingIAP": {
+    "games": [
+      {
+        "name": "Call of Duty: Mobile",
+        "price": "Free",
+        "premiumFeatures": "Weapon skins, battle pass, seasonal bundles",
+        "currency": "COD Points, Credits",
+        "specialOffers": "Limited-time crates, premium packs, legendary drops"
+      },
+      {
+        "name": "Modern Combat 5",
+        "price": "Free",
+        "premiumFeatures": "Gold, credits, weapon upgrades, skins",
+        "currency": "Gold, Credits",
+        "specialOffers": "Limited bundles, premium soldier packs"
+      }
+    ]
+  },
+
+  "deviceCompatibility": {
+    "games": [
+      {
+        "name": "Call of Duty: Mobile",
+        "devices": "Android & iOS",
+        "osVersion": "Android 7.0+ / iOS 11+",
+        "crossPlatform": "Mobile only",
+        "pcConsole": "Playable via GameLoop / Emulators"
+      },
+      {
+        "name": "Modern Combat 5",
+        "devices": "Android & iOS",
+        "osVersion": "Android 5.0+ / iOS 10+",
+        "crossPlatform": "Mobile only",
+        "pcConsole": "Playable via emulators unofficially"
+      }
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Which game has better graphics?",
+      "answer": "Call of Duty: Mobile takes the crown for modern FPS graphics and realism 🎮✨."
+    },
+    {
+      "question": "Which game is better for casual fun?",
+      "answer": "Modern Combat 5 is easier to jump in and play without worrying about grinding 🪖😎."
+    },
+    {
+      "question": "Which game has more competitive multiplayer?",
+      "answer": "COD Mobile with its ranked leagues, Battle Royale, and 10v10 matches keeps the action intense!"
+    },
+    {
+      "question": "Which game is lighter for low-end devices?",
+      "answer": "Modern Combat 5 runs smoother on older phones with less RAM."
+    }
+  ]
+}
