@@ -1,0 +1,134 @@
+{
+  "mobile": {
+    "name": "iPhone 15 Pro Max",
+    "thumbs": [
+      "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/iphone-15-pro-max.webp"
+    
+    ],
+    "summary": "iPhone 15 Pro Max — Apple’s flagship with A17 Pro Bionic chip, 120Hz ProMotion OLED, 8GB RAM, 256GB/512GB/1TB storage, and advanced thermal design — perfect for high-end gaming & smooth performance.",
+    "priceRange": "Varies by region",
+
+    "countries": [
+      {
+        "flag": "🇺🇸",
+        "country": "United States",
+        "currency": "USD",
+        "displayPrice": "$1,199 – $1,599",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "$1,199" },
+          { "ram": "8GB / 512GB", "price": "$1,399" },
+          { "ram": "8GB / 1TB", "price": "$1,599" }
+        ],
+        "colors": ["Titanium Blue", "Titanium White", "Titanium Black"]
+      },
+      {
+        "flag": "🇮🇳",
+        "country": "India",
+        "currency": "INR",
+        "displayPrice": "₹1,49,900 – ₹1,99,900",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "₹1,49,900" },
+          { "ram": "8GB / 512GB", "price": "₹1,69,900" },
+          { "ram": "8GB / 1TB", "price": "₹1,99,900" }
+        ],
+        "colors": ["Titanium Blue", "Titanium White", "Titanium Black"]
+      },
+      {
+        "flag": "🇵🇰",
+        "country": "Pakistan",
+        "currency": "PKR",
+        "displayPrice": "Rs 430,000 – Rs 575,000",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "Rs 430,000" },
+          { "ram": "8GB / 512GB", "price": "Rs 495,000" },
+          { "ram": "8GB / 1TB", "price": "Rs 575,000" }
+        ],
+        "colors": ["Titanium Blue", "Titanium White", "Titanium Black"]
+      },
+      {
+        "flag": "🇬🇧",
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "displayPrice": "£1,099 – £1,449",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "£1,099" },
+          { "ram": "8GB / 512GB", "price": "£1,249" },
+          { "ram": "8GB / 1TB", "price": "£1,449" }
+        ],
+        "colors": ["Titanium Blue", "Titanium White", "Titanium Black"]
+      },
+      {
+        "flag": "🇨🇦",
+        "country": "Canada",
+        "currency": "CAD",
+        "displayPrice": "CA$1,599 – CA$2,149",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "CA$1,599" },
+          { "ram": "8GB / 512GB", "price": "CA$1,799" },
+          { "ram": "8GB / 1TB", "price": "CA$2,149" }
+        ],
+        "colors": ["Titanium Blue", "Titanium White", "Titanium Black"]
+      },
+      {
+        "flag": "🇦🇺",
+        "country": "Australia",
+        "currency": "AUD",
+        "displayPrice": "A$1,899 – A$2,399",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "A$1,899" },
+          { "ram": "8GB / 512GB", "price": "A$2,099" },
+          { "ram": "8GB / 1TB", "price": "A$2,399" }
+        ],
+        "colors": ["Titanium Blue", "Titanium White", "Titanium Black"]
+      },
+      {
+        "flag": "🇦🇪",
+        "country": "United Arab Emirates",
+        "currency": "AED",
+        "displayPrice": "AED 4,400 – AED 5,900",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "AED 4,400" },
+          { "ram": "8GB / 512GB", "price": "AED 4,900" },
+          { "ram": "8GB / 1TB", "price": "AED 5,900" }
+        ],
+        "colors": ["Titanium Blue", "Titanium White", "Titanium Black"]
+      },
+      {
+        "flag": "🇧🇩",
+        "country": "Bangladesh",
+        "currency": "BDT",
+        "displayPrice": "৳ 2,70,000 – ৳ 3,60,000",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "৳ 2,70,000" },
+          { "ram": "8GB / 512GB", "price": "৳ 3,10,000" },
+          { "ram": "8GB / 1TB", "price": "৳ 3,60,000" }
+        ],
+        "colors": ["Titanium Blue", "Titanium White", "Titanium Black"]
+      },
+      {
+        "flag": "🇵🇭",
+        "country": "Philippines",
+        "currency": "PHP",
+        "displayPrice": "₱ 79,000 – ₱ 1,05,000",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "₱ 79,000" },
+          { "ram": "8GB / 512GB", "price": "₱ 90,000" },
+          { "ram": "8GB / 1TB", "price": "₱ 1,05,000" }
+        ],
+        "colors": ["Titanium Blue", "Titanium White", "Titanium Black"]
+      },
+      {
+        "flag": "🇪🇺",
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "displayPrice": "€ 1,350 – € 1,800",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "€ 1,350" },
+          { "ram": "8GB / 512GB", "price": "€ 1,550" },
+          { "ram": "8GB / 1TB", "price": "€ 1,800" }
+        ],
+        "colors": ["Titanium Blue", "Titanium White", "Titanium Black"]
+      }
+    ]
+  }
+}

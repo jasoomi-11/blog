@@ -20,7 +20,7 @@
   
   <url>
     <loc>https://blog.blueverse.space/guides/coc/all.html</loc>
-    <lastmod>2025-12-14</lastmod>
+    <lastmod>2025-12-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -177,6 +177,20 @@
     <priority>0.8</priority>
   </url>
 
+
+
+
+
+
+
+   <!-- 15 Dec to 15 Jan -->
+
+  <url>
+    <loc>https://blog.blueverse.space/guides/coc/heroes-guide.html</loc>
+    <lastmod>2025-12-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
 
 </urlset>

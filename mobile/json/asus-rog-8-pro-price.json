@@ -1,0 +1,124 @@
+{
+  "mobile": {
+    "name": "Asus ROG Phone 8 Pro",
+    "thumbs": [
+      "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/asus-rog-8-pro.webp"
+      
+    ],
+    "summary": "Asus ROG Phone 8 Pro — next-gen flagship gaming smartphone powered by Snapdragon 8 Gen 3, 165Hz LTPO AMOLED, premium cooling system, and esports-grade performance for extreme mobile gaming 🎮🔥.",
+    "priceRange": "Varies by region",
+
+    "countries": [
+      {
+        "flag": "🇺🇸",
+        "country": "United States",
+        "currency": "USD",
+        "displayPrice": "$999 – $1,199",
+        "variants": [
+          { "ram": "16GB / 512GB", "price": "$999" },
+          { "ram": "24GB / 1TB", "price": "$1,199" }
+        ],
+        "colors": ["Phantom Black"]
+      },
+      {
+        "flag": "🇮🇳",
+        "country": "India",
+        "currency": "INR",
+        "displayPrice": "₹94,999 – ₹1,09,999",
+        "variants": [
+          { "ram": "16GB / 512GB", "price": "₹94,999" },
+          { "ram": "24GB / 1TB", "price": "₹1,09,999" }
+        ],
+        "colors": ["Phantom Black"]
+      },
+      {
+        "flag": "🇵🇰",
+        "country": "Pakistan",
+        "currency": "PKR",
+        "displayPrice": "Rs 410,000 – Rs 470,000",
+        "variants": [
+          { "ram": "16GB / 512GB", "price": "Rs 410,000" },
+          { "ram": "24GB / 1TB", "price": "Rs 470,000" }
+        ],
+        "colors": ["Phantom Black"]
+      },
+      {
+        "flag": "🇬🇧",
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "displayPrice": "£950 – £1,100",
+        "variants": [
+          { "ram": "16GB / 512GB", "price": "£950" },
+          { "ram": "24GB / 1TB", "price": "£1,100" }
+        ],
+        "colors": ["Phantom Black"]
+      },
+      {
+        "flag": "🇨🇦",
+        "country": "Canada",
+        "currency": "CAD",
+        "displayPrice": "CA$1,350 – CA$1,600",
+        "variants": [
+          { "ram": "16GB / 512GB", "price": "CA$1,350" },
+          { "ram": "24GB / 1TB", "price": "CA$1,600" }
+        ],
+        "colors": ["Phantom Black"]
+      },
+      {
+        "flag": "🇦🇺",
+        "country": "Australia",
+        "currency": "AUD",
+        "displayPrice": "A$1,550 – A$1,800",
+        "variants": [
+          { "ram": "16GB / 512GB", "price": "A$1,550" },
+          { "ram": "24GB / 1TB", "price": "A$1,800" }
+        ],
+        "colors": ["Phantom Black"]
+      },
+      {
+        "flag": "🇦🇪",
+        "country": "United Arab Emirates",
+        "currency": "AED",
+        "displayPrice": "AED 4,300 – AED 5,000",
+        "variants": [
+          { "ram": "16GB / 512GB", "price": "AED 4,300" },
+          { "ram": "24GB / 1TB", "price": "AED 5,000" }
+        ],
+        "colors": ["Phantom Black"]
+      },
+      {
+        "flag": "🇧🇩",
+        "country": "Bangladesh",
+        "currency": "BDT",
+        "displayPrice": "৳ 135,000 – ৳ 155,000",
+        "variants": [
+          { "ram": "16GB / 512GB", "price": "৳ 135,000" },
+          { "ram": "24GB / 1TB", "price": "৳ 155,000" }
+        ],
+        "colors": ["Phantom Black"]
+      },
+      {
+        "flag": "🇵🇭",
+        "country": "Philippines",
+        "currency": "PHP",
+        "displayPrice": "₱ 70,000 – ₱ 82,000",
+        "variants": [
+          { "ram": "16GB / 512GB", "price": "₱ 70,000" },
+          { "ram": "24GB / 1TB", "price": "₱ 82,000" }
+        ],
+        "colors": ["Phantom Black"]
+      },
+      {
+        "flag": "🇪🇺",
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "displayPrice": "€ 1,050 – € 1,250",
+        "variants": [
+          { "ram": "16GB / 512GB", "price": "€ 1,050" },
+          { "ram": "24GB / 1TB", "price": "€ 1,250" }
+        ],
+        "colors": ["Phantom Black"]
+      }
+    ]
+  }
+}

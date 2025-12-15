@@ -24,8 +24,8 @@
     "thumb": "/assets/thumb/nobia-redmagic-10-pro.webp",
     "badge": "overpowered 🫵",
     "badgeColor": "red",
-    "link": "/mobile/nobia-redmagic-10-pro.html"
-    
+    "link": "/mobile/nobia-redmagic-10-pro.html",
+    "top":"true"
     
     
     
@@ -37,7 +37,7 @@
     "subtitle": "For Richers Like you🫵",
     "thumb": "/assets/thumb/sg-s24-ultra.webp",
     "badge": "Undisputed 🔥",
-    "badgeColor": "Green",
+    "badgeColor": "darksilver",
     "link": "/mobile/sg-s24-ultra.html",
     "top":"true"
   },
@@ -49,9 +49,45 @@
     "subtitle": "For Richers Like you🫵",
     "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/infinix-gt-10-pro.webp",
     "badge": "Undisputed 🔥",
-    "badgeColor": "Green",
+    "badgeColor": "Orange",
     "link": "/mobile/infinix-gt-10-pro.html",
     "top":"true"
+  },
+  
+  
+  
+  {
+    "title": "Asus Rog Phone 8 Pro ",
+    "subtitle": "Buy to Becomes Top Gammer 🎮",
+    "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/asus-rog-8-pro.webp",
+    "badge": "BOOM 💥🤯",
+    "badgeColor": "Green",
+    "link": "/mobile/asus-rog-8-pro.html",
+    "top":"true"
+  },
+  
+  {
+    "title": "Iphone 15 Pro Max ",
+    "subtitle": "Lets Bite  Expansive and Energetic Apple",
+    "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/iphone-15-pro-max.webp",
+    "badge": "BOOM 💥🤯",
+    "badgeColor": "silver",
+    "link": "/mobile/iphone-15-pro-max.html",
+    "top":"true"
+  },
+  
+   {
+    "title": "Top 5 Gaming Mobiles ",
+    "subtitle": "Check Out Top gaming Mobile at Glance",
+    "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/top-5-gaming.webp",
+    "badge": "BOOM 💥🤯",
+    "badgeColor": "silver",
+    "link": "/mobile/top-5-gaming-mobiles.html"
+  
   }
+  
+  
+  
+  
 
 ]

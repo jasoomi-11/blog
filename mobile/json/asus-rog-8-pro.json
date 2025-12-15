@@ -1,0 +1,161 @@
+{
+  "gameTitle": "Asus ROG Phone 8 Pro",
+  "subtitle": "An elite gaming flagship engineered for maximum FPS stability, desktop-class performance, advanced cooling, and competitive esports-level gameplay 🎮🔥",
+
+  "posters": [
+    "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/asus-rog-8-pro.webp"
+    
+  ],
+
+  "performance": {
+    "cpu": "Qualcomm Snapdragon 8 Gen 3 (3.3GHz Prime Core)",
+    "gpu": "Adreno 750",
+    "ram": "16GB / 24GB LPDDR5X",
+    "storage": "512GB / 1TB UFS 4.0",
+    "cooling": "Redesigned GameCool 8 Cooling System with Rapid-Cooling Conductor"
+  },
+
+  "benchmark": {
+    "antutu": "2,100,000+",
+    "geekbench": "Single-Core: 2250, Multi-Core: 7200"
+  },
+
+  "display": {
+    "refreshRate": "165Hz Adaptive",
+    "touchRate": "720Hz Touch Sampling",
+    "resolution": "FHD+ (2400 × 1080)",
+    "panelType": "Samsung AMOLED LTPO HDR10+"
+  },
+
+  "battery": {
+    "size": "5500mAh Dual-Cell",
+    "fastCharging": "65W HyperCharge",
+    "gamingDrain": "7% – 11% per hour (optimized gaming load)"
+  },
+
+  "temperature": {
+    "heatLevel": "35°C – 41°C",
+    "fpsStability": "Excellent (94% – 97%)"
+  },
+
+  "heavyGames": [
+    "PUBG Mobile",
+    "BGMI",
+    "Call of Duty Mobile",
+    "Warzone Mobile",
+    "Genshin Impact",
+    "Honkai Star Rail",
+    "Asphalt 9",
+    "Delta Force Mobile",
+    "Fortnite"
+  ],
+
+  "playability": {
+    "PUBG Mobile": "Ultra HD + 120FPS (Global / Beta Supported)",
+    "Call of Duty Mobile": "Very High Graphics + 120 FPS",
+    "Warzone Mobile": "High Graphics + Stable FPS",
+    "Genshin Impact": "60FPS Locked on High/Ultra",
+    "Fortnite": "Epic Quality + 60FPS Stable"
+  },
+
+  "fpsBenchmarks": [
+    {
+      "game": "PUBG Mobile",
+      "settings": "Ultra HD",
+      "fps": "90–120 FPS Stable"
+    },
+    {
+      "game": "COD Mobile",
+      "settings": "Max",
+      "fps": "120 FPS Locked"
+    },
+    {
+      "game": "Genshin Impact",
+      "settings": "High",
+      "fps": "58–60 FPS"
+    },
+    {
+      "game": "Warzone Mobile",
+      "settings": "High",
+      "fps": "55–60 FPS"
+    }
+  ],
+
+  "thermalTests": [
+    {
+      "game": "PUBG Mobile",
+      "heat15": "Cool",
+      "heat30": "Slight Warm",
+      "fpsDrop": "0–1 FPS"
+    },
+    {
+      "game": "COD Mobile",
+      "heat15": "Normal",
+      "heat30": "Warm",
+      "fpsDrop": "0 FPS"
+    },
+    {
+      "game": "Genshin Impact",
+      "heat15": "Warm",
+      "heat30": "Hot but controlled",
+      "fpsDrop": "2–3 FPS"
+    },
+    {
+      "game": "Warzone Mobile",
+      "heat15": "Warm",
+      "heat30": "Hot",
+      "fpsDrop": "3–5 FPS"
+    }
+  ],
+
+  "batteryTests": [
+    {
+      "game": "PUBG Mobile",
+      "drop": "11%"
+    },
+    {
+      "game": "COD Mobile",
+      "drop": "9%"
+    },
+    {
+      "game": "Genshin Impact",
+      "drop": "15%"
+    }
+  ],
+
+  "gamingFeatures": [
+    "AirTrigger 8 Ultrasonic Shoulder Buttons 🎯",
+    "X Mode Ultra Performance Engine",
+    "ROG Game Genie Advanced Controls",
+    "AeroActive Cooler X Support",
+    "AI Thermal Management",
+    "Dual Front-Facing Stereo Speakers (Dirac Tuned)",
+    "RGB ROG Vision Matrix Display",
+    "Bypass Charging for Competitive Gaming"
+  ],
+
+  "customTable": {
+    "title": "Advanced Gaming Hardware Overview",
+    "columns": ["Category", "Details", "Performance Impact"],
+    "rows": [
+      ["Cooling System", "GameCool 8 + AeroActive Cooler X", "Outstanding Thermal Control"],
+      ["Gaming Triggers", "AirTrigger 8", "Console-Like Precision"],
+      ["Charging", "65W HyperCharge + Bypass", "Zero Heat While Gaming"],
+      ["Speakers", "Dual Front Stereo", "Immersive Competitive Audio"],
+      ["Build Quality", "Gorilla Glass Victus 2", "Premium & Durable"],
+      ["Software", "ROG UI (Android 14)", "Esports-Optimized"]
+    ]
+  },
+
+  "dynamicList": {
+    "title": "Why ROG Phone 8 Pro Dominates Mobile Gaming 🚀",
+    "items": [
+      "Snapdragon 8 Gen 3 Power",
+      "165Hz LTPO AMOLED Display",
+      "Up to 24GB LPDDR5X RAM",
+      "UFS 4.0 Ultra-Fast Storage",
+      "Desktop-Class Cooling System",
+      "Professional-Grade FPS Stability"
+    ]
+  }
+}

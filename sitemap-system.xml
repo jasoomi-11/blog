@@ -4,7 +4,7 @@
   <!-- Section Homepage -->
   <url>
     <loc>https://blog.blueverse.space/game-system/system.html</loc>
-    <lastmod>2025-12-14</lastmod>
+    <lastmod>2025-12-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -214,6 +214,19 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
+
+
+<!--15 Dec Must Update 15 Jan -->
+  
+
+<url>
+    <loc>https://blog.blueverse.space/game-system/apex-legends-mobile.html</loc>
+     <lastmod>2025-12-15T19:00:00+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
 
 
 

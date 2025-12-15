@@ -1,0 +1,161 @@
+{
+  "gameTitle": "iPhone 15 Pro Max",
+  "subtitle": "Apple’s ultimate flagship smartphone designed for top-tier gaming, smooth graphics, stable FPS, and efficient thermal performance for competitive and casual gaming 🎮✨",
+
+  "posters": [
+    "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/iphone-15-pro-max.webp"
+
+  ],
+
+  "performance": {
+    "cpu": "Apple A17 Pro Bionic (6-core CPU, 6-core GPU)",
+    "gpu": "Apple 6-core GPU (Metal optimized)",
+    "ram": "8GB LPDDR5X",
+    "storage": "256GB / 512GB / 1TB NVMe",
+    "cooling": "Advanced passive thermal design with stainless steel frame"
+  },
+
+  "benchmark": {
+    "antutu": "1,850,000+",
+    "geekbench": "Single-Core: 2450, Multi-Core: 7400"
+  },
+
+  "display": {
+    "refreshRate": "120Hz ProMotion OLED",
+    "touchRate": "240Hz Touch Sampling",
+    "resolution": "2796 × 1290",
+    "panelType": "Super Retina XDR OLED HDR10"
+  },
+
+  "battery": {
+    "size": "4430mAh Approx.",
+    "fastCharging": "20W Wired / 15W MagSafe",
+    "gamingDrain": "6% – 10% per hour (smooth high FPS gameplay)"
+  },
+
+  "temperature": {
+    "heatLevel": "35°C – 41°C",
+    "fpsStability": "Very Stable (95% – 98%)"
+  },
+
+  "heavyGames": [
+    "PUBG Mobile",
+    "BGMI",
+    "Call of Duty Mobile",
+    "Genshin Impact",
+    "Fortnite",
+    "Honkai Star Rail",
+    "Asphalt 9",
+    "Farlight 84",
+    "Warzone Mobile"
+  ],
+
+  "playability": {
+    "PUBG Mobile": "Ultra HD + 90FPS Stable 🔥",
+    "Call of Duty Mobile": "Max Graphics + 120FPS Stable ⚡",
+    "Genshin Impact": "High Settings + 60FPS Smooth 🌍",
+    "Fortnite": "Epic Quality + 60FPS Stable 🎮",
+    "Honkai Star Rail": "Max Settings, No Lag 🚀"
+  },
+
+  "fpsBenchmarks": [
+    {
+      "game": "PUBG Mobile",
+      "settings": "Ultra HD",
+      "fps": "85–90 FPS Stable"
+    },
+    {
+      "game": "COD Mobile",
+      "settings": "Max",
+      "fps": "120 FPS Stable"
+    },
+    {
+      "game": "Genshin Impact",
+      "settings": "High",
+      "fps": "58–60 FPS"
+    },
+    {
+      "game": "Fortnite",
+      "settings": "Epic",
+      "fps": "60 FPS Stable"
+    }
+  ],
+
+  "thermalTests": [
+    {
+      "game": "PUBG Mobile",
+      "heat15": "Cool 🔵",
+      "heat30": "Warm but stable 🟢",
+      "fpsDrop": "1 FPS Only"
+    },
+    {
+      "game": "COD Mobile",
+      "heat15": "Normal 🟢",
+      "heat30": "Slight Warm 🟡",
+      "fpsDrop": "0–1 FPS"
+    },
+    {
+      "game": "Genshin Impact",
+      "heat15": "Warm 🟡",
+      "heat30": "Hot 🔴",
+      "fpsDrop": "2–3 FPS"
+    },
+    {
+      "game": "Fortnite",
+      "heat15": "Normal 🟢",
+      "heat30": "Warm 🟡",
+      "fpsDrop": "0 FPS"
+    }
+  ],
+
+  "batteryTests": [
+    {
+      "game": "PUBG Mobile",
+      "drop": "8%"
+    },
+    {
+      "game": "COD Mobile",
+      "drop": "7%"
+    },
+    {
+      "game": "Genshin Impact",
+      "drop": "10%"
+    }
+  ],
+
+  "gamingFeatures": [
+    "ProMotion 120Hz OLED Display 🖤",
+    "Haptic Touch Feedback 🎯",
+    "Metal 6-core GPU Optimized for Games ⚡",
+    "Game Mode in iOS 17 🕹️",
+    "Spatial Audio + Dolby Atmos 🔊",
+    "Advanced Thermal Control 🧊",
+    "MagSafe Gaming Accessories Support 🔌",
+    "Premium Ceramic Shield Build 🛡️"
+  ],
+
+  "customTable": {
+    "title": "iPhone 15 Pro Max Gaming Table",
+    "columns": ["Category", "Details", "Performance Impact"],
+    "rows": [
+      ["Cooling System", "Advanced Passive Thermal Design", "Keeps CPU & GPU temps low 🔥❄️"],
+      ["Touch & Display", "120Hz ProMotion OLED", "Ultra-Smooth Graphics & Responsiveness"],
+      ["Battery", "4700mAh + Fast Charging", "Long Gaming Sessions without Throttling"],
+      ["Audio", "Spatial + Dolby Atmos", "Immersive Gaming Experience 🔊"],
+      ["Build Quality", "Stainless Steel Frame + Ceramic Shield", "Durable & Premium 🛡️"],
+      ["Software", "iOS 17 Optimized for Gaming", "Stable FPS & Low Latency 🎮"]
+    ]
+  },
+
+  "dynamicList": {
+    "title": "Key Features",
+    "items": [
+      "A17 Pro Bionic CPU & 6-core Metal GPU",
+      "120Hz ProMotion OLED Display",
+      "8GB LPDDR5X RAM",
+      "Ultra-Low Latency Touch Response",
+      "Advanced Thermal Efficiency",
+      "Top-Tier FPS Stability for Heavy Games"
+    ]
+  }
+}

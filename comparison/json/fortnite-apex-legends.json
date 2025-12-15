@@ -1,0 +1,185 @@
+{
+"gameComparison": {
+"games": [
+{
+"name": "Fortnite Mobile",
+"thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/fortnite.webp",
+
+
+"genre": "Battle Royale & Sandbox 🏝️",
+"developer": "Epic Games",
+"release": "2017 (Mobile ongoing)",
+"gameplay": "Drop in, loot, build crazy forts, and fight 100 players to earn Victory Royale 🏆. Creative modes and sandbox adventures add endless fun 🎨⚔️."
+},
+{
+"name": "Apex Legends Mobile",
+"thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/apex-legends.webp",
+"genre": "Hero Shooter Battle Royale 🔥",
+"developer": "Respawn Entertainment / EA",
+"release": "2022 (Mobile launch)",
+"gameplay": "Squad up with Legends, use unique abilities, and outsmart other teams in fast-paced tactical battles 🎯💥. Teamwork and hero powers are everything!"
+}
+]
+},
+
+"systemRequirements": {
+"games": [
+{
+"name": "Fortnite Mobile",
+"platform": "Android / iOS",
+"storage": "8–10 GB 📦",
+"ram": "4+ GB Recommended",
+"cpuGpu": "Mid to High-end chipset (Snapdragon 720G+/A13+)",
+"fps": "30–60 FPS depending on device 🏎️",
+"graphics": "Vibrant cartoon-style graphics with building effects 🌈🧱",
+"online": "Always online required 🌐",
+"battery": "High due to graphics & constant updates ⚡"
+},
+{
+"name": "Apex Legends Mobile",
+"platform": "Android / iOS",
+"storage": "3–5 GB 📦",
+"ram": "3+ GB Recommended",
+"cpuGpu": "Mid to High-end chipset (Snapdragon 730+/A13+)",
+"fps": "30–60 FPS smooth depending on device ⚡",
+"graphics": "Realistic shooter-style graphics with hero effects 🖌️",
+"online": "Online required 🌐",
+"battery": "Moderate to high depending on play style 🔋"
+}
+]
+},
+
+"keyFeatures": {
+"games": [
+{
+"name": "Fortnite Mobile",
+"modes": "Battle Royale, Zero Build, Creative, Save the World, Limited Time Events 🤹",
+"playerLimits": "Up to 100 players 🧑‍🤝‍🧑",
+"graphicsStyle": "Colorful, cartoonish, dynamic map with evolving environments 🌈",
+"customization": "Skins, emotes, gliders, pickaxes, and seasonal cosmetics 🎭",
+"events": "Weekly challenges, concerts, crossover events 🎤🎬",
+"mechanics": "Building structures, third-person shooting, crafting, loot management 🛠️🔫"
+},
+{
+"name": "Apex Legends Mobile",
+"modes": "Battle Royale (Trios), Team Deathmatch, Arenas (3v3), Limited Time Events 🛡️",
+"playerLimits": "Up to 60 players per BR match 👥",
+"graphicsStyle": "Realistic first/third-person shooter visuals with dynamic hero abilities 🖌️",
+"customization": "Legend skins, weapon skins, banners, seasonal cosmetics ✨",
+"events": "Mobile-exclusive challenges, tournaments, seasonal events 🏆",
+"mechanics": "Hero abilities, tactical skills, sliding/ziplines, team-based gunplay 🧠🔫"
+}
+]
+},
+
+"prosCons": {
+"games": [
+{
+"name": "Fortnite Mobile",
+"pros": [
+"Creative building system allows endless strategies 🧱",
+"Fun and chaotic gameplay 🎉",
+"Cross-platform play with console/PC friends 🌐",
+"Frequent updates & events keep game fresh 🔄",
+"Wide variety of game modes and sandbox adventures 🎨"
+],
+"cons": [
+"Building can overwhelm beginners 😵",
+"Heavy storage and device requirements 💾",
+"Battery-hungry ⚡"
+]
+},
+{
+"name": "Apex Legends Mobile",
+"pros": [
+"Tactical shooter with squad synergy 💪",
+"Fast-paced, skill-based combat 🎯",
+"Shorter matches ideal for mobile play ⏱️",
+"Unique Legend abilities add strategy 🦸",
+"Optimized for competitive mobile esports 🎮"
+],
+"cons": [
+"Learning curve for Legends & abilities 📘",
+"Fewer creative modes than Fortnite 🎨",
+"Mobile-only ecosystem; no cross-play with console 📱"
+]
+}
+]
+},
+
+"popularityCommunity": {
+"games": [
+{
+"name": "Fortnite Mobile",
+"activePlayers": "Over 50M Monthly Players 🌍",
+"socialMedia": "Epic Games & Fortnite community 20M+ Followers",
+"tournaments": "Fortnite Championship Series & global events 🏆",
+"engagement": "YouTube builds, dances, streams, and memes 😂"
+},
+{
+"name": "Apex Legends Mobile",
+"activePlayers": "Over 30M Monthly Players 🌎",
+"socialMedia": "EA Apex & Mobile community 5M+ Followers",
+"tournaments": "Mobile-specific Apex esports 🏅",
+"engagement": "Team strategies, Legend guides, competitive streams 🎥"
+}
+]
+},
+
+"pricingIAP": {
+"games": [
+{
+"name": "Fortnite Mobile",
+"price": "Free to Play 💸",
+"premiumFeatures": "V-Bucks, skins, emotes, Battle Pass 🎫",
+"currency": "V-Bucks 💰",
+"specialOffers": "Seasonal bundles, exclusive cosmetics ✨"
+},
+{
+"name": "Apex Legends Mobile",
+"price": "Free to Play 💸",
+"premiumFeatures": "Coins, Legend skins, weapon cosmetics 🎨",
+"currency": "Coins, Apex Packs",
+"specialOffers": "Seasonal battle passes, limited-time offers 🏆"
+}
+]
+},
+
+"deviceCompatibility": {
+"games": [
+{
+"name": "Fortnite Mobile",
+"devices": "Android & iOS",
+"osVersion": "Android 7.0+ / iOS 12+",
+"crossPlatform": "Yes, with PC & Console friends 🌐",
+"pcConsole": "Playable via Epic Launcher / Cloud streaming ☁️"
+},
+{
+"name": "Apex Legends Mobile",
+"devices": "Android & iOS",
+"osVersion": "Android 7.0+ / iOS 12+",
+"crossPlatform": "Mobile-only ecosystem 📱",
+"pcConsole": "No official cross-play with console/PC 🚫"
+}
+]
+},
+
+"faqs": [
+{
+"question": "Which game is more casual-friendly?",
+"answer": "Fortnite Mobile 🎨 is easier for casual players due to building fun and chaotic matches."
+},
+{
+"question": "Which game is better for squad tactics?",
+"answer": "Apex Legends Mobile 💥 rewards tactical teamwork and hero synergy more than Fortnite."
+},
+{
+"question": "Can I play these games for free?",
+"answer": "Yes! Both Fortnite Mobile and Apex Legends Mobile are free-to-play on Android and iOS 💸."
+},
+{
+"question": "Which game has more creative content?",
+"answer": "Fortnite’s Creative mode and frequent crossovers give endless fun 🎭✨."
+}
+]
+}
