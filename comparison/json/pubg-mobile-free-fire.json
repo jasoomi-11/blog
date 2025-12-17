@@ -1,0 +1,186 @@
+{
+  "gameComparison": {
+    "games": [
+      {
+        "name": "Free Fire",
+        "thumbnail": "/assets/thumb/free-fire-max.webp",
+        
+        
+        
+        "genre": "Fast-Paced Battle Royale 🔫🔥",
+        "developer": "Garena",
+        "release": "2017",
+        "gameplay": "Quick 10-minute battle royale matches with 50 players. Loot fast, shoot faster, use character skills, and aim for the iconic Booyah! 🏆 Perfect for short, action-packed gaming sessions."
+      },
+      {
+        "name": "PUBG Mobile",
+        "thumbnail": "/assets/thumb/pubg-mobile.webp",
+        "genre": "Realistic Battle Royale 🪖🏹",
+        "developer": "Tencent Games",
+        "release": "2018",
+        "gameplay": "Large-scale battle royale with up to 100 players, realistic weapons, tactical gameplay, vehicles, and survival-focused combat. Chicken Dinner takes patience and skill 🍗🏆."
+      }
+    ]
+  },
+
+  "systemRequirements": {
+    "games": [
+      {
+        "name": "Free Fire",
+        "platform": "Android / iOS",
+        "storage": "1–1.2 GB 📦",
+        "ram": "2 GB Minimum (3–4 GB Recommended)",
+        "cpuGpu": "Low-end to mid-range chipset (Snapdragon 425+/Helio P22+)",
+        "fps": "30–60 FPS (Very stable)",
+        "graphics": "Optimized & performance-focused visuals 🎯",
+        "online": "Online Required",
+        "battery": "Low to Moderate ⚡"
+      },
+      {
+        "name": "PUBG Mobile",
+        "platform": "Android / iOS",
+        "storage": "3–4 GB 📦",
+        "ram": "3 GB Minimum (4–6 GB Recommended)",
+        "cpuGpu": "Mid-range to flagship chipset (Snapdragon 660+/A12+)",
+        "fps": "40–60 FPS (Device-dependent)",
+        "graphics": "Realistic & detailed graphics 🌄🔫",
+        "online": "Online Required",
+        "battery": "High due to realism & map size 🔋"
+      }
+    ]
+  },
+
+  "keyFeatures": {
+    "games": [
+      {
+        "name": "Free Fire",
+        "modes": "Battle Royale, Clash Squad, Ranked, Custom Rooms",
+        "playerLimits": "50 players per match 👥",
+        "graphicsStyle": "Stylized and optimized for smooth gameplay 🎨",
+        "customization": "Characters, skills, outfits, gun skins, pets 🐾",
+        "events": "Daily missions, seasonal events, anime & celebrity collaborations 🎉",
+        "mechanics": "Unique character abilities, fast looting, quick gunfights"
+      },
+      {
+        "name": "PUBG Mobile",
+        "modes": "Classic BR, Arena, Payload, Metro Royale, Ranked",
+        "playerLimits": "100 players per match 🧑‍🤝‍🧑",
+        "graphicsStyle": "Ultra-realistic military-style visuals 🪖",
+        "customization": "Outfits, weapon skins, vehicle skins, emotes",
+        "events": "Seasonal updates, crossover events, esports tournaments",
+        "mechanics": "Realistic recoil, bullet drop, tactical movement & positioning"
+      }
+    ]
+  },
+
+  "prosCons": {
+    "games": [
+      {
+        "name": "Free Fire",
+        "pros": [
+          "Runs smoothly on low-end phones 📱✅",
+          "Short matches (perfect for busy gamers)",
+          "Unique character skills add fun twists 🦸",
+          "Smaller download size",
+          "Huge global player base 🌍"
+        ],
+        "cons": [
+          "Graphics are less realistic",
+          "Gameplay may feel simple for hardcore shooter fans",
+          "Too many skins for minimalists 😅"
+        ]
+      },
+      {
+        "name": "PUBG Mobile",
+        "pros": [
+          "Highly realistic gunplay & mechanics 🔫",
+          "Large maps with tactical depth",
+          "Strong competitive & esports scene 🏆",
+          "Console-like experience on mobile",
+          "Regular major updates"
+        ],
+        "cons": [
+          "Heavy on storage & battery 🔋",
+          "Not ideal for low-end devices",
+          "Longer matches require patience ⏳"
+        ]
+      }
+    ]
+  },
+
+  "popularityCommunity": {
+    "games": [
+      {
+        "name": "Free Fire",
+        "activePlayers": "100M+ Monthly Active Players 🌎",
+        "socialMedia": "20M+ Followers",
+        "tournaments": "Free Fire World Series (FFWS)",
+        "engagement": "YouTube highlights, funny moments, esports streams 🎥"
+      },
+      {
+        "name": "PUBG Mobile",
+        "activePlayers": "70M+ Monthly Active Players 🌍",
+        "socialMedia": "15M+ Followers",
+        "tournaments": "PUBG Mobile Global Championship (PMGC)",
+        "engagement": "Pro scrims, tactics guides, intense esports matches 🎮"
+      }
+    ]
+  },
+
+  "pricingIAP": {
+    "games": [
+      {
+        "name": "Free Fire",
+        "price": "Free",
+        "premiumFeatures": "Elite Pass, characters, gun skins 💎",
+        "currency": "Diamonds",
+        "specialOffers": "Lucky Royale, limited-time bundles, collab items 🎁"
+      },
+      {
+        "name": "PUBG Mobile",
+        "price": "Free",
+        "premiumFeatures": "Royale Pass, outfits, weapon skins",
+        "currency": "UC",
+        "specialOffers": "Crates, seasonal passes, premium events 🎫"
+      }
+    ]
+  },
+
+  "deviceCompatibility": {
+    "games": [
+      {
+        "name": "Free Fire",
+        "devices": "Android & iOS",
+        "osVersion": "Android 4.4+ / iOS 9+",
+        "crossPlatform": "Mobile only",
+        "pcConsole": "Playable via emulators (Unofficial)"
+      },
+      {
+        "name": "PUBG Mobile",
+        "devices": "Android & iOS",
+        "osVersion": "Android 5.1+ / iOS 10+",
+        "crossPlatform": "Mobile only",
+        "pcConsole": "Playable via emulators (Limited support)"
+      }
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Which game is better for low-end phones?",
+      "answer": "Free Fire 📱 wins easily due to its lightweight size and smooth performance."
+    },
+    {
+      "question": "Which game is more realistic?",
+      "answer": "PUBG Mobile 🪖 offers realistic gun mechanics, maps, and tactical gameplay."
+    },
+    {
+      "question": "Which game has shorter matches?",
+      "answer": "Free Fire ⏱️ with 10-minute matches is perfect for quick fun."
+    },
+    {
+      "question": "Which game is better for competitive players?",
+      "answer": "PUBG Mobile 🏆 is ideal for players who love strategy, teamwork, and esports."
+    }
+  ]
+}

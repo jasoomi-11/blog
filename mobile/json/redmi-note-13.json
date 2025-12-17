@@ -1,0 +1,152 @@
+{
+  "gameTitle": "Redmi Note 13 5G",
+  "subtitle": "Affordable yet surprisingly capable gaming smartphone — handles mid-tier games like a champ without burning a hole in your pocket 🔥💸.",
+
+  "posters": [
+    "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/redmi-note-13.webp"
+  ],
+
+  "performance": {
+    "cpu": "MediaTek Dimensity 6080+ Octa-Core (2.6GHz Max Turbo)",
+    "gpu": "Mali-G57 MC2",
+    "ram": "6GB / 8GB LPDDR4X",
+    "storage": "128GB / 256GB UFS 2.2",
+    "cooling": "Basic heat dissipation system with smart throttling 🥶"
+  },
+
+  "benchmark": {
+    "antutu": "≈ 450,000",
+    "geekbench": "Single-Core: 730, Multi-Core: 1850"
+  },
+
+  "display": {
+    "refreshRate": "90Hz AMOLED",
+    "touchRate": "180Hz Touch Sampling",
+    "resolution": "FHD+ (2400 × 1080)",
+    "panelType": "AMOLED with HDR10"
+  },
+
+  "battery": {
+    "size": "5000mAh",
+    "fastCharging": "33W TurboCharge",
+    "gamingDrain": "6% – 10% per hour (depending on game intensity ⚡)"
+  },
+
+  "temperature": {
+    "heatLevel": "36°C – 41°C",
+    "fpsStability": "Stable for casual to mid-level gaming (~85%–90%)"
+  },
+
+  "heavyGames": [
+    "PUBG Mobile",
+    "Call of Duty Mobile",
+    "BGMI",
+    "Asphalt 9",
+    "CSR2",
+    "Free Fire Max",
+    "Genshin Impact (low-medium settings)"
+  ],
+
+  "playability": {
+    "PUBG Mobile": "Smooth HD + 60FPS support, no lag spams 😎",
+    "Call of Duty Mobile": "High Graphics + 60FPS, perfect for weekend warriors",
+    "BGMI": "Smooth with Medium Graphics, occasional drops in crowded zones",
+    "Asphalt 9": "High Graphics + stable performance, fast cars, no crashes 🚗💨",
+    "CSR2": "Max settings with smooth drag racing thrills",
+    "Genshin Impact": "Playable at low-medium, don’t expect pro FPS 💀"
+  },
+
+  "fpsBenchmarks": [
+    {
+      "game": "PUBG Mobile",
+      "settings": "HD",
+      "fps": "55–60 FPS Stable"
+    },
+    {
+      "game": "COD Mobile",
+      "settings": "High",
+      "fps": "55–60 FPS Stable"
+    },
+    {
+      "game": "Asphalt 9",
+      "settings": "High",
+      "fps": "50–55 FPS Smooth"
+    },
+    {
+      "game": "CSR2",
+      "settings": "Max",
+      "fps": "60 FPS Stable"
+    }
+  ],
+
+  "thermalTests": [
+    {
+      "game": "PUBG Mobile",
+      "heat15": "Normal",
+      "heat30": "Warm but playable",
+      "fpsDrop": "1–2 FPS"
+    },
+    {
+      "game": "COD Mobile",
+      "heat15": "Normal",
+      "heat30": "Slight warm",
+      "fpsDrop": "0–1 FPS"
+    },
+    {
+      "game": "Asphalt 9",
+      "heat15": "Normal",
+      "heat30": "Warm",
+      "fpsDrop": "0–1 FPS"
+    }
+  ],
+
+  "batteryTests": [
+    {
+      "game": "PUBG Mobile",
+      "drop": "8%"
+    },
+    {
+      "game": "COD Mobile",
+      "drop": "7%"
+    },
+    {
+      "game": "Asphalt 9",
+      "drop": "6%"
+    }
+  ],
+
+  "gamingFeatures": [
+    "90Hz AMOLED Display (smooth scrolls and racing!)",
+    "Game Turbo Mode for optimized performance",
+    "Stereo Dual Speakers (for that vroom vroom feeling 🚗💨)",
+    "Adaptive Touch Sampling",
+    "5000mAh Battery with 33W TurboCharge",
+    "Lightweight & sleek design (your palms will thank you 😅)",
+    "MIUI Gaming Dashboard for performance tweaks"
+  ],
+
+  "customTable": {
+    "title": "Redmi Note 13 5G Gaming Insights",
+    "columns": ["Category", "Details", "Performance Impact"],
+    "rows": [
+      ["Cooling System", "Smart Heat Dissipation", "Keeps phone warm, not hot 🔥❌"],
+      ["Display", "90Hz AMOLED + HDR10", "Smooth visuals & colors pop"],
+      ["Battery", "5000mAh + 33W Fast Charge", "Long gaming sessions without worry"],
+      ["Speakers", "Dual Stereo Speakers", "Immersive sound for racing & shooters"],
+      ["RAM", "6GB / 8GB LPDDR4X", "Smooth multitasking & medium gaming"],
+      ["Software", "MIUI 14 Gaming Mode", "Optimized game experience"]
+    ]
+  },
+
+  "dynamicList": {
+    "title": "Key Highlights",
+    "items": [
+      "Affordable mid-range gaming smartphone",
+      "Smooth 90Hz AMOLED display for gaming",
+      "5000mAh battery for long play sessions",
+      "Stereo speakers for immersive sound",
+      "Game Turbo mode for FPS optimization",
+      "Lightweight & sleek for comfortable grip"
+    ]
+  }
+}

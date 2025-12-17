@@ -1,0 +1,134 @@
+{
+  "mobile": {
+    "name": "Redmi Note 13 5G",
+    "thumbs": [
+      "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/redmi-note-13.webp"
+    
+    ],
+    "summary": "Redmi Note 13 5G — budget-friendly gaming phone with Snapdragon 4 Gen 1, 6.67-inch AMOLED 120Hz, 5000mAh battery, and smooth performance — perfect for casual & mid-range gamers.",
+    "priceRange": "Varies by region",
+
+    "countries": [
+      {
+        "flag": "🇺🇸",
+        "country": "United States",
+        "currency": "USD",
+        "displayPrice": "$220 – $270",
+        "variants": [
+          { "ram": "4GB / 128GB", "price": "$220" },
+          { "ram": "6GB / 128GB", "price": "$250" },
+          { "ram": "6GB / 256GB", "price": "$270" }
+        ],
+        "colors": ["Aurora Green", "Glacier Blue", "Moonlight White"]
+      },
+      {
+        "flag": "🇮🇳",
+        "country": "India",
+        "currency": "INR",
+        "displayPrice": "₹16,999 – ₹19,999",
+        "variants": [
+          { "ram": "4GB / 128GB", "price": "₹16,999" },
+          { "ram": "6GB / 128GB", "price": "₹18,499" },
+          { "ram": "6GB / 256GB", "price": "₹19,999" }
+        ],
+        "colors": ["Aurora Green", "Glacier Blue", "Moonlight White"]
+      },
+      {
+        "flag": "🇵🇰",
+        "country": "Pakistan",
+        "currency": "PKR",
+        "displayPrice": "Rs 61,000 – Rs 73,000",
+        "variants": [
+          { "ram": "4GB / 128GB", "price": "Rs 61,000" },
+          { "ram": "6GB / 128GB", "price": "Rs 68,000" },
+          { "ram": "6GB / 256GB", "price": "Rs 73,000" }
+        ],
+        "colors": ["Aurora Green", "Glacier Blue", "Moonlight White"]
+      },
+      {
+        "flag": "🇬🇧",
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "displayPrice": "£180 – £220",
+        "variants": [
+          { "ram": "4GB / 128GB", "price": "£180" },
+          { "ram": "6GB / 128GB", "price": "£200" },
+          { "ram": "6GB / 256GB", "price": "£220" }
+        ],
+        "colors": ["Aurora Green", "Glacier Blue", "Moonlight White"]
+      },
+      {
+        "flag": "🇨🇦",
+        "country": "Canada",
+        "currency": "CAD",
+        "displayPrice": "CA$280 – CA$340",
+        "variants": [
+          { "ram": "4GB / 128GB", "price": "CA$280" },
+          { "ram": "6GB / 128GB", "price": "CA$310" },
+          { "ram": "6GB / 256GB", "price": "CA$340" }
+        ],
+        "colors": ["Aurora Green", "Glacier Blue", "Moonlight White"]
+      },
+      {
+        "flag": "🇦🇺",
+        "country": "Australia",
+        "currency": "AUD",
+        "displayPrice": "A$310 – A$380",
+        "variants": [
+          { "ram": "4GB / 128GB", "price": "A$310" },
+          { "ram": "6GB / 128GB", "price": "A$345" },
+          { "ram": "6GB / 256GB", "price": "A$380" }
+        ],
+        "colors": ["Aurora Green", "Glacier Blue", "Moonlight White"]
+      },
+      {
+        "flag": "🇦🇪",
+        "country": "United Arab Emirates",
+        "currency": "AED",
+        "displayPrice": "AED 810 – AED 950",
+        "variants": [
+          { "ram": "4GB / 128GB", "price": "AED 810" },
+          { "ram": "6GB / 128GB", "price": "AED 880" },
+          { "ram": "6GB / 256GB", "price": "AED 950" }
+        ],
+        "colors": ["Aurora Green", "Glacier Blue", "Moonlight White"]
+      },
+      {
+        "flag": "🇧🇩",
+        "country": "Bangladesh",
+        "currency": "BDT",
+        "displayPrice": "৳ 22,500 – ৳ 26,500",
+        "variants": [
+          { "ram": "4GB / 128GB", "price": "৳ 22,500" },
+          { "ram": "6GB / 128GB", "price": "৳ 24,500" },
+          { "ram": "6GB / 256GB", "price": "৳ 26,500" }
+        ],
+        "colors": ["Aurora Green", "Glacier Blue", "Moonlight White"]
+      },
+      {
+        "flag": "🇵🇭",
+        "country": "Philippines",
+        "currency": "PHP",
+        "displayPrice": "₱ 12,500 – ₱ 15,000",
+        "variants": [
+          { "ram": "4GB / 128GB", "price": "₱ 12,500" },
+          { "ram": "6GB / 128GB", "price": "₱ 13,800" },
+          { "ram": "6GB / 256GB", "price": "₱ 15,000" }
+        ],
+        "colors": ["Aurora Green", "Glacier Blue", "Moonlight White"]
+      },
+      {
+        "flag": "🇪🇺",
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "displayPrice": "€ 200 – € 240",
+        "variants": [
+          { "ram": "4GB / 128GB", "price": "€ 200" },
+          { "ram": "6GB / 128GB", "price": "€ 220" },
+          { "ram": "6GB / 256GB", "price": "€ 240" }
+        ],
+        "colors": ["Aurora Green", "Glacier Blue", "Moonlight White"]
+      }
+    ]
+  }
+}

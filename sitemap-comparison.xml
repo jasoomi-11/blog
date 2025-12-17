@@ -4,7 +4,7 @@
   <!-- Section Homepage -->
   <url>
     <loc>https://blog.blueverse.space/comparison/comparison.html</loc>
-    <lastmod>2025-12-15</lastmod>
+    <lastmod>2025-12-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -131,6 +131,37 @@
 <url>
     <loc>https://blog.blueverse.space/comparison/fortnite-apex-legends.html</loc>
     <lastmod>2025-12-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+
+
+<!-- 17 Dec Update To 17 Jan -->
+  
+
+
+
+<url>
+    <loc>https://blog.blueverse.space/comparison/pubg-mobile-free-fire.html</loc>
+    <lastmod>2025-12-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+<url>
+    <loc>https://blog.blueverse.space/comparison/apex-legends-call-of-duty.html</loc>
+    <lastmod>2025-12-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+
+
+
+<url>
+    <loc>https://blog.blueverse.space/comparison/asphalt-9-need-for-speed.html</loc>
+    <lastmod>2025-12-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>

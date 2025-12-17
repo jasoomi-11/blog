@@ -1,0 +1,182 @@
+{
+  "gameComparison": {
+    "games": [
+      {
+        "name": "Asphalt 9: Legends",
+        "thumbnail": "/assets/thumb/asphalt-9.webp",
+        "genre": "Arcade Racing 🚀🏎️",
+        "developer": "Gameloft",
+        "release": "2018",
+        "gameplay": "Over-the-top arcade racing packed with nitro boosts, crazy stunts, barrel rolls, and cinematic moments. It’s fast, flashy, and feels like an action movie where cars forgot the laws of physics 🎬🔥."
+      },
+      {
+        "name": "Need for Speed™ No Limits",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/need-for-speed.webp",
+        "genre": "Street Racing / Arcade Simulation 🏁🚓",
+        "developer": "Firemonkeys Studio (EA)",
+        "release": "2015",
+        "gameplay": "Street racing with illegal vibes, sharp turns, traffic dodging, and cops breathing down your neck. Less flying, more gripping asphalt — win races, upgrade rides, and rule the underground 😎⚙️."
+      }
+    ]
+  },
+
+  "systemRequirements": {
+    "games": [
+      {
+        "name": "Asphalt 9: Legends",
+        "platform": "Android / iOS",
+        "storage": "3–4 GB 📦",
+        "ram": "3–4 GB Recommended",
+        "cpuGpu": "Mid-range to flagship chipset (Snapdragon 720G+/A12+)",
+        "fps": "30–60 FPS (Device-dependent)",
+        "graphics": "Ultra-cinematic, high-impact visuals 🎥🔥",
+        "online": "Online Required",
+        "battery": "High ⚡ (Nitro drains battery too 😅)"
+      },
+      {
+        "name": "Need for Speed™ No Limits",
+        "platform": "Android / iOS",
+        "storage": "2.5–3 GB 📦",
+        "ram": "2–3 GB",
+        "cpuGpu": "Mid-range chipset (Snapdragon 660+/A11+)",
+        "fps": "30–60 FPS",
+        "graphics": "Stylized street-racing visuals 🌃",
+        "online": "Online Required",
+        "battery": "Moderate"
+      }
+    ]
+  },
+
+  "keyFeatures": {
+    "games": [
+      {
+        "name": "Asphalt 9: Legends",
+        "modes": "Career, Multiplayer, Club Racing, Limited Events",
+        "playerLimits": "Up to 8-player multiplayer 🧑‍🤝‍🧑",
+        "graphicsStyle": "Bright, cinematic, action-packed visuals ✨",
+        "customization": "Car upgrades, blueprints, paint, nitro effects 🎨",
+        "events": "Daily events, seasonal content, special car hunts",
+        "mechanics": "Nitro boost, drifting, aerial stunts, TouchDrive controls"
+      },
+      {
+        "name": "Need for Speed™ No Limits",
+        "modes": "Campaign, Special Events, PvP",
+        "playerLimits": "1v1 & PvP races 🏁",
+        "graphicsStyle": "Dark, neon-lit street racing vibes 🌌",
+        "customization": "Deep car tuning, parts upgrades, visual mods 🔧",
+        "events": "Limited-time car events, boss races",
+        "mechanics": "Precision drifting, nitro timing, traffic dodging"
+      }
+    ]
+  },
+
+  "prosCons": {
+    "games": [
+      {
+        "name": "Asphalt 9: Legends",
+        "pros": [
+          "Jaw-dropping graphics and effects 🎥🔥",
+          "Easy to play, hard to master",
+          "Huge collection of supercars & hypercars",
+          "Very active multiplayer scene",
+          "Perfect for quick, fun races 🚗💨"
+        ],
+        "cons": [
+          "Heavy grind for blueprints ⏳",
+          "High battery consumption",
+          "Less realistic driving physics"
+        ]
+      },
+      {
+        "name": "Need for Speed™ No Limits",
+        "pros": [
+          "Classic NFS street racing feel 🏁",
+          "Deep car upgrade and tuning system",
+          "Smaller races = more focus & tension",
+          "Runs well on mid-range phones"
+        ],
+        "cons": [
+          "Fuel system limits playtime ⛽",
+          "Progress can feel slow for free players",
+          "Graphics feel dated compared to Asphalt 9"
+        ]
+      }
+    ]
+  },
+
+  "popularityCommunity": {
+    "games": [
+      {
+        "name": "Asphalt 9: Legends",
+        "activePlayers": "50M+ Monthly Players 🌍",
+        "socialMedia": "10M+ Followers",
+        "tournaments": "Gameloft-hosted esports & events",
+        "engagement": "Clubs, multiplayer races, stunt clips, YouTube content 🎥"
+      },
+      {
+        "name": "Need for Speed™ No Limits",
+        "activePlayers": "30M+ Active Players",
+        "socialMedia": "6M+ Followers",
+        "tournaments": "Community & EA-hosted events",
+        "engagement": "Car builds, tuning guides, street racing clips 🚓"
+      }
+    ]
+  },
+
+  "pricingIAP": {
+    "games": [
+      {
+        "name": "Asphalt 9: Legends",
+        "price": "Free",
+        "premiumFeatures": "Season Pass, premium packs, car blueprints 🎫",
+        "currency": "Tokens, Credits",
+        "specialOffers": "Limited-time car packs & events"
+      },
+      {
+        "name": "Need for Speed™ No Limits",
+        "price": "Free",
+        "premiumFeatures": "Gold currency, upgrade skips, event passes",
+        "currency": "Gold, Cash",
+        "specialOffers": "Car bundles, special event packs"
+      }
+    ]
+  },
+
+  "deviceCompatibility": {
+    "games": [
+      {
+        "name": "Asphalt 9: Legends",
+        "devices": "Android & iOS",
+        "osVersion": "Android 7.0+ / iOS 12+",
+        "crossPlatform": "Mobile only",
+        "pcConsole": "Available on Windows (official)"
+      },
+      {
+        "name": "Need for Speed™ No Limits",
+        "devices": "Android & iOS",
+        "osVersion": "Android 5.0+ / iOS 11+",
+        "crossPlatform": "Mobile only",
+        "pcConsole": "Not available"
+      }
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Which game has better graphics?",
+      "answer": "Asphalt 9 🎥🔥 easily wins with its cinematic visuals and flashy effects."
+    },
+    {
+      "question": "Which game feels more realistic?",
+      "answer": "Need for Speed™ No Limits 🏁 offers a more grounded street racing experience."
+    },
+    {
+      "question": "Which game is better for quick fun?",
+      "answer": "Asphalt 9 🚀 is perfect for fast, action-packed races."
+    },
+    {
+      "question": "Which game is better for long-term progression?",
+      "answer": "Need for Speed™ No Limits rewards patient players who enjoy car upgrades and events 🔧"
+    }
+  ]
+}

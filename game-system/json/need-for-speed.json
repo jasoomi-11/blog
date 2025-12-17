@@ -1,0 +1,134 @@
+{
+  "shortIntro": {
+    "title": "What Your Device Needs for Smooth Need for Speed No Limits Racing 🏎️🔥📱",
+    "para1": "Need for Speed No Limits is all about street racing, nitro boosts, tight corners, and cinematic police chases. If your phone can’t keep up, your supercar will feel more like a shopping cart 😅.",
+    "para2": "Smooth drifting, instant nitro response, and crisp visuals depend heavily on your GPU, RAM, and storage speed. Lag here doesn’t just hurt pride—it costs races 🚓💨."
+  },
+
+  "intro": "Below are the minimum and recommended system requirements to enjoy Need for Speed No Limits on Android and iOS without frame drops, overheating, or rage-quitting 😎.",
+
+  "minimum": {
+    "OS Version": "Android 6.0 or higher",
+    "RAM": "3GB minimum (playable, but don’t expect luxury rides 😬)",
+    "CPU": "Quad-Core 1.8GHz or higher",
+    "GPU": "Adreno 506 / Mali-T720 or equivalent",
+    "Storage": "3GB free space",
+    "Internet": "Stable connection for events & cloud saves 🌐"
+  },
+
+  "recommended": {
+    "OS Version": "Android 10 or higher",
+    "RAM": "6GB+ for smooth drifting and instant nitro 💨",
+    "CPU": "Snapdragon 720G / 778G / 8 Series or newer",
+    "GPU": "Adreno 618 / 640 or better",
+    "Storage": "4–5GB recommended for updates, cars & HD assets",
+    "Internet": "Fast Wi-Fi or 5G – races wait for no one 🏁"
+  },
+
+  "ios_intro": "Need for Speed No Limits runs exceptionally well on iOS 🍏. Smooth frame pacing, stable visuals, and zero input delay thanks to Apple’s optimized hardware.",
+
+  "ios_minimum": [
+    { "title": "OS Version", "value": "iOS 12 or later" },
+    { "title": "Device", "value": "iPhone 7 / 8 or newer" },
+    { "title": "Storage", "value": "3GB free space minimum" }
+  ],
+
+  "ios_recommended": [
+    { "title": "OS Version", "value": "iOS 14 or later" },
+    { "title": "Device", "value": "iPhone X / 11 / 12 / 13 Series or newer" },
+    { "title": "Storage", "value": "4GB+ free space for smooth updates & car packs" }
+  ],
+
+  "fps_intro": "FPS matters in racing! Higher FPS means smoother drifts, better nitro timing, and fewer missed corners 😎.",
+
+  "fps_list": [
+    { "category": "Low-End Devices", "fps": "25–30 FPS (playable, but corners feel risky 😬)" },
+    { "category": "Mid-Range Devices", "fps": "40–50 FPS (smooth racing experience)" },
+    { "category": "High-End Devices", "fps": "60 FPS (buttery smooth drifts & nitro 💪)" }
+  ],
+
+  "settings_intro": "Optimizing graphics settings can turn losses into wins 🏆.",
+
+  "low_end": [
+    { "title": "Graphics Quality", "value": "Low or Medium for stable performance" },
+    { "title": "Frame Rate", "value": "Standard FPS to avoid stutters" },
+    { "title": "Effects", "value": "Reduce reflections and shadows for cleaner visuals" },
+    { "title": "Background Apps", "value": "Close apps unless you enjoy sudden lag spikes 😡" }
+  ],
+
+  "high_end": [
+    { "title": "Graphics Quality", "value": "High (cinematic street racing vibes ✨)" },
+    { "title": "Frame Rate", "value": "Enable Max FPS for competitive events" },
+    { "title": "Thermal Control", "value": "Avoid overheating during long event grinds 🔥" },
+    { "title": "Storage Speed", "value": "Keep at least 1GB free for faster car loading" }
+  ],
+
+  "sectionIntro": "These Android & iOS devices deliver the best Need for Speed No Limits experience: smooth racing, sharp visuals, and responsive controls.",
+
+  "androidDevices": [
+    "Samsung Galaxy S20 / S21 / S22 / S23 Series",
+    "Xiaomi Redmi Note 12 / 13 Pro / Poco X5 / F5",
+    "Realme GT Neo Series",
+    "OnePlus Nord 2 / 3 / CE Series",
+    "Google Pixel 6 / 7 Series",
+    "Infinix GT / Zero Series"
+  ],
+
+  "iosDevices": [
+    "iPhone X / XR / XS",
+    "iPhone 11 / 12 / 13 / 14 Series",
+    "iPhone SE 2020 / 2022",
+    "iPad Mini 5 / 6",
+    "iPad Air 3rd Gen+"
+  ],
+
+  "storageIntroText": "Need for Speed No Limits grows over time with cars, events, and updates. Here’s the storage breakdown 📦:",
+
+  "storageDetails": [
+    { "label": "Base Game Size", "value": "≈ 2GB" },
+    { "label": "Car & Event Data", "value": "500MB–1GB (depends on progress 🚗)" },
+    { "label": "Seasonal Updates", "value": "200–500MB per update" },
+    { "label": "Total Required Space", "value": "4–5GB recommended for smooth gameplay" }
+  ],
+
+  "faqIntroText": "FAQs for Need for Speed No Limits – quick answers to keep you racing without frustration 😎:",
+
+  "faqList": [
+    {
+      "question": "Is Need for Speed No Limits heavy on phones?",
+      "answer": "Moderately. It runs well on mid-range phones, but higher RAM and a strong GPU improve smoothness."
+    },
+    {
+      "question": "Can NFS No Limits run at 60 FPS?",
+      "answer": "Yes, on mid-range to flagship devices. Low-end phones are usually capped around 30 FPS."
+    },
+    {
+      "question": "Why does my phone heat up during long races?",
+      "answer": "High graphics, reflections, and nitro effects push the GPU hard. Lower settings and short breaks help 😅."
+    }
+  ],
+
+  "title": "Device Comparison Insights 🔍",
+  "description": "Compare real-world Need for Speed No Limits performance, FPS stability, graphics quality, and loading speed across popular Android & iOS devices.",
+
+  "rows": [
+    {
+      "device1": "Samsung Galaxy S21",
+      "device2": "Redmi Note 13 Pro",
+      "performance": "Both deliver smooth races with stable frame rates.",
+      "notes": "S21 handles higher graphics better, Note 13 Pro stays cooler in long events."
+    },
+    {
+      "device1": "Realme GT Neo 3",
+      "device2": "Poco F5",
+      "performance": "Both offer fast loading and smooth drifting.",
+      "notes": "GT Neo 3 excels in sustained performance, Poco F5 offers sharper visuals."
+    },
+    {
+      "device1": "iPhone 13",
+      "device2": "iPhone XR",
+      "performance": "Both maintain stable gameplay in most races.",
+      "notes": "iPhone 13 supports higher graphics settings, XR may dip slightly in long sessions."
+    }
+  ]
+}

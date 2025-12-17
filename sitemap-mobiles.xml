@@ -4,7 +4,7 @@
   <!-- Section Homepage -->
   <url>
     <loc>https://blog.blueverse.space/mobile/mobile.html</loc>
-    <lastmod>2025-12-15</lastmod>
+    <lastmod>2025-12-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -26,7 +26,7 @@
 
  <url>
     <loc>https://blog.blueverse.space/mobile/pricing/asus-rog-7-price.html</loc>
-    <lastmod>2025-12-08</lastmod>
+    <lastmod>2025-12-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -168,6 +168,35 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
+
+
+
+
+<!-- 17 dec to 17 jan -->
+
+
+<url>
+    <loc>https://blog.blueverse.space/mobile/redmi-note-13.html</loc>
+    <lastmod>2025-12-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+<url>
+    <loc>https://blog.blueverse.space/mobile/pricing/redmi-note-13.html</loc>
+    <lastmod>2025-12-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+
+
+
+
+
+
+
 
 
 </urlset>

@@ -53,7 +53,7 @@
       "badge": "🛡️Old vs New Brawlers🕹️",
       "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/brawl-squad.webp",
       "title": "Brawl Stars VS Squad Busters",
-      "subtitle": "Classic Brawls vs New Squad Action: Who Wins Your Heart?",
+      "subtitle": "Classic Brawls vs New Squad Action ",
       "link": "/comparison/brawl-stars-squad-busters.html"
     },
     {
@@ -67,7 +67,7 @@
       "badge": "🔥Epic MOBA Clash🔥",
       "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/mobile-legends-arena-valor.webp",
       "title": "Mobile Legends VS Arena OF Valor",
-      "subtitle": "Full Detailed Comparison Between Two Legendary Mobile MOBAs",
+      "subtitle": "Full Detailed Comparison",
       "link": "/comparison/mobile-legends-arena-valor.html"
     },
     
@@ -76,8 +76,33 @@
   "badge": "🔥Epic Battle Royale🔥",
   "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/fortnite-apex-legends.webp",
   "title": "Fortnite Mobile VS Apex Legends Mobile",
-  "subtitle": "Full Detailed Comparison Between Top Mobile Battle Royale Games",
+  "subtitle": "Full Detailed Comparison",
   "link": "/comparison/fortnite-apex-legends.html"
+},
+
+
+{
+  "badge": " Battle Royale🔥",
+  "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/pubg-mobile-free-fire.webp",
+  "title": "PUBG: Mobile VS Free Fire",
+  "subtitle": "Full Detailed Comparison",
+  "link": "/comparison/pubg-mobile-free-fire.html"
+},
+
+{
+  "badge": " Epics VS  Soldier",
+  "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/apex-legends-call-of-duty.webp",
+  "title": "PUBG: Mobile VS Free Fire",
+  "subtitle": "Full Detailed Comparison",
+  "link": "/comparison/apex-legends-call-of-duty.html"
+},
+
+{
+  "badge": " 🏎️ Racing",
+  "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/asphalt-9-need-for-speed.webp",
+  "title": "Asphalt 9 VS Need For Speed ",
+  "subtitle": "Full Detailed Comparison",
+  "link": "/comparison/asphalt-9-need-for-speed.html"
 }
   
   ]

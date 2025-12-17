@@ -1,0 +1,134 @@
+{
+  "shortIntro": {
+    "title": "What Your Device Needs for Smooth CSR Racing 2 Gameplay 🏁🚗",
+    "para1": "CSR Racing 2 isn’t about turning corners — it’s about perfect launches, flawless gear shifts, and cinematic drag races that look straight out of a Fast & Furious movie. Every millisecond matters, and your phone needs to keep up.",
+    "para2": "From realistic car interiors to jaw-dropping reflections on supercars, CSR2 pushes mobile graphics hard. If your device stutters, you won’t just lose races — you’ll lose pink slips 😅🔥."
+  },
+
+  "intro": "Below are the full minimum and recommended specifications to enjoy CSR Racing 2 on Android and iOS. Tested by casual racers, garage kings, and timing-perfect pros 🏆⚙️.",
+
+  "minimum": {
+    "OS Version": "Android 8.0 or higher",
+    "RAM": "3GB minimum (expect some loading pauses ⏳)",
+    "CPU": "Quad/Octa-Core 1.8GHz+",
+    "GPU": "Adreno 506 / Mali-G52 or equivalent",
+    "Storage": "4GB free space",
+    "Internet": "Required – online races don’t wait 🛜"
+  },
+
+  "recommended": {
+    "OS Version": "Android 11 or higher",
+    "RAM": "6GB+ for smooth races & fast garage loading 💨",
+    "CPU": "Snapdragon 778G / 860 / 8 Gen Series",
+    "GPU": "Adreno 640 / Mali-G77 or better",
+    "Storage": "6GB+ recommended for cars, updates & events",
+    "Internet": "Stable Wi-Fi or 5G for live PvP racing 🏁"
+  },
+
+  "ios_intro": "CSR Racing 2 runs beautifully on iOS 🍏, delivering console-level visuals, buttery animations, and ultra-smooth drag races thanks to Apple’s GPU optimization.",
+
+  "ios_minimum": [
+    { "title": "OS Version", "value": "iOS 13 or later" },
+    { "title": "Device", "value": "iPhone 8 / X or newer" },
+    { "title": "Storage", "value": "4GB free space minimum" }
+  ],
+
+  "ios_recommended": [
+    { "title": "OS Version", "value": "iOS 15 or later" },
+    { "title": "Device", "value": "iPhone 11 / 12 / 13 / 14 Series or newer" },
+    { "title": "Storage", "value": "6GB+ free space for car packs & updates" }
+  ],
+
+  "fps_intro": "FPS in CSR2 = visual smoothness, accurate shift timing, and pure racing satisfaction 😎.",
+
+  "fps_list": [
+    { "category": "Low-End Devices", "fps": "25–30 FPS (playable, but not silky 😬)" },
+    { "category": "Mid-Range Devices", "fps": "40–50 FPS (smooth races & clean visuals)" },
+    { "category": "High-End Devices", "fps": "60 FPS+ (cinematic drag racing perfection ✨)" }
+  ],
+
+  "settings_intro": "Optimizing settings helps your car — and phone — perform at peak level 🛠️🏎️.",
+
+  "low_end": [
+    { "title": "Graphics Quality", "value": "Medium to avoid frame drops" },
+    { "title": "Frame Rate", "value": "Standard mode for stable races" },
+    { "title": "Effects", "value": "Disable extra reflections & motion blur" },
+    { "title": "Background Apps", "value": "Close apps or expect longer loading times 😡" }
+  ],
+
+  "high_end": [
+    { "title": "Graphics Quality", "value": "High / Ultra for showroom-level visuals ✨" },
+    { "title": "Frame Rate", "value": "Enable Max FPS for flawless shift timing" },
+    { "title": "Thermal Control", "value": "Keep device cool during long race sessions 🔥" },
+    { "title": "Storage Speed", "value": "Maintain 1GB+ free space for faster garage loads" }
+  ],
+
+  "sectionIntro": "These Android & iOS devices deliver the best CSR Racing 2 experience: smooth races, fast loading, and stunning car visuals.",
+
+  "androidDevices": [
+    "Samsung Galaxy S21 / S22 / S23 / S24 Series",
+    "Xiaomi 12 / 13 / Redmi Note 13 Pro / Poco F5 / F6",
+    "Realme GT Neo 3 / GT 5",
+    "OnePlus Nord 3 / 4 / 11 Series",
+    "Google Pixel 6 / 7 / 8 Series",
+    "iQOO Neo / Z Series"
+  ],
+
+  "iosDevices": [
+    "iPhone X / XR / XS",
+    "iPhone 11 / 12 / 13 / 14 / 15 Series",
+    "iPhone SE 2020 / 2022",
+    "iPad Mini 6",
+    "iPad Air 4th Gen+"
+  ],
+
+  "storageIntroText": "CSR Racing 2 loves storage almost as much as it loves supercars 🚘📦:",
+
+  "storageDetails": [
+    { "label": "Base Game Size", "value": "≈ 3GB" },
+    { "label": "Car Packs & Events", "value": "1–2GB extra over time" },
+    { "label": "Seasonal Updates", "value": "300–600MB per update" },
+    { "label": "Total Required Space", "value": "6GB+ recommended for smooth play" }
+  ],
+
+  "faqIntroText": "CSR Racing 2 FAQs – because losing races hurts enough 😎:",
+
+  "faqList": [
+    {
+      "question": "Is CSR Racing 2 heavy on phones?",
+      "answer": "Yes. The realistic graphics and car details demand strong GPU performance and plenty of RAM."
+    },
+    {
+      "question": "Can CSR Racing 2 run at 60 FPS?",
+      "answer": "Yes, on mid-range and flagship devices with Max FPS enabled. Low-end phones may stay closer to 30 FPS."
+    },
+    {
+      "question": "Why does CSR2 take so much storage?",
+      "answer": "Each car, event, and update adds high-quality textures and animations. Those shiny cars aren’t lightweight 😅."
+    }
+  ],
+
+  "title": "Device Comparison Insights 🔍",
+  "description": "Real-world CSR Racing 2 performance comparison: graphics quality, FPS stability, loading speed, and shift accuracy across popular Android & iOS devices.",
+
+  "rows": [
+    {
+      "device1": "Samsung Galaxy S23",
+      "device2": "Redmi Note 13 Pro",
+      "performance": "Both deliver smooth drag races with stable FPS.",
+      "notes": "S23 offers higher visual detail, Note 13 Pro stays cooler during long sessions."
+    },
+    {
+      "device1": "OnePlus Nord 3",
+      "device2": "Poco F6",
+      "performance": "Fast loading and smooth animations on both devices.",
+      "notes": "Nord 3 excels in thermal stability, Poco F6 loads garages slightly faster."
+    },
+    {
+      "device1": "iPhone 14",
+      "device2": "iPhone XR",
+      "performance": "Both run CSR2 smoothly with consistent performance.",
+      "notes": "iPhone 14 delivers ultra visuals, XR remains solid but with reduced effects."
+    }
+  ]
+}

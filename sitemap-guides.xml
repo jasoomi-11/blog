@@ -41,6 +41,18 @@
 
 
 
+<url>
+    <loc>https://blog.blueverse.space/guides/mlbb/all.html</loc>
+    <lastmod>2025-12-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+
+
+
+
+<!-- The End Of Main All.html -->
 
 
 
@@ -217,6 +229,17 @@
     <priority>0.8</priority>
   </url>
 
+
+<!-- 17 Dec to 17 Jan -->
+
+
+
+<url>
+    <loc>https://blog.blueverse.space/guides/mlbb/beginners-heroes-guide.html</loc>
+    <lastmod>2025-12-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
 
 
