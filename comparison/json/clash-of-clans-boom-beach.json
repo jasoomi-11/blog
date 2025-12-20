@@ -1,0 +1,183 @@
+{
+  "gameComparison": {
+    "games": [
+      {
+        "name": "Clash of Clans",
+        "thumbnail": "/assets/thumb/clash-of-clans.webp",
+        "genre": "Strategy Base-Building & Clan Warfare 🏰⚔️",
+        "developer": "Supercell",
+        "release": "2012",
+        "gameplay": "A classic strategy game where players build villages, train armies, and raid others for loot. Clan wars, base layouts, and long-term progression are the soul of Clash of Clans. Simple to learn, brutally addictive 😅🔥."
+      },
+      {
+        "name": "Boom Beach",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/boom-beach.webp",
+        "genre": "Strategy Assault & Island Warfare 🏝️💣",
+        "developer": "Supercell",
+        "release": "2014",
+        "gameplay": "A strategic island assault game focused on attacking enemy bases with precise troop deployment. Less about base defense, more about tactical offense and timing. Boom Beach rewards smart planning over spam attacks 🧠🎯."
+      }
+    ]
+  },
+
+  "systemRequirements": {
+    "games": [
+      {
+        "name": "Clash of Clans",
+        "platform": "Android / iOS",
+        "storage": "500 MB 📦",
+        "ram": "2 GB Recommended",
+        "cpuGpu": "Low to mid-range devices supported",
+        "fps": "Stable 60 FPS",
+        "graphics": "Cartoon-style, colorful visuals 🎨",
+        "online": "Online Required",
+        "battery": "Low 🔋 (Perfect for casual play)"
+      },
+      {
+        "name": "Boom Beach",
+        "platform": "Android / iOS",
+        "storage": "600 MB 📦",
+        "ram": "2 GB Recommended",
+        "cpuGpu": "Low to mid-range devices supported",
+        "fps": "Stable 60 FPS",
+        "graphics": "Clean tropical military visuals 🌴",
+        "online": "Online Required",
+        "battery": "Low to Moderate"
+      }
+    ]
+  },
+
+  "keyFeatures": {
+    "games": [
+      {
+        "name": "Clash of Clans",
+        "modes": "Multiplayer Raids, Clan Wars, Clan Capital, Builder Base",
+        "playerLimits": "Up to 50 players per clan 👥",
+        "graphicsStyle": "Cartoon fantasy warfare ✨",
+        "customization": "Village layouts, heroes, skins, sceneries",
+        "events": "Clan Games, seasonal events, special challenges 🎉",
+        "mechanics": "Base design, army composition, spell timing"
+      },
+      {
+        "name": "Boom Beach",
+        "modes": "PvE Islands, PvP Attacks, Task Force Operations",
+        "playerLimits": "Task Forces up to 50 players",
+        "graphicsStyle": "Military island theme 🌊",
+        "customization": "Statues, troop upgrades, base defenses",
+        "events": "Mega Crab, Dr. T events 🦀",
+        "mechanics": "Gunboat abilities, troop control, surgical attacks"
+      }
+    ]
+  },
+
+  "prosCons": {
+    "games": [
+      {
+        "name": "Clash of Clans",
+        "pros": [
+          "Massive global community 🌍",
+          "Deep clan-based gameplay",
+          "Endless updates even after 10+ years",
+          "Easy to play, hard to master",
+          "Great for both casual and competitive players"
+        ],
+        "cons": [
+          "Long upgrade times ⏳",
+          "Progress can feel slow without patience",
+          "Heavily time-gated mechanics"
+        ]
+      },
+      {
+        "name": "Boom Beach",
+        "pros": [
+          "Skill-based attacks feel very rewarding 🎯",
+          "Less grinding compared to Clash of Clans",
+          "Great PvE content",
+          "Strategic depth in troop control"
+        ],
+        "cons": [
+          "Smaller player base",
+          "Base defense feels less important",
+          "Slower update cycle",
+          "Less variety in attack styles"
+        ]
+      }
+    ]
+  },
+
+  "popularityCommunity": {
+    "games": [
+      {
+        "name": "Clash of Clans",
+        "activePlayers": "100M+ Monthly Active Players 🌍",
+        "socialMedia": "Huge global fanbase",
+        "tournaments": "Clan War Leagues & Esports Events 🏆",
+        "engagement": "Base designs, attack strategies, clan wars, memes 😂"
+      },
+      {
+        "name": "Boom Beach",
+        "activePlayers": "Smaller but loyal community",
+        "socialMedia": "Niche but active",
+        "tournaments": "Limited competitive scene",
+        "engagement": "Strategy guides, Mega Crab runs, Task Force plays"
+      }
+    ]
+  },
+
+  "pricingIAP": {
+    "games": [
+      {
+        "name": "Clash of Clans",
+        "price": "Free",
+        "premiumFeatures": "Gold Pass, hero skins, magic items 🎫",
+        "currency": "Gems 💎",
+        "specialOffers": "Seasonal passes and bundles"
+      },
+      {
+        "name": "Boom Beach",
+        "price": "Free",
+        "premiumFeatures": "Instant training, resources, statues",
+        "currency": "Diamonds 💎",
+        "specialOffers": "Limited-time bundles"
+      }
+    ]
+  },
+
+  "deviceCompatibility": {
+    "games": [
+      {
+        "name": "Clash of Clans",
+        "devices": "Android & iOS",
+        "osVersion": "Android 5.0+ / iOS 11+",
+        "crossPlatform": "Mobile only",
+        "pcConsole": "Playable via emulators"
+      },
+      {
+        "name": "Boom Beach",
+        "devices": "Android & iOS",
+        "osVersion": "Android 5.0+ / iOS 11+",
+        "crossPlatform": "Mobile only",
+        "pcConsole": "Playable via emulators"
+      }
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Which game is better overall?",
+      "answer": "Clash of Clans 🏆 wins in long-term content, community size, and updates."
+    },
+    {
+      "question": "Which game requires more skill?",
+      "answer": "Boom Beach 🎯 focuses more on precise attacks and timing."
+    },
+    {
+      "question": "Which game is more casual?",
+      "answer": "Clash of Clans is more relaxed and beginner-friendly 😄."
+    },
+    {
+      "question": "Can I play both games as free-to-play?",
+      "answer": "Yes 👍 both are fair for F2P players with patience."
+    }
+  ]
+}

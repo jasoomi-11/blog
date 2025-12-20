@@ -4,7 +4,7 @@
   <!-- Section Homepage -->
   <url>
     <loc>https://blog.blueverse.space/game-system/system.html</loc>
-    <lastmod>2025-12-17</lastmod>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -247,5 +247,16 @@
     <priority>0.8</priority>
   </url>
 
+
+<!--20 Dec Must Update 20 Jan -->
+  
+
+
+<url>
+    <loc>https://blog.blueverse.space/game-system/boom-beach.html</loc>
+     <lastmod>2025-12-20T19:00:00+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
 </urlset>

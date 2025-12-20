@@ -1,0 +1,161 @@
+{
+  "gameTitle": "Samsung Galaxy S23 Ultra",
+  "subtitle": "The ultimate flagship powerhouse: insane performance, buttery-smooth gameplay, and a beast for heavy gaming & multitasking. 💪📱",
+
+  "posters": [
+    "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/s23-ultra.webp"
+  
+  ],
+
+  "performance": {
+    "cpu": "Snapdragon 8 Gen 2 (3.36GHz Prime Core / Octa-Core)",
+    "gpu": "Adreno 740",
+    "ram": "8GB / 12GB / 16GB LPDDR5X",
+    "storage": "256GB / 512GB / 1TB UFS 4.0",
+    "cooling": "Advanced Vapor Chamber & Graphene Layer Heat Dissipation"
+  },
+
+  "benchmark": {
+    "antutu": "1,420,000+",
+    "geekbench": "Single-Core: 1955, Multi-Core: 5350"
+  },
+
+  "display": {
+    "refreshRate": "120Hz Adaptive AMOLED 2X",
+    "touchRate": "240Hz Touch Sampling",
+    "resolution": "WQHD+ (3088 × 1440)",
+    "panelType": "Dynamic AMOLED 2X HDR10+"
+  },
+
+  "battery": {
+    "size": "5000mAh Dual Cell",
+    "fastCharging": "45W Super Fast Charging",
+    "gamingDrain": "6%–10% per hour (smooth as butter 🧈)"
+  },
+
+  "temperature": {
+    "heatLevel": "35°C – 40°C (gaming marathons, no sweat 😅)",
+    "fpsStability": "Extremely Stable (95% – 98%)"
+  },
+
+  "heavyGames": [
+    "PUBG Mobile",
+    "BGMI",
+    "Call of Duty Mobile",
+    "Genshin Impact",
+    "Fortnite",
+    "Honkai Star Rail",
+    "Asphalt 9",
+    "Farlight 84",
+    "Warzone Mobile"
+  ],
+
+  "playability": {
+    "PUBG Mobile": "Ultra HD + 90FPS",
+    "Call of Duty Mobile": "Max Graphics + 120FPS",
+    "Genshin Impact": "High Settings + 60FPS Stable",
+    "Fortnite": "Epic + 60FPS Smooth",
+    "Honkai Star Rail": "Max Settings, buttery gameplay"
+  },
+
+  "fpsBenchmarks": [
+    {
+      "game": "PUBG Mobile",
+      "settings": "Ultra HD",
+      "fps": "80–95 FPS Stable"
+    },
+    {
+      "game": "COD Mobile",
+      "settings": "Max",
+      "fps": "120 FPS Stable"
+    },
+    {
+      "game": "Genshin Impact",
+      "settings": "High",
+      "fps": "55–60 FPS Smooth"
+    },
+    {
+      "game": "Fortnite",
+      "settings": "Epic",
+      "fps": "60 FPS Stable"
+    }
+  ],
+
+  "thermalTests": [
+    {
+      "game": "PUBG Mobile",
+      "heat15": "Cool & comfortable",
+      "heat30": "Warm but stable",
+      "fpsDrop": "1 FPS only"
+    },
+    {
+      "game": "COD Mobile",
+      "heat15": "Normal",
+      "heat30": "Slight Warm",
+      "fpsDrop": "0 FPS"
+    },
+    {
+      "game": "Genshin Impact",
+      "heat15": "Warm",
+      "heat30": "Hot but manageable",
+      "fpsDrop": "2–3 FPS"
+    },
+    {
+      "game": "Fortnite",
+      "heat15": "Normal",
+      "heat30": "Warm",
+      "fpsDrop": "0 FPS"
+    }
+  ],
+
+  "batteryTests": [
+    {
+      "game": "PUBG Mobile",
+      "drop": "8%"
+    },
+    {
+      "game": "COD Mobile",
+      "drop": "7%"
+    },
+    {
+      "game": "Genshin Impact",
+      "drop": "12%"
+    }
+  ],
+
+  "gamingFeatures": [
+    "120Hz Adaptive Display for ultra-smooth motion",
+    "Dynamic AMOLED 2X HDR10+ visuals",
+    "Super Fast Charging 45W",
+    "Stereo Speakers tuned by AKG",
+    "Game Booster 6.0 for optimized performance",
+    "Advanced thermal management with graphene layer",
+    "S Pen support for precision commands (yes, even in games!)",
+    "Wireless Dex mode for big-screen gaming"
+  ],
+
+  "customTable": {
+    "title": "Custom Table Section",
+    "columns": ["Category", "Details", "Performance Impact"],
+    "rows": [
+      ["Cooling System", "Vapor Chamber + Graphene Layer", "Keeps FPS stable during long sessions"],
+      ["Display", "120Hz AMOLED 2X", "Smooth animations & responsive gameplay"],
+      ["Charging", "45W Super Fast", "Minimal downtime between matches"],
+      ["Speaker Quality", "Stereo AKG Speakers", "Immersive sound for battle awareness"],
+      ["Build Quality", "Armor Aluminum Frame + Gorilla Glass Victus 2", "Premium & durable"],
+      ["Software", "One UI 6 (Android 14)", "Optimized for heavy games & multitasking"]
+    ]
+  },
+
+  "dynamicList": {
+    "title": "Key Features",
+    "items": [
+      "WQHD+ Dynamic AMOLED 2X Display",
+      "LPDDR5X RAM",
+      "UFS 4.0 Storage",
+      "Advanced Cooling & Thermal Management",
+      "Game Booster 6.0",
+      "Esports-Grade FPS Stability"
+    ]
+  }
+}
