@@ -13,7 +13,7 @@
 
 <url>
     <loc>https://blog.blueverse.space/guides/pubg/all.html</loc>
-    <lastmod>2025-12-16</lastmod>
+    <lastmod>2025-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -244,5 +244,58 @@
 
 
 
+<!-- 21 Dec to 21 jan -->
 
+
+<url>
+    <loc>https://blog.blueverse.space/guides/pubg/piller.html</loc>
+    <lastmod>2025-12-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+
+<url>
+    <loc>https://blog.blueverse.space/guides/pubg/beginners-guide.html</loc>
+    <lastmod>2025-12-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+
+<url>
+    <loc>https://blog.blueverse.space/guides/pubg/beginners-mistake.html</loc>
+    <lastmod>2025-12-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  
+<url>
+    <loc>https://blog.blueverse.space/guides/pubg/fast-progression.html</loc>
+    <lastmod>2025-12-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://blog.blueverse.space/guides/pubg/map-guide.html</loc>
+    <lastmod>2025-12-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://blog.blueverse.space/guides/pubg/map-strategy.html</loc>
+    <lastmod>2025-12-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  
+  
 </urlset>
