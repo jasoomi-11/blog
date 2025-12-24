@@ -1,0 +1,134 @@
+{
+  "shortIntro": {
+    "title": "What Your Phone Needs for Smooth WePlay Party Fun 🎉📱",
+    "para1": "WePlay is all about fun, voice chat, mini-games, and making friends — not melting your phone 😄. Unlike heavy FPS games, WePlay focuses on smooth UI, clear voice quality, and zero lag during party rooms.",
+    "para2": "A decent processor, stable internet, and enough RAM are all you need to enjoy ludo nights, voice rooms, and mini-game chaos without freezes or awkward mic cuts 🎤😂."
+  },
+
+  "intro": "Below are the minimum and recommended system requirements to enjoy WePlay smoothly on Android and iOS. Tested by casual players, party hosts, and late-night voice chat legends 😎🎧.",
+
+  "minimum": {
+    "OS Version": "Android 6.0 or higher",
+    "RAM": "2GB minimum (enough for basic party rooms 🙂)",
+    "CPU": "Quad-Core 1.4GHz or better",
+    "GPU": "Any basic mobile GPU",
+    "Storage": "500MB – 1GB free space",
+    "Internet": "Stable Wi-Fi or 4G for clear voice chat 🎙️"
+  },
+
+  "recommended": {
+    "OS Version": "Android 10 or higher",
+    "RAM": "4GB+ for smooth multitasking & voice rooms 🚀",
+    "CPU": "Octa-Core Snapdragon / Helio / Dimensity",
+    "GPU": "Mid-range GPU for smooth animations",
+    "Storage": "1.5GB+ free space for updates & effects",
+    "Internet": "Fast Wi-Fi or 4G/5G for lag-free parties 🎉"
+  },
+
+  "ios_intro": "WePlay runs extremely well on iPhones 🍏. Thanks to iOS optimization, voice chat stays crisp and mini-games run smoothly even on older devices.",
+
+  "ios_minimum": [
+    { "title": "OS Version", "value": "iOS 11 or later" },
+    { "title": "Device", "value": "iPhone 6s or newer" },
+    { "title": "Storage", "value": "500MB+ free space" }
+  ],
+
+  "ios_recommended": [
+    { "title": "OS Version", "value": "iOS 14 or later" },
+    { "title": "Device", "value": "iPhone 8 / X / 11 or newer" },
+    { "title": "Storage", "value": "1GB+ free space for smooth updates & effects" }
+  ],
+
+  "fps_intro": "FPS isn’t everything in WePlay — smooth animations and stable voice chat matter more 😄.",
+
+  "fps_list": [
+    { "category": "Low-End Devices", "fps": "30 FPS (smooth enough for casual party games 🙂)" },
+    { "category": "Mid-Range Devices", "fps": "45–60 FPS (perfect balance for mini-games 🎯)" },
+    { "category": "High-End Devices", "fps": "60 FPS+ (buttery UI & instant room switching 💨)" }
+  ],
+
+  "settings_intro": "Smart settings help WePlay run cooler, smoother, and crash-free 🔧✨.",
+
+  "low_end": [
+    { "title": "Graphics Quality", "value": "Standard to save battery & RAM" },
+    { "title": "Voice Effects", "value": "Disable heavy effects if voice lags" },
+    { "title": "Background Apps", "value": "Close unused apps for stable rooms 😅" },
+    { "title": "Network Mode", "value": "Use Wi-Fi whenever possible" }
+  ],
+
+  "high_end": [
+    { "title": "Graphics Quality", "value": "High for smoother animations ✨" },
+    { "title": "Voice Effects", "value": "Enable fun voice filters 🎤😂" },
+    { "title": "Multitasking", "value": "Switch rooms instantly without reloads" },
+    { "title": "Thermal Control", "value": "Long parties stay cool on modern phones 🔥❌" }
+  ],
+
+  "sectionIntro": "These Android & iOS devices offer the best WePlay experience with smooth voice chat, fast room loading, and zero lag.",
+
+  "androidDevices": [
+    "Samsung Galaxy A & S Series",
+    "Xiaomi Redmi Note / Poco Series",
+    "Realme C / Narzo / GT Series",
+    "Infinix Hot / Note / Zero Series",
+    "Tecno Spark / Camon Series",
+    "OnePlus Nord Series"
+  ],
+
+  "iosDevices": [
+    "iPhone 7 / 8 / X",
+    "iPhone XR / 11 / 12 / 13 Series",
+    "iPhone SE 2020 / 2022",
+    "iPad Mini 4 / 5 / 6",
+    "iPad Air 3rd Gen+"
+  ],
+
+  "storageIntroText": "WePlay is lightweight, but fun features and updates still need some space 📦:",
+
+  "storageDetails": [
+    { "label": "Base App Size", "value": "≈ 200–300MB" },
+    { "label": "Voice Effects & Assets", "value": "100–300MB" },
+    { "label": "Updates & Events", "value": "50–150MB occasionally" },
+    { "label": "Total Required Space", "value": "1GB recommended for smooth usage" }
+  ],
+
+  "faqIntroText": "WePlay FAQs – quick answers for party lovers 🎉:",
+
+  "faqList": [
+    {
+      "question": "Is WePlay a heavy game?",
+      "answer": "No. WePlay is lightweight compared to FPS or battle royale games. Most phones can run it easily."
+    },
+    {
+      "question": "Does WePlay need a strong GPU?",
+      "answer": "Not at all. A decent CPU and stable internet matter more than graphics power."
+    },
+    {
+      "question": "Why does voice lag sometimes?",
+      "answer": "Weak internet or too many background apps can affect voice chat. Switch to Wi-Fi and close unused apps 😅."
+    }
+  ],
+
+  "title": "Device Comparison Insights 🔍",
+  "description": "Compare real-world WePlay performance, voice chat stability, loading speed, and party room smoothness across popular Android & iOS devices.",
+
+  "rows": [
+    {
+      "device1": "Samsung Galaxy A14",
+      "device2": "Redmi Note 12",
+      "performance": "Both handle WePlay smoothly with clear voice chat.",
+      "notes": "Redmi loads rooms slightly faster, Galaxy stays stable during long voice sessions."
+    },
+    {
+      "device1": "Realme Narzo 50",
+      "device2": "Infinix Hot 12",
+      "performance": "Smooth mini-games and stable party rooms.",
+      "notes": "Narzo has cleaner voice output, Infinix offers better battery life."
+    },
+    {
+      "device1": "iPhone 11",
+      "device2": "iPhone XR",
+      "performance": "Both deliver lag-free voice chat and fast room switching.",
+      "notes": "iPhone 11 feels smoother with effects enabled, XR remains reliable for long sessions."
+    }
+  ]
+}
