@@ -112,7 +112,27 @@
   "title": "Boom Beach VS Clash Of Clans ",
   "subtitle": "Full Detailed Comparison",
   "link": "/comparison/clash-of-clans-boom-beach.html"
+},
+{
+  "badge": "MOBA | Strategy",
+  "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/league-of-legends-mobile-legends.webp",
+  "title": "League of Legends Wild Rift VS Mobile Legends",
+  "subtitle": "Full Detailed MOBA Comparison (Gameplay, Heroes, Ranked & More)",
+  "link": "/comparison/league-of-legends-mobile-legends.html"
+},
+
+{
+  "badge": "MOBA | Strategy",
+  "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/dota-underlords-lol.webp",
+  "title": "Dota Underlords VS League of Legends Wild Rift",
+  "subtitle": "Strategy Auto-Battler vs 5v5 MOBA (Gameplay, Modes, Progression & More)",
+  "link": "/comparison/dota-underlords-lol.html"
 }
+  
+  
+  
+  
+  
   
   ]
 }

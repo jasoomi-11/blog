@@ -4,7 +4,7 @@
   <!-- Section Homepage -->
   <url>
     <loc>https://blog.blueverse.space/game-system/system.html</loc>
-    <lastmod>2025-12-24</lastmod>
+    <lastmod>2025-12-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -271,6 +271,21 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
+
+
+<!--28 Dec Must Update 28 Jan -->
+ 
+
+<url>
+    <loc>https://blog.blueverse.space/game-system/dota-underlords.html</loc>
+     <lastmod>2025-12-28T19:00:00+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+
+
 
 
 </urlset>

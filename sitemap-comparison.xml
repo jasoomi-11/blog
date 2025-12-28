@@ -4,7 +4,7 @@
   <!-- Section Homepage -->
   <url>
     <loc>https://blog.blueverse.space/comparison/comparison.html</loc>
-    <lastmod>2025-12-20</lastmod>
+    <lastmod>2025-12-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -177,5 +177,30 @@
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
+  
+  <!-- 27 Dec Update To 27 Jan -->
+ 
+  
+  
+  
+  
+  <url>
+    <loc>https://blog.blueverse.space/comparison/league-of-legends-mobile-legends.html</loc>
+    <lastmod>2025-12-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  
+   <url>
+    <loc>https://blog.blueverse.space/comparison/dota-underlords-lol.html</loc>
+    <lastmod>2025-12-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  
+  
+  
 
 </urlset>

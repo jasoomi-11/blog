@@ -1,0 +1,183 @@
+{
+  "gameComparison": {
+    "games": [
+      {
+        "name": "League of Legends: Wild Rift",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/league-of-legends.webp",
+        "genre": "MOBA (5v5 Competitive Strategy) 🧠⚔️",
+        "developer": "Riot Games",
+        "release": "2020",
+        "gameplay": "Fast-paced 5v5 MOBA designed for mobile with shorter matches, skill-based champions, lanes, jungle objectives, and intense team fights. Smooth controls and esports-level balance 🎮🔥."
+      },
+      {
+        "name": "Dota Underlords",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/dota-underlords.webp",
+        "genre": "Auto Battler / Strategy ♟️🧩",
+        "developer": "Valve",
+        "release": "2019",
+        "gameplay": "Strategic auto-battler based on the Dota universe. Players build teams, manage gold, synergies, and positioning while units fight automatically. Focused on planning, counters, and long-term strategy 🧠📊."
+      }
+    ]
+  },
+
+  "systemRequirements": {
+    "games": [
+      {
+        "name": "League of Legends: Wild Rift",
+        "platform": "Android / iOS",
+        "storage": "5–6 GB 📦",
+        "ram": "3–4 GB Recommended",
+        "cpuGpu": "Mid-range chipset (Snapdragon 665+/A11+)",
+        "fps": "60 FPS (120Hz supported devices)",
+        "graphics": "Highly polished & vibrant visuals ✨",
+        "online": "Online Required",
+        "battery": "Moderate ⚡"
+      },
+      {
+        "name": "Dota Underlords",
+        "platform": "Android / iOS",
+        "storage": "2–3 GB 📦",
+        "ram": "3 GB Recommended",
+        "cpuGpu": "Mid-range chipset",
+        "fps": "60 FPS",
+        "graphics": "Stylized fantasy board visuals 🎲",
+        "online": "Optional (Offline modes available)",
+        "battery": "Low to Moderate"
+      }
+    ]
+  },
+
+  "keyFeatures": {
+    "games": [
+      {
+        "name": "League of Legends: Wild Rift",
+        "modes": "Ranked, Normal PvP, ARAM, Co-op vs AI",
+        "playerLimits": "10 players (5v5) 🧑‍🤝‍🧑",
+        "graphicsStyle": "Colorful, animated MOBA visuals 🌈",
+        "customization": "Champion skins, emotes, icons",
+        "events": "Regular seasonal & crossover events 🎉",
+        "mechanics": "Laning, jungle objectives, skillshots, team coordination"
+      },
+      {
+        "name": "Dota Underlords",
+        "modes": "Ranked, Casual, Duos, Offline Bots",
+        "playerLimits": "8 players per match 🎮",
+        "graphicsStyle": "Board-game inspired fantasy visuals ♟️",
+        "customization": "Boards, effects, cosmetics",
+        "events": "Limited seasonal updates",
+        "mechanics": "Auto combat, unit synergies, economy management"
+      }
+    ]
+  },
+
+  "prosCons": {
+    "games": [
+      {
+        "name": "League of Legends: Wild Rift",
+        "pros": [
+          "Highly competitive & skill-based gameplay 🏆",
+          "Strong esports ecosystem",
+          "Frequent updates & balance patches",
+          "Optimized controls for mobile",
+          "Huge active player base 🌍"
+        ],
+        "cons": [
+          "Steep learning curve for new players",
+          "Requires constant internet",
+          "Team dependency can be frustrating 😅"
+        ]
+      },
+      {
+        "name": "Dota Underlords",
+        "pros": [
+          "Deep strategic gameplay 🧠",
+          "Can be played offline",
+          "Less mechanical skill required",
+          "Relaxed, thinking-focused experience"
+        ],
+        "cons": [
+          "Declining active player base 📉",
+          "Fewer updates",
+          "Long matches",
+          "Not action-oriented"
+        ]
+      }
+    ]
+  },
+
+  "popularityCommunity": {
+    "games": [
+      {
+        "name": "League of Legends: Wild Rift",
+        "activePlayers": "Millions of Monthly Active Players 🌍",
+        "socialMedia": "10M+ Followers",
+        "tournaments": "Wild Rift Esports & Regional Leagues 🏆",
+        "engagement": "Streams, esports, champion guides, tier lists 🎥"
+      },
+      {
+        "name": "Dota Underlords",
+        "activePlayers": "Low / Niche Community",
+        "socialMedia": "Limited Activity",
+        "tournaments": "None (Esports discontinued)",
+        "engagement": "Casual strategy discussions, legacy players"
+      }
+    ]
+  },
+
+  "pricingIAP": {
+    "games": [
+      {
+        "name": "League of Legends: Wild Rift",
+        "price": "Free",
+        "premiumFeatures": "Cosmetic skins only",
+        "currency": "Wild Cores",
+        "specialOffers": "Seasonal skin bundles & passes 🎫"
+      },
+      {
+        "name": "Dota Underlords",
+        "price": "Free",
+        "premiumFeatures": "Cosmetics only",
+        "currency": "None",
+        "specialOffers": "No active monetization"
+      }
+    ]
+  },
+
+  "deviceCompatibility": {
+    "games": [
+      {
+        "name": "League of Legends: Wild Rift",
+        "devices": "Android & iOS",
+        "osVersion": "Android 5.0+ / iOS 10+",
+        "crossPlatform": "Mobile only",
+        "pcConsole": "Not available"
+      },
+      {
+        "name": "Dota Underlords",
+        "devices": "Android, iOS & PC",
+        "osVersion": "Android 5.0+ / iOS 11+",
+        "crossPlatform": "Yes (PC & Mobile)",
+        "pcConsole": "Available on PC"
+      }
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Which game is more competitive?",
+      "answer": "League of Legends: Wild Rift 🏆 offers a highly competitive MOBA experience with ranked and esports."
+    },
+    {
+      "question": "Which game is better for casual play?",
+      "answer": "Dota Underlords ♟️ is better for relaxed, strategy-focused gameplay."
+    },
+    {
+      "question": "Does either game support offline play?",
+      "answer": "Dota Underlords supports offline modes, while Wild Rift requires internet ❌."
+    },
+    {
+      "question": "Which game is better long-term?",
+      "answer": "League of Legends: Wild Rift has stronger long-term support, updates, and player base 🔥."
+    }
+  ]
+}

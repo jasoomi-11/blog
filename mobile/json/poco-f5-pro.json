@@ -1,0 +1,161 @@
+{
+  "gameTitle": "POCO F5 Pro",
+  "subtitle": "A flagship-killer gaming phone that balances raw power, smooth FPS, solid cooling, and insane value for competitive mobile gamers without emptying your wallet 💸🎮.",
+
+  "posters": [
+    "/assets/thumb/poco-f5-pro.webp",
+    ""
+  ],
+
+  "performance": {
+    "cpu": "Qualcomm Snapdragon 8+ Gen 1 (Up to 3.2GHz)",
+    "gpu": "Adreno 730",
+    "ram": "8GB / 12GB LPDDR5",
+    "storage": "256GB / 512GB UFS 3.1",
+    "cooling": "LiquidCool Technology 2.0 with Vapor Chamber"
+  },
+
+  "benchmark": {
+    "antutu": "1,150,000+",
+    "geekbench": "Single-Core: 1350, Multi-Core: 4100"
+  },
+
+  "display": {
+    "refreshRate": "120Hz",
+    "touchRate": "480Hz Touch Sampling",
+    "resolution": "WQHD+ (3200 × 1440)",
+    "panelType": "AMOLED HDR10+"
+  },
+
+  "battery": {
+    "size": "5160mAh",
+    "fastCharging": "67W Turbo Charging",
+    "gamingDrain": "10% – 14% per hour (balanced performance 🔋)"
+  },
+
+  "temperature": {
+    "heatLevel": "38°C – 44°C",
+    "fpsStability": "Stable (88% – 92%)"
+  },
+
+  "heavyGames": [
+    "PUBG Mobile",
+    "BGMI",
+    "Call of Duty Mobile",
+    "Genshin Impact",
+    "Fortnite",
+    "Honkai Star Rail",
+    "Asphalt 9",
+    "Warzone Mobile",
+    "Farlight 84"
+  ],
+
+  "playability": {
+    "PUBG Mobile": "HDR / Smooth + 90FPS Support",
+    "Call of Duty Mobile": "Very High Graphics + 120FPS",
+    "Genshin Impact": "High Settings at 55–60FPS",
+    "Fortnite": "High Quality + 60FPS",
+    "Honkai Star Rail": "High Settings Smooth"
+  },
+
+  "fpsBenchmarks": [
+    {
+      "game": "PUBG Mobile",
+      "settings": "Smooth / HDR",
+      "fps": "80–90 FPS Stable"
+    },
+    {
+      "game": "COD Mobile",
+      "settings": "Max",
+      "fps": "110–120 FPS"
+    },
+    {
+      "game": "Genshin Impact",
+      "settings": "High",
+      "fps": "55–60 FPS"
+    },
+    {
+      "game": "Fortnite",
+      "settings": "High",
+      "fps": "55–60 FPS"
+    }
+  ],
+
+  "thermalTests": [
+    {
+      "game": "PUBG Mobile",
+      "heat15": "Warm but comfortable",
+      "heat30": "Noticeably warm",
+      "fpsDrop": "2–3 FPS"
+    },
+    {
+      "game": "COD Mobile",
+      "heat15": "Normal",
+      "heat30": "Warm",
+      "fpsDrop": "1–2 FPS"
+    },
+    {
+      "game": "Genshin Impact",
+      "heat15": "Warm",
+      "heat30": "Hot (reduce brightness 😅)",
+      "fpsDrop": "4–6 FPS"
+    },
+    {
+      "game": "Fortnite",
+      "heat15": "Normal",
+      "heat30": "Warm",
+      "fpsDrop": "2 FPS"
+    }
+  ],
+
+  "batteryTests": [
+    {
+      "game": "PUBG Mobile",
+      "drop": "11%"
+    },
+    {
+      "game": "COD Mobile",
+      "drop": "10%"
+    },
+    {
+      "game": "Genshin Impact",
+      "drop": "15%"
+    }
+  ],
+
+  "gamingFeatures": [
+    "Snapdragon 8+ Gen 1 Flagship Performance",
+    "WQHD+ AMOLED Display (Ultra Sharp 👀)",
+    "LiquidCool Vapor Chamber Cooling",
+    "MIUI Game Turbo Optimization",
+    "Dual Stereo Speakers with Dolby Atmos",
+    "X-Axis Linear Vibration Motor",
+    "High Touch Sampling for Fast Reflexes",
+    "Glass Back Premium Build"
+  ],
+
+  "customTable": {
+    "title": "POCO F5 Pro Gaming Breakdown",
+    "columns": ["Category", "Details", "Performance Impact"],
+    "rows": [
+      ["Processor", "Snapdragon 8+ Gen 1", "Flagship-Level FPS"],
+      ["Cooling", "LiquidCool 2.0 VC", "Controls Heat During Long Matches"],
+      ["Display", "WQHD+ AMOLED 120Hz", "Crisp Visuals & Smooth Scrolling"],
+      ["Charging", "67W Turbo Charge", "Quick Top-Ups Between Games"],
+      ["Audio", "Stereo Speakers", "Better Enemy Direction Awareness"],
+      ["Software", "MIUI for POCO", "Aggressive Gaming Optimization"]
+    ]
+  },
+
+  "dynamicList": {
+    "title": "Why Gamers Love POCO F5 Pro",
+    "items": [
+      "Snapdragon 8+ Gen 1 Flagship Chip",
+      "WQHD+ AMOLED Display at 120Hz",
+      "Strong FPS Stability for Competitive Games",
+      "Excellent Value for Money 💰",
+      "Reliable Cooling for Long Sessions",
+      "Smooth Multiplayer & Ranked Performance"
+    ]
+  }
+}

@@ -4,7 +4,7 @@
   <!-- Section Homepage -->
   <url>
     <loc>https://blog.blueverse.space/mobile/mobile.html</loc>
-    <lastmod>2025-12-20</lastmod>
+    <lastmod>2025-12-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -209,6 +209,28 @@
 <url>
     <loc>https://blog.blueverse.space/mobile/pricing/s23-ultra.html</loc>
     <lastmod>2025-12-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  
+  
+  <!-- 28 dec to 28 jan -->
+  
+  
+  <url>
+    <loc>https://blog.blueverse.space/mobile/pricing/poco-f5-pro.html</loc>
+    <lastmod>2025-12-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  
+  
+  
+<url>
+    <loc>https://blog.blueverse.space/mobile/poco-f5-pro.html</loc>
+    <lastmod>2025-12-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
