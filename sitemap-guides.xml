@@ -13,7 +13,7 @@
 
 <url>
     <loc>https://blog.blueverse.space/guides/pubg/all.html</loc>
-    <lastmod>2025-12-21</lastmod>
+    <lastmod>2025-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -295,6 +295,32 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  
+  
+  
+  <!-- 29 Dec to 29 jan -->
+  
+  
+  
+  
+  <url>
+    <loc>https://blog.blueverse.space/guides/pubg/combat-mastery.html</loc>
+    <lastmod>2025-12-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  
+  <url>
+    <loc>https://blog.blueverse.space/guides/pubg/mode-events.html</loc>
+    <lastmod>2025-12-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  
+  
+  
   
   
   
