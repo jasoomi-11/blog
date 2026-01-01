@@ -1,0 +1,189 @@
+{
+  "gameComparison": {
+    "games": [
+      {
+        "name": "Genshin Impact",
+        "thumbnail": "/assets/thumb/genshine-impact.webp",
+        "genre": "Open-World Action RPG 🌍⚔️",
+        "developer": "HoYoverse",
+        "release": "2020",
+        "gameplay": "A massive anime-style open world with elemental combat, character switching, story-driven quests, and exploration that can easily steal hundreds of hours of your life (and your sleep 😅). Smooth combat, deep lore, and breathtaking environments define the experience."
+      },
+      {
+        "name": "Tower of Fantasy",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/tower-of-fantasy.webp",
+        "genre": "Open-World MMORPG / Action RPG 🚀⚔️",
+        "developer": "Hotta Studio (Perfect World)",
+        "release": "2022",
+        "gameplay": "A futuristic open-world RPG with fast combat, multiplayer focus, vehicles, jetpacks, and flashy weapons. More social, more chaotic, and more MMO-style progression — perfect for players who like teamwork and sci-fi vibes ⚙️🔥."
+      }
+    ]
+  },
+
+  "systemRequirements": {
+    "games": [
+      {
+        "name": "Genshin Impact",
+        "platform": "Android / iOS",
+        "storage": "20–25 GB 📦 (Yes, it’s huge)",
+        "ram": "6 GB Recommended",
+        "cpuGpu": "Snapdragon 845+/A12+",
+        "fps": "Up to 60 FPS",
+        "graphics": "High-quality anime visuals ✨",
+        "online": "Online Required (Single-player friendly)",
+        "battery": "High 🔋 (Beauty costs power)"
+      },
+      {
+        "name": "Tower of Fantasy",
+        "platform": "Android / iOS",
+        "storage": "12–15 GB 📦",
+        "ram": "6–8 GB Recommended",
+        "cpuGpu": "Snapdragon 865+/A12+",
+        "fps": "Up to 60 FPS",
+        "graphics": "Stylized sci-fi visuals 🚀",
+        "online": "Always Online (MMO)",
+        "battery": "Very High ⚡ (Jetpacks eat battery 😅)"
+      }
+    ]
+  },
+
+  "keyFeatures": {
+    "games": [
+      {
+        "name": "Genshin Impact",
+        "modes": "Story, Exploration, Domains, Events",
+        "playerLimits": "Mostly Solo (Co-op up to 4)",
+        "graphicsStyle": "Anime fantasy art style 🎨",
+        "customization": "Characters, weapons, artifacts",
+        "events": "Frequent story-driven events 🎉",
+        "mechanics": "Elemental reactions, character switching, exploration"
+      },
+      {
+        "name": "Tower of Fantasy",
+        "modes": "Open World, Co-op, PvP, Raids",
+        "playerLimits": "Massively Multiplayer 👥",
+        "graphicsStyle": "Anime + sci-fi fusion ✨",
+        "customization": "Weapons, simulacra, mounts",
+        "events": "Limited-time MMO events",
+        "mechanics": "Weapon swapping, jetpacks, vehicles, multiplayer synergy"
+      }
+    ]
+  },
+
+  "prosCons": {
+    "games": [
+      {
+        "name": "Genshin Impact",
+        "pros": [
+          "Beautiful open world & music 🎶",
+          "Deep lore and story-driven quests",
+          "Smooth elemental combat system",
+          "Consistent updates and expansions",
+          "Playable casually or hardcore"
+        ],
+        "cons": [
+          "Very large storage size 📦",
+          "Gacha system can be expensive 💸",
+          "Limited endgame for hardcore grinders",
+          "Slow progression without patience 😅"
+        ]
+      },
+      {
+        "name": "Tower of Fantasy",
+        "pros": [
+          "Strong multiplayer & co-op focus 👥",
+          "Fast-paced combat and mobility",
+          "Sci-fi setting feels fresh",
+          "More MMO-style freedom",
+          "PvP and raids add replay value"
+        ],
+        "cons": [
+          "Story feels weaker compared to Genshin",
+          "Optimization issues on some devices",
+          "UI can feel cluttered",
+          "Power creep concerns over time"
+        ]
+      }
+    ]
+  },
+
+  "popularityCommunity": {
+    "games": [
+      {
+        "name": "Genshin Impact",
+        "activePlayers": "60M+ Monthly Active Players 🌍",
+        "socialMedia": "30M+ Followers",
+        "tournaments": "Community events & showcases",
+        "engagement": "Fan art, lore videos, guides, theorycrafting 🧠"
+      },
+      {
+        "name": "Tower of Fantasy",
+        "activePlayers": "10M+ Players",
+        "socialMedia": "Growing MMO community",
+        "tournaments": "PvP-focused events",
+        "engagement": "Build guides, co-op content, raid clips 🎥"
+      }
+    ]
+  },
+
+  "pricingIAP": {
+    "games": [
+      {
+        "name": "Genshin Impact",
+        "price": "Free",
+        "premiumFeatures": "Gacha characters & weapons",
+        "currency": "Primogems",
+        "specialOffers": "Battle Pass & Welkin Moon"
+      },
+      {
+        "name": "Tower of Fantasy",
+        "price": "Free",
+        "premiumFeatures": "Weapons, simulacra, cosmetics",
+        "currency": "Dark Crystals",
+        "specialOffers": "Limited banners & bundles"
+      }
+    ]
+  },
+
+  "deviceCompatibility": {
+    "games": [
+      {
+        "name": "Genshin Impact",
+        "devices": "Android / iOS",
+        "osVersion": "Android 8.1+ / iOS 12+",
+        "crossPlatform": "Mobile, PC, Console",
+        "pcConsole": "Yes (Full support)"
+      },
+      {
+        "name": "Tower of Fantasy",
+        "devices": "Android / iOS",
+        "osVersion": "Android 7.0+ / iOS 12+",
+        "crossPlatform": "Mobile & PC",
+        "pcConsole": "Limited / Not official"
+      }
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Which game is better overall?",
+      "answer": "Genshin Impact 🏆 wins for story, polish, and long-term quality."
+    },
+    {
+      "question": "Which game is more multiplayer-focused?",
+      "answer": "Tower of Fantasy 👥 is clearly better for co-op, PvP, and MMO fans."
+    },
+    {
+      "question": "Which game is more beginner-friendly?",
+      "answer": "Genshin Impact is easier to start and understand."
+    },
+    {
+      "question": "Which game is more demanding on devices?",
+      "answer": "Genshin Impact 🔥 requires more storage, while Tower of Fantasy pushes performance harder."
+    },
+    {
+      "question": "Which should I play in 2026?",
+      "answer": "Play Genshin for story & solo fun, Tower of Fantasy for multiplayer chaos 😎."
+    }
+  ]
+}

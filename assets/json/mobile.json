@@ -118,9 +118,17 @@
     "badgeColor": "Silver",
     "link": "/mobile/poco-f5-pro.html"
   
+  },
+  
+  {
+    "title": " Lenovo Legion Y90 ",
+    "subtitle": "Check Out Top gaming Mobile at Glance",
+    "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/lenovo-legion-y90.webp",
+    "badge": "Lenovo",
+    "badgeColor": "brown",
+    "link": "/mobile/lenovo-legion-y90.html"
+  
   }
-  
-  
   
 
 ]

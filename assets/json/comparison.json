@@ -117,7 +117,7 @@
   "badge": "MOBA | Strategy",
   "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/league-of-legends-mobile-legends.webp",
   "title": "League of Legends Wild Rift VS Mobile Legends",
-  "subtitle": "Full Detailed MOBA Comparison (Gameplay, Heroes, Ranked & More)",
+  "subtitle": "Full Detailed MOBA Comparison ",
   "link": "/comparison/league-of-legends-mobile-legends.html"
 },
 
@@ -125,9 +125,23 @@
   "badge": "MOBA | Strategy",
   "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/dota-underlords-lol.webp",
   "title": "Dota Underlords VS League of Legends Wild Rift",
-  "subtitle": "Strategy Auto-Battler vs 5v5 MOBA (Gameplay, Modes, Progression & More)",
+  "subtitle": "Strategy Auto-Battler vs 5v5 MOBA ",
   "link": "/comparison/dota-underlords-lol.html"
+},
+
+{
+  "badge": "RPG | Open-World",
+  "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/genshine-tower-of-fantasy.webp",
+  "title": "Genshin Impact VS Tower of Fantasy",
+  "subtitle": "Open-World RPGs Showdown: Exploration",
+  "link": "/comparison/genshine-tower-of-fantasy.html"
 }
+  
+  
+  
+  
+  
+  
   
   
   

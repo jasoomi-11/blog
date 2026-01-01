@@ -1,0 +1,134 @@
+{
+  "shortIntro": {
+    "title": "What Your Device Needs for Smooth Knives Out Mobile Action 🔪📱",
+    "para1": "Knives Out Mobile is a battle royale packed with intense firefights, sneaky ambushes, and frantic looting. Surviving until the last circle requires a device that won’t lag mid-gunfight or freeze when you’re sprinting for cover.",
+    "para2": "Your aim, dodge rolls, and tactical maneuvers rely heavily on your CPU, GPU, and RAM. Play on a weak phone and you might accidentally parachute straight into enemy fire 😅💥."
+  },
+
+  "intro": "Here’s the full minimum and recommended device specs to dominate Knives Out Mobile on Android and iOS. Tested by casual looters and pro survivors alike 😎🏆.",
+
+  "minimum": {
+    "OS Version": "Android 6.0 or higher",
+    "RAM": "2GB minimum (barely enough for smooth looting 😬)",
+    "CPU": "Quad-Core 1.6–1.8GHz",
+    "GPU": "Adreno 505 / Mali-G71 or equivalent",
+    "Storage": "2–3GB free space",
+    "Internet": "Stable connection required – lag = instant elimination 💀"
+  },
+
+  "recommended": {
+    "OS Version": "Android 11 or higher",
+    "RAM": "4GB+ for buttery smooth gameplay 💨",
+    "CPU": "Snapdragon 720 / 860 or newer",
+    "GPU": "Adreno 618 / Mali-G76 or better",
+    "Storage": "5GB+ recommended for skins, updates, and maps",
+    "Internet": "Fast Wi-Fi or 5G – bullets wait for no one!"
+  },
+
+  "ios_intro": "Knives Out Mobile runs beautifully on iOS 🍏. Smooth frame rates, precise controls, and perfect combat thanks to Apple’s GPU magic.",
+
+  "ios_minimum": [
+    { "title": "OS Version", "value": "iOS 11 or later" },
+    { "title": "Device", "value": "iPhone 6s / 7 or newer" },
+    { "title": "Storage", "value": "2–3GB free space minimum" }
+  ],
+
+  "ios_recommended": [
+    { "title": "OS Version", "value": "iOS 14 or later" },
+    { "title": "Device", "value": "iPhone X / 11 / 12 Series or newer" },
+    { "title": "Storage", "value": "5GB+ free space recommended for smooth updates & skins" }
+  ],
+
+  "fps_intro": "FPS matters in Knives Out! High FPS = smooth aiming, faster rotations, and fewer rage quits 😎.",
+
+  "fps_list": [
+    { "category": "Low-End Devices", "fps": "20–30 FPS (enemies everywhere, good luck 😬)" },
+    { "category": "Mid-Range Devices", "fps": "40–50 FPS (smooth for casual squads)" },
+    { "category": "High-End Devices", "fps": "60–90 FPS+ (pro-level firefights with zero lag 💪)" }
+  ],
+
+  "settings_intro": "Optimizing graphics is key! Less lag = more kills 🔫🏆.",
+
+  "low_end": [
+    { "title": "Graphics Quality", "value": "Low or Default to avoid frame drops" },
+    { "title": "Frame Rate", "value": "Standard FPS (watch your aim 😅)" },
+    { "title": "Effects", "value": "Reduce shadows and particle effects for clarity" },
+    { "title": "Background Apps", "value": "Close everything else unless you enjoy surprise crashes 😡" }
+  ],
+
+  "high_end": [
+    { "title": "Graphics Quality", "value": "High / Ultra (explosions look amazing ✨)" },
+    { "title": "Frame Rate", "value": "Enable Max FPS for smooth firefights" },
+    { "title": "Thermal Control", "value": "Keep device cool or you’ll drop mid-chase 🔥" },
+    { "title": "Storage Speed", "value": "Keep 1GB+ free to load weapons, skins, and maps instantly" }
+  ],
+
+  "sectionIntro": "These Android & iOS devices will give you the ultimate Knives Out Mobile experience: smooth combat, fast rotations, and zero lag.",
+
+  "androidDevices": [
+    "Samsung Galaxy S21 / S22 / S23 Series",
+    "Xiaomi Redmi Note 12 / 13 Pro / Poco X5 / F6",
+    "Realme GT Neo 2 / 3 / 4",
+    "OnePlus Nord 3 / 4 / 5",
+    "Google Pixel 6 / 7 / 8 Series",
+    "Infinix Zero / GT Series"
+  ],
+
+  "iosDevices": [
+    "iPhone X / XR / XS",
+    "iPhone 11 / 12 / 13 / 14 Series",
+    "iPhone SE 2020 / 2022",
+    "iPad Mini 5 / 6",
+    "iPad Air 3rd Gen+"
+  ],
+
+  "storageIntroText": "Knives Out Mobile isn’t tiny – maps, skins, and updates add up fast. Here’s the storage breakdown 📦:",
+
+  "storageDetails": [
+    { "label": "Base Game Size", "value": "≈ 2GB" },
+    { "label": "HD Texture Pack", "value": "400–800MB (optional, but gorgeous ✨)" },
+    { "label": "Seasonal Updates", "value": "200–500MB per season" },
+    { "label": "Total Required Space", "value": "≈ 4–5GB recommended for smooth gameplay" }
+  ],
+
+  "faqIntroText": "FAQs for Knives Out Mobile – stay alive and avoid rage quitting 😎:",
+
+  "faqList": [
+    {
+      "question": "Is Knives Out Mobile heavy on phones?",
+      "answer": "Yes, especially in full squad matches. Devices with 4GB+ RAM and decent GPU work best."
+    },
+    {
+      "question": "Can my phone run Knives Out at 60 FPS?",
+      "answer": "Only mid-range or high-end devices can handle 60+ FPS with Ultra settings. Low-end devices may struggle."
+    },
+    {
+      "question": "Why does my phone heat up during Knives Out?",
+      "answer": "Particle effects, explosions, and map details make your phone work hard. Close apps and stay cool 😅."
+    }
+  ],
+
+  "title": "Device Comparison Insights 🔍",
+  "description": "Compare real-world Knives Out Mobile performance, FPS stability, graphics handling, and input smoothness for top Android & iOS devices.",
+
+  "rows": [
+    {
+      "device1": "Samsung Galaxy S22",
+      "device2": "Xiaomi Redmi Note 13 Pro",
+      "performance": "Both handle squad battles smoothly with minimal lag.",
+      "notes": "S22 has slightly higher FPS in Ultra mode; Note 13 Pro stays cooler during long matches."
+    },
+    {
+      "device1": "Realme GT Neo 3",
+      "device2": "Poco F6",
+      "performance": "Both devices run Knives Out with high-quality textures without stuttering.",
+      "notes": "GT Neo 3 excels in long squad matches, Poco F6 loads weapons slightly faster."
+    },
+    {
+      "device1": "iPhone 13",
+      "device2": "iPhone XR",
+      "performance": "Both run smooth 60+ FPS in squad fights.",
+      "notes": "iPhone 13 shines with ultra-quality effects; XR is solid but may drop a frame in intense firefights."
+    }
+  ]
+}

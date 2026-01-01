@@ -1,0 +1,161 @@
+{
+  "gameTitle": "Lenovo Legion Y90",
+  "subtitle": "A hardcore landscape-first gaming smartphone designed for sustained FPS, serious cooling, shoulder triggers, and long competitive gaming sessions without turning into a hand warmer.",
+
+  "posters": [
+    "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/lenovo-legion-y90.webp"
+    
+  ],
+
+  "performance": {
+    "cpu": "Qualcomm Snapdragon 8 Gen 1",
+    "gpu": "Adreno 730",
+    "ram": "12GB / 16GB / 18GB LPDDR5",
+    "storage": "256GB / 512GB UFS 3.1",
+    "cooling": "Dual Liquid Cooling + Active Turbo Fan (Legion Coldfront)"
+  },
+
+  "benchmark": {
+    "antutu": "1,050,000+",
+    "geekbench": "Single-Core: 1200, Multi-Core: 3700"
+  },
+
+  "display": {
+    "refreshRate": "144Hz",
+    "touchRate": "720Hz Touch Sampling",
+    "resolution": "FHD+ (2460 × 1080)",
+    "panelType": "AMOLED HDR10+ (Landscape Optimized)"
+  },
+
+  "battery": {
+    "size": "5600mAh Dual-Cell",
+    "fastCharging": "68W Super FlashCharge",
+    "gamingDrain": "9% – 14% per hour (heavy titles)"
+  },
+
+  "temperature": {
+    "heatLevel": "37°C – 44°C",
+    "fpsStability": "Stable (88% – 93%)"
+  },
+
+  "heavyGames": [
+    "PUBG Mobile",
+    "BGMI",
+    "Call of Duty Mobile",
+    "Genshin Impact",
+    "Fortnite",
+    "Apex Legends Mobile",
+    "Asphalt 9",
+    "Farlight 84",
+    "Warzone Mobile"
+  ],
+
+  "playability": {
+    "PUBG Mobile": "Smooth + Extreme (90FPS via configs)",
+    "Call of Duty Mobile": "Very High Graphics + Max FPS",
+    "Genshin Impact": "High Settings 55–60FPS",
+    "Fortnite": "High Quality + 60FPS",
+    "Apex Legends Mobile": "Ultra Smooth Gameplay"
+  },
+
+  "fpsBenchmarks": [
+    {
+      "game": "PUBG Mobile",
+      "settings": "Smooth / HDR",
+      "fps": "85–90 FPS Stable"
+    },
+    {
+      "game": "COD Mobile",
+      "settings": "Max",
+      "fps": "120 FPS Stable"
+    },
+    {
+      "game": "Genshin Impact",
+      "settings": "High",
+      "fps": "50–58 FPS"
+    },
+    {
+      "game": "Fortnite",
+      "settings": "High",
+      "fps": "55–60 FPS"
+    }
+  ],
+
+  "thermalTests": [
+    {
+      "game": "PUBG Mobile",
+      "heat15": "Cool (fan kicks in)",
+      "heat30": "Warm but controlled",
+      "fpsDrop": "1–3 FPS"
+    },
+    {
+      "game": "COD Mobile",
+      "heat15": "Normal",
+      "heat30": "Slight warm",
+      "fpsDrop": "0–1 FPS"
+    },
+    {
+      "game": "Genshin Impact",
+      "heat15": "Warm",
+      "heat30": "Hot but playable",
+      "fpsDrop": "4–6 FPS"
+    },
+    {
+      "game": "Fortnite",
+      "heat15": "Normal",
+      "heat30": "Warm",
+      "fpsDrop": "1–2 FPS"
+    }
+  ],
+
+  "batteryTests": [
+    {
+      "game": "PUBG Mobile",
+      "drop": "13%"
+    },
+    {
+      "game": "COD Mobile",
+      "drop": "11%"
+    },
+    {
+      "game": "Genshin Impact",
+      "drop": "17%"
+    }
+  ],
+
+  "gamingFeatures": [
+    "Built-in Active Cooling Fan (Yes, it actually spins)",
+    "Dual Ultrasonic Shoulder Triggers",
+    "Landscape-Centered Gaming Design",
+    "Legion Realm Gaming Hub",
+    "Bypass Charging for Long Sessions",
+    "Dual X-Axis Linear Vibration Motors",
+    "Dual Front-Facing Stereo Speakers",
+    "RGB Legion Logo with Custom Effects"
+  ],
+
+  "customTable": {
+    "title": "What Makes Legion Y90 a True Gaming Phone?",
+    "columns": ["Category", "Details", "Performance Impact"],
+    "rows": [
+      ["Cooling System", "Dual Liquid Cooling + Turbo Fan", "Sustained FPS, Less Throttling"],
+      ["Gaming Triggers", "Ultrasonic Shoulder Buttons", "Faster Aim & Fire"],
+      ["Charging", "68W Dual USB-C", "Charge While Gaming Safely"],
+      ["Speaker Quality", "Front-Facing Stereo", "Clear Positional Audio"],
+      ["Design", "Landscape Gaming Layout", "Better Grip & Balance"],
+      ["Software", "ZUI Gaming Mode", "Performance Focused"]
+    ]
+  },
+
+  "dynamicList": {
+    "title": "Key Highlights",
+    "items": [
+      "Active Cooling Fan (Rare & Effective)",
+      "Landscape-First Gaming Design",
+      "Ultra-Fast Touch Sampling",
+      "Dedicated Shoulder Triggers",
+      "Stable Long-Term Gaming Performance",
+      "True Esports-Oriented Phone"
+    ]
+  }
+}

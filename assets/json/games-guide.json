@@ -35,8 +35,19 @@
   "title": "Mobile Legends All Guides",
   "subtitle": "MLBB complete  All guides Together 🏰⚔️",
   "link": "/guides/mlbb/all.html"
-}
+},
     
+   
+   {
+  "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/arena-of-valor.webp",
+  "title": "Arena Of Valor All Guides ",
+  "subtitle": "AoV complete  All guides Together 🏰⚔️",
+  "link": "/guides/aov/all.html"
+}
+   
+   
+   
+   
    
   ]
 }

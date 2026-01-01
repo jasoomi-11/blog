@@ -4,7 +4,7 @@
   <!-- Section Homepage -->
   <url>
     <loc>https://blog.blueverse.space/comparison/comparison.html</loc>
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2026-01-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -178,7 +178,9 @@
     <priority>0.9</priority>
   </url>
   
-  <!-- 27 Dec Update To 27 Jan -->
+  
+  
+  <!-- 28 Dec Update To 28 Jan -->
  
   
   
@@ -198,6 +200,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
+  
+  
+  
+    <!-- 1 jan Update To 1 feb Jan -->
+ 
+  
+  
+  <url>
+    <loc>https://blog.blueverse.space/comparison/genshine-tower-of-fantasy.html</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  
+  
   
   
   
