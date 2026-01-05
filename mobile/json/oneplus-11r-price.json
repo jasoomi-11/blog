@@ -1,0 +1,124 @@
+{
+  "mobile": {
+    "name": "OnePlus 11R",
+    "thumbs": [
+      "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/oneplus-11r.webp",
+      ""
+    ],
+    "summary": "OnePlus 11R is a performance-focused flagship killer powered by Snapdragon 8+ Gen 1, featuring a 120Hz AMOLED display, fast charging, and excellent sustained FPS — perfect for gaming and daily power users without paying ultra-flagship prices.",
+    "priceRange": "Varies by region",
+
+    "countries": [
+      {
+        "flag": "🇺🇸",
+        "country": "United States",
+        "currency": "USD",
+        "displayPrice": "$499 – $599",
+        "variants": [
+          { "ram": "8GB / 128GB", "price": "$499" },
+          { "ram": "16GB / 256GB", "price": "$599" }
+        ],
+        "colors": ["Galactic Silver", "Sonic Black"]
+      },
+      {
+        "flag": "🇮🇳",
+        "country": "India",
+        "currency": "INR",
+        "displayPrice": "₹39,999 – ₹44,999",
+        "variants": [
+          { "ram": "8GB / 128GB", "price": "₹39,999" },
+          { "ram": "16GB / 256GB", "price": "₹44,999" }
+        ],
+        "colors": ["Galactic Silver", "Sonic Black"]
+      },
+      {
+        "flag": "🇵🇰",
+        "country": "Pakistan",
+        "currency": "PKR",
+        "displayPrice": "Rs 155,000 – Rs 175,000",
+        "variants": [
+          { "ram": "8GB / 128GB", "price": "Rs 155,000" },
+          { "ram": "16GB / 256GB", "price": "Rs 175,000" }
+        ],
+        "colors": ["Galactic Silver", "Sonic Black"]
+      },
+      {
+        "flag": "🇬🇧",
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "displayPrice": "£430 – £520",
+        "variants": [
+          { "ram": "8GB / 128GB", "price": "£430" },
+          { "ram": "16GB / 256GB", "price": "£520" }
+        ],
+        "colors": ["Galactic Silver", "Sonic Black"]
+      },
+      {
+        "flag": "🇨🇦",
+        "country": "Canada",
+        "currency": "CAD",
+        "displayPrice": "CA$680 – CA$820",
+        "variants": [
+          { "ram": "8GB / 128GB", "price": "CA$680" },
+          { "ram": "16GB / 256GB", "price": "CA$820" }
+        ],
+        "colors": ["Galactic Silver", "Sonic Black"]
+      },
+      {
+        "flag": "🇦🇺",
+        "country": "Australia",
+        "currency": "AUD",
+        "displayPrice": "A$750 – A$900",
+        "variants": [
+          { "ram": "8GB / 128GB", "price": "A$750" },
+          { "ram": "16GB / 256GB", "price": "A$900" }
+        ],
+        "colors": ["Galactic Silver", "Sonic Black"]
+      },
+      {
+        "flag": "🇦🇪",
+        "country": "United Arab Emirates",
+        "currency": "AED",
+        "displayPrice": "AED 1,850 – AED 2,200",
+        "variants": [
+          { "ram": "8GB / 128GB", "price": "AED 1,850" },
+          { "ram": "16GB / 256GB", "price": "AED 2,200" }
+        ],
+        "colors": ["Galactic Silver", "Sonic Black"]
+      },
+      {
+        "flag": "🇧🇩",
+        "country": "Bangladesh",
+        "currency": "BDT",
+        "displayPrice": "৳ 62,000 – ৳ 72,000",
+        "variants": [
+          { "ram": "8GB / 128GB", "price": "৳ 62,000" },
+          { "ram": "16GB / 256GB", "price": "৳ 72,000" }
+        ],
+        "colors": ["Galactic Silver", "Sonic Black"]
+      },
+      {
+        "flag": "🇵🇭",
+        "country": "Philippines",
+        "currency": "PHP",
+        "displayPrice": "₱ 38,000 – ₱ 45,000",
+        "variants": [
+          { "ram": "8GB / 128GB", "price": "₱ 38,000" },
+          { "ram": "16GB / 256GB", "price": "₱ 45,000" }
+        ],
+        "colors": ["Galactic Silver", "Sonic Black"]
+      },
+      {
+        "flag": "🇪🇺",
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "displayPrice": "€ 520 – € 620",
+        "variants": [
+          { "ram": "8GB / 128GB", "price": "€ 520" },
+          { "ram": "16GB / 256GB", "price": "€ 620" }
+        ],
+        "colors": ["Galactic Silver", "Sonic Black"]
+      }
+    ]
+  }
+}

@@ -128,7 +128,15 @@
     "badgeColor": "brown",
     "link": "/mobile/lenovo-legion-y90.html"
   
-  }
+  },
   
-
+  {
+    "title": " OnePlus 11R",
+    "subtitle": "Check Out Top gaming Mobile at Glance",
+    "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/oneplus-11r.webp",
+    "badge": "OnePlus",
+    "badgeColor": "brown",
+    "link": "/mobile/oneplus-11r.html"
+  
+  }
 ]

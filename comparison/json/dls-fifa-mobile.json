@@ -1,0 +1,182 @@
+{
+  "gameComparison": {
+    "games": [
+      {
+        "name": "Dream League Soccer (DLS)",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/dls.webp",
+        "genre": "Offline-Friendly Football Simulation ⚽🔥",
+        "developer": "First Touch Games",
+        "release": "2011 (Actively Updated)",
+        "gameplay": "Arcade-meets-simulation football with smooth controls, career mode focus, and full offline play. Build your dream team, upgrade your stadium, and enjoy football without always begging for internet 😌📴."
+      },
+      {
+        "name": "FIFA Mobile",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/fifa-mobile.webp",
+        "genre": "Online Competitive Football Game 🏆⚽",
+        "developer": "EA Sports",
+        "release": "2016 (Rebranded as EA SPORTS FC Mobile)",
+        "gameplay": "Fast-paced, online-first football experience with real clubs, licensed leagues, events, and PvP modes. Perfect for competitive players who love grinding events and flexing squads online 😎🌍."
+      }
+    ]
+  },
+
+  "systemRequirements": {
+    "games": [
+      {
+        "name": "Dream League Soccer (DLS)",
+        "platform": "Android / iOS",
+        "storage": "500 MB – 1 GB 📦",
+        "ram": "2 GB Recommended",
+        "cpuGpu": "Low to mid-range chipset",
+        "fps": "Up to 60 FPS",
+        "graphics": "Clean and smooth visuals 🎨",
+        "online": "Optional (Offline supported)",
+        "battery": "Low to Moderate 🔋"
+      },
+      {
+        "name": "FIFA Mobile",
+        "platform": "Android / iOS",
+        "storage": "2–3 GB 📦",
+        "ram": "3–4 GB Recommended",
+        "cpuGpu": "Mid-range chipset or higher",
+        "fps": "60 FPS",
+        "graphics": "High-detail licensed visuals ✨",
+        "online": "Always Online Required",
+        "battery": "Moderate to High ⚡"
+      }
+    ]
+  },
+
+  "keyFeatures": {
+    "games": [
+      {
+        "name": "Dream League Soccer (DLS)",
+        "modes": "Career Mode, Offline Matches, Online PvP",
+        "playerLimits": "11v11 Classic Football ⚽",
+        "graphicsStyle": "Stylized realistic visuals",
+        "customization": "Create club, logo, kits, stadium 🏟️",
+        "events": "Limited live events",
+        "mechanics": "Simple controls, long shots, career progression"
+      },
+      {
+        "name": "FIFA Mobile",
+        "modes": "VS Attack, Head-to-Head, Events, Manager Mode",
+        "playerLimits": "11v11 (Full & Attack-based modes)",
+        "graphicsStyle": "Highly realistic licensed visuals 🔥",
+        "customization": "Squads, formations, skill boosts 🎨",
+        "events": "Daily & seasonal live events",
+        "mechanics": "Skill moves, tactical depth, event grinding"
+      }
+    ]
+  },
+
+  "prosCons": {
+    "games": [
+      {
+        "name": "Dream League Soccer (DLS)",
+        "pros": [
+          "Playable offline 📴",
+          "Lightweight & runs on low-end devices",
+          "Career mode is relaxing and fun",
+          "Less pay-to-win pressure 😌"
+        ],
+        "cons": [
+          "Limited official licenses",
+          "Online modes are basic",
+          "Graphics less detailed than FIFA Mobile"
+        ]
+      },
+      {
+        "name": "FIFA Mobile",
+        "pros": [
+          "Official clubs, leagues & players 🏆",
+          "Competitive online PvP",
+          "Frequent events & updates",
+          "Deep squad-building system"
+        ],
+        "cons": [
+          "Always online required 🌐",
+          "Heavy grinding",
+          "Pay-to-win elements 💸",
+          "Large storage size"
+        ]
+      }
+    ]
+  },
+
+  "popularityCommunity": {
+    "games": [
+      {
+        "name": "Dream League Soccer (DLS)",
+        "activePlayers": "10M+ Monthly Players",
+        "socialMedia": "Strong casual fanbase",
+        "tournaments": "Limited community tournaments",
+        "engagement": "Offline gameplay clips, goals, career builds ⚽"
+      },
+      {
+        "name": "FIFA Mobile",
+        "activePlayers": "50M+ Monthly Active Players 🌍",
+        "socialMedia": "Massive global community",
+        "tournaments": "Official esports & seasonal competitions 🏆",
+        "engagement": "Events, pack openings, PvP highlights 🎥"
+      }
+    ]
+  },
+
+  "pricingIAP": {
+    "games": [
+      {
+        "name": "Dream League Soccer (DLS)",
+        "price": "Free",
+        "premiumFeatures": "Coins, player upgrades",
+        "currency": "Coins & Gems",
+        "specialOffers": "Optional packs (not aggressive)"
+      },
+      {
+        "name": "FIFA Mobile",
+        "price": "Free",
+        "premiumFeatures": "Packs, Star Pass, players 🎫",
+        "currency": "FIFA Points",
+        "specialOffers": "Event packs, limited-time bundles 💸"
+      }
+    ]
+  },
+
+  "deviceCompatibility": {
+    "games": [
+      {
+        "name": "Dream League Soccer (DLS)",
+        "devices": "Android & iOS",
+        "osVersion": "Android 6.0+ / iOS 11+",
+        "crossPlatform": "Mobile only",
+        "pcConsole": "Not available"
+      },
+      {
+        "name": "FIFA Mobile",
+        "devices": "Android & iOS",
+        "osVersion": "Android 8.0+ / iOS 13+",
+        "crossPlatform": "Mobile only",
+        "pcConsole": "Not officially available"
+      }
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Which game is better offline?",
+      "answer": "Dream League Soccer 📴 wins easily thanks to full offline career mode."
+    },
+    {
+      "question": "Which game is more realistic?",
+      "answer": "FIFA Mobile offers more realism with official licenses and animations 🔥."
+    },
+    {
+      "question": "Which is more pay-to-win?",
+      "answer": "FIFA Mobile 💸 leans more toward pay-to-win compared to DLS."
+    },
+    {
+      "question": "Which game is better for casual players?",
+      "answer": "Dream League Soccer is perfect for relaxed, stress-free football ⚽😌."
+    }
+  ]
+}

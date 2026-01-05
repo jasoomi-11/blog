@@ -1,0 +1,161 @@
+{
+  "gameTitle": "OnePlus 11R",
+  "subtitle": "A performance-focused flagship killer that balances raw power, smooth FPS, fast charging, and everyday usability — without burning a hole in your wallet (or your hands 😄).",
+
+  "posters": [
+    "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/oneplus-11r.webp"
+    
+  ],
+
+  "performance": {
+    "cpu": "Qualcomm Snapdragon 8+ Gen 1 (Up to 3.2GHz)",
+    "gpu": "Adreno 730",
+    "ram": "8GB / 16GB LPDDR5",
+    "storage": "128GB / 256GB UFS 3.1",
+    "cooling": "Advanced Vapor Chamber Cooling with Graphite Layers"
+  },
+
+  "benchmark": {
+    "antutu": "1,100,000+",
+    "geekbench": "Single-Core: 1350, Multi-Core: 4100"
+  },
+
+  "display": {
+    "refreshRate": "120Hz Adaptive AMOLED",
+    "touchRate": "1000Hz Instant Touch Sampling (Gaming Mode)",
+    "resolution": "1.5K (2772 × 1240)",
+    "panelType": "Samsung E4 AMOLED HDR10+"
+  },
+
+  "battery": {
+    "size": "5000mAh",
+    "fastCharging": "100W SUPERVOOC",
+    "gamingDrain": "10% – 14% per hour (stable performance)"
+  },
+
+  "temperature": {
+    "heatLevel": "37°C – 44°C",
+    "fpsStability": "Stable (88% – 93%)"
+  },
+
+  "heavyGames": [
+    "PUBG Mobile",
+    "BGMI",
+    "Call of Duty Mobile",
+    "Genshin Impact",
+    "Fortnite",
+    "Honkai Star Rail",
+    "Asphalt 9",
+    "Farlight 84",
+    "Warzone Mobile"
+  ],
+
+  "playability": {
+    "PUBG Mobile": "HDR + 90FPS (via optimization updates)",
+    "Call of Duty Mobile": "Very High Graphics + Max FPS",
+    "Genshin Impact": "High Settings 55–60FPS",
+    "Fortnite": "High Quality + 60FPS",
+    "Honkai Star Rail": "High Settings Smooth"
+  },
+
+  "fpsBenchmarks": [
+    {
+      "game": "PUBG Mobile",
+      "settings": "HDR",
+      "fps": "80–90 FPS Stable"
+    },
+    {
+      "game": "COD Mobile",
+      "settings": "Max",
+      "fps": "90–120 FPS"
+    },
+    {
+      "game": "Genshin Impact",
+      "settings": "High",
+      "fps": "50–60 FPS"
+    },
+    {
+      "game": "Fortnite",
+      "settings": "High",
+      "fps": "55–60 FPS"
+    }
+  ],
+
+  "thermalTests": [
+    {
+      "game": "PUBG Mobile",
+      "heat15": "Cool & Comfortable",
+      "heat30": "Warm but controlled",
+      "fpsDrop": "1–3 FPS"
+    },
+    {
+      "game": "COD Mobile",
+      "heat15": "Normal",
+      "heat30": "Slight Warm",
+      "fpsDrop": "0–2 FPS"
+    },
+    {
+      "game": "Genshin Impact",
+      "heat15": "Warm",
+      "heat30": "Noticeably Warm",
+      "fpsDrop": "4–6 FPS"
+    },
+    {
+      "game": "Fortnite",
+      "heat15": "Normal",
+      "heat30": "Warm",
+      "fpsDrop": "2 FPS"
+    }
+  ],
+
+  "batteryTests": [
+    {
+      "game": "PUBG Mobile",
+      "drop": "11%"
+    },
+    {
+      "game": "COD Mobile",
+      "drop": "10%"
+    },
+    {
+      "game": "Genshin Impact",
+      "drop": "15%"
+    }
+  ],
+
+  "gamingFeatures": [
+    "HyperBoost Gaming Engine",
+    "RAM-Vita Optimization",
+    "100W SUPERVOOC (0–100% in ~25 mins 😮)",
+    "X-Axis Linear Vibration Motor",
+    "Stereo Speakers with Dolby Atmos",
+    "OxygenOS Gaming Mode",
+    "Frame Stabilization AI",
+    "Thermal Throttling Protection"
+  ],
+
+  "customTable": {
+    "title": "Custom Table Section",
+    "columns": ["Category", "Details", "Performance Impact"],
+    "rows": [
+      ["Cooling System", "Vapor Chamber + Graphite Layers", "Good Heat Control"],
+      ["Charging Speed", "100W SUPERVOOC", "Zero Gaming Downtime"],
+      ["Display Quality", "1.5K AMOLED 120Hz", "Ultra Smooth Visuals"],
+      ["Haptics", "X-Axis Linear Motor", "Crisp Feedback"],
+      ["Software", "OxygenOS (Android 14)", "Clean & Fast UI"],
+      ["Build Quality", "Glass Back + Aluminum Frame", "Premium Feel"]
+    ]
+  },
+
+  "dynamicList": {
+    "title": "Key Features",
+    "items": [
+      "Snapdragon 8+ Gen 1 Power",
+      "1.5K AMOLED Display",
+      "120Hz Smooth Refresh Rate",
+      "100W Ultra-Fast Charging",
+      "Reliable FPS Stability",
+      "Flagship Gaming at Lower Cost"
+    ]
+  }
+}

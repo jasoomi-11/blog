@@ -4,7 +4,7 @@
   <!-- Section Homepage -->
   <url>
     <loc>https://blog.blueverse.space/game-system/system.html</loc>
-    <lastmod>2026-01-01</lastmod>
+    <lastmod>2026-01-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -299,11 +299,16 @@
 
 
 
+<!--5 jan Must Update 5 feb -->
 
 
 
-
-
+<url>
+    <loc>https://blog.blueverse.space/game-system/dls.html</loc>
+     <lastmod>2026-01-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
 
 

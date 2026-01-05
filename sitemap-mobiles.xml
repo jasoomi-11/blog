@@ -4,7 +4,7 @@
   <!-- Section Homepage -->
   <url>
     <loc>https://blog.blueverse.space/mobile/mobile.html</loc>
-    <lastmod>2026-01-01</lastmod>
+    <lastmod>2026-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -255,6 +255,30 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
+
+
+<!-- 5 jan to 5 feb-->
+
+
+
+<url>
+    <loc>https://blog.blueverse.space/mobile/oneplus-11r.html</loc>
+    <lastmod>2026-01-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+<url>
+    <loc>https://blog.blueverse.space/mobile/pricing/oneplus-11r.html</loc>
+    <lastmod>2026-01-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+
+
+
 
 
 
