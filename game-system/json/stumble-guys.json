@@ -1,136 +1,134 @@
 {
   "shortIntro": {
-    "title": "What Your Device Needs for Smooth Stumble Guys Gameplay",
-    "para1": "Stumble Guys is a fast-paced multiplayer knockout game where smooth movement, quick reactions, and stable frame pacing matter the most. Since up to 32 players compete in a single lobby, even small frame drops, lag spikes, or delayed jumps can affect your match outcome.",
-    "para2": "The game looks simple, but its physics-based animations, fast transitions between maps, and online connectivity require a stable device to avoid stutters, input delay, and random freezes."
+    "title": "What Your Device Needs for Ultra-Smooth Stumble Guys Battles 🏃‍♂️💨",
+    "para1": "Stumble Guys is a chaotic, fast-paced multiplayer knockout game where up to 32 players compete for glory. Smooth controls, stable FPS, and instant jump reactions are key — one laggy tap can send you flying off the map!",
+    "para2": "Even though it looks colorful and simple, the physics-based bounces, fast map transitions, and crowded rounds make device optimization essential to avoid freezes, stutters, or teleporting characters."
   },
 
-  "intro": "Below are the updated minimum and recommended specifications required to run Stumble Guys smoothly on Android and iOS. These values are based on official data, esports-level gameplay testing, and real in-match performance on multiple devices.",
+  "intro": "Below are the updated minimum and recommended specs to run Stumble Guys perfectly on Android and iOS. This guide is based on esports-level testing, player feedback, and real in-game performance across multiple devices.",
 
   "minimum": {
-    "OS Version": "Android 6.0 or higher",
+    "OS Version": "Android 7.0 or higher",
     "RAM": "2GB minimum",
-    "CPU": "Quad-Core processor (1.4–1.8GHz)",
+    "CPU": "Quad-Core 1.5GHz+ processor",
     "GPU": "Adreno 308 / Mali-T830 or equivalent",
-    "Storage": "500MB free space",
-    "Internet": "Stable 4G / Wi-Fi with <100ms ping"
+    "Storage": "At least 600MB free space",
+    "Internet": "Stable 4G or Wi-Fi (<100ms ping preferred)"
   },
 
   "recommended": {
-    "OS Version": "Android 10 or higher",
-    "RAM": "3–4GB or more",
-    "CPU": "Snapdragon 660 / 720G / 860 / 7+ Gen 2 or newer",
-    "GPU": "Adreno 610 / 640 / 725+",
-    "Storage": "1GB free space recommended",
-    "Internet": "Low-ping 5G or high-quality Wi-Fi to avoid teleport lag"
+    "OS Version": "Android 11 or higher",
+    "RAM": "4GB+ for smoother experience",
+    "CPU": "Snapdragon 720G / 7+ Gen 2 / Dimensity 900+ or newer",
+    "GPU": "Adreno 618 / 640 / Mali-G57 or better",
+    "Storage": "1GB free recommended for maps, skins, and events",
+    "Internet": "Low-ping 5G or high-quality Wi-Fi to prevent teleport lag and stuck jumps"
   },
 
-  "ios_intro": "Stumble Guys is very well optimized on iOS thanks to stable frame pacing, consistent touch response, and Apple's strong CPU/GPU integration.",
+  "ios_intro": "iOS devices perform exceptionally in Stumble Guys thanks to Apple’s tight hardware-software optimization. Even with 32-player lobbies, animations and inputs stay consistent.",
 
   "ios_minimum": [
-    { "title": "OS Version", "value": "iOS 12 or later" },
-    { "title": "Device", "value": "iPhone 6s or newer" },
-    { "title": "Storage", "value": "500MB minimum" }
+    { "title": "OS Version", "value": "iOS 13 or later" },
+    { "title": "Device", "value": "iPhone 7 or newer" },
+    { "title": "Storage", "value": "600MB minimum" }
   ],
 
   "ios_recommended": [
-    { "title": "OS Version", "value": "iOS 14 or later" },
-    { "title": "Device", "value": "iPhone 8 / XR / 11 or newer" },
+    { "title": "OS Version", "value": "iOS 15 or later" },
+    { "title": "Device", "value": "iPhone 11 / 12 / 13 or newer" },
     { "title": "Storage", "value": "900MB–1.2GB recommended" }
   ],
 
-  "fps_intro": "Stumble Guys performance heavily depends on smooth animations and stable frame pacing, especially during crowded rounds like Block Dash or Laser Tracer.",
+  "fps_intro": "While Stumble Guys isn’t a hardcore FPS title, higher FPS and smooth frame pacing drastically improve jump timing, dives, and collision reactions.",
 
   "fps_list": [
-    { "category": "Low-End Devices", "fps": "30–40 FPS (slight stutters in crowded maps)" },
-    { "category": "Mid-Range Devices", "fps": "50–60 FPS stable with consistent animations" },
-    { "category": "High-End Devices", "fps": "60–120 FPS feel on 90Hz–144Hz screens, excellent input response" }
+    { "category": "Low-End Devices", "fps": "30–40 FPS (minor stutters during full lobbies)" },
+    { "category": "Mid-Range Devices", "fps": "50–60 FPS stable animations, smooth bounces" },
+    { "category": "High-End Devices", "fps": "60–120 FPS feel on 90–144Hz displays, excellent input response and instant jump control" }
   ],
 
-  "settings_intro": "These settings help achieve smoother gameplay, faster movement control, and reduced lag in Stumble Guys.",
+  "settings_intro": "To dominate rounds, optimize your device with these settings for smooth movement, instant jumping, and lag-free competitive play.",
 
   "low_end": [
-    { "title": "Graphics", "value": "Set to LOW for smoother movement" },
-    { "title": "FPS Mode", "value": "Enable 60 FPS if available" },
-    { "title": "Background Apps", "value": "Close all to avoid jump delay" },
-    { "title": "Network Stability", "value": "Prefer Wi-Fi for lower ping" }
+    { "title": "Graphics", "value": "Set to LOW for faster movement and less frame drop" },
+    { "title": "FPS Mode", "value": "Enable 60 FPS if supported" },
+    { "title": "Background Apps", "value": "Close all to avoid jump delay or teleporting" },
+    { "title": "Network Stability", "value": "Prefer Wi-Fi or stable 5G connection" }
   ],
 
   "high_end": [
-    { "title": "Refresh Rate", "value": "Enable 90Hz/120Hz for faster reaction timing" },
-    { "title": "Game Booster", "value": "Turn ON to reduce frame timing issues" },
-    { "title": "Thermal Control", "value": "Avoid overheating during long lobbies" },
-    { "title": "RAM Optimization", "value": "Keep 1GB+ RAM free for instant level loading" }
+    { "title": "Refresh Rate", "value": "Enable 90Hz/120Hz for super crisp jumps and collisions" },
+    { "title": "Game Booster", "value": "Turn ON to minimize stutter and maintain steady FPS" },
+    { "title": "Thermal Control", "value": "Keep your device cool during long tournaments; overheated phones = slow jumps!" },
+    { "title": "RAM Optimization", "value": "Keep at least 1–2GB free to load maps instantly and avoid stutters" }
   ],
 
-  "sectionIntro": "Below are the most popular Android and iOS devices known for smooth and competitive Stumble Guys performance.",
+  "sectionIntro": "Here are the Android and iOS devices that give you a competitive edge in Stumble Guys, from smooth jumps to consistent collisions:",
 
   "androidDevices": [
+    "Samsung Galaxy S21 / S22 / S23 / S24",
     "Samsung Galaxy A52 / A54 / M52",
-    "Samsung Galaxy S10–S24 Series",
-    "Xiaomi Redmi Note 11 / 12 / 13 Series",
-    "Poco X3 / X4 / X6 / F3 / F5",
-    "Realme Narzo 50 / Realme 9 / 10 Pro Series",
-    "Vivo V20 / V25 Series",
+    "Xiaomi Redmi Note 12 / 13 / Poco X4 / X5 / F3 / F5",
+    "Realme Narzo 50 / 9 / 10 Pro Series",
+    "Vivo V21 / V23 / V25 Series",
     "Infinix GT 10 Pro / GT 20 Pro",
-    "Asus ROG Phone 5 / 6"
+    "Asus ROG Phone 5 / 6 / 7"
   ],
 
   "iosDevices": [
-    "iPhone 7 / 7 Plus",
     "iPhone 8 / 8 Plus",
-    "iPhone X / XR / XS",
-    "iPhone 11 / 12 / 13 Series",
-    "iPhone 14 / 15 Series",
+    "iPhone X / XR / XS / 11 / 12 Series",
+    "iPhone 13 / 14 / 15 Series",
     "iPhone SE 2020 / SE 2022"
   ],
 
-  "storageIntroText": "Here is the full breakdown of Stumble Guys’ storage usage including maps, skins, effects, and character assets.",
+  "storageIntroText": "Stumble Guys’ storage usage includes maps, skins, animations, and seasonal events. Make sure you have enough free space for seamless updates and faster map loading.",
 
   "storageDetails": [
-    { "label": "Base Game Size", "value": "≈ 350–450 MB" },
-    { "label": "Map Assets", "value": "150–200 MB depending on event maps" },
-    { "label": "Cosmetics & Skins", "value": "100–150 MB (outfits, footsteps, animations)" },
-    { "label": "Total Required Space", "value": "700MB–1GB recommended" }
+    { "label": "Base Game Size", "value": "≈ 400–500 MB" },
+    { "label": "Map Assets", "value": "200–250 MB depending on events" },
+    { "label": "Cosmetics & Skins", "value": "120–180 MB (characters, outfits, animations)" },
+    { "label": "Total Required Space", "value": "800MB–1.2GB recommended" }
   ],
 
-  "faqIntroText": "These are the most frequently asked questions about Stumble Guys device performance and gameplay optimization.",
+  "faqIntroText": "Frequently asked questions about Stumble Guys performance, optimization, and competitive gameplay:",
 
   "faqList": [
     {
-      "question": "Does Stumble Guys need a powerful device?",
-      "answer": "Not really, but a better CPU/GPU keeps movement smooth during crowded rounds and helps prevent input delay."
+      "question": "Do I need a high-end device to win in Stumble Guys?",
+      "answer": "Not really, but smoother devices help with precise jumps and faster reaction times in crowded lobbies."
     },
     {
-      "question": "Can Stumble Guys run at 120 FPS?",
-      "answer": "The game isn't fully unlocked, but high refresh rate screens make movement and turning animations feel smoother."
+      "question": "Can I run Stumble Guys at 120 FPS?",
+      "answer": "The game itself is capped internally, but devices with 90–144Hz displays feel significantly smoother."
     },
     {
-      "question": "Why do some players lag in multiplayer?",
-      "answer": "unstable networks cause teleporting, delayed jumps, and late round starts, affecting competitive rounds."
+      "question": "Why do some rounds feel laggy even on good devices?",
+      "answer": "Network instability or background apps can cause teleporting and delayed jumps — always close unnecessary apps."
     }
   ],
 
-  "title": "Device Comparison Insights",
-  "description": "Compare movement smoothness, input delay, stability, and animation performance of top devices for Stumble Guys.",
+  "title": "Device Comparison Insights for Stumble Guys",
+  "description": "Compare jump responsiveness, collision handling, frame stability, and multiplayer performance on top Android & iOS devices.",
+
   "rows": [
     {
       "device1": "Poco F5",
       "device2": "Realme GT Neo 3",
-      "performance": "Both perform strongly with stable FPS and fast movement control.",
-      "notes": "Poco F5 offers snappier responses due to its modern Snapdragon chipset, while GT Neo 3 stays cooler in long tournaments."
+      "performance": "Both maintain smooth FPS and instant jump responsiveness in full lobbies.",
+      "notes": "Poco F5 reacts slightly faster due to Snapdragon 7+ Gen 2, while GT Neo 3 handles heat better during extended tournaments."
     },
     {
       "device1": "Samsung Galaxy A52",
       "device2": "Redmi Note 12 Pro",
-      "performance": "Both handle matches well with consistent character movement.",
-      "notes": "A52 provides smoother frame pacing, while Note 12 Pro loads maps faster and shows better overall CPU stability."
+      "performance": "Consistent frame pacing and stable movement control in matches.",
+      "notes": "A52 stays smooth for long sessions; Note 12 Pro loads maps faster and handles complex assets slightly better."
     },
     {
       "device1": "iPhone 12",
       "device2": "iPhone XR",
-      "performance": "Both give excellent Stumble Guys performance with quick jump and dive responses.",
-      "notes": "iPhone 12 feels faster due to its A14 chip, while XR is still reliable but slightly slower during asset-heavy maps."
+      "performance": "Excellent jump and dive responses with minimal stutters.",
+      "notes": "iPhone 12 is snappier thanks to A14 Bionic, while XR is reliable but slightly slower when maps are packed with obstacles."
     }
   ]
 }

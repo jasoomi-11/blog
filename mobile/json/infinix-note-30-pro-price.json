@@ -2,10 +2,10 @@
   "mobile": {
     "name": "Infinix Note 30 Pro",
     "thumbs": [
-      "/assets/thumb/infinix-note-30-pro.webp",
-      ""
+      "/assets/thumb/infinix-note-30-pro.webp"
+      
     ],
-    "summary": "Infinix Note 30 Pro — a budget performance smartphone featuring Helio G99, 120Hz AMOLED display, 68W fast charging, and solid gaming for mid-range users.",
+    "summary": "Infinix Note 30 Pro — a value-packed smartphone with MediaTek Helio G99, 6.67\" AMOLED 120Hz display, 108MP triple camera, 5000mAh battery & strong everyday/gaming performance for mid-range flagship buyers.",
     "priceRange": "Budget to Mid-Range",
 
     "countries": [
@@ -13,9 +13,9 @@
         "flag": "🇺🇸",
         "country": "United States",
         "currency": "USD",
-        "displayPrice": "$199 – $249 (Import Only)",
+        "displayPrice": "$210 – $260 (Approx. Import & Online Pricing)",
         "variants": [
-          { "ram": "8GB / 256GB", "price": "$199" }
+          { "ram": "8GB / 256GB", "price": "$210" }
         ],
         "colors": ["Magic Black", "Variable Gold"]
       },
@@ -24,9 +24,9 @@
         "flag": "🇮🇳",
         "country": "India",
         "currency": "INR",
-        "displayPrice": "₹13,999 – ₹15,999",
+        "displayPrice": "₹14,999 – ₹17,499",
         "variants": [
-          { "ram": "8GB / 256GB", "price": "₹13,999" }
+          { "ram": "8GB / 256GB", "price": "₹14,999" }
         ],
         "colors": ["Magic Black", "Variable Gold"]
       },
@@ -35,9 +35,9 @@
         "flag": "🇵🇰",
         "country": "Pakistan",
         "currency": "PKR",
-        "displayPrice": "Rs 54,999 – Rs 59,999",
+        "displayPrice": "Rs. 46,000 – Rs. 60,000",
         "variants": [
-          { "ram": "8GB / 256GB", "price": "Rs 54,999" }
+          { "ram": "8GB / 256GB", "price": "Rs. 52,999" }
         ],
         "colors": ["Magic Black", "Variable Gold"]
       },
@@ -46,9 +46,9 @@
         "flag": "🇬🇧",
         "country": "United Kingdom",
         "currency": "GBP",
-        "displayPrice": "£160 – £190",
+        "displayPrice": "£170 – £220",
         "variants": [
-          { "ram": "8GB / 256GB", "price": "£160" }
+          { "ram": "8GB / 256GB", "price": "£170" }
         ],
         "colors": ["Magic Black", "Variable Gold"]
       },
@@ -57,9 +57,9 @@
         "flag": "🇨🇦",
         "country": "Canada",
         "currency": "CAD",
-        "displayPrice": "CA$260 – CA$290",
+        "displayPrice": "CA$270 – CA$310",
         "variants": [
-          { "ram": "8GB / 256GB", "price": "CA$260" }
+          { "ram": "8GB / 256GB", "price": "CA$280" }
         ],
         "colors": ["Magic Black", "Variable Gold"]
       },
@@ -68,7 +68,7 @@
         "flag": "🇦🇺",
         "country": "Australia",
         "currency": "AUD",
-        "displayPrice": "A$310 – A$350",
+        "displayPrice": "A$300 – A$360",
         "variants": [
           { "ram": "8GB / 256GB", "price": "A$310" }
         ],
@@ -79,7 +79,7 @@
         "flag": "🇦🇪",
         "country": "United Arab Emirates",
         "currency": "AED",
-        "displayPrice": "AED 600 – AED 699",
+        "displayPrice": "AED 620 – AED 750",
         "variants": [
           { "ram": "8GB / 256GB", "price": "AED 630" }
         ],
@@ -90,9 +90,9 @@
         "flag": "🇧🇩",
         "country": "Bangladesh",
         "currency": "BDT",
-        "displayPrice": "৳ 22,000 – ৳ 24,000",
+        "displayPrice": "৳ 22,500 – ৳ 27,000",
         "variants": [
-          { "ram": "8GB / 256GB", "price": "৳ 22,000" }
+          { "ram": "8GB / 256GB", "price": "৳ 22,500" }
         ],
         "colors": ["Magic Black", "Variable Gold"]
       },
@@ -101,9 +101,9 @@
         "flag": "🇵🇭",
         "country": "Philippines",
         "currency": "PHP",
-        "displayPrice": "₱ 8,999 – ₱ 10,500",
+        "displayPrice": "₱ 9,000 – ₱ 12,000",
         "variants": [
-          { "ram": "8GB / 256GB", "price": "₱ 9,500" }
+          { "ram": "8GB / 256GB", "price": "₱ 10,500" }
         ],
         "colors": ["Magic Black", "Variable Gold"]
       },
@@ -112,12 +112,15 @@
         "flag": "🇪🇺",
         "country": "Euro Zone",
         "currency": "EUR",
-        "displayPrice": "€170 – €190",
+        "displayPrice": "€180 – €220",
         "variants": [
-          { "ram": "8GB / 256GB", "price": "€170" }
+          { "ram": "8GB / 256GB", "price": "€180" }
         ],
         "colors": ["Magic Black", "Variable Gold"]
       }
-    ]
+    ],
+
+    "updated": "December 2025",
+    "sourcesNote": "Prices vary by retailer, promotions, taxes, and import status; check local shops/apps for exact current pricing."
   }
 }
