@@ -1,135 +1,135 @@
 {
   "shortIntro": {
     "title": "What Your Device Needs to Kick Goals Smoothly ⚽",
-    "para1": "EA Sports Football is a high-action soccer game with detailed stadiums, realistic player animations, and smooth ball physics. If your device is weak, expect missed passes, laggy tackles, and goals that feel like they happen in slow motion 🐢.",
-    "para2": "Low-end devices can manage casual matches at 25–30 FPS, while mid-range and high-end devices will let you dribble past defenders and score stunning goals at 60 FPS or higher. And yes, your celebrations will look epic! 🎉"
+    "para1": "EA SPORTS FC™ Mobile (formerly FIFA Mobile) is a high‑action football game with detailed stadiums, real player animations, and immersive physics on mobile devices. If your device is underpowered, you might see laggy gameplay, delayed tackles, and stuttered ball control 🐢.",
+    "para2": "Lower‑end phones can still play casual matches around ~30 FPS, while mid‑range and high‑end phones can reach smooth and responsive 60 FPS or even higher on supported hardware. Your goals and celebrations will look crisp and responsive ⚡🎉."
   },
 
-  "intro": "Below are the updated minimum and recommended specifications for EA Sports Football on Android and iOS devices. These are tested on real matches, stadium graphics, and multiplayer online games ⚡.",
+  "intro": "Below are the **updated minimum and recommended specifications for EA SPORTS FC™ Mobile (2026)** on Android and iOS devices — based on official requirements and community performance observations ⚽📊. 0",
 
   "minimum": {
-    "OS Version": "Android 6.0 or higher",
-    "RAM": "2GB minimum",
-    "CPU": "Quad-Core 1.5–2.0GHz or equivalent",
-    "GPU": "Adreno 506 / Mali-G51 or equivalent",
-    "Storage": "≈ 2GB free space",
-    "Internet": "Stable connection for online matches (2–5 Mbps)"
+    "OS Version": "Android 8.0 or later 🤖",
+    "RAM": "≈ 2GB minimum 🧠",
+    "CPU": "Quad‑Core 1.5 GHz+ or equivalent ⚙️",
+    "GPU": "Mid‑range capable GPU (Adreno/Mali class) 🎮",
+    "Storage": "≈ 2–3GB free space 💾",
+    "Internet": "Stable 4G/5G or Wi‑Fi for online matches 🌐"
   },
 
   "recommended": {
-    "OS Version": "Android 10 or higher",
-    "RAM": "4GB–6GB or more",
-    "CPU": "Snapdragon 720G / 732G / 860 / 870 or newer",
-    "GPU": "Adreno 618 / 640 / 730 or better",
-    "Storage": "4GB+ free space recommended",
-    "Internet": "Strong Wi-Fi or 5G for online multiplayer ⚡"
+    "OS Version": "Android 11+ for best experience 🤖",
+    "RAM": "4GB–6GB or more 🧠",
+    "CPU": "Snapdragon 7xx / 8xx series or equivalent ⚡",
+    "GPU": "Adreno 618+ / Mali‑G76+ 🎮",
+    "Storage": "4GB+ free recommended 💾",
+    "Internet": "Strong Wi‑Fi or 5G for competitive online matches 📡"
   },
 
-  "ios_intro": "EA Sports Football runs buttery smooth on iOS devices thanks to Apple’s GPU optimization and fast storage. Prepare for perfect passes, insane volleys, and no lag in your fantasy squad! 🍏",
+  "ios_intro": "On iOS, EA SPORTS FC™ Mobile runs efficiently due to Apple’s optimized GPU and storage performance 🍏 — enabling smoother visuals and better responsiveness even on older flagships. 1",
 
   "ios_minimum": [
-    { "title": "OS Version", "value": "iOS 11 or later" },
-    { "title": "Device", "value": "iPhone 7 or newer" },
-    { "title": "Storage", "value": "≈ 2GB free" }
+    { "title": "OS Version", "value": "iOS 13 or later 🍏" },
+    { "title": "Device", "value": "iPhone 6s / SE or newer 📱" },
+    { "title": "Storage", "value": "≈ 2GB free 💾" }
   ],
 
   "ios_recommended": [
-    { "title": "OS Version", "value": "iOS 13 or later" },
-    { "title": "Device", "value": "iPhone X / XR / 11 Series or newer" },
-    { "title": "Storage", "value": "4GB+ free recommended" }
+    { "title": "OS Version", "value": "iOS 15 or later 🍏" },
+    { "title": "Device", "value": "iPhone X / XR / 11 or newer ⚡" },
+    { "title": "Storage", "value": "4GB+ free recommended 💾" }
   ],
 
-  "fps_intro": "FPS performance depends on your device’s processor, graphics, and RAM. Higher FPS means smoother ball control, faster sprints, and fewer laggy tackles 🏃💨.",
+  "fps_intro": "Frame rate directly affects responsiveness — smoother gameplay means sharper ball control, faster sprints, and finer pass timing 🏃‍♂️💨:",
 
   "fps_list": [
-    { "category": "Low-End Devices", "fps": "25–30 FPS (good for casual matches) ⚽" },
-    { "category": "Mid-Range Devices", "fps": "40–50 FPS (smooth enough to score that perfect curve shot) 🎯" },
-    { "category": "High-End Devices", "fps": "60 FPS or higher (like playing with superpowers) ⚡" }
+    { "category": "Low‑End Devices", "fps": "30–40 FPS (playable, some stutter) ⚽" },
+    { "category": "Mid‑Range Devices", "fps": "45–60 FPS (smooth and responsive) 🎯" },
+    { "category": "High‑End Devices", "fps": "60–120 FPS on supported hardware (very smooth) 🚀" }
   ],
 
-  "settings_intro": "Optimal settings help your device handle player animations, stadium lighting, and real-time physics without turning the match into a slideshow of doom 🖼️.",
+  "settings_intro": "To maximize performance and reduce frame drops or thermal throttling, adjust these settings according to your device capabilities:",
 
   "low_end": [
-    { "title": "Graphics Quality", "value": "Low / Medium for stable FPS" },
-    { "title": "Frame Rate", "value": "Standard (High FPS may drop frames)" },
-    { "title": "Effects", "value": "Turn off motion blur and reduce shadows" },
-    { "title": "Background Apps", "value": "Close them for smoother gameplay" }
+    { "title": "Graphics Quality", "value": "Low–Medium for stable FPS 📉" },
+    { "title": "Frame Rate Cap", "value": "Standard (avoid ultra high FPS) ⚙️" },
+    { "title": "Effects & Shadows", "value": "Lower or OFF for gameplay fluidity ☁️❌" },
+    { "title": "Background Apps", "value": "Close before playing 🚪📵" }
   ],
 
   "high_end": [
-    { "title": "Graphics Quality", "value": "High / Ultra (stadiums look amazing!) 🏟️" },
-    { "title": "Frame Rate", "value": "60 FPS or higher for buttery smooth dribbles" },
-    { "title": "Thermal Control", "value": "Avoid overheating, keep your device cool ❄️" },
-    { "title": "Storage Speed", "value": "Keep at least 1–2GB free for fast stadium loading" }
+    { "title": "Graphics Quality", "value": "High / Ultra (if supported) 🏟️" },
+    { "title": "Frame Rate Cap", "value": "60–120 FPS where possible 🔄" },
+    { "title": "Thermal Control", "value": "Keep device cool for long matches ❄️" },
+    { "title": "Storage Performance", "value": "Keep >2GB free for faster stadium loading 💾" }
   ],
 
-  "sectionIntro": "These Android and iOS devices are known to handle EA Sports Football without laggy tackles or slow-motion goals.",
+  "sectionIntro": "These Android 📱 and iOS 🍏 devices handle EA SPORTS FC™ Mobile well — letting you play online matches with less lag and better responsiveness:",
 
   "androidDevices": [
-    "Samsung Galaxy S20–S24 Series",
-    "Samsung Galaxy A52 / A54 / A73",
-    "Xiaomi Redmi Note 11 / 12 / 13 Pro",
-    "Poco X3 / X4 / F5 / F6",
-    "Realme GT / GT Neo 2 / GT Neo 3",
-    "Google Pixel 6 / 7 / 8",
-    "Infinix Zero / Note / GT Series"
+    "Samsung Galaxy S20 / S21 / S22 / S23 / S24 Series 📱",
+    "Google Pixel 6 / Pixel 7 / Pixel 8 ⚡",
+    "OnePlus 9 / 10 / 11 Series 🚀",
+    "Xiaomi Redmi K50 / K60 / Note 12 Pro 📊",
+    "Poco F5 / X6 Pro ⚡",
+    "Realme GT Neo 3 / GT 5 🚀",
+    "Vivo X90 / V25 Series 📸"
   ],
 
   "iosDevices": [
-    "iPhone X / XR / XS",
-    "iPhone 11 / 12 / 13 / 14 Series",
-    "iPhone SE 2020 / 2022",
-    "iPad Mini 5 / 6",
-    "iPad Air 3rd Gen or newer"
+    "iPhone X / XR / XS 🍏",
+    "iPhone 11 / 12 / 13 / 14 Series ⚡",
+    "iPhone 15 / 16 Series 🚀",
+    "iPhone SE (2nd / 3rd Gen) 📱",
+    "iPad Air / iPad Pro Models 🍏"
   ],
 
-  "storageIntroText": "EA Sports Football is huge thanks to detailed stadiums, player models, and seasonal updates. Here’s how much space you’ll need:",
+  "storageIntroText": "EA SPORTS FC™ Mobile has detailed stadiums, real‑time lighting and animations — so you need ample storage for base install and updates:",
 
   "storageDetails": [
-    { "label": "Base Game Size", "value": "≈ 1.5–2GB ⚽" },
-    { "label": "High-Resolution Player & Stadium Textures", "value": "500MB–1GB" },
-    { "label": "Seasonal Updates", "value": "300–700MB each season" },
-    { "label": "Total Required Space", "value": "≈ 3–4GB recommended" }
+    { "label": "Base Game Size", "value": "≈ 1.8–2.5GB ⚽" },
+    { "label": "High‑Res Textures & Animations", "value": "500MB–1GB+" },
+    { "label": "Seasonal Updates", "value": "300–800MB each update" },
+    { "label": "Total Recommended", "value": "≈ 4–5GB free 💾" }
   ],
 
-  "faqIntroText": "Most common questions from football fans who love smooth gameplay and epic goals 🥅:",
+  "faqIntroText": "Common performance questions from mobile football fans 🥅:",
 
   "faqList": [
     {
-      "question": "Is EA Sports Football heavy on devices?",
-      "answer": "Yes. Detailed stadiums, real-time physics, and player animations require strong GPUs and fast storage."
+      "question": "Can I play EA SPORTS FC Mobile at 60 FPS?",
+      "answer": "Yes — most devices reach ~60 FPS; some premium phones even support 90–120 FPS modes on supported hardware. 2"
     },
     {
-      "question": "Can I play at 60 FPS?",
-      "answer": "Yes, but only on mid-range to high-end devices with capable GPUs."
+      "question": "Why does my game lag mid‑match?",
+      "answer": "Real‑time physics, complex stadium effects, and online interaction load CPU & GPU heavily — lowering graphics or FPS cap helps."
     },
     {
-      "question": "Why does my phone heat up during matches?",
-      "answer": "The game renders players, stadiums, physics, and multiplayer interactions in real-time. On low-end devices, this can generate heat 🔥."
+      "question": "Does this require internet?",
+      "answer": "Yes — the game needs an active connection for most modes, especially online matches and seasonal events."
     }
   ],
 
   "title": "Device Comparison Insights",
-  "description": "Compare top devices for EA Sports Football. Check FPS stability, thermal performance, and smoothness for real football matches ⚽🔥.",
+  "description": "Compare top devices for EA SPORTS FC™ Mobile — see FPS stability, thermal performance, and smooth online matches ⚽🔥.",
 
   "rows": [
     {
       "device1": "Samsung Galaxy S21",
       "device2": "Xiaomi Redmi Note 12 Pro",
-      "performance": "Both handle smooth gameplay at 50–60 FPS.",
-      "notes": "S21 keeps frames consistent, while Note 12 Pro loads stadium textures slightly faster."
+      "performance": "Both deliver ~50–60 FPS stable gameplay.",
+      "notes": "S21 keeps frames consistent, while Note 12 Pro loads textures quickly."
     },
     {
       "device1": "Poco F5",
       "device2": "Realme GT Neo 3",
-      "performance": "Perfect for fast dribbles and precise shots.",
-      "notes": "Poco F5 handles Ultra graphics better, GT Neo 3 keeps device cooler in longer sessions."
+      "performance": "Great for quick passes and fast sprints.",
+      "notes": "Poco F5 handles high graphics better; GT Neo 3 stays cooler over long sessions."
     },
     {
       "device1": "iPhone 12",
       "device2": "iPhone XR",
-      "performance": "Smooth gameplay and fast response for online matches.",
-      "notes": "iPhone 12 manages higher graphics settings, XR performs reliably with minor dips in crowded stadiums."
+      "performance": "Consistent ~60 FPS with solid visuals.",
+      "notes": "iPhone 12 handles ultra settings better; XR offers reliable response in matches."
     }
   ]
 }

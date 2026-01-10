@@ -121,33 +121,35 @@
  
  
  
-  <!-- 10 Dec to 10 Jan -->
+  <!--
+  last update 10 Jan 
+  Next Update to 10 feb -->
  
  
  <url>
     <loc>https://blog.blueverse.space/guides/coc/th1-4.html</loc>
-    <lastmod>2025-12-10</lastmod>
+    <lastmod>2026-01-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
    <url>
     <loc>https://blog.blueverse.space/guides/coc/th5-7.html</loc>
-    <lastmod>2025-12-10</lastmod>
+    <lastmod>2026-01-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
     <loc>https://blog.blueverse.space/guides/cod/beginners-guide.html</loc>
-    <lastmod>2025-12-10</lastmod>
+    <lastmod>2026-01-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
    <url>
     <loc>https://blog.blueverse.space/guides/clash-royal/beginners-guide.html</loc>
-    <lastmod>2025-12-10</lastmod>
+    <lastmod>2026-01-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>

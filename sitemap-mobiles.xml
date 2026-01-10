@@ -58,7 +58,9 @@
 
 
 
- <!-- 10 dec to 10 jan -->
+ <!-- last update
+ 
+ 10 jan next  to 10 feb -->
 
 
 
@@ -66,7 +68,7 @@
 
    <url>
    <loc>https://blog.blueverse.space/mobile/pricing/nobia-redmagic-10-pro.html</loc>
-   <lastmod>2025-12-10</lastmod>
+   <lastmod>2026-01-10</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8</priority>
  </url>
@@ -76,19 +78,13 @@
 
 <url>
     <loc>https://blog.blueverse.space/mobile/nobia-redmagic-10-pro.html</loc>
-    <lastmod>2025-12-10</lastmod>
+    <lastmod>2026-01-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
 
- <url>
-    <loc>https://blog.blueverse.space/mobile/pricing/nobia-redmagic-10-pro.html</loc>
-    <lastmod>2025-12-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  
+
   
   
   

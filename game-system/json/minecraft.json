@@ -1,56 +1,56 @@
 {
   "shortIntro": {
     "title": "🪓 What You Need to Survive the Blocky World 🌍",
-    "para1": "Minecraft is a sandbox universe full of blocks 🧱, creepers 💣, and endless creativity 🎨. To enjoy smooth crafting, building 🏰, and exploring without turning into a jittery zombie 🧟‍♂️, your device needs to meet certain hardware specs.",
-    "para2": "Low-end devices can explore tiny worlds at 20–30 FPS 🐢, while mid-range and high-end devices can survive epic builds and Redstone contraptions ⚙️ at a silky-smooth 60 FPS 🚀 or more. And yes, your creeper explosions 💥 will look glorious."
+    "para1": "Minecraft is a sandbox universe full of blocks 🧱, creepers 💣, and endless creativity 🎨. To enjoy smooth crafting, building 🏰, and exploring without lagging into a glitchy mess, your device needs balanced specs and enough power.",
+    "para2": "Low‑end devices can explore smaller worlds at about 20–30 FPS 🐢, while mid‑range and high‑end phones can handle epic builds and complex mechanics ⚙️ at silky‑smooth 60 FPS or more for the best experience. Creeper explosions 💥 have never looked this good."
   },
 
-  "intro": "Here are the official minimum and recommended specs for Minecraft on Android devices 📱 to prevent lag, block clipping, or unexpected TNT explosions 💣 in your pocket world.",
+  "intro": "Here are the **minimum and recommended specs for Minecraft (Bedrock Edition)** on Android and iOS devices 📱 to help you avoid lag, slow chunk loading, and sudden crashes in your adventures. 1",
 
   "minimum": {
-    "OS Version": "Android 5.0 or above 🤖",
-    "RAM": "2GB minimum 🧠",
-    "CPU": "Snapdragon 450 / Helio P35 / Exynos 7870 or equivalent ⚡",
-    "GPU": "Adreno 506 / Mali-G52 or equivalent 🎮",
-    "Storage": "≈ 1GB Free 💾",
-    "Internet": "Optional for online servers 🌐, but a stable 2 Mbps connection is ideal 📶"
+    "OS Version": "Android 9.0+ (official current minimum) 🤖",
+    "RAM": "At least 2 GB 🧠",
+    "CPU": "Modern quad‑core (ARMv7/Neon support) ⚡",
+    "GPU": "Graphics with OpenGL ES 3.1+ 🎮",
+    "Storage": "≈1 GB free for game + maps 💾",
+    "Internet": "Required for multiplayer, better with stable 4G/5G 🌐"
   },
 
   "recommended": {
-    "OS Version": "Android 9.0 or above 🤖",
-    "RAM": "4GB or more 🧠",
-    "CPU": "Snapdragon 660 / Helio G80 / Exynos 9611 or better ⚡",
-    "GPU": "Adreno 512+ / Mali-G72 or better 🎮",
-    "Storage": "3–4GB Free 💾",
-    "Internet": "Stable connection for multiplayer 🌐, 4G/5G recommended 🚀"
+    "OS Version": "Android 11+ for smooth gameplay 🤖",
+    "RAM": "4–6 GB or more 🧠",
+    "CPU": "Octa‑core 2.0 GHz+ or newer ⚡",
+    "GPU": "Adreno 610+ / Mali‑G52+ 🎮",
+    "Storage": "2–3 GB free for worlds & assets 💾",
+    "Internet": "Stable connection for servers 🌐"
   },
 
-  "ios_intro": "🍏 Minecraft runs like a dream on modern iOS devices. Here’s what Apple fans need for smooth building 🏰 and creeper dodging 💣.",
+  "ios_intro": "🍏 Minecraft runs very well on iOS due to tight optimization, even on older hardware when compared to Android.",
 
   "ios_minimum": [
-    { "title": "OS Version", "value": "iOS 11 or later 📱" },
-    { "title": "Device", "value": "iPhone 6S / iPhone SE (1st Gen) or newer 🍎" },
-    { "title": "Storage", "value": "≈ 1GB Free 💾" }
+    { "title": "OS Version", "value": "iOS 14 or later 🍏" },
+    { "title": "Device", "value": "iPhone 7 / SE (1st Gen) or newer 📱" },
+    { "title": "Storage", "value": "≈1 GB Free 💾" }
   ],
 
   "ios_recommended": [
-    { "title": "OS Version", "value": "iOS 13 or later 📱" },
-    { "title": "Device", "value": "iPhone 8 / X / XR / XS or newer 🍎" },
-    { "title": "Storage", "value": "At least 3GB Free 💾" }
+    { "title": "OS Version", "value": "iOS 15+ 🍏" },
+    { "title": "Device", "value": "iPhone X / XR / 11 or newer 📱" },
+    { "title": "Storage", "value": "2–3 GB Free 💾" }
   ],
 
-  "fps_intro": "FPS in Minecraft depends on your device’s CPU ⚡, GPU 🎮, and RAM 🧠. Here's what you can expect when mining ⛏️, building 🏰, and running from creepers 💣.",
+  "fps_intro": "Minecraft performance depends on your device’s CPU ⚡, GPU 🎮, RAM 🧠, and how demanding your world settings are. Here’s what you can generally expect in 2026:",
 
   "fps_list": [
-    { "category": "Low-End Devices 🐢", "fps": "20–30 FPS (still survivable!)" },
-    { "category": "Mid-Range Devices 🏃‍♂️", "fps": "40–55 FPS (smooth enough to build a castle without crying 😅)" },
-    { "category": "High-End Devices 🚀", "fps": "60 FPS Stable (perfect for Redstone engineers ⚙️)" }
+    { "category": "Low‑End Devices 🐢", "fps": "20–30 FPS (playable) 🚶‍♂️" },
+    { "category": "Mid‑Range Devices 🏃‍♂️", "fps": "40–60 FPS (smooth) 📈" },
+    { "category": "High‑End Devices 🚀", "fps": "60 FPS+ (very smooth) 🎯" }
   ],
 
-  "settings_intro": "To prevent Minecraft from turning into a slideshow of doom 💀, here are the ideal settings for different devices.",
+  "settings_intro": "To avoid Minecraft turning into a slideshow 📉, here are the best settings for different device tiers:",
 
   "low_end": [
-    { "title": "Graphics 🎨", "value": "Fast ⚡" },
+    { "title": "Graphics 🎨", "value": "Simple ⚡" },
     { "title": "FPS 📊", "value": "Normal 🐢" },
     { "title": "Fancy Graphics ✨", "value": "OFF ❌" },
     { "title": "Smooth Lighting 💡", "value": "OFF ❌" },
@@ -58,80 +58,78 @@
   ],
 
   "high_end": [
-    { "title": "Graphics 🎨", "value": "Fancy ✨" },
-    { "title": "FPS 📊", "value": "High (60+ FPS) 🚀" },
-    { "title": "Fancy Graphics ✨", "value": "ON ✅" },
+    { "title": "Graphics 🎨", "value": "Fancy ✨ or Vibrant Visuals (if supported) 🌈" },
+    { "title": "FPS 📊", "value": "60 FPS or higher 🏎️" },
     { "title": "Smooth Lighting 💡", "value": "ON ✅" },
-    { "title": "Clouds ☁️", "value": "ON (because clouds are pretty 🌤️)" }
+    { "title": "Clouds ☁️", "value": "ON 🌤️" },
+    { "title": "Render Distance 📍", "value": "Higher (but watch performance) 🔎" }
   ],
 
-  "sectionIntro": "These Android 📱 and iOS 🍏 devices are known to survive Minecraft worlds without random lag-induced deaths 💀.",
+  "sectionIntro": "These Android 📱 and iOS 🍏 devices handle Minecraft well — from survival to creative worlds without annoying lag:",
 
   "androidDevices": [
-    "Samsung Galaxy A Series (A51, A52, A73) 📱",
-    "Samsung Galaxy M / F Series 📱",
-    "Poco X3 / X4 / F3 / F5 ⚡",
-    "Redmi Note 8 / 10 / 11 / 12 Series 📱",
-    "Realme 6 / 7 / 8 / 9 Series ⚡",
-    "Infinix Note / Hot / Zero Series 🔥",
-    "Vivo Y / V Series 📱",
-    "Oppo A / Reno Series 📱"
+    "Poco F5 / Poco X6 Pro ⚡",
+    "Redmi Note 12 / Note 13 Series 📱",
+    "Samsung Galaxy A54 / A73 / S21–S24 Series 🌌",
+    "Realme GT Neo 3 / GT 5 🚀",
+    "Vivo V25 / V29 Series 📸",
+    "Google Pixel 7 / Pixel 8 Series 💡"
   ],
 
   "iosDevices": [
-    "iPhone 7 / 7 Plus 🍏",
-    "iPhone 8 / 8 Plus 🍏",
-    "iPhone X / XR / XS / XS Max 🍏",
-    "iPhone 11 / 12 / 13 / 14 Series 🍏",
-    "iPhone SE (2020 / 2022) 🍏"
+    "iPhone X / XR / XS 🍏",
+    "iPhone 11 / 12 / 13 / 14 / 15 Series 🍏",
+    "iPhone SE (2020 / 2022) 📱",
+    "iPad Air / iPad Pro (various gens) 🍏"
   ],
 
-  "storageIntroText": "Here’s the full scoop 🥄 on Minecraft download size and total storage required for your epic adventures 🏰.",
+  "storageIntroText": "Minecraft storage depends on world size, texture packs, and mods. Bigger worlds or packs = more space 📦:",
 
   "storageDetails": [
-    { "label": "Base Game Size 📦", "value": "≈ 400 MB" },
-    { "label": "Additional Resource Packs / Mods 🧱", "value": "0.5–2 GB" },
-    { "label": "Total Required Space 💾", "value": "1–3 GB recommended" }
+    { "label": "Base Game Size 📦", "value": "≈ 300–500 MB 💾" },
+    { "label": "World Assets 🌍", "value": "500 MB–2 GB depending on world" },
+    { "label": "Texture / Add‑Ons 🎨", "value": "100 MB–1 GB+" },
+    { "label": "Total Recommended 💾", "value": "2–4 GB Free" }
   ],
 
-  "faqIntroText": "Frequently asked questions ❓ from fellow block miners ⛏️, builders 🏰, and creeper dodgers 💣.",
+  "faqIntroText": "Common questions about Minecraft mobile performance — answered simply 🎤😄:",
 
   "faqList": [
     {
       "question": "Can Minecraft run on 2GB RAM devices? 🤔",
-      "answer": "Yes, but expect some hiccups while building a mega castle 🏰 or exploring the Nether 🌋. Perfect for casual mining ⛏️!"
+      "answer": "Yes, but with lower graphics and settings. Larger worlds may lag unless settings are lowered."
     },
     {
-      "question": "Is Minecraft heavier than classic mobile games? 🧱",
-      "answer": "Definitely. Blocks, mobs 👹, and fancy lighting ✨ take their toll. But it’s worth it!"
+      "question": "Will Minecraft use 120 FPS on mobile? 🔄",
+      "answer": "By default, Minecraft mobile often runs around 60 FPS, but some Android devices may unlock higher FPS depending on hardware and game options. Performance may vary."
     },
     {
-      "question": "Do I need fast internet for Minecraft? 🌐",
-      "answer": "For offline singleplayer, nope ❌. For multiplayer servers or realms 🌍, a stable 2–5 Mbps connection works, though lower ping 🏎️ is ideal."
+      "question": "Why does Minecraft lag in huge worlds? 🧠",
+      "answer": "More loaded chunks, entities, and complex redstone increase CPU/GPU load — lowering render distance helps."
     }
   ],
 
   "title": "Device Comparison for Minecraft 🏆",
-  "description": "Compare top devices 📱🍏 for Minecraft performance ⚡🎮. Check FPS stability, heating 🌡️, and smooth gameplay for your blocky adventures 🏰.",
+  "description": "Compare top devices 📱🍏 for Minecraft performance ⚡🎮 — see FPS stability, heating, and smooth gameplay:",
 
   "rows": [
     {
       "device1": "Poco F5 ⚡",
       "device2": "Realme GT Neo 3 🔥",
-      "fps": "55–60 FPS 🚀",
-      "notes": "Poco F5 keeps FPS stable while GT Neo 3 keeps it cool under lava 🌋."
+      "fps": "50–60 FPS 🚀",
+      "notes": "Both keep smooth play; F5 excels at sustained performance, Neo 3 loads chunks fast."
     },
     {
       "device1": "Samsung Galaxy A52 📱",
       "device2": "Redmi Note 12 Pro 📱",
-      "fps": "40–55 FPS 🐢–🚀",
-      "notes": "Note 12 Pro renders shaders slightly better ✨, A52 is more consistent when creepers attack 💣."
+      "fps": "40–55 FPS 📊",
+      "notes": "A52 manages thermals well, Note 12 Pro handles visuals better."
     },
     {
       "device1": "iPhone 12 🍏",
       "device2": "iPhone XR 🍏",
-      "fps": "60 FPS 🚀",
-      "notes": "Both are perfect for Redstone builds ⚙️, but iPhone 12 handles resource packs like a champ 🏆."
+      "fps": "55–60 FPS 🚀",
+      "notes": "iPhone 12 stays smoother in complex worlds; XR plays well too."
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "mobile": {
-    "name": "Nubia Red Magic 10 Pro",
+    "name": "Nubia Red Magic 10 Pro (2026 Updated)",
     "thumbs": [
-      "nobia-redmagic-10-pro.webp",
+      "nubia-redmagic-10-pro.webp",
       "eu.redmagic.gg"
     ],
-    "summary": "Flagship gaming smartphone with Snapdragon 8 Elite, 7050mAh battery, 144Hz AMOLED UDC display, and built-in ICE-X fan for ultimate performance.",
+    "summary": "Flagship gaming smartphone powered by Qualcomm Snapdragon 8 Elite with massive 7050mAh battery, 144Hz AMOLED display, advanced ICE‑X cooling and gaming‑focused features (shoulder triggers, internal fan).",
     "priceRange": "Flagship Gaming",
 
     "countries": [
@@ -13,11 +13,11 @@
         "flag": "🇺🇸",
         "country": "United States",
         "currency": "USD",
-        "displayPrice": "$649 – $999",
+        "displayPrice": "$649 – $899 (Approx)",
         "variants": [
-          { "ram": "12GB / 256GB", "price": "$649" },
-          { "ram": "16GB / 512GB", "price": "$799" },
-          { "ram": "24GB / 1TB", "price": "$999" }
+          { "ram": "12GB / 256GB", "price": "$649 (est.)" },
+          { "ram": "16GB / 512GB", "price": "$749 (est.)" },
+          { "ram": "24GB / 1TB", "price": "$899 (est.)" }
         ],
         "colors": ["Shadow (Black)", "Dusk (Transparent)", "Moonlight (Transparent White)"]
       },
@@ -25,11 +25,11 @@
         "flag": "🇪🇺",
         "country": "Euro Zone",
         "currency": "EUR",
-        "displayPrice": "€649 – €999",
+        "displayPrice": "€649 – €949 (Approx)",
         "variants": [
-          { "ram": "12GB / 256GB", "price": "€649" },
-          { "ram": "16GB / 512GB", "price": "€799" },
-          { "ram": "24GB / 1TB", "price": "€999" }
+          { "ram": "12GB / 256GB", "price": "€649 (est.)" },
+          { "ram": "16GB / 512GB", "price": "€799 (est.)" },
+          { "ram": "24GB / 1TB", "price": "€949 (est.)" }
         ],
         "colors": ["Shadow (Black)", "Dusk (Transparent)", "Moonlight (Transparent White)"]
       },
@@ -37,10 +37,11 @@
         "flag": "🇬🇧",
         "country": "United Kingdom",
         "currency": "GBP",
-        "displayPrice": "£579 – £879",
+        "displayPrice": "£579 – £879 (Approx)",
         "variants": [
-          { "ram": "12GB / 256GB", "price": "£579" },
-          { "ram": "1TB Variant Estimate", "price": "£879" }
+          { "ram": "12GB / 256GB", "price": "£579 (est.)" },
+          { "ram": "16GB / 512GB", "price": "£729 (est.)" },
+          { "ram": "24GB / 1TB", "price": "£879 (est.)" }
         ],
         "colors": ["Shadow (Black)", "Dusk (Transparent)", "Moonlight (Transparent White)"]
       },
@@ -48,9 +49,11 @@
         "flag": "🇵🇰",
         "country": "Pakistan",
         "currency": "PKR",
-        "displayPrice": "Rs 249,990 – Rs 299,990 (Non-PTA Estimate)",
+        "displayPrice": "Rs 167,999 – Rs 249,999 (Non‑PTA / Market Estimate)",
         "variants": [
-          { "ram": "16GB / 512GB", "price": "Rs 249,990" }
+          { "ram": "12GB / 256GB", "price": "Rs 167,999 (est.)" },
+          { "ram": "16GB / 512GB", "price": "Rs 189,999 (est.)" },
+          { "ram": "24GB / 1TB", "price": "Rs 249,999 (est.)" }
         ],
         "colors": ["Shadow (Black)", "Dusk (Transparent)", "Moonlight (Transparent White)"]
       },
@@ -58,14 +61,27 @@
         "flag": "🇸🇬",
         "country": "Singapore",
         "currency": "SGD",
-        "displayPrice": "S$999 – S$1,499",
+        "displayPrice": "S$999 – S$1,499 (Approx)",
         "variants": [
-          { "ram": "12GB / 256GB", "price": "S$999" },
-          { "ram": "16GB / 512GB", "price": "S$1,299" },
-          { "ram": "24GB / 1TB", "price": "S$1,499" }
+          { "ram": "12GB / 256GB", "price": "S$999 (est.)" },
+          { "ram": "16GB / 512GB", "price": "S$1,299 (est.)" },
+          { "ram": "24GB / 1TB", "price": "S$1,499 (est.)" }
         ],
         "colors": ["Shadow (Black)", "Dusk (Transparent)", "Moonlight (Transparent White)"]
       }
-    ]
+    ],
+
+    "specs": {
+      "display": "6.85″ AMOLED, 144Hz, ~1216×2688 (≈431 ppi), ~2000 nits peak brightness", 
+      "chipset": "Qualcomm Snapdragon 8 Elite (3nm) – flagship gaming SoC", 
+      "ramOptions": ["12GB", "16GB", "24GB"], 
+      "storageOptions": ["256GB", "512GB", "1TB (UFS 4.x)"], 
+      "battery": "7050mAh with fast charging (~100W)", 
+      "cooling": "ICE‑X active cooling with built‑in fan", 
+      "cameras": "50MP main + 50MP ultrawide + 2MP macro; 16MP under‑display selfie", 
+      "os": "Android 15 with Redmagic OS 10", 
+      "connectivity": "5G, Wi‑Fi 6/6E/7, Bluetooth 5.x, NFC, GPS", 
+      "extraFeatures": "Shoulder triggers, gaming tools, high touch sampling rate"
+    }
   }
 }
