@@ -1,41 +1,40 @@
 {
   "gameTitle": "Samsung Galaxy S24 Ultra",
-  "subtitle": "Samsung’s flagship powerhouse with elite gaming performance, beautiful display, and optimized thermals — perfect for high FPS mobile gaming 🚀🎮.",
+  "subtitle": "Samsung’s ultimate flagship for gamers — smooth 120Hz display, powerhouse chipset, and advanced cooling for marathon mobile sessions 🚀🎮.",
 
   "posters": [
     "/assets/thumb/sg-s24-ultra.webp"
-  
   ],
 
   "performance": {
-    "cpu": "Qualcomm Snapdragon 8 Gen 3 (or Exynos 2400 depending on region)",
-    "gpu": "Adreno 750 / Xclipse GPU (Android gaming optimized)",
-    "ram": "12GB / 16GB LPDDR5X",
-    "storage": "256GB / 512GB / 1TB UFS 4.0",
-    "cooling": "Samsung Vapor Chamber Cooling & AI heat management"
+    "cpu": "Snapdragon 8 Gen 3 / Exynos 2400 (depending on region) – raw gaming power",
+    "gpu": "Adreno 750 / Xclipse GPU – optimized for mobile AAA titles",
+    "ram": "12GB / 16GB LPDDR5X – multitasking like a breeze",
+    "storage": "256GB / 512GB / 1TB UFS 4.0 – lightning-fast loading",
+    "cooling": "Vapor Chamber + AI Thermal Management – keeps your hands cool, even in heated battles"
   },
 
   "benchmark": {
-    "antutu": "1,450,000+ (top-tier mobile)",
-    "geekbench": "Single-Core: 2200+, Multi-Core: 6000+"
+    "antutu": "1,450,000+ (top 1% mobile performance)",
+    "geekbench": "Single-Core: 2,250+, Multi-Core: 6,200+"
   },
 
   "display": {
-    "refreshRate": "Up to 120Hz Adaptive",
-    "touchRate": "240Hz Touch Sampling",
-    "resolution": "QHD+ (3088 × 1440)",
-    "panelType": "Dynamic AMOLED 2X HDR10+"
+    "refreshRate": "Adaptive 120Hz – buttery smooth animations",
+    "touchRate": "240Hz Touch Sampling – near-instant response",
+    "resolution": "QHD+ 3088 × 1440 – stunning sharpness",
+    "panelType": "Dynamic AMOLED 2X HDR10+ – vivid colors with perfect contrast"
   },
 
   "battery": {
     "size": "5000mAh",
-    "fastCharging": "45W Super Fast Charge",
-    "gamingDrain": "6% – 10% per hour (very efficient)"
+    "fastCharging": "45W Super Fast Charge – full boost in under an hour",
+    "gamingDrain": "5–9% per hour depending on game intensity"
   },
 
   "temperature": {
-    "heatLevel": "35°C – 40°C (controlled even in long sessions)",
-    "fpsStability": "Extremely Stable (95%+)"
+    "heatLevel": "35°C – 39°C during heavy gaming – comfortable grip",
+    "fpsStability": "95–100% FPS consistency – no annoying drops"
   },
 
   "heavyGames": [
@@ -51,23 +50,23 @@
   ],
 
   "playability": {
-    "PUBG Mobile": "Ultra HD + 90FPS + HDR Support",
-    "Call of Duty Mobile": "Very High Graphics + Max FPS",
-    "Genshin Impact": "60FPS Stable on Max",
-    "Fortnite": "High to Epic + 60FPS",
-    "Honkai Star Rail": "Max Settings Smooth"
+    "PUBG Mobile": "Ultra + HDR + 90FPS – buttery smooth",
+    "Call of Duty Mobile": "Max graphics + 120FPS – pro-level control",
+    "Genshin Impact": "60FPS stable at max settings – no stutter",
+    "Fortnite": "High/Epic + 60FPS – building & shooting feels responsive",
+    "Honkai Star Rail": "Max settings smooth – cinematic gameplay"
   },
 
   "fpsBenchmarks": [
     {
       "game": "PUBG Mobile",
       "settings": "Ultra + HDR",
-      "fps": "80–90 FPS Stable"
+      "fps": "80–90 FPS stable"
     },
     {
       "game": "COD Mobile",
       "settings": "Max Graphics",
-      "fps": "120 FPS Stable"
+      "fps": "120 FPS stable"
     },
     {
       "game": "Genshin Impact",
@@ -77,7 +76,7 @@
     {
       "game": "Fortnite",
       "settings": "High/Epic",
-      "fps": "60 FPS"
+      "fps": "60 FPS smooth"
     }
   ],
 
@@ -86,19 +85,19 @@
       "game": "PUBG Mobile",
       "heat15": "Cool thanks to vapor chamber",
       "heat30": "Warm but controlled",
-      "fpsDrop": "1–2 FPS only"
+      "fpsDrop": "1–2 FPS max"
     },
     {
       "game": "COD Mobile",
       "heat15": "Normal",
-      "heat30": "Warm",
+      "heat30": "Warm, no throttling",
       "fpsDrop": "0–1 FPS"
     },
     {
       "game": "Genshin Impact",
       "heat15": "Warm",
-      "heat30": "Hot",
-      "fpsDrop": "3–4 FPS"
+      "heat30": "Hot but manageable",
+      "fpsDrop": "3 FPS avg"
     },
     {
       "game": "Fortnite",
@@ -111,51 +110,52 @@
   "batteryTests": [
     {
       "game": "PUBG Mobile",
-      "drop": "8%"
+      "drop": "7–8% per hour"
     },
     {
       "game": "COD Mobile",
-      "drop": "7%"
+      "drop": "6–7% per hour"
     },
     {
       "game": "Genshin Impact",
-      "drop": "14%"
+      "drop": "12–14% per hour"
     }
   ],
 
   "gamingFeatures": [
-    "120Hz Dynamic AMOLED 2X Display 🖼️",
+    "Adaptive 120Hz AMOLED Display 🖼️",
     "Game Booster AI Optimization ⚙️",
     "Vapor Chamber Cooling System ❄️",
-    "Stereo Speakers with Dolby Atmos 🔊",
+    "Stereo Speakers + Dolby Atmos 🔊",
     "Ultrasonic Touch Response 🖐️",
     "Long-lasting 5000mAh Battery 🔋",
     "Wi-Fi 7 & 5G Network Support 🌐",
-    "Samsung Game Launcher Enhancements 🎮"
+    "Samsung Game Launcher Enhancements 🎮",
+    "Smart Heat Management – no sweaty hands even in 2-hour sessions"
   ],
 
   "customTable": {
-    "title": "Custom Table Section",
-    "columns": ["Category", "Details", "Performance Impact"],
+    "title": "Performance & Gaming Tech Highlights",
+    "columns": ["Category", "Details", "Impact on Gaming"],
     "rows": [
-      ["Cooling System", "Vapor Chamber Cooling + AI Modulation", "Excellent heat control during long matches"],
+      ["Cooling System", "Vapor Chamber + AI Thermal Modulation", "Keeps FPS stable and phone cool"],
       ["Display", "Dynamic AMOLED 2X QHD+ 120Hz", "Smooth visuals & responsive touch"],
       ["Charging", "45W Super Fast Charge", "Quick top-ups between sessions"],
-      ["Battery", "5000mAh", "Great endurance for long gaming days"],
-      ["Speakers", "Stereo + Dolby Atmos", "Immersive sound experience"],
-      ["Game Booster", "AI Optimization", "Intelligent resource allocation for performance"]
+      ["Battery", "5000mAh", "Long sessions without worry"],
+      ["Speakers", "Stereo + Dolby Atmos", "Immersive audio for games & media"],
+      ["Game Booster", "AI Optimization", "Automatically prioritizes resources for heavy games"]
     ]
   },
 
   "dynamicList": {
-    "title": "Key Features",
+    "title": "Key Gaming Features",
     "items": [
       "Adaptive 120Hz AMOLED Display",
-      "LPDDR5X RAM",
-      "UFS 4.0 Storage",
-      "Advanced Thermal Control",
-      "Game Booster AI",
-      "Dolby Atmos Stereo"
+      "LPDDR5X RAM for heavy multitasking",
+      "UFS 4.0 Storage – instant loading",
+      "Vapor Chamber + AI Heat Management",
+      "Game Booster AI – intelligent optimization",
+      "Dolby Atmos Stereo Sound"
     ]
   }
 }

@@ -1,0 +1,181 @@
+{
+  "gameComparison": {
+    "games": [
+      {
+        "name": "Mobile Legends: Bang Bang",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/mobile-legends-bang-bang.webp",
+        "genre": "5v5 Mobile MOBA ⚔️",
+        "developer": "Moonton Games",
+        "release": "2016",
+        "gameplay": "Classic 5v5 MOBA action where teamwork, fast reflexes, and smart builds decide victory. Jump into lanes, fight over jungle objectives, and destroy the enemy base — all in quick, thrilling matches 🏆🌪️. Easy to pick up but hard to master! 0"
+      },
+      {
+        "name": "Honor of Kings",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/honor-of-kings.webp",
+        "genre": "5v5 Mobile MOBA 🐉",
+        "developer": "TiMi Studio Group (Tencent)",
+        "release": "2015",
+        "gameplay": "Strategic 5v5 battles with deep team synergy, mythic heroes, and compact maps that keep the action fast and fierce. Smaller lanes and intense teamplay make positioning and communication super important 🔥🎯. 1"
+      }
+    ]
+  },
+
+  "systemRequirements": {
+    "games": [
+      {
+        "name": "Mobile Legends: Bang Bang",
+        "platform": "Android / iOS",
+        "storage": "1.5–3 GB 📦 (updates can increase size)",
+        "ram": "2–3 GB Recommended",
+        "cpuGpu": "Mid-range chipset for smooth 60FPS",
+        "fps": "Up to 60 FPS",
+        "graphics": "Colorful stylized visuals ❤️",
+        "online": "Always Online 🌐",
+        "battery": "Moderate ⚡ (not too thirsty)"
+      },
+      {
+        "name": "Honor of Kings",
+        "platform": "Android / iOS",
+        "storage": "0.5–1 GB 📦 (varies by region)",
+        "ram": "2 GB Recommended (1 GB minimum)",
+        "cpuGpu": "Low to mid-range chipset runs it well",
+        "fps": "Up to 60 FPS stable",
+        "graphics": "Smooth visuals with high effects 🔥",
+        "online": "Always Online 🌍",
+        "battery": "Moderate ⚡ (depends on settings)"
+      }
+    ]
+  },
+
+  "keyFeatures": {
+    "games": [
+      {
+        "name": "Mobile Legends: Bang Bang",
+        "modes": "Classic 5v5, Ranked, Custom, Arcade modes",
+        "playerLimits": "5v5 players 🧑‍🤝‍🧑",
+        "graphicsStyle": "Colorful & polished with easy readability",
+        "customization": "Hero skins, emblems, battle spells & talents",
+        "events": "Seasonal tournaments, items, and themed events",
+        "mechanics": "Fast-paced teamfights, jungle objectives, rapid solo queue matches 2"
+      },
+      {
+        "name": "Honor of Kings",
+        "modes": "5v5 Ranked, Quick Match, Hero’s Gorge",
+        "playerLimits": "5v5 players 🐉",
+        "graphicsStyle": "Detailed visuals with polished animations",
+        "customization": "Skins, arcana system, item builds",
+        "events": "Seasonal updates, esports ladders",
+        "mechanics": "Deeper map strategy, objectives like Tempest Dragon, teleport portals 3"
+      }
+    ]
+  },
+
+  "prosCons": {
+    "games": [
+      {
+        "name": "Mobile Legends: Bang Bang",
+        "pros": [
+          "Easy for beginners 👍",
+          "Fast and explosive matches 🔥",
+          "Huge global community 🌍",
+          "Regular updates and events ❗"
+        ],
+        "cons": [
+          "Simpler maps can feel repetitive",
+          "Less strategic depth compared to Honor of Kings",
+          "Graphics are lighter than some rivals"
+        ]
+      },
+      {
+        "name": "Honor of Kings",
+        "pros": [
+          "Deeper strategic gameplay 🎯",
+          "Huge playerbase (especially in China) 📊",
+          "Rich lore & mythological heroes 🐲",
+          "Shorter, more intense matches"
+        ],
+        "cons": [
+          "Heavier game assets (can heat phones)",
+          "Less familiar to global players",
+          "Some features limited outside China"
+        ]
+      }
+    ]
+  },
+
+  "popularityCommunity": {
+    "games": [
+      {
+        "name": "Mobile Legends: Bang Bang",
+        "activePlayers": "Massive global following with strong SEA presence",
+        "socialMedia": "Huge esports communities & fan groups",
+        "tournaments": "M-Series World Championships 🏆",
+        "engagement": "Hero guides, ranked builds, streamer content 4"
+      },
+      {
+        "name": "Honor of Kings",
+        "activePlayers": "One of the highest-grossing mobile games ever 🌟",
+        "socialMedia": "Millions of daily active players, especially in China",
+        "tournaments": "Major esports events with big prizes",
+        "engagement": "Hero lore, strategy breakdowns, top-tier plays 5"
+      }
+    ]
+  },
+
+  "pricingIAP": {
+    "games": [
+      {
+        "name": "Mobile Legends: Bang Bang",
+        "price": "Free to play",
+        "premiumFeatures": "Skins, emblems, battle passes",
+        "currency": "Diamonds",
+        "specialOffers": "Seasonal bundles & deals"
+      },
+      {
+        "name": "Honor of Kings",
+        "price": "Free to play",
+        "premiumFeatures": "Skins, arcana, hero unlocks",
+        "currency": "Starstones / Tokens",
+        "specialOffers": "Event rewards & exclusive packages"
+      }
+    ]
+  },
+
+  "deviceCompatibility": {
+    "games": [
+      {
+        "name": "Mobile Legends: Bang Bang",
+        "devices": "Android & iOS",
+        "osVersion": "Android 5.0+ / iOS 10+",
+        "crossPlatform": "Mobile only",
+        "pcConsole": "Playable via emulators"
+      },
+      {
+        "name": "Honor of Kings",
+        "devices": "Android & iOS",
+        "osVersion": "Android 5.1+ / iOS 11+",
+        "crossPlatform": "Mobile only",
+        "pcConsole": "Not officially supported"
+      }
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Which game is easier for beginners?",
+      "answer": "Mobile Legends is generally more beginner-friendly with simpler mechanics and faster matches."
+    },
+    {
+      "question": "Which game has deeper strategy?",
+      "answer": "Honor of Kings focuses more on map control and objective play, giving deeper strategic gameplay."
+    },
+    {
+      "question": "Which one is more popular worldwide?",
+      "answer": "Mobile Legends has a stronger global presence, while Honor of Kings dominates the Chinese market."
+    },
+    {
+      "question": "Can both games run on mid-range phones?",
+      "answer": "Yes — both Mobile Legends and Honor of Kings are optimized for a wide range of devices from low to high end."
+    }
+  ]
+}
