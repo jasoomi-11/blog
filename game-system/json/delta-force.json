@@ -1,138 +1,138 @@
 {
   "shortIntro": {
-    "title": "What Your Device Needs for Smooth Delta Force Mobile Gameplay 🚀",
-    "para1": "Delta Force Mobile is an action-packed tactical shooter with realistic environments, dynamic weapon effects, and multiplayer battles. Its high-quality graphics and intense gameplay demand solid CPU and GPU performance for a lag-free experience.",
-    "para2": "Smooth aiming, fast reloads, and stable multiplayer performance depend on your device’s graphics processor, RAM, and cooling system. High-end devices deliver clearer visuals, faster loading, and reduced lag in fast-paced combat."
+    "title": "Your Ultimate Guide to Smooth Delta Force Mobile Gameplay 🚀",
+    "para1": "Delta Force Mobile is a tactical shooter packed with realistic maps, dynamic gun effects, and intense multiplayer battles. To dominate, you need a device that can handle high-resolution textures, fast physics calculations, and smooth rendering.",
+    "para2": "A solid GPU, enough RAM, and a good cooling system are essential for steady FPS, fast reloads, and lag-free firefights. Premium devices give sharper visuals, faster load times, and less frustration when bullets start flying."
   },
 
-  "intro": "Here are the updated minimum and recommended specifications for running Delta Force Mobile on Android and iOS devices. These are based on in-game testing, multiplayer benchmarks, and feedback from top-ranked players 🔫.",
+  "intro": "Here’s the latest breakdown of minimum and recommended specs for Delta Force Mobile on Android and iOS. Based on in-game testing, community benchmarks, and feedback from top players 🔫.",
 
   "minimum": {
-    "OS Version": "Android 7.0 or higher",
-    "RAM": "2GB minimum",
-    "CPU": "Quad-Core 1.6GHz or equivalent",
-    "GPU": "Adreno 506 / Mali-G51 or equivalent",
-    "Storage": "3GB free space minimum",
-    "Internet": "Stable 4G or Wi-Fi for multiplayer"
+    "OS Version": "Android 8.0 or higher",
+    "RAM": "3GB minimum",
+    "CPU": "Quad-Core 1.8GHz or equivalent",
+    "GPU": "Adreno 512 / Mali-G52 or equivalent",
+    "Storage": "3–4GB free space minimum",
+    "Internet": "Stable 4G LTE or Wi-Fi for multiplayer"
   },
 
   "recommended": {
-    "OS Version": "Android 11 or higher",
-    "RAM": "4GB–6GB or more",
-    "CPU": "Snapdragon 720G / 732G / 860 / 870 or better",
-    "GPU": "Adreno 618 / 640 / 730 or better",
+    "OS Version": "Android 12 or higher",
+    "RAM": "6GB or more",
+    "CPU": "Snapdragon 732G / 750G / 860 / 870 or better",
+    "GPU": "Adreno 618 / 650 / Mali-G76 or better",
     "Storage": "5GB+ free space recommended",
-    "Internet": "Strong Wi-Fi or 5G for smooth online battles"
+    "Internet": "Strong Wi-Fi or 5G for smooth online action"
   },
 
-  "ios_intro": "Delta Force Mobile is optimized on iOS devices, providing smooth weapon animations, fast matchmaking, and minimal frame drops thanks to Apple’s high-performance GPUs 🍏.",
+  "ios_intro": "iOS users enjoy smooth weapon animations, fast matchmaking, and stable FPS thanks to Apple’s high-performance GPUs 🍏.",
 
   "ios_minimum": [
-    { "title": "OS Version", "value": "iOS 12 or later" },
-    { "title": "Device", "value": "iPhone 7 or newer" },
-    { "title": "Storage", "value": "3GB minimum required" }
+    { "title": "OS Version", "value": "iOS 13 or later" },
+    { "title": "Device", "value": "iPhone 7 / iPhone SE (1st Gen) or newer" },
+    { "title": "Storage", "value": "3GB minimum" }
   ],
 
   "ios_recommended": [
-    { "title": "OS Version", "value": "iOS 14 or later" },
-    { "title": "Device", "value": "iPhone X / XR / 11 Series or newer" },
-    { "title": "Storage", "value": "5GB+ free space recommended" }
+    { "title": "OS Version", "value": "iOS 15 or later" },
+    { "title": "Device", "value": "iPhone 11 / 12 / 13 / 14 / 15 series" },
+    { "title": "Storage", "value": "5GB+ recommended" }
   ],
 
-  "fps_intro": "Delta Force Mobile’s FPS performance depends on your device’s tier. High-end devices allow ultra-smooth rendering during firefights, reducing stutter and input lag 🎯.",
+  "fps_intro": "Delta Force Mobile’s FPS performance scales with device tier. Top-tier devices allow ultra-smooth gameplay and precise shooting, reducing lag and stutter 🎯.",
 
   "fps_list": [
-    { "category": "Low-End Devices", "fps": "25–30 FPS (Low graphics)" },
-    { "category": "Mid-Range Devices", "fps": "40–50 FPS (Medium graphics)" },
-    { "category": "High-End Devices", "fps": "60 FPS (High graphics + smooth gunfire animations)" }
+    { "category": "Low-End Devices", "fps": "25–30 FPS (Low graphics) – casual firefights only" },
+    { "category": "Mid-Range Devices", "fps": "40–50 FPS (Medium graphics) – smooth battles with occasional drops" },
+    { "category": "High-End Devices", "fps": "60 FPS (High graphics + fluid gunplay) – pro-level experience" }
   ],
 
-  "settings_intro": "Optimizing graphics and FPS settings can help maintain stable performance while aiming, shooting, and using special abilities 🔧.",
+  "settings_intro": "Tweaking graphics and FPS settings can make a huge difference in Delta Force Mobile. Optimize for smooth aiming, fast reloads, and stable performance 🔧.",
 
   "low_end": [
     { "title": "Graphics Quality", "value": "Low or Default" },
     { "title": "Frame Rate", "value": "Standard only" },
-    { "title": "Effects", "value": "Disable bloom & motion blur" },
-    { "title": "Background Apps", "value": "Close all for better stability" }
+    { "title": "Effects", "value": "Turn off bloom & motion blur" },
+    { "title": "Background Apps", "value": "Close all non-essential apps" }
   ],
 
   "high_end": [
     { "title": "Graphics Quality", "value": "High or Ultra (if supported)" },
-    { "title": "Frame Rate", "value": "Enable High FPS mode (60 FPS)" },
-    { "title": "Thermal Control", "value": "Avoid overheating during long battles" },
-    { "title": "Storage Speed", "value": "Keep 1–2GB free for faster map loading" }
+    { "title": "Frame Rate", "value": "Enable High FPS Mode (60 FPS)" },
+    { "title": "Thermal Control", "value": "Take breaks or use cooling accessories for long sessions" },
+    { "title": "Storage Speed", "value": "Keep 1–2GB free to reduce map loading delays" }
   ],
 
-  "sectionIntro": "Here are the best-performing Android and iOS devices for Delta Force Mobile for lag-free combat and smooth animations ⚡.",
+  "sectionIntro": "Top-performing Android and iOS devices for Delta Force Mobile, ensuring lag-free firefights and smooth animations ⚡.",
 
   "androidDevices": [
-    "Samsung Galaxy S21 / S22 / S23 / S24 Series",
-    "Samsung Galaxy A53 / A54",
-    "Xiaomi Redmi Note 12 / 13 Pro Series",
-    "Poco F4 / F5 / X4 Pro",
-    "Realme GT Neo 3 / GT 3",
-    "Google Pixel 6 / 7 / 8",
-    "Infinix Zero 5 / GT 20 Pro"
+    "Samsung Galaxy S22 / S23 / S24 Series",
+    "Samsung Galaxy A54 / A55",
+    "Xiaomi Redmi Note 13 Pro / Note 14 Series",
+    "Poco F5 / F6 / X5 Pro",
+    "Realme GT Neo 3 / GT 4",
+    "Google Pixel 7 / 8 / 8 Pro",
+    "Infinix GT 10 Pro / Zero 6"
   ],
 
   "iosDevices": [
-    "iPhone X / XR / XS / 11 / 12 / 13 / 14 / 15 Series",
+    "iPhone 12 / 13 / 14 / 15 Series",
     "iPhone SE 2020 / 2022",
-    "iPad Mini 5 / 6",
-    "iPad Air 3rd Gen or newer"
+    "iPad Mini 6 / 7",
+    "iPad Air 4th Gen or newer"
   ],
 
-  "storageIntroText": "Delta Force Mobile requires significant storage due to HD textures, maps, weapons, and seasonal updates 🎮:",
+  "storageIntroText": "Delta Force Mobile packs HD maps, weapons, and seasonal updates, so adequate storage is essential 🎮:",
 
   "storageDetails": [
-    { "label": "Base Game Size", "value": "≈ 2–3GB" },
+    { "label": "Base Game Size", "value": "≈ 2.5–3.5GB" },
     { "label": "HD Texture Pack", "value": "500MB–1GB depending on quality" },
-    { "label": "Seasonal Updates", "value": "300–600MB each season" },
-    { "label": "Total Required Space", "value": "5GB recommended" }
+    { "label": "Seasonal Updates", "value": "300–700MB each season" },
+    { "label": "Total Required Space", "value": "≈ 5–6GB recommended" }
   ],
 
-  "faqIntroText": "Here are some commonly asked questions about Delta Force Mobile’s performance, graphics, and device compatibility ❓:",
+  "faqIntroText": "Frequently asked questions about Delta Force Mobile’s performance, graphics, and device compatibility ❓:",
 
   "faqList": [
     {
-      "question": "Is Delta Force Mobile a heavy game?",
-      "answer": "Yes. The game has detailed graphics, HD maps, and weapon effects that require strong GPU and fast storage."
+      "question": "Is Delta Force Mobile demanding on my phone?",
+      "answer": "Yes! The game has detailed HD graphics, weapon effects, and large maps. Mid-range or high-end devices handle it best."
     },
     {
-      "question": "Can my device run 60 FPS?",
-      "answer": "Yes, but only mid-range or high-end devices meeting GPU and RAM requirements can maintain stable 60 FPS."
+      "question": "Can I run stable 60 FPS?",
+      "answer": "Only on mid-range or high-end devices with strong GPUs and sufficient RAM. Low-end devices may stutter."
     },
     {
-      "question": "Why does my phone heat up during gameplay?",
-      "answer": "High FPS rendering, multiplayer battles, and intensive weapon effects generate extra heat, especially on low-end devices."
+      "question": "Why does my phone get warm during gameplay?",
+      "answer": "Fast rendering, online multiplayer, and intense effects generate heat, especially on lower-tier devices."
     },
     {
-      "question": "Can I play with low storage space?",
-      "answer": "Not recommended. The game may lag if you have less than 3–5GB free for cache and updates."
+      "question": "Can I play with limited storage?",
+      "answer": "Not ideal. Keep at least 5GB free for game files, HD textures, and seasonal updates."
     }
   ],
 
   "title": "Device Comparison Insights 🔍",
-  "description": "Compare real-world performance, graphics stability, shooting response, and thermal handling for top devices playing Delta Force Mobile.",
+  "description": "Compare real-world FPS, graphics stability, thermal management, and shooting response for the top devices playing Delta Force Mobile.",
 
   "rows": [
     {
       "device1": "Poco F5",
       "device2": "Realme GT Neo 3",
-      "performance": "Both deliver strong combat performance and stable frame rates.",
-      "notes": "Poco F5 handles Ultra graphics slightly better, while GT Neo 3 stays cooler during long matches."
+      "performance": "Both deliver stable FPS and responsive combat.",
+      "notes": "Poco F5 handles Ultra settings slightly better; GT Neo 3 stays cooler during long sessions."
     },
     {
       "device1": "Samsung Galaxy A54",
-      "device2": "Redmi Note 12 Pro",
+      "device2": "Redmi Note 13 Pro",
       "performance": "Both run smoothly on Medium settings with minimal stutter.",
-      "notes": "A54 has more consistent frame pacing; Note 12 Pro loads maps slightly faster."
+      "notes": "Galaxy A54 has more consistent frame pacing; Note 13 Pro loads maps slightly faster."
     },
     {
       "device1": "iPhone 12",
       "device2": "iPhone XR",
       "performance": "Both maintain smooth combat and fast reloads.",
-      "notes": "iPhone 12 supports higher graphics with sharper textures; XR performs solidly but may dip in crowded zones."
+      "notes": "iPhone 12 supports higher graphics and sharper textures; XR performs solidly but may dip in crowded zones."
     }
   ]
 }

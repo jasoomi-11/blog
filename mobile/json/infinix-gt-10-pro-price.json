@@ -3,120 +3,110 @@
     "name": "Infinix GT 10 Pro",
     "thumbs": [
       "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/infinix-gt-10-pro.webp"
-      
     ],
-    "summary": "Infinix GT 10 Pro — a powerful gaming-capable smartphone with Dimensity 8050, 120Hz AMOLED display, vapor cooling, and optimized performance for competitive mobile gaming.",
-    "priceRange": "Mid-Range Gaming",
+    "summary": "Infinix GT 10 Pro — a capable **mid‑range gaming phone** with Dimensity 8050, 120 Hz AMOLED display, vapor cooling tech and strong everyday performance at wallet‑friendly prices.",
+    "priceRange": "Affordable to Mid‑Range Gaming Segment",
 
     "countries": [
       {
         "flag": "🇺🇸",
         "country": "United States",
         "currency": "USD",
-        "displayPrice": "$279 – $319",
+        "displayPrice": "$250 – $299",
         "variants": [
-          { "ram": "8GB / 256GB", "price": "$289" }
+          { "ram": "8GB / 256GB", "price": "$259 – $279" }
         ],
-        "colors": ["Cyber Black", "Neo Cyan"]
+        "colors": ["Cyber Black", "Mirage Silver"]
       },
-
       {
         "flag": "🇮🇳",
         "country": "India",
         "currency": "INR",
-        "displayPrice": "₹19,999 – ₹22,999",
+        "displayPrice": "₹19,999 – ₹23,499",
         "variants": [
-          { "ram": "8GB / 256GB", "price": "₹20,999" }
+          { "ram": "8GB / 256GB", "price": "₹20,999 – ₹22,999" }
         ],
-        "colors": ["Cyber Black", "Neo Cyan"]
+        "colors": ["Cyber Black", "Mirage Silver"]
       },
-
       {
         "flag": "🇵🇰",
         "country": "Pakistan",
         "currency": "PKR",
-        "displayPrice": "Rs 64,999 – Rs 74,999",
+        "displayPrice": "Rs 74,999 – Rs 85,000",
         "variants": [
-          { "ram": "8GB / 256GB", "price": "Rs 69,999" }
+          { "ram": "8GB / 256GB", "price": "Rs 79,999 approx" }
         ],
-        "colors": ["Cyber Black", "Neo Cyan"]
+        "colors": ["Cyber Black", "Mirage Silver"]
       },
-
       {
         "flag": "🇬🇧",
         "country": "United Kingdom",
         "currency": "GBP",
-        "displayPrice": "£230 – £260",
+        "displayPrice": "£209 – £249",
         "variants": [
-          { "ram": "8GB / 256GB", "price": "£249" }
+          { "ram": "8GB / 256GB", "price": "£229 – £239" }
         ],
-        "colors": ["Cyber Black", "Neo Cyan"]
+        "colors": ["Cyber Black", "Mirage Silver"]
       },
-
       {
         "flag": "🇨🇦",
         "country": "Canada",
         "currency": "CAD",
-        "displayPrice": "CA$360 – CA$400",
+        "displayPrice": "CA$350 – CA$399",
         "variants": [
-          { "ram": "8GB / 256GB", "price": "CA$379" }
+          { "ram": "8GB / 256GB", "price": "CA$369 – CA$379" }
         ],
-        "colors": ["Cyber Black", "Neo Cyan"]
+        "colors": ["Cyber Black", "Mirage Silver"]
       },
-
       {
         "flag": "🇦🇺",
         "country": "Australia",
         "currency": "AUD",
-        "displayPrice": "A$420 – A$470",
+        "displayPrice": "A$390 – A$449",
         "variants": [
-          { "ram": "8GB / 256GB", "price": "A$449" }
+          { "ram": "8GB / 256GB", "price": "A$419 – A$449" }
         ],
-        "colors": ["Cyber Black", "Neo Cyan"]
+        "colors": ["Cyber Black", "Mirage Silver"]
       },
-
       {
         "flag": "🇦🇪",
         "country": "United Arab Emirates",
         "currency": "AED",
-        "displayPrice": "AED 1020 – AED 1150",
+        "displayPrice": "AED 900 – AED 1,050",
         "variants": [
-          { "ram": "8GB / 256GB", "price": "AED 1099" }
+          { "ram": "8GB / 256GB", "price": "AED 949 – AED 1,049" }
         ],
-        "colors": ["Cyber Black", "Neo Cyan"]
+        "colors": ["Cyber Black", "Mirage Silver"]
       },
-
       {
         "flag": "🇧🇩",
         "country": "Bangladesh",
         "currency": "BDT",
-        "displayPrice": "৳ 23,500 – ৳ 27,000",
+        "displayPrice": "৳ 22,500 – ৳ 27,000",
         "variants": [
-          { "ram": "8GB / 256GB", "price": "৳ 25,500" }
+          { "ram": "8GB / 256GB", "price": "৳ 25,499 – ৳ 26,999" }
         ],
-        "colors": ["Cyber Black", "Neo Cyan"]
+        "colors": ["Cyber Black", "Mirage Silver"]
       },
-
       {
         "flag": "🇵🇭",
         "country": "Philippines",
         "currency": "PHP",
-        "displayPrice": "₱ 14,500 – ₱ 16,500",
+        "displayPrice": "₱ 14,000 – ₱ 18,000",
         "variants": [
-          { "ram": "8GB / 256GB", "price": "₱ 15,499" }
+          { "ram": "8GB / 256GB", "price": "₱ 15,499 – ₱ 17,499" }
         ],
-        "colors": ["Cyber Black", "Neo Cyan"]
+        "colors": ["Cyber Black", "Mirage Silver"]
       },
-
       {
         "flag": "🇪🇺",
         "country": "Euro Zone",
         "currency": "EUR",
-        "displayPrice": "€250 – €290",
+        "displayPrice": "€239 – €289",
         "variants": [
-          { "ram": "8GB / 256GB", "price": "€269" }
+          { "ram": "8GB / 256GB", "price": "€259 – €269" }
         ],
-        "colors": ["Cyber Black", "Neo Cyan"]
+        "colors": ["Cyber Black", "Mirage Silver"]
       }
     ]
   }

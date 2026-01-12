@@ -1,138 +1,138 @@
 {
   "shortIntro": {
-    "title": "What Your Device Needs for Smooth Standoff Mobile Gameplay 🔫",
-    "para1": "Standoff Mobile is a fast-paced tactical shooter with realistic maps, weapon skins, and multiplayer battles. Its detailed textures, dynamic lighting, and particle effects demand strong GPU and CPU performance for smooth gameplay.",
-    "para2": "Accurate aiming, fast shooting, and stable multiplayer action rely heavily on your device’s processing power, refresh rate, and thermal management. Better hardware ensures crisp visuals, faster load times, and near-zero lag during firefights."
+    "title": "Smooth Standoff Mobile Gameplay Starts with the Right Device 🎯",
+    "para1": "Standoff Mobile is a fast-action tactical shooter featuring realistic maps, flashy weapon skins, and intense PvP battles. Its high-resolution textures, particle effects, and dynamic lighting demand a capable CPU and GPU for smooth combat.",
+    "para2": "Quick aiming, rapid shooting, and stable multiplayer battles depend on your device’s processing power, refresh rate, and cooling. High-tier devices ensure crisp visuals, fast load times, and almost zero lag during firefights."
   },
 
-  "intro": "Here are the latest minimum and recommended specifications for running Standoff Mobile smoothly on Android and iOS devices. These are based on real-world testing, multiplayer benchmarks, and top-player feedback 🏆.",
+  "intro": "Here’s the updated list of minimum and recommended specs for running Standoff Mobile on Android and iOS devices in 2026. Data comes from real gameplay tests, benchmark reports, and top-player experiences 🔥.",
 
   "minimum": {
-    "OS Version": "Android 7.0 or higher",
-    "RAM": "2GB minimum",
-    "CPU": "Quad-Core 1.6GHz or equivalent",
-    "GPU": "Adreno 506 / Mali-G51 or equivalent",
-    "Storage": "2.5–3GB free space",
-    "Internet": "Stable 4G or Wi-Fi connection"
+    "OS Version": "Android 8.0 or higher",
+    "RAM": "3GB minimum",
+    "CPU": "Quad-Core 1.8GHz or equivalent",
+    "GPU": "Adreno 512 / Mali-G52 or equivalent",
+    "Storage": "3GB free space minimum",
+    "Internet": "Stable 4G LTE or Wi-Fi connection"
   },
 
   "recommended": {
-    "OS Version": "Android 11 or higher",
-    "RAM": "4GB–6GB or more",
-    "CPU": "Snapdragon 720G / 732G / 860 / 870 or better",
-    "GPU": "Adreno 618 / 640 / 730 or better",
-    "Storage": "4GB+ free space recommended",
-    "Internet": "Strong Wi-Fi or 5G for smooth multiplayer"
+    "OS Version": "Android 13 or higher",
+    "RAM": "6GB or more",
+    "CPU": "Snapdragon 750G / 860 / 870 / MediaTek Dimensity 920 or better",
+    "GPU": "Adreno 618 / 650 / Mali-G78 or better",
+    "Storage": "5GB+ free space recommended",
+    "Internet": "Strong Wi-Fi or 5G for lag-free battles"
   },
 
-  "ios_intro": "Standoff Mobile is optimized for iOS devices 🍏, delivering smooth shooting, fast map loading, and stable multiplayer performance thanks to Apple’s powerful GPUs and NVMe storage.",
+  "ios_intro": "iOS users get buttery-smooth gameplay thanks to Apple’s high-performance GPUs and fast NVMe storage 🍏. Expect quick load times, stable FPS, and responsive controls.",
 
   "ios_minimum": [
-    { "title": "OS Version", "value": "iOS 12 or later" },
-    { "title": "Device", "value": "iPhone 7 or newer" },
-    { "title": "Storage", "value": "2.5–3GB minimum required" }
+    { "title": "OS Version", "value": "iOS 13 or later" },
+    { "title": "Device", "value": "iPhone 7 / SE 1st Gen or newer" },
+    { "title": "Storage", "value": "3GB minimum required" }
   ],
 
   "ios_recommended": [
-    { "title": "OS Version", "value": "iOS 14 or later" },
-    { "title": "Device", "value": "iPhone X / XR / 11 Series or newer" },
-    { "title": "Storage", "value": "4GB+ free space recommended" }
+    { "title": "OS Version", "value": "iOS 16 or later" },
+    { "title": "Device", "value": "iPhone 11 / 12 / 13 / 14 / 15 series" },
+    { "title": "Storage", "value": "5GB+ free space recommended" }
   ],
 
-  "fps_intro": "Standoff Mobile’s FPS output varies by device tier. High-end devices offer ultra-smooth motion during firefights and tactical movements 🎯.",
+  "fps_intro": "Standoff Mobile FPS depends on your device tier. High-end devices offer ultra-smooth rendering and buttery animations during firefights 🏹.",
 
   "fps_list": [
-    { "category": "Low-End Devices", "fps": "24–30 FPS (Low graphics)" },
-    { "category": "Mid-Range Devices", "fps": "40–50 FPS (Medium graphics)" },
-    { "category": "High-End Devices", "fps": "60 FPS (High graphics + smooth animations)" }
+    { "category": "Low-End Devices", "fps": "25–30 FPS (Low graphics, casual battles)" },
+    { "category": "Mid-Range Devices", "fps": "40–55 FPS (Medium graphics, mostly smooth)" },
+    { "category": "High-End Devices", "fps": "60 FPS (High/Ultra graphics, pro-level smoothness)" }
   ],
 
-  "settings_intro": "Optimizing graphics and FPS ensures smooth gameplay, especially during fast shootouts, grenade throws, and map transitions 🔧.",
+  "settings_intro": "Tuning your graphics and FPS is essential for consistent gameplay. Optimize settings to keep aiming sharp and combat fluid 🔧.",
 
   "low_end": [
-    { "title": "Graphics Quality", "value": "Low or Default for stable FPS" },
-    { "title": "Frame Rate", "value": "Standard only (no high FPS)" },
-    { "title": "Effects", "value": "Disable motion blur for clearer visuals" },
-    { "title": "Background Apps", "value": "Close all to reduce stuttering mid-match" }
+    { "title": "Graphics Quality", "value": "Low or Default" },
+    { "title": "Frame Rate", "value": "Standard (30 FPS)" },
+    { "title": "Effects", "value": "Disable bloom, motion blur, and shadows" },
+    { "title": "Background Apps", "value": "Close all apps to reduce stutter" }
   ],
 
   "high_end": [
-    { "title": "Graphics Quality", "value": "High or Ultra (if supported)" },
-    { "title": "Frame Rate", "value": "Enable High FPS mode (60 FPS)" },
+    { "title": "Graphics Quality", "value": "High or Ultra" },
+    { "title": "Frame Rate", "value": "Enable High FPS Mode (60 FPS)" },
     { "title": "Thermal Control", "value": "Avoid overheating during long sessions" },
-    { "title": "Storage Speed", "value": "Keep at least 1GB free for fast map loading" }
+    { "title": "Storage Speed", "value": "Keep 1–2GB free for fast map loading and textures" }
   ],
 
-  "sectionIntro": "These Android and iOS devices offer the best performance in Standoff Mobile, delivering smooth animations and stable FPS 🔥.",
+  "sectionIntro": "Here are the best-performing Android and iOS devices for Standoff Mobile in 2026, ensuring smooth FPS, responsive shooting, and minimal lag 🔥.",
 
   "androidDevices": [
-    "Samsung Galaxy S21 / S22 / S23 / S24 Series",
-    "Samsung Galaxy A53 / A54 / A73",
-    "Xiaomi Redmi Note 12 / 13 Pro Series",
-    "Poco F4 / F5 / X4 Pro",
-    "Realme GT Neo 3 / GT 3",
-    "Google Pixel 6 / 7 / 8 Series",
-    "Infinix Zero 5 / GT 20 Pro"
+    "Samsung Galaxy S23 / S24 / S24 Ultra",
+    "Samsung Galaxy A55 / A73 / A74",
+    "Xiaomi Redmi Note 13 Pro / 14 Series",
+    "Poco F5 / F6 / X5 Pro",
+    "Realme GT Neo 4 / GT 4",
+    "Google Pixel 7 / 8 / 8 Pro",
+    "Infinix GT 10 Pro / Zero 6 Pro"
   ],
 
   "iosDevices": [
-    "iPhone X / XR / XS / 11 / 12 / 13 / 14 / 15 Series",
+    "iPhone 12 / 13 / 14 / 15 Series",
     "iPhone SE 2020 / 2022",
-    "iPad Mini 5 / 6",
-    "iPad Air 3rd Gen or newer"
+    "iPad Mini 6 / 7",
+    "iPad Air 4th Gen or newer"
   ],
 
-  "storageIntroText": "Standoff Mobile requires significant storage due to HD maps, weapon skins, and seasonal updates 🗂️:",
+  "storageIntroText": "Standoff Mobile’s HD maps, weapon skins, and seasonal updates require significant storage 🗂️:",
 
   "storageDetails": [
-    { "label": "Base Game Size", "value": "≈ 1.5–2GB" },
+    { "label": "Base Game Size", "value": "≈ 2–2.5GB" },
     { "label": "HD Texture Pack", "value": "500MB–1GB depending on quality" },
-    { "label": "Seasonal Updates", "value": "300–600MB each season" },
-    { "label": "Total Required Space", "value": "3–4GB recommended" }
+    { "label": "Seasonal Updates", "value": "300–700MB per season" },
+    { "label": "Total Required Space", "value": "≈ 4–5GB recommended" }
   ],
 
-  "faqIntroText": "Here are the most commonly asked questions about Standoff Mobile performance, graphics, and device compatibility ❓:",
+  "faqIntroText": "Common questions about Standoff Mobile performance, graphics, and device compatibility ❓:",
 
   "faqList": [
     {
-      "question": "Is Standoff Mobile a heavy game?",
-      "answer": "Yes. Its HD maps, weapons, and effects require strong GPU performance and fast storage."
+      "question": "Is Standoff Mobile heavy on my phone?",
+      "answer": "Yes. HD textures, maps, and visual effects require a strong GPU and sufficient RAM."
     },
     {
-      "question": "Can my device run 60 FPS?",
-      "answer": "Yes, but only mid-range and high-end devices meeting GPU and RAM requirements can maintain stable 60 FPS."
+      "question": "Can I run 60 FPS?",
+      "answer": "Yes, but only mid-range or high-end devices with sufficient GPU and RAM can maintain stable 60 FPS."
     },
     {
-      "question": "Why does my phone heat up during gameplay?",
-      "answer": "Fast rendering, multiplayer battles, and special effects generate heat, especially on low-end devices."
+      "question": "Why does my device heat up during gameplay?",
+      "answer": "Fast rendering, online battles, and effects generate heat, especially on lower-tier devices."
     },
     {
-      "question": "Can I play with low storage space?",
-      "answer": "Not recommended. Less than 3–4GB free may cause lag or stuttering."
+      "question": "Can I play with low storage?",
+      "answer": "Not recommended. Less than 4–5GB free space may cause lag or stuttering."
     }
   ],
 
-  "title": "Device Comparison Insights 🔍",
-  "description": "Compare real-world performance, graphics stability, shooting response, and thermal handling for top devices playing Standoff Mobile.",
+  "title": "Device Performance Comparison 🔍",
+  "description": "Compare real-world FPS, graphics stability, thermal management, and shooting response for top Android and iOS devices playing Standoff Mobile.",
 
   "rows": [
     {
       "device1": "Poco F5",
-      "device2": "Realme GT Neo 3",
-      "performance": "Both deliver strong FPS and stable gunplay.",
-      "notes": "Poco F5 handles Ultra graphics slightly better; GT Neo 3 remains cooler during long matches."
+      "device2": "Realme GT Neo 4",
+      "performance": "Both deliver stable FPS and smooth gunplay.",
+      "notes": "Poco F5 handles Ultra graphics slightly better; GT Neo 4 stays cooler during long matches."
     },
     {
-      "device1": "Samsung Galaxy A54",
-      "device2": "Redmi Note 12 Pro",
-      "performance": "Both run smoothly on Medium settings.",
-      "notes": "A54 provides more consistent frame pacing; Note 12 Pro loads maps faster."
+      "device1": "Samsung Galaxy A55",
+      "device2": "Redmi Note 13 Pro",
+      "performance": "Both run well on Medium graphics.",
+      "notes": "A55 offers more consistent FPS; Note 13 Pro loads maps slightly faster."
     },
     {
-      "device1": "iPhone 12",
-      "device2": "iPhone XR",
-      "performance": "Both maintain smooth shooting and map transitions.",
-      "notes": "iPhone 12 supports higher graphics quality; XR performs solidly but may dip in crowded zones."
+      "device1": "iPhone 13",
+      "device2": "iPhone 12",
+      "performance": "Both maintain smooth combat and fast reloads.",
+      "notes": "iPhone 13 supports higher graphics settings; 12 performs solidly but may dip in busy areas."
     }
   ]
 }
