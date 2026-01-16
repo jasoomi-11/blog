@@ -1,135 +1,153 @@
 {
   "shortIntro": {
     "title": "What Your Device Needs for Smooth Brawl Stars Gameplay",
-    "para1": "Brawl Stars is a fast-paced multiplayer action game with vibrant graphics, unique characters, and dynamic arenas. Its colorful animations, particle effects, and real-time PvP battles demand stable GPU performance and responsive touch input for the best experience. 🎨⚡",
-    "para2": "Smooth attacks, abilities, and fast character movement depend on your device’s processor, RAM, and graphics handling. Better hardware ensures reduced lag, smoother animations, and stable online performance. 🔥🎮"
+    "para1": "Brawl Stars is a competitive real-time multiplayer action game where reaction speed, touch accuracy, and frame stability directly affect performance. While the visuals are colorful and stylized, frequent ability effects, explosions, and fast character movement put constant load on both GPU rendering and CPU logic. 🎨⚔️",
+    "para2": "A balanced device with a capable processor, stable GPU, and enough RAM ensures smooth aiming, responsive abilities, and consistent online battles. Better hardware minimizes input delay, frame drops, and overheating during long PvP sessions 🔥🎮."
   },
 
-  "intro": "Here are the updated minimum and recommended system specifications to run Brawl Stars smoothly on Android and iOS devices. These are based on real gameplay testing, multiplayer benchmarks, and feedback from competitive players.",
+  "intro": "Below are the updated Android and iOS system requirements for Brawl Stars in 2025. These recommendations are based on ranked matchmaking tests, tournament play, and long-session performance analysis.",
 
   "minimum": {
     "OS Version": "Android 5.0 or higher",
     "RAM": "2GB minimum",
-    "CPU": "Quad-Core processor (1.5–1.8GHz)",
+    "CPU": "Quad-core processor (1.6GHz+)",
     "GPU": "Adreno 506 / Mali-G51 or equivalent",
     "Storage": "1.5–2GB free space",
-    "Internet": "Stable connection for online PvP matches 🌐"
+    "Internet": "Stable internet connection for real-time PvP 🌐"
   },
 
   "recommended": {
     "OS Version": "Android 9 or higher",
-    "RAM": "3–4GB or more",
+    "RAM": "4GB or more",
     "CPU": "Snapdragon 720G / 732G / 860 / 870 or newer",
     "GPU": "Adreno 618 / 640 / 730 or better",
     "Storage": "3GB+ free space recommended",
-    "Internet": "Strong Wi-Fi or 5G for multiplayer battles ⚡"
+    "Internet": "Low-latency Wi-Fi or 5G connection ⚡"
   },
 
-  "ios_intro": "Brawl Stars runs exceptionally well on iOS devices thanks to Apple’s GPU optimization and fast storage, providing smoother animations, faster abilities, and low-lag multiplayer action. 🍎🎮",
+  "ios_intro": "Brawl Stars performs exceptionally well on iOS devices due to Apple’s Metal graphics API, fast storage, and consistent touch sampling rates. This results in smoother animations, faster ability activation, and lower multiplayer latency. 🍎🎮",
 
   "ios_minimum": [
     { "title": "OS Version", "value": "iOS 11 or later" },
-    { "title": "Device", "value": "iPhone 6S or newer" },
-    { "title": "Storage", "value": "1.5–2GB minimum" }
+    { "title": "Device", "value": "iPhone 6S / iPhone SE (1st Gen)" },
+    { "title": "RAM", "value": "2GB minimum" },
+    { "title": "Storage", "value": "1.5–2GB free space" }
   ],
 
   "ios_recommended": [
     { "title": "OS Version", "value": "iOS 13 or later" },
-    { "title": "Device", "value": "iPhone X, XR, 11 Series or newer" },
+    { "title": "Device", "value": "iPhone X / XR / 11 Series or newer" },
+    { "title": "RAM", "value": "3–4GB or more" },
     { "title": "Storage", "value": "3GB+ free space recommended" }
   ],
 
-  "fps_intro": "Brawl Stars performance depends on graphics rendering and device tier. Higher-end devices offer faster frame rates, smoother character movement, and stable online matches.",
+  "fps_intro": "Brawl Stars dynamically adjusts frame rate based on device capability. Higher FPS improves aiming precision, movement smoothness, and reaction timing in competitive matches.",
 
   "fps_list": [
-    { "category": "Low-End Devices", "fps": "30 FPS (Standard Graphics)" },
-    { "category": "Mid-Range Devices", "fps": "45–50 FPS (High Graphics)" },
-    { "category": "High-End Devices", "fps": "60 FPS (Ultra Graphics + Smooth PvP Action)" }
+    { "category": "Low-End Devices", "fps": "30 FPS (Standard graphics, basic effects)" },
+    { "category": "Mid-Range Devices", "fps": "45–50 FPS (High graphics, smoother combat)" },
+    { "category": "High-End Devices", "fps": "60 FPS (Ultra graphics, lowest input delay)" }
   ],
 
-  "settings_intro": "Optimal settings improve gameplay clarity, maintain smooth FPS, and reduce stutter during ability animations and fast combat.",
+  "settings_intro": "Proper graphics and system tuning improves clarity, reduces stutter, and maintains consistent performance during intense ability-heavy fights.",
 
   "low_end": [
     { "title": "Graphics Quality", "value": "Low or Default for stable FPS" },
-    { "title": "Frame Rate", "value": "Standard mode only" },
-    { "title": "Effects", "value": "Reduce particle effects for smoother play" },
-    { "title": "Background Apps", "value": "Close all to avoid interruptions during matches" }
+    { "title": "Frame Rate", "value": "Standard mode (30 FPS)" },
+    { "title": "Visual Effects", "value": "Reduce particles to limit GPU load" },
+    { "title": "Background Apps", "value": "Close all non-essential apps" }
   ],
 
   "high_end": [
     { "title": "Graphics Quality", "value": "High or Ultra" },
     { "title": "Frame Rate", "value": "Enable 60 FPS mode" },
-    { "title": "Thermal Control", "value": "Prevent overheating to avoid lag" },
-    { "title": "Storage Speed", "value": "Keep at least 1GB free for fast asset loading" }
+    { "title": "Thermal Stability", "value": "Avoid gaming while charging" },
+    { "title": "Touch Response", "value": "Disable system overlays for lower input lag" }
   ],
 
-  "sectionIntro": "These Android and iOS devices deliver the best Brawl Stars experience with smooth PvP battles, crisp graphics, and responsive controls. 🎮✨",
+  "sectionIntro": "The following devices offer the most reliable Brawl Stars experience with fast response times, stable FPS, and smooth long-session performance 🎮✨.",
 
   "androidDevices": [
     "Samsung Galaxy A52 / A54 / A73",
     "Samsung Galaxy S20–S24 Series",
-    "Xiaomi Redmi Note 11 / 12 / 13 Pro Series",
-    "Poco X3 / X4 / X6 / F5 / F6",
-    "Realme GT / GT Neo 2 / GT Neo 3",
+    "Xiaomi Redmi Note 12 / 13 Pro+",
+    "Poco X5 / X6 / F5 / F6",
+    "Realme GT / GT Neo 3 / GT Neo 5",
     "Google Pixel 6 / 7 / 8 Series",
-    "Infinix GT 10 Pro / Zero Series"
+    "Infinix GT 10 Pro / Zero 30"
   ],
 
   "iosDevices": [
     "iPhone X / XR / XS",
-    "iPhone 11 / 12 / 13 / 14 Series",
-    "iPhone SE 2020 / 2022",
+    "iPhone 11 / 12 / 13 / 14 / 15 Series",
+    "iPhone SE (2020 / 2022)",
     "iPad Mini 5 / Mini 6",
     "iPad Air (3rd Gen or newer)"
   ],
 
-  "storageIntroText": "Brawl Stars requires sufficient storage for assets, updates, and animations. Here’s a breakdown:",
+  "storageIntroText": "Brawl Stars requires additional storage for maps, skins, effects, and seasonal content. Keeping free space helps prevent stutter during asset loading.",
 
   "storageDetails": [
     { "label": "Base Game Size", "value": "≈ 1.5–2GB" },
-    { "label": "Character & Skin Packs", "value": "500MB–1GB depending on downloaded content" },
-    { "label": "Seasonal Updates", "value": "200–400MB each season" },
-    { "label": "Total Required Space", "value": "≈ 3–3.5GB recommended" }
+    { "label": "Skins & Cosmetic Assets", "value": "500MB–1GB (optional)" },
+    { "label": "Seasonal Updates", "value": "200–400MB per season" },
+    { "label": "Recommended Free Space", "value": "≈ 3–3.5GB total" }
   ],
 
-  "faqIntroText": "Frequently asked questions about Brawl Stars performance, device compatibility, and lag issues. 🧐",
+  "networkPerformance": {
+    "importance": "Critical for PvP",
+    "idealPing": "< 40ms",
+    "acceptablePing": "Up to 80ms",
+    "issuesCausedByHighPing": [
+      "Delayed attacks",
+      "Missed abilities",
+      "Desynced movement"
+    ],
+    "optimizationTips": [
+      "Use Wi-Fi instead of mobile data when possible",
+      "Avoid background downloads",
+      "Play on the nearest server region"
+    ]
+  },
+
+  "faqIntroText": "Frequently asked questions about Brawl Stars performance, lag, and device compatibility 🧐.",
 
   "faqList": [
     {
-      "question": "Is Brawl Stars a heavy game?",
-      "answer": "Not too heavy, but smooth gameplay depends on GPU and RAM. Mid-range devices run it well."
+      "question": "Is Brawl Stars demanding on phones?",
+      "answer": "It’s optimized, but competitive play benefits greatly from stronger GPU, RAM, and low-latency internet."
     },
     {
-      "question": "Can Brawl Stars run at 60 FPS?",
-      "answer": "Yes, on high-end devices with sufficient RAM and GPU capabilities."
+      "question": "Does higher FPS improve gameplay?",
+      "answer": "Yes. 60 FPS reduces input delay and improves aiming accuracy in fast-paced matches."
     },
     {
-      "question": "Why does my phone heat up during Brawl Stars?",
-      "answer": "High-intensity PvP matches with multiple abilities and particle effects can increase device temperature."
+      "question": "Why does my phone heat up during long sessions?",
+      "answer": "Continuous PvP, particle effects, and high FPS increase CPU and GPU load, causing thermal buildup."
     }
   ],
 
   "title": "Device Comparison Insights",
-  "description": "Compare real PvP performance, graphics smoothness, input response, and GPU stability for top devices running Brawl Stars. 🔥",
+  "description": "A real-world comparison of Brawl Stars performance across popular devices, focusing on FPS stability, thermal control, and input responsiveness 🔥.",
 
   "rows": [
     {
       "device1": "Poco F5",
       "device2": "Realme GT Neo 3",
-      "performance": "Both handle high-intensity Brawl Stars matches smoothly with stable FPS.",
-      "notes": "Poco F5 provides better visuals at Ultra graphics, while GT Neo 3 stays cooler in long sessions."
+      "performance": "Both deliver stable 60 FPS during intense matches.",
+      "notes": "Poco F5 offers higher visual clarity, while GT Neo 3 maintains better thermal stability in long sessions."
     },
     {
       "device1": "Samsung Galaxy A52",
       "device2": "Redmi Note 12 Pro",
-      "performance": "Smooth gameplay on Medium graphics settings.",
-      "notes": "A52 has consistent frame pacing, while Note 12 Pro loads characters and maps slightly faster."
+      "performance": "Smooth gameplay on High settings with stable controls.",
+      "notes": "Galaxy A52 has smoother frame pacing, while Note 12 Pro loads maps faster."
     },
     {
       "device1": "iPhone 12",
       "device2": "iPhone XR",
-      "performance": "Both run Brawl Stars with smooth controls and responsive abilities.",
-      "notes": "iPhone 12 supports higher-quality graphics and better effects, while XR performs solidly with minor dips on crowded maps."
+      "performance": "Both provide responsive controls and smooth PvP gameplay.",
+      "notes": "iPhone 12 supports higher effects and stays smoother during ability-heavy fights."
     }
   ]
 }

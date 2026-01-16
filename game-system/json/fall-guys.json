@@ -1,111 +1,127 @@
 {
   "shortIntro": {
     "title": "What Your Device Needs for Smooth Fall Guys Gameplay 🎮",
-    "para1": "Fall Guys is a fun yet competitive party battle royale game built around physics-based movement, obstacle-filled courses, and large multiplayer lobbies. While its visuals look simple and cartoonish, the game heavily relies on CPU stability, smooth frame pacing, and fast online connectivity to handle dozens of players at once.",
-    "para2": "Smooth jumping, grabbing, diving, and collision handling depend on your device’s processor, RAM, and network performance. Better hardware results in stable matches, fewer frame drops during crowded rounds, and faster loading between stages 🚀."
+    "para1": "Fall Guys is a physics-based multiplayer party battle royale where precision movement, timing, and real-time collisions define success. Although the visuals appear lightweight and cartoon-style, the game stresses CPU threads and network synchronization to manage up to 60 players simultaneously across dynamic obstacle courses.",
+    "para2": "A capable processor, sufficient RAM, and stable internet connection ensure responsive jumps, reliable grabs, accurate collisions, and consistent round transitions. Strong hardware minimizes stutter during mass-player interactions and reduces desync in competitive finals 🚀."
   },
 
-  "intro": "Below are the updated minimum and recommended system requirements to run Fall Guys smoothly across PC and console platforms. These specs are based on real gameplay tests, community benchmarks, and competitive player feedback.",
+  "intro": "Below are the latest system requirements and performance expectations for Fall Guys in 2025. These specifications are based on multi-season gameplay testing, community benchmarks, and competitive player experience across PC and console platforms.",
 
   "minimum": {
     "OS Version": "Windows 10 (64-bit)",
     "RAM": "8GB minimum",
-    "CPU": "Intel Core i5 (4th Gen) or AMD equivalent",
-    "GPU": "NVIDIA GTX 660 / AMD Radeon HD 7950 or equivalent",
+    "CPU": "Intel Core i5 (4th Gen) / AMD FX-6300 or equivalent",
+    "GPU": "NVIDIA GTX 660 / AMD Radeon HD 7950",
     "Storage": "2GB free space",
-    "Internet": "Stable broadband connection for online matches"
+    "Internet": "Broadband connection with stable ping"
   },
 
   "recommended": {
     "OS Version": "Windows 10 / 11 (64-bit)",
     "RAM": "16GB recommended",
-    "CPU": "Intel Core i5 (8th Gen+) / Ryzen 5 or better",
+    "CPU": "Intel Core i5 (8th Gen+) / Ryzen 5 2600 or better",
     "GPU": "GTX 1060 / RX 580 or newer",
-    "Storage": "3GB+ free space (SSD recommended)",
-    "Internet": "Low-latency broadband for competitive play"
+    "Storage": "3GB+ free space (SSD strongly recommended)",
+    "Internet": "Low-latency connection (under 60ms ping)"
   },
 
-  "ios_intro": "Fall Guys is currently not available on iOS or Android as a native mobile game. The experience is optimized for PC and consoles where higher player counts and physics interactions can be handled smoothly ⚠️.",
+  "ios_intro": "Fall Guys does not currently support native Android or iOS versions. The game is engineered for PC and console hardware to maintain stable physics simulations, high player counts, and consistent 60 FPS performance ⚠️.",
 
   "ios_minimum": [],
   "ios_recommended": [],
 
-  "fps_intro": "Fall Guys focuses on smooth physics and consistent frame delivery rather than ultra-realistic graphics. Stable FPS is essential during crowded rounds like races, survival modes, and finals.",
+  "fps_intro": "Consistent frame pacing is critical in Fall Guys, as physics calculations directly influence movement accuracy, grab timing, and obstacle behavior.",
 
   "fps_list": [
-    { "category": "Low-End PCs", "fps": "30–45 FPS (Low settings)" },
-    { "category": "Mid-Range PCs", "fps": "60 FPS (Medium–High settings)" },
-    { "category": "High-End PCs & Consoles", "fps": "60 FPS locked (High settings, smooth physics)" }
+    { "category": "Low-End PCs", "fps": "30–45 FPS with occasional dips during crowded rounds" },
+    { "category": "Mid-Range PCs", "fps": "Stable 60 FPS on medium to high settings" },
+    { "category": "High-End PCs & Current Consoles", "fps": "Locked 60 FPS with minimal frame-time variance" }
   ],
 
-  "settings_intro": "Using optimized graphics settings helps maintain stable physics behavior and reduces stutters during chaotic rounds with many players 🏃‍♂️.",
+  "settings_intro": "Optimizing in-game and system-level settings improves physics consistency and reduces micro-stutters during chaotic stages 🏃‍♂️.",
 
   "low_end": [
-    { "title": "Graphics Quality", "value": "Low or Medium for stability" },
-    { "title": "Shadows", "value": "Low or Disabled to reduce CPU load" },
-    { "title": "V-Sync", "value": "Off to reduce input delay" },
-    { "title": "Background Apps", "value": "Close all apps to avoid frame drops" }
+    { "title": "Graphics Quality", "value": "Low or Medium for consistent frame pacing" },
+    { "title": "Shadows", "value": "Disable or keep Low (CPU-intensive feature)" },
+    { "title": "V-Sync", "value": "Off to reduce input latency" },
+    { "title": "System Load", "value": "Disable background apps and overlays" }
   ],
 
   "high_end": [
-    { "title": "Graphics Quality", "value": "High for clean visuals and smooth motion" },
-    { "title": "Frame Rate", "value": "Lock at 60 FPS for consistent physics" },
-    { "title": "Input Latency", "value": "Disable unnecessary overlays" },
-    { "title": "Network Stability", "value": "Use wired connection if possible" }
+    { "title": "Graphics Quality", "value": "High for clarity without performance loss" },
+    { "title": "Frame Rate", "value": "Cap at 60 FPS for stable physics calculations" },
+    { "title": "Input Latency", "value": "Disable recording and FPS overlays" },
+    { "title": "Network Stability", "value": "Ethernet connection preferred" }
   ],
 
-  "sectionIntro": "These platforms and systems deliver the best Fall Guys experience with stable performance and minimal lag 🎯.",
+  "sectionIntro": "The following platforms provide the most reliable Fall Guys experience with consistent physics, smooth animations, and minimal online latency 🎯.",
 
   "androidDevices": [],
-
   "iosDevices": [],
 
-  "storageIntroText": "Fall Guys is a lightweight game in terms of storage, making it easy to install even on systems with limited disk space.",
+  "storageIntroText": "Fall Guys remains lightweight in storage compared to modern multiplayer games, making installation and updates fast even on limited drives.",
 
   "storageDetails": [
     { "label": "Base Game Size", "value": "≈ 2GB" },
-    { "label": "Seasonal Content", "value": "200–400MB per season" },
-    { "label": "Cosmetic Updates", "value": "Minor size increases over time" },
-    { "label": "Total Required Space", "value": "≈ 3GB recommended" }
+    { "label": "Seasonal Updates", "value": "200–400MB per season" },
+    { "label": "Cosmetic & Event Files", "value": "Small incremental increases" },
+    { "label": "Recommended Free Space", "value": "≈ 3GB for smooth patching" }
   ],
 
-  "faqIntroText": "Here are the most frequently asked questions about Fall Guys performance, lag, and system requirements ❓.",
+  "networkPerformance": {
+    "importance": "Critical",
+    "idealPing": "< 50ms",
+    "acceptablePing": "Up to 90ms",
+    "packetLossImpact": "High",
+    "commonSymptoms": [
+      "Delayed grabs",
+      "Rubber-banding on moving platforms",
+      "Desync during finals"
+    ],
+    "optimizationTips": [
+      "Use wired internet",
+      "Avoid downloads while playing",
+      "Connect to nearest server region"
+    ]
+  },
+
+  "faqIntroText": "Common questions players ask about Fall Guys performance, stability, and lag ❓.",
 
   "faqList": [
     {
-      "question": "Is Fall Guys a heavy game?",
-      "answer": "No. The game is lightweight in storage but can be CPU-intensive due to real-time physics and multiplayer interactions."
+      "question": "Is Fall Guys demanding on hardware?",
+      "answer": "Storage usage is low, but CPU and network performance are critical due to real-time physics and multiplayer synchronization."
     },
     {
-      "question": "Does Fall Guys support 60 FPS?",
-      "answer": "Yes. Fall Guys is designed to run at a stable 60 FPS on most mid-range and high-end PCs and all modern consoles."
+      "question": "Does higher FPS improve gameplay?",
+      "answer": "Fall Guys is designed around 60 FPS physics. Higher FPS does not provide competitive advantages beyond smoother visuals."
     },
     {
-      "question": "Why do I experience lag in Fall Guys?",
-      "answer": "Lag usually occurs due to unstable internet connections, high ping, or CPU overload during crowded rounds."
+      "question": "Why do collisions feel inconsistent sometimes?",
+      "answer": "Inconsistent collisions are usually caused by high ping, packet loss, or server-side physics reconciliation."
     }
   ],
 
   "title": "Platform Performance Comparison",
-  "description": "Compare real gameplay smoothness, physics stability, loading speed, and online performance across platforms running Fall Guys.",
+  "description": "A practical comparison of Fall Guys performance across platforms, focusing on frame stability, physics accuracy, loading times, and online responsiveness.",
   "rows": [
     {
       "device1": "PC (GTX 1060)",
       "device2": "PlayStation 5",
-      "performance": "Both deliver stable 60 FPS with smooth animations.",
-      "notes": "PS5 offers faster loading times, while PC allows more graphics customization 🖥️."
+      "performance": "Both maintain stable 60 FPS with consistent physics behavior.",
+      "notes": "PS5 loads rounds faster, while PC allows more input and graphics tuning 🖥️."
     },
     {
       "device1": "Xbox Series S",
       "device2": "PlayStation 4",
-      "performance": "Series S runs smoother with more consistent frame pacing.",
-      "notes": "PS4 performs well but may show minor dips in large player clusters."
+      "performance": "Series S shows better frame consistency under load.",
+      "notes": "PS4 may experience minor dips during large player collisions."
     },
     {
       "device1": "Low-End PC",
       "device2": "Mid-Range PC",
-      "performance": "Mid-range systems provide a much smoother and more responsive experience.",
-      "notes": "Low-end PCs benefit greatly from lowering shadows and background effects."
+      "performance": "Mid-range PCs provide smoother movement and faster round transitions.",
+      "notes": "Lower-end systems benefit most from disabling shadows and overlays."
     }
   ]
 }
