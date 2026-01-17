@@ -3,7 +3,7 @@
     "games": [
       {
         "name": "MadOut2 BigCityOnline",
-        "thumbnail": "https://example.com/madout2.webp",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/mad-out-2.webp",
         "genre": "Open-World Sandbox / GTA-Style Chaos 🚗💥🔫",
         "developer": "MadOut Games",
         "release": "2017 (Still Alive & Updated 😎)",
@@ -11,7 +11,7 @@
       },
       {
         "name": "Payback 2",
-        "thumbnail": "https://example.com/payback2.webp",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/payback-2.webp",
         "genre": "Arcade Action Sandbox / Mayhem Simulator 🎮🔥",
         "developer": "Apex Designs Entertainment",
         "release": "2012 (Still Going Strong 💪)",
