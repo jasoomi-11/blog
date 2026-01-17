@@ -4,7 +4,7 @@
   <!-- Section Homepage -->
   <url>
     <loc>https://blog.blueverse.space/comparison/comparison.html</loc>
-    <lastmod>2026-01-11</lastmod>
+    <lastmod>2026-01-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -250,6 +250,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
+
+
+  <!--  17 Jan Update To 17 feb -->
+
+
+
+
+<url>
+    <loc>https://blog.blueverse.space/comparison/madout-payback-2.html</loc>
+    <lastmod>2026-01-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+
+
 
 
 

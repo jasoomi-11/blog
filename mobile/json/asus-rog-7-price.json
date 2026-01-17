@@ -8,6 +8,16 @@
     "summary": "Asus ROG Phone 7 — flagship gaming phone with Snapdragon 8 Gen 2, 165 Hz AMOLED, 6000 mAh battery and vapor-chamber cooling — ideal for heavy games & esports.",
     "priceRange": "Varies by region",
 
+    "pricingInsights": {
+      "lastUpdated": "2026-01",
+      "note": "Prices may fluctuate based on import duties, stock availability, and seller margins.",
+      "officialVsMarket": "In many regions, official ASUS pricing is lower than local market prices due to limited stock.",
+      "taxInfo": "Displayed prices usually include local sales tax or VAT unless stated otherwise.",
+      "importWarning": "Imported units may cost 5–15% more depending on customs and retailer markup.",
+      "bestTimeToBuy": "Festive sales, year-end discounts, and flash sales often reduce prices by 5–10%.",
+      "availabilityStatus": "Limited availability in some regions; gaming-focused stores tend to stock it first."
+    },
+
     "countries": [
       {
         "flag": "🇺🇸",
@@ -18,7 +28,8 @@
           { "ram": "12GB / 256GB", "price": "$699" },
           { "ram": "16GB / 512GB", "price": "$899" }
         ],
-        "colors": ["Phantom Black", "Storm White"]
+        "colors": ["Phantom Black", "Storm White"],
+        "priceNote": "Unlocked models; prices may drop during Black Friday or Prime Day."
       },
       {
         "flag": "🇮🇳",
@@ -29,7 +40,8 @@
           { "ram": "12GB / 256GB", "price": "₹74,999" },
           { "ram": "16GB / 512GB", "price": "₹84,999" }
         ],
-        "colors": ["Phantom Black", "Storm White"]
+        "colors": ["Phantom Black", "Storm White"],
+        "priceNote": "Includes GST; bank offers can reduce effective price."
       },
       {
         "flag": "🇵🇰",
@@ -40,7 +52,8 @@
           { "ram": "12GB / 256GB", "price": "Rs 317,000" },
           { "ram": "16GB / 512GB", "price": "Rs 345,000" }
         ],
-        "colors": ["Phantom Black", "Storm White"]
+        "colors": ["Phantom Black", "Storm White"],
+        "priceNote": "Mostly imported units; price varies by PTA approval status."
       },
       {
         "flag": "🇬🇧",
@@ -51,7 +64,8 @@
           { "ram": "12GB / 256GB", "price": "£630" },
           { "ram": "16GB / 512GB", "price": "£780" }
         ],
-        "colors": ["Phantom Black", "Storm White"]
+        "colors": ["Phantom Black", "Storm White"],
+        "priceNote": "VAT included; discounts appear during seasonal sales."
       },
       {
         "flag": "🇨🇦",
@@ -62,7 +76,8 @@
           { "ram": "12GB / 256GB", "price": "CA$950" },
           { "ram": "16GB / 512GB", "price": "CA$1,200" }
         ],
-        "colors": ["Phantom Black", "Storm White"]
+        "colors": ["Phantom Black", "Storm White"],
+        "priceNote": "Taxes vary by province; online retailers may offer bundles."
       },
       {
         "flag": "🇦🇺",
@@ -73,7 +88,8 @@
           { "ram": "12GB / 256GB", "price": "A$1,050" },
           { "ram": "16GB / 512GB", "price": "A$1,320" }
         ],
-        "colors": ["Phantom Black", "Storm White"]
+        "colors": ["Phantom Black", "Storm White"],
+        "priceNote": "GST included; limited stock affects pricing."
       },
       {
         "flag": "🇦🇪",
@@ -84,7 +100,8 @@
           { "ram": "12GB / 256GB", "price": "AED 3,500" },
           { "ram": "16GB / 512GB", "price": "AED 4,300" }
         ],
-        "colors": ["Phantom Black", "Storm White"]
+        "colors": ["Phantom Black", "Storm White"],
+        "priceNote": "Often cheaper than Europe due to lower taxes."
       },
       {
         "flag": "🇧🇩",
@@ -95,7 +112,8 @@
           { "ram": "12GB / 256GB", "price": "৳ 99,000" },
           { "ram": "16GB / 512GB", "price": "৳ 115,000" }
         ],
-        "colors": ["Phantom Black", "Storm White"]
+        "colors": ["Phantom Black", "Storm White"],
+        "priceNote": "Unofficial imports common; warranty may vary."
       },
       {
         "flag": "🇵🇭",
@@ -106,7 +124,8 @@
           { "ram": "12GB / 256GB", "price": "₱ 58,000" },
           { "ram": "16GB / 512GB", "price": "₱ 70,000" }
         ],
-        "colors": ["Phantom Black", "Storm White"]
+        "colors": ["Phantom Black", "Storm White"],
+        "priceNote": "Mall prices higher than online stores."
       },
       {
         "flag": "🇪🇺",
@@ -117,9 +136,9 @@
           { "ram": "12GB / 256GB", "price": "€ 850" },
           { "ram": "16GB / 512GB", "price": "€ 1,050" }
         ],
-        "colors": ["Phantom Black", "Storm White"]
+        "colors": ["Phantom Black", "Storm White"],
+        "priceNote": "VAT included; prices vary slightly by country."
       }
-
     ]
   }
 }

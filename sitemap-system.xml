@@ -4,7 +4,7 @@
   <!-- Section Homepage -->
   <url>
     <loc>https://blog.blueverse.space/game-system/system.html</loc>
-    <lastmod>2026-01-05</lastmod>
+    <lastmod>2026-01-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -323,6 +323,17 @@
     <priority>0.8</priority>
   </url>
 
+
+<!--17 jan Must Update 17 feb -->
+
+
+
+<url>
+    <loc>https://blog.blueverse.space/game-system/mad-out-2.html</loc>
+     <lastmod>2026-01-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
 
 </urlset>

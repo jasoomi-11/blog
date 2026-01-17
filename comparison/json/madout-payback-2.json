@@ -1,0 +1,173 @@
+{
+  "gameComparison": {
+    "games": [
+      {
+        "name": "MadOut2 BigCityOnline",
+        "thumbnail": "https://example.com/madout2.webp",
+        "genre": "Open-World Sandbox / GTA-Style Chaos 🚗💥🔫",
+        "developer": "MadOut Games",
+        "release": "2017 (Still Alive & Updated 😎)",
+        "gameplay": "A massive open-world sandbox inspired by classic GTA vibes. Drive fast cars, steal anything with wheels, cause city-wide destruction, shoot gangs, escape police, and roam freely like a digital criminal mastermind 😈🚓. Less rules, more chaos — MadOut2 is all about freedom."
+      },
+      {
+        "name": "Payback 2",
+        "thumbnail": "https://example.com/payback2.webp",
+        "genre": "Arcade Action Sandbox / Mayhem Simulator 🎮🔥",
+        "developer": "Apex Designs Entertainment",
+        "release": "2012 (Still Going Strong 💪)",
+        "gameplay": "A fast, crazy, arcade-style sandbox packed with mini-games. Jump into instant battles, races, tank wars, helicopter fights, and city-wide madness. Less realism, more fun — Payback 2 is pure adrenaline with zero chill 🚁💣."
+      }
+    ]
+  },
+
+  "systemRequirements": {
+    "games": [
+      {
+        "name": "MadOut2 BigCityOnline",
+        "platform": "Android",
+        "storage": "1.5–2 GB 📦",
+        "ram": "4 GB Recommended",
+        "cpuGpu": "Snapdragon 660+ / Helio G-series",
+        "fps": "30–60 FPS (Device Dependent)",
+        "graphics": "Heavy open-world visuals 🌆",
+        "online": "Online + Offline Modes",
+        "battery": "High 🔋 (City crime isn’t cheap 😅)"
+      },
+      {
+        "name": "Payback 2",
+        "platform": "Android / iOS",
+        "storage": "600–800 MB 📦",
+        "ram": "2–3 GB Recommended",
+        "cpuGpu": "Snapdragon 450+",
+        "fps": "Smooth 60 FPS",
+        "graphics": "Light but colorful arcade visuals 🎨",
+        "online": "Online + Offline Modes",
+        "battery": "Moderate ⚡"
+      }
+    ]
+  },
+
+  "keyFeatures": {
+    "games": [
+      {
+        "name": "MadOut2 BigCityOnline",
+        "modes": "Free Roam, Missions, Online Multiplayer",
+        "mapSize": "Huge open city + countryside 🗺️",
+        "vehicles": "Cars, bikes, tanks, boats, helicopters 🚗🚁",
+        "weapons": "Pistols, rifles, explosives 💥",
+        "customization": "Vehicles, characters",
+        "mechanics": "Police chases, open-world exploration, physics-based driving"
+      },
+      {
+        "name": "Payback 2",
+        "modes": "Gang Battles, Races, Deathmatches, Events",
+        "mapSize": "Medium-sized maps",
+        "vehicles": "Cars, tanks, helicopters, boats 🚓🚜",
+        "weapons": "Arcade guns, heavy weapons 🔫",
+        "customization": "Character skins, vehicles",
+        "mechanics": "Instant action, quick respawns, fast-paced gameplay"
+      }
+    ]
+  },
+
+  "prosCons": {
+    "games": [
+      {
+        "name": "MadOut2 BigCityOnline",
+        "pros": [
+          "Huge GTA-like open world 🗺️",
+          "True free-roam sandbox freedom",
+          "Multiplayer chaos with friends 🤝",
+          "Great for GTA lovers on mobile"
+        ],
+        "cons": [
+          "Not well optimized on low-end phones 😬",
+          "Occasional bugs & glitches",
+          "Gunplay feels basic",
+          "Requires patience on weaker devices"
+        ]
+      },
+      {
+        "name": "Payback 2",
+        "pros": [
+          "Super smooth even on low-end phones ⚡",
+          "Tons of game modes in one app",
+          "Fast loading, instant fun 🎮",
+          "Great offline experience",
+          "Perfect time-killer"
+        ],
+        "cons": [
+          "Not a true open world",
+          "Arcade feel (less realism)",
+          "Graphics are simple",
+          "No deep story mode"
+        ]
+      }
+    ]
+  },
+
+  "popularityCommunity": {
+    "games": [
+      {
+        "name": "MadOut2 BigCityOnline",
+        "activePlayers": "Millions of downloads 📈",
+        "socialMedia": "Active YouTube & TikTok clips",
+        "community": "GTA mobile fans",
+        "engagement": "Mods, crazy stunts, police chase videos 🚓💨"
+      },
+      {
+        "name": "Payback 2",
+        "activePlayers": "Very strong long-term player base 🌍",
+        "socialMedia": "Consistent gameplay content",
+        "community": "Casual & arcade action fans",
+        "engagement": "Quick battles, challenges, speedruns ⚔️"
+      }
+    ]
+  },
+
+  "pricingIAP": {
+    "games": [
+      {
+        "name": "MadOut2 BigCityOnline",
+        "price": "Free",
+        "premiumFeatures": "Vehicles, boosts",
+        "ads": "Yes (Can be annoying 😅)",
+        "monetization": "Optional purchases"
+      },
+      {
+        "name": "Payback 2",
+        "price": "Free",
+        "premiumFeatures": "Weapons, vehicles, cosmetics",
+        "ads": "Minimal",
+        "monetization": "Fair & optional"
+      }
+    ]
+  },
+
+  "finalVerdict": {
+    "winnerOpenWorld": "MadOut2 BigCityOnline 🏆",
+    "winnerPerformance": "Payback 2 ⚡",
+    "winnerLowEndDevices": "Payback 2 📱",
+    "winnerGTAFeeling": "MadOut2 BigCityOnline 🚗💥",
+    "overall": "If you want GTA-style freedom and chaos — go MadOut2. If you want smooth, instant, stress-free fun — Payback 2 is unbeatable."
+  },
+
+  "faqs": [
+    {
+      "question": "Which game is better like GTA on mobile?",
+      "answer": "MadOut2 BigCityOnline is closer to GTA due to its massive open world and free roaming."
+    },
+    {
+      "question": "Which game runs better on low-end phones?",
+      "answer": "Payback 2 runs extremely well even on budget devices."
+    },
+    {
+      "question": "Which game is more fun casually?",
+      "answer": "Payback 2 — quick matches, instant action, no waiting."
+    },
+    {
+      "question": "Can I play both offline?",
+      "answer": "Yes 👍 both games offer offline gameplay modes."
+    }
+  ]
+}

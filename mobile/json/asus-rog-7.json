@@ -1,41 +1,54 @@
 {
   "gameTitle": "Asus ROG Phone 7",
-  "subtitle": "A flagship-level gaming smartphone built for extreme performance, stable FPS, advanced cooling, and competitive esports gameplay.",
+  "subtitle": "A no-compromise gaming beast that treats lag, heat, and frame drops like rookie enemies 😎",
 
   "posters": [
     "/assets/thumb/asus-rog-7.webp",
     ""
   ],
 
+  "whatMakesItSpecial": "This phone isn’t trying to be everything for everyone. It has one clear mission: deliver desktop-level gaming performance in your pocket — and it takes that job very seriously.",
+
   "performance": {
-    "cpu": "Qualcomm Snapdragon 8 Gen 2 (3.2GHz Prime Core)",
-    "gpu": "Adreno 740",
-    "ram": "12GB / 16GB LPDDR5X",
-    "storage": "256GB / 512GB UFS 4.0",
-    "cooling": "Advanced GameCool 7 Vapor Chamber Cooling System"
+    "cpu": "Qualcomm Snapdragon 8 Gen 2 (4nm, up to 3.2GHz Prime Core)",
+    "gpu": "Adreno 740 (console-level mobile graphics)",
+    "ram": "12GB / 16GB LPDDR5X (ultra-fast, zero reload stress)",
+    "storage": "256GB / 512GB UFS 4.0 (blink-and-it’s-loaded speed)",
+    "cooling": "GameCool 7 Vapor Chamber + Boron Nitride Thermal Layers",
+    "realWorldImpact": "Sustains peak performance longer than most flagship phones without aggressive throttling."
   },
 
   "benchmark": {
-    "antutu": "1,320,000+",
-    "geekbench": "Single-Core: 1950, Multi-Core: 5250"
+    "antutu": "1,320,000 – 1,350,000",
+    "geekbench": {
+      "singleCore": "1900 – 2000",
+      "multiCore": "5200 – 5400"
+    },
+    "note": "Numbers are impressive, but the real win is how long it holds them."
   },
 
   "display": {
+    "size": "6.78-inch",
     "refreshRate": "165Hz",
     "touchRate": "720Hz Touch Sampling",
     "resolution": "FHD+ (2448 × 1080)",
-    "panelType": "Samsung AMOLED HDR10+"
+    "panelType": "Samsung E4 AMOLED, HDR10+",
+    "brightness": "Up to 1500 nits peak",
+    "experience": "Scrolling feels illegal smooth, and aiming feels telepathic."
   },
 
   "battery": {
     "size": "6000mAh Dual-Cell",
-    "fastCharging": "65W HyperCharge",
-    "gamingDrain": "8% – 12% per hour (smooth gameplay)"
+    "fastCharging": "65W HyperCharge (0–100% ~42 min)",
+    "gamingDrain": "8% – 12% per hour (competitive titles)",
+    "smartCharging": "Bypass Charging to reduce heat during long sessions"
   },
 
   "temperature": {
-    "heatLevel": "36°C – 42°C",
-    "fpsStability": "Very Stable (92% – 96%)"
+    "averageGaming": "36°C – 40°C",
+    "extremeLoad": "Up to 42°C",
+    "fpsStability": "92% – 96%",
+    "comfortLevel": "Warm in long sessions, never alarmingly hot."
   },
 
   "heavyGames": [
@@ -51,111 +64,111 @@
   ],
 
   "playability": {
-    "PUBG Mobile": "Ultra HD + 90FPS Support",
-    "Call of Duty Mobile": "Very High Graphics + Max FPS",
-    "Genshin Impact": "60FPS Stable on High Settings",
-    "Fortnite": "Epic Quality + 60FPS",
-    "Honkai Star Rail": "Max Settings Smooth"
+    "PUBG Mobile": "Ultra HD Graphics + 90FPS (smooth competitive play)",
+    "Call of Duty Mobile": "Very High Graphics + 120FPS",
+    "Genshin Impact": "High Settings + Stable 60FPS",
+    "Fortnite": "Epic Quality + Locked 60FPS",
+    "Honkai Star Rail": "Max Settings, smooth combat & exploration"
   },
 
   "fpsBenchmarks": [
     {
       "game": "PUBG Mobile",
       "settings": "Ultra HD",
-      "fps": "70–90 FPS Stable"
+      "fps": "75–90 FPS (stable)"
     },
     {
       "game": "COD Mobile",
       "settings": "Max",
-      "fps": "120 FPS Stable"
+      "fps": "115–120 FPS"
     },
     {
       "game": "Genshin Impact",
       "settings": "High",
-      "fps": "52–60 FPS"
+      "fps": "55–60 FPS"
     },
     {
       "game": "Fortnite",
       "settings": "Epic",
-      "fps": "60 FPS Stable"
+      "fps": "60 FPS Locked"
     }
   ],
 
   "thermalTests": [
     {
       "game": "PUBG Mobile",
-      "heat15": "Cool (thanks to vapor chamber)",
-      "heat30": "Warm but stable",
-      "fpsDrop": "1–2 FPS Only"
+      "after15Min": "Cool",
+      "after30Min": "Warm",
+      "fpsDrop": "1–2 FPS"
     },
     {
       "game": "COD Mobile",
-      "heat15": "Normal",
-      "heat30": "Slight Warm",
+      "after15Min": "Normal",
+      "after30Min": "Slight Warm",
       "fpsDrop": "0–1 FPS"
     },
     {
       "game": "Genshin Impact",
-      "heat15": "Warm",
-      "heat30": "Hot",
+      "after15Min": "Warm",
+      "after30Min": "Hot but controlled",
       "fpsDrop": "3–4 FPS"
-    },
-    {
-      "game": "Fortnite",
-      "heat15": "Normal",
-      "heat30": "Warm",
-      "fpsDrop": "0 FPS"
     }
   ],
 
   "batteryTests": [
     {
       "game": "PUBG Mobile",
-      "drop": "12%"
+      "oneHourDrop": "11–12%"
     },
     {
       "game": "COD Mobile",
-      "drop": "10%"
+      "oneHourDrop": "9–10%"
     },
     {
       "game": "Genshin Impact",
-      "drop": "16%"
+      "oneHourDrop": "15–17%"
     }
   ],
 
   "gamingFeatures": [
-    "AirTrigger 6 Ultrasonic Shoulder Buttons",
-    "X Mode Gaming Performance Engine",
-    "Dedicated Gaming Dashboard",
-    "Game Genie Real-Time Controls",
-    "4D Vibration",
-    "Dirac Tuned Stereo Speakers",
+    "AirTrigger 6 Ultrasonic Shoulder Buttons (console-style control)",
+    "X Mode for Maximum Performance",
+    "Advanced Game Genie Overlay",
+    "4D Haptic Vibration Feedback",
+    "Front-Facing Dirac-Tuned Stereo Speakers",
     "AeroActive Cooler 7 Support",
-    "RGB ROG Logo Backlight"
+    "RGB ROG Logo with Custom Lighting Effects"
   ],
 
   "customTable": {
-    "title": "Custom Table Section",
-    "columns": ["Category", "Details", "Performance Impact"],
+    "title": "Gaming Hardware Breakdown",
+    "columns": ["Component", "Specification", "Gaming Benefit"],
     "rows": [
-      ["Cooling System", "GameCool 7 Vapor Chamber", "Excellent Heat Control"],
-      ["Gaming Triggers", "AirTrigger 6", "Pro-Level Aim & Shoot"],
-      ["Charging", "65W HyperCharge", "Fast Refuel During Matches"],
-      ["Speaker Quality", "Dual Front Speakers", "Immersive Sound"],
-      ["Build Quality", "Gorilla Glass Victus", "Premium Durable"],
-      ["Software", "ROG UI (Android 14)", "Gaming Optimized"]
+      ["Cooling System", "GameCool 7 Vapor Chamber", "Sustained FPS Stability"],
+      ["Triggers", "AirTrigger 6", "Faster Aim & Fire"],
+      ["Charging", "65W HyperCharge", "Quick Top-Ups Between Matches"],
+      ["Speakers", "Dual Front Stereo", "Clear Positional Audio"],
+      ["Build", "Gorilla Glass Victus", "Durable & Premium Feel"],
+      ["Software", "ROG UI (Android 14)", "Deep Gaming Customization"]
     ]
   },
 
   "dynamicList": {
-    "title": "Key Features",
+    "title": "Why Gamers Choose ROG Phone 7",
     "items": [
-      "165Hz AMOLED Display",
-      "LPDDR5X RAM",
-      "UFS 4.0 Storage",
-      "AeroActive Cooler Support",
-      "Advanced Thermal Control",
-      "Esports-Grade FPS Stability"
+      "165Hz Ultra-Smooth AMOLED Display",
+      "Flagship Snapdragon 8 Gen 2 Power",
+      "LPDDR5X RAM + UFS 4.0 Storage",
+      "Advanced Thermal Engineering",
+      "Esports-Level FPS Consistency",
+      "Built for Long Gaming Marathons"
     ]
+  },
+
+  "finalVerdict": {
+    "rating": "9.6 / 10",
+    "bestFor": "Competitive gamers, streamers, esports players",
+    "notIdealFor": "People who only play Candy Crush",
+    "oneLineSummary": "A true gaming phone that doesn’t pretend — it performs."
   }
 }
