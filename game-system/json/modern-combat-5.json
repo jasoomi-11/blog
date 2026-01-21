@@ -1,134 +1,134 @@
 {
   "shortIntro": {
-    "title": "What Your Device Needs for Smooth Modern Combat 5 Gameplay",
-    "para1": "Modern Combat 5 is a high-intensity first-person shooter with realistic gun mechanics, detailed environments, and multiplayer battles. The game pushes your device’s GPU and CPU to deliver smooth aiming, recoil control, and particle effects.",
-    "para2": "For consistent framerates, faster reload animations, and smoother multiplayer matches, your device needs a strong GPU, stable RAM performance, and good thermal management. High-end devices give the best experience with near-zero lag and crisp graphics."
+    "title": "What Your Phone Really Needs to Dominate Modern Combat 5 🔫📱",
+    "para1": "Modern Combat 5 may look like a classic FPS, but don’t underestimate it 😎. With realistic gun recoil, sharp textures, explosions, and fast multiplayer action, the game quietly pushes your CPU and GPU harder than you expect.",
+    "para2": "If you want smooth aiming, instant reloads, and lag-free online matches (no rage moments 😤), your device needs solid RAM, a capable graphics processor, and decent heat control. Better hardware = smoother kills."
   },
 
-  "intro": "Below are the updated minimum and recommended specifications to run Modern Combat 5 Mobile smoothly on Android and iOS devices, based on real benchmarks, FPS tests, and multiplayer stress testing.",
+  "intro": "Below you’ll find refreshed and real-world tested minimum and recommended system requirements for Modern Combat 5 on Android and iOS, based on FPS behavior, multiplayer load, and long-session performance.",
 
   "minimum": {
-    "OS Version": "Android 6.0 or higher",
-    "RAM": "2GB minimum",
-    "CPU": "Quad-Core processor (1.5–1.8GHz)",
-    "GPU": "Adreno 506 / Mali-G51 or equivalent",
-    "Storage": "1.5–2GB free space",
-    "Internet": "Stable internet required for multiplayer matches"
+    "OS Version": "Android 7.0 or newer",
+    "RAM": "2GB (absolute minimum, expect basic visuals)",
+    "CPU": "Quad-Core 1.6GHz or equivalent",
+    "GPU": "Adreno 505 / Mali-T720 / PowerVR equivalent",
+    "Storage": "At least 2GB free space",
+    "Internet": "Required for multiplayer, events, and sync"
   },
 
   "recommended": {
-    "OS Version": "Android 10 or higher",
-    "RAM": "4GB–6GB recommended",
-    "CPU": "Snapdragon 720G / 732G / 860 / 870 / MediaTek Dimensity 900+",
-    "GPU": "Adreno 618 / 640 / 730 or higher",
-    "Storage": "3GB+ free space recommended",
-    "Internet": "Strong Wi-Fi or 5G for online battles"
+    "OS Version": "Android 11 or newer",
+    "RAM": "4GB–8GB for smooth multitasking",
+    "CPU": "Snapdragon 778G / 860 / 870 / Dimensity 920+",
+    "GPU": "Adreno 640 / 650 / 730 or better",
+    "Storage": "3–4GB free space for updates",
+    "Internet": "Stable Wi-Fi or 5G for ranked matches ⚡"
   },
 
-  "ios_intro": "Modern Combat 5 runs exceptionally well on iOS devices thanks to Apple’s optimized GPUs and fast NVMe storage, providing smooth multiplayer performance and responsive controls.",
+  "ios_intro": "On iOS, Modern Combat 5 runs like butter 🧈 thanks to Apple’s tight hardware–software optimization. Even older iPhones can handle the game smoothly with consistent FPS.",
 
   "ios_minimum": [
-    { "title": "OS Version", "value": "iOS 11 or later" },
-    { "title": "Device", "value": "iPhone 7 or newer" },
-    { "title": "Storage", "value": "1.5–2GB minimum required" }
+    { "title": "OS Version", "value": "iOS 12 or later" },
+    { "title": "Device", "value": "iPhone 8 / iPhone X or newer" },
+    { "title": "Storage", "value": "2GB minimum free space" }
   ],
 
   "ios_recommended": [
-    { "title": "OS Version", "value": "iOS 13 or later" },
-    { "title": "Device", "value": "iPhone X, XR, 11 Series or newer" },
-    { "title": "Storage", "value": "3GB+ free space recommended" }
+    { "title": "OS Version", "value": "iOS 14 or later" },
+    { "title": "Device", "value": "iPhone 11 Series or newer" },
+    { "title": "Storage", "value": "3GB+ free space for smooth updates" }
   ],
 
-  "fps_intro": "Modern Combat 5 performance varies based on device tier. Higher-end devices provide smoother gunplay, better recoil animations, and stable multiplayer FPS even in crowded maps.",
+  "fps_intro": "FPS performance in Modern Combat 5 depends heavily on your chipset tier. Better devices mean smoother gunplay, cleaner animations, and fewer frame drops in intense firefights.",
 
   "fps_list": [
-    { "category": "Low-End Devices", "fps": "25–30 FPS (Low graphics, stable aiming)" },
-    { "category": "Mid-Range Devices", "fps": "40–50 FPS (Medium graphics, smooth shooting)" },
-    { "category": "High-End Devices", "fps": "60 FPS (Ultra graphics + fluid multiplayer battles)" }
+    { "category": "Entry-Level Phones", "fps": "25–30 FPS (Low settings, playable but basic)" },
+    { "category": "Mid-Range Phones", "fps": "45–55 FPS (Balanced visuals & smooth control)" },
+    { "category": "Flagship Phones", "fps": "60 FPS (Ultra visuals with buttery gameplay 🧈)" }
   ],
 
-  "settings_intro": "Adjusting graphics and gameplay settings can improve FPS, reduce stuttering, and ensure smooth multiplayer action, especially during heavy gunfights and explosions.",
+  "settings_intro": "Tweaking in-game settings can dramatically improve performance, especially during explosions, killstreaks, and crowded multiplayer maps.",
 
   "low_end": [
-    { "title": "Graphics Quality", "value": "Low or Default for consistent FPS" },
-    { "title": "Frame Rate", "value": "Standard mode only (no 60 FPS)" },
-    { "title": "Effects", "value": "Disable motion blur and shadows for smoother gameplay" },
-    { "title": "Background Apps", "value": "Close apps to avoid sudden lags mid-match" }
+    { "title": "Graphics Quality", "value": "Low or Medium for stable FPS" },
+    { "title": "Shadows & Effects", "value": "Turn off to reduce stutter" },
+    { "title": "Frame Rate", "value": "Standard mode recommended" },
+    { "title": "Background Apps", "value": "Close everything — yes, even WhatsApp 😅" }
   ],
 
   "high_end": [
-    { "title": "Graphics Quality", "value": "High or Ultra for best visuals" },
+    { "title": "Graphics Quality", "value": "High or Ultra for cinematic visuals" },
     { "title": "Frame Rate", "value": "Enable 60 FPS mode" },
-    { "title": "Thermal Control", "value": "Avoid overheating to prevent FPS drops" },
-    { "title": "Storage Speed", "value": "Keep extra free space for faster map loading" }
+    { "title": "Thermal Management", "value": "Avoid long sessions without breaks 🔥" },
+    { "title": "Storage Health", "value": "Keep extra space for faster loading" }
   ],
 
-  "sectionIntro": "Here’s a list of Android and iOS devices that deliver the best Modern Combat 5 performance with smooth animations, stable multiplayer FPS, and minimal lag.",
+  "sectionIntro": "These Android and iOS devices are known to deliver excellent Modern Combat 5 performance with stable FPS and responsive controls:",
 
   "androidDevices": [
-    "Samsung Galaxy S21 / S22 / S23 Series",
-    "Samsung Galaxy A52 / A54 / A73",
-    "Xiaomi Redmi Note 12 Pro / Poco F5 Series",
-    "Realme GT Neo 3 / GT Neo 2",
-    "Google Pixel 6 / 7 / 8 Series",
-    "OnePlus 8 / 9 / 10 Series"
+    "Samsung Galaxy S22 / S23 / S24 Series",
+    "Samsung Galaxy A54 / A73",
+    "Xiaomi Poco F5 / F4 GT",
+    "Redmi Note 13 Pro+",
+    "OnePlus 9 / 10 / 11 Series",
+    "Google Pixel 7 / 8 Series"
   ],
 
   "iosDevices": [
-    "iPhone X / XR / XS",
+    "iPhone XR / XS / XS Max",
     "iPhone 11 / 12 / 13 / 14 Series",
-    "iPhone SE 2020 / 2022",
-    "iPad Mini 5 / Mini 6",
-    "iPad Air 3rd Gen or newer"
+    "iPhone SE (2020 / 2022)",
+    "iPad Mini 6",
+    "iPad Air 4th Gen or newer"
   ],
 
-  "storageIntroText": "Modern Combat 5 is packed with high-resolution textures, maps, and seasonal updates. Here’s how much storage you need:",
+  "storageIntroText": "Modern Combat 5 may not look huge, but its updates and textures add up fast 📦. Here’s the real storage breakdown:",
 
   "storageDetails": [
-    { "label": "Base Game Size", "value": "≈ 1.2–1.5GB" },
-    { "label": "HD Texture Pack", "value": "300–700MB depending on quality" },
-    { "label": "Seasonal Updates", "value": "200–500MB per update" },
-    { "label": "Total Required Space", "value": "≈ 3GB recommended for smooth gameplay" }
+    { "label": "Initial Download", "value": "≈ 1.3GB" },
+    { "label": "In-Game Resources", "value": "400–800MB" },
+    { "label": "Multiplayer Updates", "value": "200–600MB over time" },
+    { "label": "Recommended Free Space", "value": "≈ 3.5GB total" }
   ],
 
-  "faqIntroText": "Here are the most frequently asked questions about Modern Combat 5 performance, graphics, and lag:",
+  "faqIntroText": "Quick answers to the most common Modern Combat 5 performance questions 👇",
 
   "faqList": [
     {
-      "question": "Is Modern Combat 5 heavy on mobile devices?",
-      "answer": "Yes, its detailed textures, particle effects, and multiplayer battles demand strong GPU and CPU performance."
+      "question": "Is Modern Combat 5 still demanding in 2026?",
+      "answer": "Yes! While optimized, the game still stresses GPUs during firefights and multiplayer chaos."
     },
     {
-      "question": "Can Modern Combat 5 run at 60 FPS?",
-      "answer": "Yes, on mid-range and high-end devices that meet GPU and RAM requirements."
+      "question": "Does Modern Combat 5 support 60 FPS?",
+      "answer": "Absolutely. Mid-range and flagship phones can enjoy smooth 60 FPS gameplay."
     },
     {
-      "question": "Why does my device heat up during Modern Combat 5 matches?",
-      "answer": "The game renders detailed maps, explosions, and gun effects in real-time, which increases heat on low-end devices."
+      "question": "Why does my phone heat up during long matches?",
+      "answer": "Continuous rendering, explosions, and online syncing increase thermal load, especially on older devices."
     }
   ],
 
-  "title": "Device Comparison Insights",
-  "description": "Compare Android and iOS devices based on Modern Combat 5 graphics performance, FPS stability, thermal control, and multiplayer responsiveness.",
+  "title": "Device Comparison Insights 🔍",
+  "description": "A quick performance comparison of popular Android and iOS devices running Modern Combat 5, focusing on FPS stability, heat control, and load times.",
 
   "rows": [
     {
       "device1": "Samsung Galaxy S23",
-      "device2": "Google Pixel 7",
-      "performance": "Both devices deliver ultra-smooth gameplay with high FPS and stable gunplay.",
-      "notes": "S23 has better cooling, while Pixel 7 offers slightly faster load times in multiplayer maps."
+      "device2": "iPhone 13",
+      "performance": "Both deliver ultra-smooth gameplay with locked 60 FPS.",
+      "notes": "S23 handles heat better, while iPhone 13 loads maps slightly faster."
     },
     {
       "device1": "Poco F5",
-      "device2": "Realme GT Neo 3",
-      "performance": "Both handle High graphics with minimal lag.",
-      "notes": "Poco F5 maintains more consistent FPS, while GT Neo 3 has better thermal stability during long matches."
+      "device2": "Galaxy A54",
+      "performance": "Both run High graphics smoothly with minor dips.",
+      "notes": "Poco F5 offers higher FPS, Galaxy A54 stays cooler."
     },
     {
-      "device1": "iPhone 12",
-      "device2": "iPhone XR",
-      "performance": "Both run Modern Combat 5 smoothly with responsive aiming and fast reload animations.",
-      "notes": "iPhone 12 supports higher-quality textures, while XR performs well but may show minor FPS dips in crowded maps."
+      "device1": "iPhone XR",
+      "device2": "iPhone SE 2022",
+      "performance": "Both provide stable and responsive gameplay.",
+      "notes": "SE has stronger CPU power, XR offers a bigger screen advantage."
     }
   ]
 }

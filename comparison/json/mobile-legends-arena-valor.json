@@ -4,28 +4,18 @@
       {
         "name": "Mobile Legends: Bang Bang",
         "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/mobile-legends-bang-bang.webp",
-        
-        
-        
-        
         "genre": "MOBA / Multiplayer Online Battle Arena ⚔️",
         "developer": "Moonton",
         "release": "2016",
-        "gameplay": "Fast-paced 5v5 MOBA action with hero roles like tank, mage, assassin, marksman, and support. Matches are quick, strategic, and packed with flashy abilities and team fights. 🏆🔥"
+        "gameplay": "A fast, mobile-first 5v5 MOBA built for quick matches and nonstop action. Choose from tanks, mages, assassins, marksmen, and supports, jump into lane battles, steal buffs, and unleash flashy ultimates. Easy to learn, hard to stop playing 😄🔥"
       },
       {
         "name": "Arena of Valor",
         "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/arena-of-valor.webp",
-        
-        
-        
-        
-        
-        
         "genre": "MOBA / Multiplayer Online Battle Arena 🛡️",
         "developer": "Tencent Games",
         "release": "2016",
-        "gameplay": "Classic 5v5 MOBA gameplay with rich hero variety, precise controls, and intense strategy. Heroes have unique skills and ultimate abilities, and teamwork is crucial for victory. 🎮⚡"
+        "gameplay": "A more traditional and competitive MOBA experience with polished maps, detailed heroes, and skill-based combat. Matches reward smart rotations, clean combos, and strong teamwork—perfect for players who love strategy and precision 🎯⚡"
       }
     ]
   },
@@ -37,22 +27,22 @@
         "platform": "Android / iOS",
         "storage": "1.5–2 GB 📦",
         "ram": "2–3 GB Recommended",
-        "cpuGpu": "Mid-range chipset (Snapdragon 660+/A10+)",
-        "fps": "30–60 FPS depending on device",
-        "graphics": "Cartoonish 3D graphics with smooth animations 🎨",
-        "online": "Online Required",
-        "battery": "Moderate"
+        "cpuGpu": "Mid-range chipsets (Snapdragon 660+, Apple A10+)",
+        "fps": "30–60 FPS depending on settings",
+        "graphics": "Bright, cartoon-style 3D visuals with smooth animations 🎨",
+        "online": "Always online",
+        "battery": "Moderate – friendly for long sessions 👍"
       },
       {
         "name": "Arena of Valor",
         "platform": "Android / iOS",
         "storage": "2–2.5 GB 📦",
-        "ram": "3 GB Recommended",
-        "cpuGpu": "Mid-range to high-end chipset (Snapdragon 710+/A11+)",
+        "ram": "3–4 GB Recommended",
+        "cpuGpu": "Mid-range to high-end chipsets (Snapdragon 710+, Apple A11+)",
         "fps": "30–60 FPS depending on device",
-        "graphics": "High-quality 3D visuals with detailed arenas 🏟️",
-        "online": "Online Required",
-        "battery": "High due to detailed effects ⚡"
+        "graphics": "High-quality 3D graphics with detailed arenas and effects 🏟️",
+        "online": "Always online",
+        "battery": "High – flashy skills eat battery fast ⚡"
       }
     ]
   },
@@ -63,19 +53,19 @@
         "name": "Mobile Legends: Bang Bang",
         "modes": "Classic 5v5, Ranked, Brawl Mode, Custom Match, Survival",
         "playerLimits": "5-player teams 🧑‍🤝‍🧑",
-        "graphicsStyle": "Colorful, cartoon-style 3D graphics with playful animations ✨",
-        "customization": "Hero skins, emotes, battle effects, avatars 🎨",
-        "events": "Weekly events, seasonal tournaments, login rewards",
-        "mechanics": "Quick hero abilities, fast respawn, jungle farming, team strategy"
+        "graphicsStyle": "Colorful, lightweight visuals designed for smooth performance ✨",
+        "customization": "Hero skins, recall effects, emotes, avatars 🎨",
+        "events": "Weekly events, seasonal ranked rewards, special collaborations",
+        "mechanics": "Fast skill casting, quick respawns, jungle farming, team fights"
       },
       {
         "name": "Arena of Valor",
-        "modes": "5v5 Classic, Ranked, Abyssal Clash, AI Match, 3v3 Quick Mode",
+        "modes": "5v5 Classic, Ranked, Abyssal Clash, AI Matches, 3v3 Mode",
         "playerLimits": "5-player teams 🛡️",
-        "graphicsStyle": "More realistic hero designs with cinematic skills and map details 🎯",
-        "customization": "Hero skins, avatars, profile decorations",
-        "events": "Daily missions, seasonal tournaments, guild battles",
-        "mechanics": "Precise skill combos, map awareness, team coordination, jungle control"
+        "graphicsStyle": "More realistic heroes with cinematic abilities and map details 🎬",
+        "customization": "Hero skins, profile decorations, visual effects",
+        "events": "Daily missions, seasonal events, esports tournaments",
+        "mechanics": "Precise combos, map awareness, jungle control, coordinated team play"
       }
     ]
   },
@@ -85,31 +75,31 @@
       {
         "name": "Mobile Legends: Bang Bang",
         "pros": [
-          "Quick matches for casual play ⏱️",
-          "Beginner-friendly with simple controls",
-          "Wide hero variety and frequent updates",
-          "Cartoonish fun graphics are easy on the eyes 🎨",
-          "Large global player base for matchmaking 🌍"
+          "Short matches – perfect for quick play ⏱️",
+          "Beginner-friendly controls and tutorials",
+          "Huge hero roster with frequent updates",
+          "Runs smoothly on most devices 📱",
+          "Very large global player base 🌍"
         ],
         "cons": [
-          "Can feel repetitive after long sessions",
-          "Matchmaking sometimes uneven",
-          "Graphics are simpler compared to AoV"
+          "Gameplay can feel repetitive after long hours",
+          "Matchmaking may feel unbalanced at times",
+          "Less visual detail compared to AoV"
         ]
       },
       {
         "name": "Arena of Valor",
         "pros": [
-          "High-quality graphics and cinematic effects 🎥",
-          "Balanced hero system and competitive gameplay",
-          "In-depth strategy for hardcore MOBA fans",
-          "Team coordination is highly rewarding",
-          "Strong esports scene with tournaments"
+          "Beautiful graphics and polished animations 🎥",
+          "Balanced heroes and competitive gameplay",
+          "Deeper strategy for hardcore MOBA fans",
+          "Strong emphasis on teamwork and skill",
+          "Well-established esports scene 🏆"
         ],
         "cons": [
-          "Matches can be longer and intense ⏳",
-          "Steeper learning curve for beginners",
-          "Heavier on device resources and battery"
+          "Longer matches require more focus ⏳",
+          "Harder learning curve for new players",
+          "More demanding on hardware and battery"
         ]
       }
     ]
@@ -119,17 +109,17 @@
     "games": [
       {
         "name": "Mobile Legends: Bang Bang",
-        "activePlayers": "Over 100M Monthly Players 🌍",
-        "socialMedia": "20M+ Followers across platforms",
-        "tournaments": "MLBB World Championship, Regional Tournaments",
-        "engagement": "YouTube hero guides, Twitch streams, fan communities"
+        "activePlayers": "100M+ monthly players worldwide 🌍",
+        "socialMedia": "20M+ followers across social platforms",
+        "tournaments": "MLBB World Championship and regional leagues",
+        "engagement": "Hero guides, livestreams, memes, and massive fan communities"
       },
       {
         "name": "Arena of Valor",
-        "activePlayers": "Over 50M Monthly Players 🌏",
-        "socialMedia": "10M+ Followers",
-        "tournaments": "AoV International, Seasonal eSports Events",
-        "engagement": "Live streams, guild wars, skill tutorials"
+        "activePlayers": "50M+ monthly players 🌏",
+        "socialMedia": "10M+ followers",
+        "tournaments": "International AoV tournaments and seasonal esports events",
+        "engagement": "Competitive streams, guild battles, advanced strategy content"
       }
     ]
   },
@@ -138,17 +128,17 @@
     "games": [
       {
         "name": "Mobile Legends: Bang Bang",
-        "price": "Free",
-        "premiumFeatures": "Hero skins, Battle Points, Diamonds 💎",
+        "price": "Free to play",
+        "premiumFeatures": "Hero skins, Diamonds, cosmetic effects 💎",
         "currency": "Diamonds, Battle Points",
-        "specialOffers": "Seasonal skin events, hero bundles"
+        "specialOffers": "Seasonal skins, hero bundles, event draws"
       },
       {
         "name": "Arena of Valor",
-        "price": "Free",
-        "premiumFeatures": "Hero skins, Gems, Event Packs",
+        "price": "Free to play",
+        "premiumFeatures": "Hero skins, Gems, event-exclusive items",
         "currency": "Gems, Gold",
-        "specialOffers": "Limited-time skins, champion bundles"
+        "specialOffers": "Limited-time skins and champion packs"
       }
     ]
   },
@@ -157,14 +147,14 @@
     "games": [
       {
         "name": "Mobile Legends: Bang Bang",
-        "devices": "Android & iOS",
+        "devices": "Android & iOS smartphones",
         "osVersion": "Android 5.0+ / iOS 10+",
         "crossPlatform": "Mobile only",
-        "pcConsole": "Playable via emulators"
+        "pcConsole": "Playable via Android emulators"
       },
       {
         "name": "Arena of Valor",
-        "devices": "Android & iOS",
+        "devices": "Android & iOS smartphones",
         "osVersion": "Android 6.0+ / iOS 10+",
         "crossPlatform": "Mobile only",
         "pcConsole": "Playable via emulators or Tencent Gaming Buddy"
@@ -175,19 +165,19 @@
   "faqs": [
     {
       "question": "Which MOBA is easier for beginners?",
-      "answer": "Mobile Legends is more beginner-friendly with simple controls and fast matches."
+      "answer": "Mobile Legends is easier to learn thanks to simpler controls and shorter matches 😄"
     },
     {
       "question": "Which game has better graphics?",
-      "answer": "Arena of Valor has more realistic hero designs and cinematic skill effects."
+      "answer": "Arena of Valor stands out with more realistic heroes and cinematic skill effects 🎥"
     },
     {
-      "question": "Can I play both games on low-end devices?",
-      "answer": "Mobile Legends runs smoother on mid-to-low-end devices, while Arena of Valor may need higher specs."
+      "question": "Which game runs better on low-end devices?",
+      "answer": "Mobile Legends is lighter and performs better on budget and older phones 📱"
     },
     {
-      "question": "Which game is better for competitive play?",
-      "answer": "Arena of Valor offers deeper strategic gameplay and a strong esports ecosystem."
+      "question": "Which is better for competitive and esports play?",
+      "answer": "Arena of Valor offers deeper strategy and a stronger competitive ecosystem 🏆"
     }
   ]
 }
