@@ -774,16 +774,12 @@
 <main>
 
 
-
-
 <!-- ================== AD CONTAINER ================== -->
 <div id="adContainer">
   <div id="timer" class="waiting">⏳ Please wait...</div>
-
   <div id="progressBar">
     <div id="progress"></div>
   </div>
-
   <button id="adBtn" disabled>Continue</button>
 </div>
 
@@ -798,14 +794,14 @@
   box-shadow:0 15px 35px rgba(0,0,0,.45);
   text-align:center;
   font-family:Segoe UI,system-ui;
-  color:#fff
+  color:#fff;
 }
 
 #timer{
   font-size:18px;
   font-weight:600;
   margin-bottom:14px;
-  color:#c7d2fe
+  color:#c7d2fe;
 }
 
 #progressBar{
@@ -814,14 +810,14 @@
   background:#94a3b8;
   border-radius:6px;
   overflow:hidden;
-  margin-bottom:18px
+  margin-bottom:18px;
 }
 
 #progress{
   width:0%;
   height:100%;
   background:#22c55e;
-  transition:width 1s linear
+  transition:width 1s linear;
 }
 
 #adBtn{
@@ -835,17 +831,17 @@
   color:#000;
   cursor:pointer;
   box-shadow:0 6px 18px rgba(0,0,0,.35);
-  transition:.3s
+  transition:.3s;
 }
 
 #adBtn:hover:not(:disabled){
   background:#16a34a;
-  transform:translateY(-2px)
+  transform:translateY(-2px);
 }
 
 #adBtn:disabled{
   background:#94a3b8;
-  cursor:not-allowed
+  cursor:not-allowed;
 }
 
 @keyframes pulse{
@@ -853,7 +849,7 @@
   50%{opacity:1}
   100%{opacity:.6}
 }
-.waiting{animation:pulse 1s infinite}
+.waiting{animation:pulse 1s infinite;}
 </style>
 
 <!-- ================== SCRIPT ================== -->
@@ -863,9 +859,9 @@ import { getFirestore, doc, getDoc, updateDoc, increment, arrayUnion } from "htt
 
 /* 🔥 FIREBASE CONFIG */
 const firebaseConfig = {
-  apiKey: "AIzaSyC536HkcJeBwXuLWzv-e2xl6au6_KeQp5s",
-  authDomain: "rewards-6b903.firebaseapp.com",
-  projectId: "rewards-6b903"
+  apiKey: "AIzaSyBe3E2eSUaDH5rZHguezaHjbxKmRA5QVd4",
+  authDomain: "rewards-b8f54.firebaseapp.com",
+  projectId: "rewards-b8f54"
 };
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
@@ -874,14 +870,14 @@ const db = getFirestore(app);
 const COUNTDOWN = 5; // seconds
 const EARNING = 0.01; // per click
 const DAILY_LIMIT = 20;
-const LINKS_JSON = "/links.json"; // JSON path
+const LINKS_JSON = "/links.json";
 
 /* 🔍 URL PARAMS */
 const params = new URLSearchParams(location.search);
 const uid = params.get("uid");
 const token = params.get("token");
 
-/* 🎯 UI */
+/* 🎯 UI ELEMENTS */
 const btn = document.getElementById("adBtn");
 const timer = document.getElementById("timer");
 const progress = document.getElementById("progress");
@@ -894,24 +890,22 @@ if(!uid || !token){
 
 /* 🧠 TAB / NEW TAB BLOCK */
 const TAB_KEY = "ACTIVE_TOKEN";
-if(sessionStorage.getItem(TAB_KEY) && sessionStorage.getItem(TAB_KEY) !== token){
+if(sessionStorage.getItem(TAB_KEY) && sessionStorage.getItem(TAB_KEY)!==token){
   btn.disabled=true;
   timer.innerText="Multiple tabs blocked";
   throw "TAB_BLOCK";
 }
-sessionStorage.setItem(TAB_KEY,token);
+sessionStorage.setItem(TAB_KEY, token);
 
 /* 📅 TODAY */
 const today = ()=>new Date().toISOString().slice(0,10);
 
 /* 🔗 FETCH UNIQUE UNUSED LINK */
 async function fetchUniqueLink(usedLinks = []){
-  const res = await fetch(LINKS_JSON,{cache:"no-store"});
+  const res = await fetch(LINKS_JSON, {cache:"no-store"});
   const data = await res.json();
-
   const available = data.filter(l => !usedLinks.includes(l.id));
   if(!available.length) return null;
-
   return available[Math.floor(Math.random() * available.length)];
 }
 
@@ -931,16 +925,16 @@ async function fetchUniqueLink(usedLinks = []){
   }
 
   /* 🔄 DAILY RESET */
-  if(user.tasksDate!==today()){
+  if(user.tasksDate !== today()){
     await updateDoc(userRef,{
       tasksDate: today(),
       todayClicks: 0,
       usedTokens: [],
       usedLinks: []
     });
-    user.todayClicks=0;
-    user.usedTokens=[];
-    user.usedLinks=[];
+    user.todayClicks = 0;
+    user.usedTokens = [];
+    user.usedLinks = [];
   }
 
   /* 🛑 TOKEN REUSE */
@@ -951,7 +945,7 @@ async function fetchUniqueLink(usedLinks = []){
   }
 
   /* 🛑 DAILY LIMIT */
-  if(user.todayClicks>=DAILY_LIMIT){
+  if(user.todayClicks >= DAILY_LIMIT){
     btn.disabled=true;
     timer.innerText="Daily limit reached";
     return;
@@ -967,27 +961,27 @@ async function fetchUniqueLink(usedLinks = []){
 
   /* ⏳ COUNTDOWN */
   let sec = COUNTDOWN;
-  btn.disabled=true;
-  timer.innerText=`Available in ${sec}s`;
-  progress.style.width="0%";
+  btn.disabled = true;
+  timer.innerText = `Available in ${sec}s`;
+  progress.style.width = "0%";
 
   const iv = setInterval(()=>{
     sec--;
-    timer.innerText=`Available in ${sec}s`;
-    progress.style.width=`${((COUNTDOWN-sec)/COUNTDOWN)*100}%`;
-
+    timer.innerText = `Available in ${sec}s`;
+    progress.style.width = `${((COUNTDOWN - sec)/COUNTDOWN)*100}%`;
     if(sec<=0){
       clearInterval(iv);
-      timer.innerText="Click to continue";
-      btn.disabled=false;
+      timer.innerText = "Click to continue";
+      btn.disabled = false;
     }
   },1000);
 
   /* 🖱️ CLICK */
   btn.onclick = async()=>{
-    btn.disabled=true;
-    timer.innerText="Redirecting...";
+    btn.disabled = true;
+    timer.innerText = "Redirecting...";
 
+    /* Firestore update: clicks and earnings */
     await updateDoc(userRef,{
       totalClicks: increment(1),
       todayClicks: increment(1),
@@ -998,11 +992,13 @@ async function fetchUniqueLink(usedLinks = []){
 
     sessionStorage.removeItem(TAB_KEY);
 
-    /* 🔥 SHORTLINK STYLE REDIRECT */
+    /* 🔥 REDIRECT */
     location.replace(linkObj.url);
   };
 })();
 </script>
+
+
 
 
 
