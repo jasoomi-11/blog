@@ -774,91 +774,89 @@
 <main>
 
 
-<!-- HTML -->
+
+
+<!-- ================== AD CONTAINER ================== -->
 <div id="adContainer">
-  <div id="timer" class="waiting">⏳ Waiting...</div>
+  <div id="timer" class="waiting">⏳ Please wait...</div>
+
   <div id="progressBar">
     <div id="progress"></div>
   </div>
+
   <button id="adBtn" disabled>Continue</button>
 </div>
 
+<!-- ================== STYLES ================== -->
 <style>
-/* Container styling */
-#adContainer {
-  max-width: 400px;
-  margin: 40px auto;
-  padding: 20px;
-  background: linear-gradient(135deg,#1e3a8a,#2563eb);
-  border-radius: 16px;
-  box-shadow: 0 10px 25px rgba(0,0,0,0.4);
-  text-align: center;
-  color: #fff;
-  font-family: 'Segoe UI', sans-serif;
+#adContainer{
+  max-width:420px;
+  margin:50px auto;
+  padding:24px;
+  background:linear-gradient(135deg,#1e3a8a,#2563eb);
+  border-radius:18px;
+  box-shadow:0 15px 35px rgba(0,0,0,.45);
+  text-align:center;
+  font-family:Segoe UI,system-ui;
+  color:#fff
 }
 
-/* Timer styling */
-#timer {
-  font-size: 18px;
-  font-weight: 600;
-  margin-bottom: 10px;
-  color: #c7d2fe;
-  transition: color 0.3s;
+#timer{
+  font-size:18px;
+  font-weight:600;
+  margin-bottom:14px;
+  color:#c7d2fe
 }
 
-/* Progress bar container */
-#progressBar {
-  width: 100%;
-  height: 8px;
-  background: #94a3b8;
-  border-radius: 4px;
-  margin-bottom: 15px;
-  overflow: hidden;
-}
-#progress {
-  height: 100%;
-  width: 0%;
-  background: #22c55e;
-  border-radius: 4px;
-  transition: width 1s linear;
+#progressBar{
+  width:100%;
+  height:8px;
+  background:#94a3b8;
+  border-radius:6px;
+  overflow:hidden;
+  margin-bottom:18px
 }
 
-/* Button styling */
-#adBtn {
-  padding: 12px 25px;
-  font-size: 16px;
-  font-weight: 700;
-  border: none;
-  border-radius: 12px;
-  background: #22c55e;
-  color: #000;
-  cursor: pointer;
-  width: 100%;
-  transition: all 0.3s;
-  box-shadow: 0 5px 15px rgba(0,0,0,0.3);
-}
-#adBtn:hover:not(:disabled) {
-  transform: translateY(-2px);
-  box-shadow: 0 8px 20px rgba(0,0,0,0.5);
-  background: #16a34a;
-}
-#adBtn:disabled {
-  background: #94a3b8;
-  cursor: not-allowed;
-  box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+#progress{
+  width:0%;
+  height:100%;
+  background:#22c55e;
+  transition:width 1s linear
 }
 
-/* Countdown animation */
-@keyframes pulse {
-  0% { color: #c7d2fe; }
-  50% { color: #60a5fa; }
-  100% { color: #c7d2fe; }
+#adBtn{
+  width:100%;
+  padding:14px;
+  font-size:16px;
+  font-weight:700;
+  border:none;
+  border-radius:14px;
+  background:#22c55e;
+  color:#000;
+  cursor:pointer;
+  box-shadow:0 6px 18px rgba(0,0,0,.35);
+  transition:.3s
 }
-#timer.waiting {
-  animation: pulse 1s infinite;
+
+#adBtn:hover:not(:disabled){
+  background:#16a34a;
+  transform:translateY(-2px)
 }
+
+#adBtn:disabled{
+  background:#94a3b8;
+  cursor:not-allowed
+}
+
+@keyframes pulse{
+  0%{opacity:.6}
+  50%{opacity:1}
+  100%{opacity:.6}
+}
+.waiting{animation:pulse 1s infinite}
 </style>
 
+<!-- ================== SCRIPT ================== -->
 <script type="module">
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.11.0/firebase-app.js";
 import { getFirestore, doc, getDoc, updateDoc, increment, arrayUnion } from "https://www.gstatic.com/firebasejs/10.11.0/firebase-firestore.js";
@@ -874,67 +872,78 @@ const db = getFirestore(app);
 
 /* ⚙️ SETTINGS */
 const COUNTDOWN = 5; // seconds
-const EARNING = 0.01; // USD per click
+const EARNING = 0.01; // per click
+const DAILY_LIMIT = 20;
+const LINKS_JSON = "/links.json"; // JSON path
 
 /* 🔍 URL PARAMS */
-const params = new URLSearchParams(window.location.search);
+const params = new URLSearchParams(location.search);
 const uid = params.get("uid");
 const token = params.get("token");
 
-/* 🎯 UI ELEMENTS */
+/* 🎯 UI */
 const btn = document.getElementById("adBtn");
 const timer = document.getElementById("timer");
 const progress = document.getElementById("progress");
 
-/* ❌ Exit if button missing or no uid/token */
-if(!btn || !timer || !uid || !token){
-  if(btn) btn.style.display="none";
-  if(timer) timer.style.display="none";
-  throw "NO_UID_OR_TOKEN";
+/* ❌ HARD BLOCK */
+if(!uid || !token){
+  document.getElementById("adContainer").style.display="none";
+  throw "NO_ACCESS";
 }
 
-/* 🧠 TAB PROTECTION */
+/* 🧠 TAB / NEW TAB BLOCK */
 const TAB_KEY = "ACTIVE_TOKEN";
-if(sessionStorage.getItem(TAB_KEY) && sessionStorage.getItem(TAB_KEY)!==token){
-  btn.disabled = true;
-  timer.innerText = "Multiple tabs blocked";
-  throw "MULTI_TAB";
+if(sessionStorage.getItem(TAB_KEY) && sessionStorage.getItem(TAB_KEY) !== token){
+  btn.disabled=true;
+  timer.innerText="Multiple tabs blocked";
+  throw "TAB_BLOCK";
 }
-sessionStorage.setItem(TAB_KEY, token);
+sessionStorage.setItem(TAB_KEY,token);
 
-/* 🧠 TODAY HELPER */
-function today(){ return new Date().toISOString().slice(0,10); }
+/* 📅 TODAY */
+const today = ()=>new Date().toISOString().slice(0,10);
+
+/* 🔗 FETCH UNIQUE UNUSED LINK */
+async function fetchUniqueLink(usedLinks = []){
+  const res = await fetch(LINKS_JSON,{cache:"no-store"});
+  const data = await res.json();
+
+  const available = data.filter(l => !usedLinks.includes(l.id));
+  if(!available.length) return null;
+
+  return available[Math.floor(Math.random() * available.length)];
+}
 
 /* 🚀 MAIN LOGIC */
-(async ()=>{
+(async()=>{
   const userRef = doc(db,"users",uid);
   const snap = await getDoc(userRef);
-  if(!snap.exists()){
-    btn.style.display="none";
-    timer.style.display="none";
-    return;
-  }
-  const user = snap.data();
+  if(!snap.exists()) return;
+
+  let user = snap.data();
 
   /* ❄️ ACCOUNT STATUS */
   if(user.status==="frozen"){
-    btn.disabled = true;
+    btn.disabled=true;
     timer.innerText="Account frozen";
     return;
   }
 
-  /* 📅 DAILY RESET */
+  /* 🔄 DAILY RESET */
   if(user.tasksDate!==today()){
     await updateDoc(userRef,{
       tasksDate: today(),
       todayClicks: 0,
-      usedTokens: []
+      usedTokens: [],
+      usedLinks: []
     });
     user.todayClicks=0;
     user.usedTokens=[];
+    user.usedLinks=[];
   }
 
-  /* 🛑 TOKEN REUSE BLOCK */
+  /* 🛑 TOKEN REUSE */
   if(user.usedTokens?.includes(token)){
     btn.disabled=true;
     timer.innerText="Already completed";
@@ -942,49 +951,58 @@ function today(){ return new Date().toISOString().slice(0,10); }
   }
 
   /* 🛑 DAILY LIMIT */
-  if(user.todayClicks>=20){
+  if(user.todayClicks>=DAILY_LIMIT){
     btn.disabled=true;
     timer.innerText="Daily limit reached";
     return;
   }
 
+  /* 🔗 GET UNIQUE LINK */
+  const linkObj = await fetchUniqueLink(user.usedLinks || []);
+  if(!linkObj){
+    btn.disabled=true;
+    timer.innerText="No ads available";
+    return;
+  }
+
   /* ⏳ COUNTDOWN */
-  btn.disabled = true;
   let sec = COUNTDOWN;
-  timer.innerText = `Available in ${sec}s`;
-  progress.style.width = "0%";
+  btn.disabled=true;
+  timer.innerText=`Available in ${sec}s`;
+  progress.style.width="0%";
 
   const iv = setInterval(()=>{
     sec--;
-    timer.innerText = `Available in ${sec}s`;
-    progress.style.width = `${((COUNTDOWN-sec)/COUNTDOWN)*100}%`;
+    timer.innerText=`Available in ${sec}s`;
+    progress.style.width=`${((COUNTDOWN-sec)/COUNTDOWN)*100}%`;
+
     if(sec<=0){
       clearInterval(iv);
       timer.innerText="Click to continue";
-      progress.style.width="100%";
       btn.disabled=false;
     }
   },1000);
 
-  /* 🖱️ CLICK HANDLER */
-  btn.onclick = async ()=>{
+  /* 🖱️ CLICK */
+  btn.onclick = async()=>{
     btn.disabled=true;
-    timer.innerText="Completed";
+    timer.innerText="Redirecting...";
 
     await updateDoc(userRef,{
       totalClicks: increment(1),
       todayClicks: increment(1),
       totalEarnings: increment(EARNING),
-      usedTokens: arrayUnion(token)
+      usedTokens: arrayUnion(token),
+      usedLinks: arrayUnion(linkObj.id)
     });
 
     sessionStorage.removeItem(TAB_KEY);
-  };
 
+    /* 🔥 SHORTLINK STYLE REDIRECT */
+    location.replace(linkObj.url);
+  };
 })();
 </script>
-
-
 
 
 
