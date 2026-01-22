@@ -38,8 +38,8 @@
     "thumb": "/assets/thumb/sg-s24-ultra.webp",
     "badge": "Undisputed 🔥",
     "badgeColor": "darksilver",
-    "link": "/mobile/sg-s24-ultra.html",
-    "top":"true"
+    "link": "/mobile/sg-s24-ultra.html"
+    
   },
   
   
@@ -72,8 +72,8 @@
     "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/iphone-15-pro-max.webp",
     "badge": "BOOM 💥🤯",
     "badgeColor": "silver",
-    "link": "/mobile/iphone-15-pro-max.html",
-    "top":"true"
+    "link": "/mobile/iphone-15-pro-max.html"
+    
   },
   
    {
@@ -82,8 +82,8 @@
     "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/top-5-gaming.webp",
     "badge": "BOOM 💥🤯",
     "badgeColor": "silver",
-    "link": "/mobile/top-5-gaming-mobiles.html"
-  
+    "link": "/mobile/top-5-gaming-mobiles.html",
+  "top":"true"
   },
   
   
@@ -93,8 +93,8 @@
     "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/redmi-note-13.webp",
     "badge": "Affordable 🤯",
     "badgeColor": "Purple",
-    "link": "/mobile/redmi-note-13.html"
-  
+    "link": "/mobile/redmi-note-13.html",
+  "top":"true"
   },
   
   

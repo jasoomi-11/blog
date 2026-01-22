@@ -1,56 +1,56 @@
 {
   "shortIntro": {
-    "title": "What This Game Needs to Run Smoothly",
-    "para1": "Genshin Impact is one of the most visually impressive and open-world action RPGs available on mobile. Because of its massive map, high-quality textures, particle effects and heavy combat animations, the game requires a decent device to run smoothly without lag.",
-    "para2": "Low-end devices can play the game at lowest graphics with reduced render distance, while mid-range and flagship phones deliver 40–60 FPS with much higher visual quality. Keeping enough free storage and good thermals is also important to maintain stable performance."
+    "title": "How to Run Genshin Impact Without Your Phone Crying",
+    "para1": "Genshin Impact is like carrying Teyvat in your pocket. Stunning open-world visuals, epic elemental reactions, and mountains of particles mean your phone better be up to the task. Otherwise, expect lag, frame drops, and the occasional mobile meltdown.",
+    "para2": "Low-end phones can survive at the lowest graphics with shrunken draw distances, while mid-range and flagship devices let you glide and battle at 40–60 FPS with gorgeous visuals. Bonus points if your device stays cool and has plenty of free storage—because nothing ruins a boss fight like your phone overheating."
   },
 
-  "intro": "Below are the verified minimum and recommended specifications your Android phone should meet to run Genshin Impact with stable FPS and smooth exploration across Teyvat.",
+  "intro": "Here’s the verified list of minimum and recommended specs your Android phone needs to explore Teyvat smoothly without turning your adventure into a slideshow.",
 
   "minimum": {
-    "OS Version": "Android 7.0 or above",
-    "RAM": "3GB minimum",
+    "OS Version": "Android 7.0 or newer",
+    "RAM": "3GB minimum (enough for one character and a chicken)",
     "CPU": "Snapdragon 660 / Kirin 710 / Helio P60 or equivalent",
-    "GPU": "Adreno 512 / Mali-G72 MP3 or equivalent",
-    "Storage": "At least 20GB free space (required for full game files)",
-    "Internet": "Stable 4G or WiFi connection for co-op and live events"
+    "GPU": "Adreno 512 / Mali-G72 MP3 or similar",
+    "Storage": "20GB free minimum (bring your snacks too 🍿)",
+    "Internet": "Stable 4G/WiFi connection for co-op and events"
   },
 
   "recommended": {
-    "OS Version": "Android 10 or above",
-    "RAM": "6GB or more",
-    "CPU": "Snapdragon 845 / 855 / 865 / 870 / 888 or Dimensity 800–1200 level",
+    "OS Version": "Android 10 or newer",
+    "RAM": "6GB+ (more room = smoother elemental combos!)",
+    "CPU": "Snapdragon 845 / 855 / 865 / 870 / 888 or Dimensity 800–1200",
     "GPU": "Adreno 630 / 640 / 650 or Mali-G77/G78 level",
-    "Storage": "22–25GB free space recommended",
-    "Internet": "Low-latency broadband or stable 5G/4G for best co-op experience"
+    "Storage": "22–25GB free (because expansion packs add flavor)",
+    "Internet": "Low-latency 4G/5G or stable broadband for smooth co-op"
   },
 
-  "ios_intro": "iOS devices must meet the following requirements to run Genshin Impact smoothly, especially during busy combat, gliding, and elemental reaction-heavy scenes.",
+  "ios_intro": "Apple adventurers, your device needs to meet these specs for smooth exploration and high-speed gliding in Teyvat.",
 
   "ios_minimum": [
-    { "title": "OS Version", "value": "iOS 9.0 or later" },
+    { "title": "OS Version", "value": "iOS 9.0+" },
     { "title": "Device", "value": "iPhone 8 / 8 Plus or newer" },
-    { "title": "Storage", "value": "20GB minimum free" }
+    { "title": "Storage", "value": "20GB minimum free (no hoarding screenshots!)" }
   ],
 
   "ios_recommended": [
-    { "title": "OS Version", "value": "iOS 14 or later" },
+    { "title": "OS Version", "value": "iOS 14+" },
     { "title": "Device", "value": "iPhone 11 / 12 / 13 / 14 Series" },
-    { "title": "Storage", "value": "22–25GB free recommended" }
+    { "title": "Storage", "value": "22–25GB free for max fun" }
   ],
 
-  "fps_intro": "Genshin Impact’s FPS performance changes a lot depending on device temperature, graphics settings, and map area (forest, Sumeru, Fontaine, etc.). Below is the general expected FPS range for different categories of mobile devices.",
+  "fps_intro": "FPS (frames per second) in Genshin Impact is a little like elemental reactions—chaotic but satisfying if done right. Device tier, temperature, and map area (Sumeru rainforest vs. Mondstadt hills) all affect smoothness.",
 
   "fps_list": [
-    { "category": "Low-End Devices", "fps": "20–30 FPS" },
-    { "category": "Mid-Range Devices", "fps": "30–45 FPS Stable" },
-    { "category": "High-End Devices", "fps": "45–60 FPS (with motion blur and shadows ON)" }
+    { "category": "Low-End Devices", "fps": "20–30 FPS (may feel like walking through molasses)" },
+    { "category": "Mid-Range Devices", "fps": "30–45 FPS Stable (good for casual adventurers)" },
+    { "category": "High-End Devices", "fps": "45–60 FPS (with shadows and motion blur for max cinematic feels)" }
   ],
 
-  "settings_intro": "Below are optimized graphics configurations for low-end and high-end devices to avoid throttling, lag spikes, and battery drain.",
+  "settings_intro": "Here’s how to tweak graphics so you don’t melt your phone while keeping FPS smooth and gameplay buttery:",
 
   "low_end": [
-    { "title": "Graphics", "value": "Lowest" },
+    { "title": "Graphics", "value": "Lowest (sacrificing pretty pixels for smoothness)" },
     { "title": "Render Resolution", "value": "0.6x" },
     { "title": "FPS", "value": "30 FPS" },
     { "title": "Shadows", "value": "OFF" },
@@ -58,17 +58,17 @@
   ],
 
   "high_end": [
-    { "title": "Graphics", "value": "High / Highest" },
-    { "title": "Render Resolution", "value": "1.1x or 1.2x" },
-    { "title": "FPS", "value": "60 FPS" },
+    { "title": "Graphics", "value": "High / Highest (everything shiny)" },
+    { "title": "Render Resolution", "value": "1.1x–1.2x" },
+    { "title": "FPS", "value": "60 FPS Stable" },
     { "title": "Shadows", "value": "High" },
-    { "title": "Effects", "value": "High (Elemental reactions look better)" }
+    { "title": "Effects", "value": "High (watch those elemental bursts sparkle)" }
   ],
 
-  "sectionIntro": "Here is a list of Android and iOS devices known for delivering stable and smooth performance in Genshin Impact, even in areas with heavy particle effects.",
+  "sectionIntro": "These devices are known to handle Genshin Impact like a pro, even when your screen is covered in particle effects from the latest event.",
 
   "androidDevices": [
-    "Samsung Galaxy S20 / S21 / S22 / S23 Series",
+    "Samsung Galaxy S20 / S21 / S22 / S23",
     "Xiaomi 11T / 12 / 13 Series",
     "Poco F3 / F4 / F5",
     "Redmi Note 12 Pro+ / 13 Pro+",
@@ -85,29 +85,29 @@
     "iPhone SE 2022"
   ],
 
-  "storageIntroText": "Genshin Impact is one of the largest mobile games in storage size. Here is the full breakdown of required space.",
+  "storageIntroText": "Genshin Impact is not light on storage. Here’s the full breakdown so you know what you’re signing up for:",
 
   "storageDetails": [
-    { "label": "Base Game Size", "value": "≈ 16 GB" },
-    { "label": "Voice Packs", "value": "2–4 GB (varies by language)" },
+    { "label": "Base Game Size", "value": "≈ 16 GB (Teyvat is big!)" },
+    { "label": "Voice Packs", "value": "2–4 GB (depends on language preference)" },
     { "label": "Extra Resources", "value": "1–2 GB" },
-    { "label": "Total Required Space", "value": "20–22 GB recommended" }
+    { "label": "Total Required Space", "value": "20–22 GB recommended (snack break included 🍫)" }
   ],
 
-  "faqIntroText": "Here are the most helpful and commonly asked questions regarding Genshin Impact’s device performance and FPS settings.",
+  "faqIntroText": "Some common questions adventurers ask before diving into Teyvat:",
 
   "faqList": [
     {
       "question": "Is Genshin Impact heavy on mobile?",
-      "answer": "Yes. Due to its open-world design and high-quality assets, it demands strong CPU and GPU performance."
+      "answer": "Absolutely. Beautiful open-world, tons of particle effects, and big textures require strong CPU/GPU performance."
     },
     {
       "question": "Can I run Genshin Impact on 3GB RAM?",
-      "answer": "Yes, but expect frequent loading delays and lower graphic settings. Clearing background apps helps."
+      "answer": "Yes, but expect some loading pauses and lower graphics. Close background apps for a smoother adventure."
     },
     {
-      "question": "Does Genshin Impact support 60 FPS on all devices?",
-      "answer": "60 FPS mode appears on many devices, but only mid-range and flagship phones maintain stable 60 FPS."
+      "question": "Does Genshin Impact support 60 FPS everywhere?",
+      "answer": "Mostly on mid-range and flagship devices. Low-end phones might struggle to maintain 60 FPS in particle-heavy areas."
     }
   ]
 }

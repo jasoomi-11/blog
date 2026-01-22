@@ -1,56 +1,56 @@
 {
   "shortIntro": {
-    "title": "What This Game Needs to Run Smoothly",
-    "para1": "Solo Leveling: ARISE is a visually stunning action RPG based on the globally popular manhwa series. Because of its high-quality animations, fast combat effects, and detailed character models, the game requires a capable device to run smoothly without stuttering.",
-    "para2": "Low-end devices can still play the game at reduced graphics, while mid-range and flagship phones deliver a smooth 45–60 FPS experience, especially during boss battles and dungeon runs."
+    "title": "How to Run Solo Leveling: ARISE Without Turning Your Phone Into Lava",
+    "para1": "Solo Leveling: ARISE brings your favorite manhwa to life with flashy skill animations, high-quality character models, and intense dungeon fights. All this gorgeousness means your device needs to be ready for some serious action.",
+    "para2": "Low-end phones can still survive at reduced graphics, but mid-range and flagship devices will let you blast bosses and explore dungeons at smooth 45–60 FPS, without sweating bullets—or overheating your phone."
   },
 
-  "intro": "Below are the official and community-tested minimum and recommended specifications required to run Solo Leveling: ARISE smoothly on Android devices.",
+  "intro": "Here are the verified minimum and recommended specs your Android device should have to enjoy Solo Leveling: ARISE without lag, stutter, or random frame drops.",
 
   "minimum": {
-    "OS Version": "Android 7.0 or above",
-    "RAM": "3GB minimum",
+    "OS Version": "Android 7.0+",
+    "RAM": "3GB minimum (just enough for one epic hunter squad)",
     "CPU": "Snapdragon 660 / Helio G70 / Kirin 710 or equivalent",
-    "GPU": "Adreno 512 / Mali-G52 or equivalent",
-    "Storage": "At least 5GB free space",
-    "Internet": "Stable 4G connection required for online features"
+    "GPU": "Adreno 512 / Mali-G52 or similar",
+    "Storage": "5GB free minimum (don’t forget space for updates!)",
+    "Internet": "Stable 4G/WiFi connection for online dungeons and co-op"
   },
 
   "recommended": {
-    "OS Version": "Android 10 or above",
-    "RAM": "4GB to 6GB",
+    "OS Version": "Android 10+",
+    "RAM": "4–6GB (more RAM = smoother skill combos)",
     "CPU": "Snapdragon 720G / 730G / 750G / Dimensity 810 or better",
-    "GPU": "Adreno 618 / Mali-G57 or better",
-    "Storage": "6–8GB free recommended for updates",
-    "Internet": "Low-ping 4G/5G or Wi-Fi for seamless gameplay"
+    "GPU": "Adreno 618 / Mali-G57 or higher",
+    "Storage": "6–8GB free recommended for updates and high-quality assets",
+    "Internet": "Low-ping 4G/5G or Wi-Fi for seamless boss fights"
   },
 
-  "ios_intro": "iOS devices must meet the minimum and recommended specifications below for the best Solo Leveling: ARISE experience.",
+  "ios_intro": "Apple hunters, your iPhone or iPad must meet these specs to enjoy Solo Leveling: ARISE at full speed without lag or frame drops.",
 
   "ios_minimum": [
-    { "title": "OS Version", "value": "iOS 12 or later" },
+    { "title": "OS Version", "value": "iOS 12+" },
     { "title": "Device", "value": "iPhone 7 / 7 Plus or newer" },
-    { "title": "Storage", "value": "Minimum 5GB free" }
+    { "title": "Storage", "value": "5GB free minimum (space for epic cutscenes!)" }
   ],
 
   "ios_recommended": [
-    { "title": "OS Version", "value": "iOS 14 or later" },
+    { "title": "OS Version", "value": "iOS 14+" },
     { "title": "Device", "value": "iPhone XR / XS / 11 or newer" },
     { "title": "Storage", "value": "6–8GB free recommended" }
   ],
 
-  "fps_intro": "FPS in Solo Leveling: ARISE depends heavily on your device’s chipset and selected graphics settings. Here is what you can expect:",
+  "fps_intro": "FPS in Solo Leveling: ARISE is like a boss fight gauge—it fluctuates depending on your device’s chipset, graphics settings, and how flashy the skill animations get.",
 
   "fps_list": [
-    { "category": "Low-End Devices", "fps": "20–30 FPS" },
-    { "category": "Mid-Range Devices", "fps": "35–50 FPS Stable" },
-    { "category": "High-End Devices", "fps": "55–60 FPS Highest Settings" }
+    { "category": "Low-End Devices", "fps": "20–30 FPS (think molasses-slow dungeon crawl)" },
+    { "category": "Mid-Range Devices", "fps": "35–50 FPS Stable (smooth enough for casual hunters)" },
+    { "category": "High-End Devices", "fps": "55–60 FPS (epic visuals without compromise)" }
   ],
 
-  "settings_intro": "Below are the recommended graphics settings to reduce lag, control heat, and maintain consistent frame rates across different device types.",
+  "settings_intro": "Here’s how to tweak graphics for different devices so your phone doesn’t turn into a mini furnace mid-battle:",
 
   "low_end": [
-    { "title": "Graphics", "value": "Low" },
+    { "title": "Graphics", "value": "Low (sacrifice pixels, gain smoothness)" },
     { "title": "FPS", "value": "30 FPS" },
     { "title": "Shadows", "value": "OFF" },
     { "title": "Effects Quality", "value": "Low" },
@@ -58,14 +58,14 @@
   ],
 
   "high_end": [
-    { "title": "Graphics", "value": "High / Max" },
+    { "title": "Graphics", "value": "High / Max (everything shiny)" },
     { "title": "FPS", "value": "60 FPS" },
     { "title": "Shadows", "value": "ON" },
     { "title": "Anti-Aliasing", "value": "ON" },
-    { "title": "Skill Effects", "value": "High" }
+    { "title": "Skill Effects", "value": "High (watch those combos sparkle!)" }
   ],
 
-  "sectionIntro": "Here are Android and iOS devices known to deliver smooth and stable performance in Solo Leveling: ARISE.",
+  "sectionIntro": "Here’s a list of Android and iOS devices known to handle Solo Leveling: ARISE like a pro, even during monster-packed dungeons.",
 
   "androidDevices": [
     "Samsung Galaxy A52 / A54 / A73",
@@ -88,29 +88,29 @@
     "iPhone SE 2020 / 2022"
   ],
 
-  "storageIntroText": "Here is the complete breakdown of Solo Leveling: ARISE download size, data packs, and recommended free space.",
+  "storageIntroText": "Solo Leveling: ARISE isn’t tiny. Here’s what you need in terms of storage to avoid mid-dungeon panic:",
 
   "storageDetails": [
     { "label": "Base Game Size", "value": "≈ 3.5 GB" },
-    { "label": "Additional Resources", "value": "1–2 GB" },
-    { "label": "Cutscenes & High-Quality Assets", "value": "1–2 GB" },
-    { "label": "Total Required Space", "value": "6–8 GB recommended" }
+    { "label": "Additional Resources", "value": "1–2 GB (boss animations and dungeon textures)" },
+    { "label": "Cutscenes & High-Quality Assets", "value": "1–2 GB (because story matters)" },
+    { "label": "Total Required Space", "value": "6–8 GB recommended (give your phone some breathing room)" }
   ],
 
-  "faqIntroText": "Here are the most commonly asked questions about Solo Leveling: ARISE performance and compatibility.",
+  "faqIntroText": "Here are the most frequently asked questions about Solo Leveling: ARISE performance, heating, and device compatibility:",
 
   "faqList": [
     {
       "question": "Can Solo Leveling: ARISE run on 3GB RAM phones?",
-      "answer": "Yes, but only on low graphics with reduced effects."
+      "answer": "Yes, but graphics will be toned down and some effects disabled. Think of it as playing in stealth mode."
     },
     {
       "question": "Does the game support 60 FPS?",
-      "answer": "Yes, 60 FPS is available on mid-range and flagship devices."
+      "answer": "Yes, but only mid-range and flagship devices maintain stable 60 FPS during heavy battles."
     },
     {
       "question": "Why is the game heating my phone?",
-      "answer": "The game has high-quality visual effects. Reduce shadows, skill effects, and resolution to control temperature."
+      "answer": "High-quality visuals and skill effects are demanding. Lower shadows, reduce effects quality, and keep auto-brightness off to control temperature."
     }
   ]
 }

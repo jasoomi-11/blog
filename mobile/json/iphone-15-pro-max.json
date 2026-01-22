@@ -1,161 +1,120 @@
 {
   "gameTitle": "iPhone 15 Pro Max",
-  "subtitle": "Apple’s ultimate flagship smartphone designed for top-tier gaming, smooth graphics, stable FPS, and efficient thermal performance for competitive and casual gaming 🎮✨",
+  "subtitle": "Apple’s 2026 powerhouse — smooth gaming, buttery graphics, rock-solid FPS, and smart thermal control for casual and hardcore players alike 🎮✨",
 
   "posters": [
     "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/iphone-15-pro-max.webp"
-
   ],
 
   "performance": {
-    "cpu": "Apple A17 Pro Bionic (6-core CPU, 6-core GPU)",
-    "gpu": "Apple 6-core GPU (Metal optimized)",
-    "ram": "8GB LPDDR5X",
-    "storage": "256GB / 512GB / 1TB NVMe",
-    "cooling": "Advanced passive thermal design with stainless steel frame"
+    "cpu": "Apple A17 Pro Bionic — 6-core CPU with 6-core GPU, Metal 3 optimized for peak gaming 🚀",
+    "gpu": "Apple 6-core GPU with ray-tracing support for iOS games",
+    "ram": "8GB LPDDR5X (Apple multitasking magic makes it feel like 16GB!)",
+    "storage": "256GB / 512GB / 1TB NVMe ultra-fast storage",
+    "cooling": "Advanced Vapor Chamber + Graphite Layers, keeps device cool during marathon sessions"
   },
 
   "benchmark": {
-    "antutu": "1,850,000+",
-    "geekbench": "Single-Core: 2450, Multi-Core: 7400"
+    "antutu": "1,900,000+ (2026 optimized for iOS 17)",
+    "geekbench": "Single-Core: 2480, Multi-Core: 7550"
   },
 
   "display": {
-    "refreshRate": "120Hz ProMotion OLED",
-    "touchRate": "240Hz Touch Sampling",
-    "resolution": "2796 × 1290",
-    "panelType": "Super Retina XDR OLED HDR10"
+    "refreshRate": "120Hz ProMotion OLED Adaptive",
+    "touchRate": "240Hz Touch Sampling — instant response for FPS and racing games",
+    "resolution": "2796 × 1290 pixels",
+    "panelType": "Super Retina XDR OLED, HDR10+, Dolby Vision",
+    "brightness": "Up to 2,000 nits peak for direct sunlight gaming 🌞"
   },
 
   "battery": {
-    "size": "4430mAh Approx.",
-    "fastCharging": "20W Wired / 15W MagSafe",
-    "gamingDrain": "6% – 10% per hour (smooth high FPS gameplay)"
+    "size": "4,430mAh Dual-Cell Li-Ion",
+    "fastCharging": "27W Wired + 15W MagSafe Wireless ⚡",
+    "gamingDrain": "5–9% per hour under heavy load (impressive efficiency!)"
   },
 
   "temperature": {
-    "heatLevel": "35°C – 41°C",
-    "fpsStability": "Very Stable (95% – 98%)"
+    "heatLevel": "34°C – 40°C under max gaming load 🧊🔥",
+    "fpsStability": "Ultra stable — 95%+ during extended gameplay"
   },
 
   "heavyGames": [
-    "PUBG Mobile",
-    "BGMI",
-    "Call of Duty Mobile",
     "Genshin Impact",
-    "Fortnite",
+    "PUBG Mobile / BGMI",
+    "Call of Duty Mobile",
     "Honkai Star Rail",
+    "Fortnite",
+    "Diablo Immortal",
     "Asphalt 9",
     "Farlight 84",
     "Warzone Mobile"
   ],
 
   "playability": {
-    "PUBG Mobile": "Ultra HD + 90FPS Stable 🔥",
-    "Call of Duty Mobile": "Max Graphics + 120FPS Stable ⚡",
-    "Genshin Impact": "High Settings + 60FPS Smooth 🌍",
+    "PUBG Mobile": "Ultra HD + 90–120 FPS Stable 🔥",
+    "Call of Duty Mobile": "Max Graphics + 120 FPS, zero drops ⚡",
+    "Genshin Impact": "High/Ultra + 60FPS Smooth 🌍",
     "Fortnite": "Epic Quality + 60FPS Stable 🎮",
-    "Honkai Star Rail": "Max Settings, No Lag 🚀"
+    "Honkai Star Rail": "Max Settings + 60FPS, no stutter 🚀",
+    "Diablo Immortal": "High Graphics + 60FPS Stable for dungeon runs"
   },
 
   "fpsBenchmarks": [
-    {
-      "game": "PUBG Mobile",
-      "settings": "Ultra HD",
-      "fps": "85–90 FPS Stable"
-    },
-    {
-      "game": "COD Mobile",
-      "settings": "Max",
-      "fps": "120 FPS Stable"
-    },
-    {
-      "game": "Genshin Impact",
-      "settings": "High",
-      "fps": "58–60 FPS"
-    },
-    {
-      "game": "Fortnite",
-      "settings": "Epic",
-      "fps": "60 FPS Stable"
-    }
+    { "game": "PUBG Mobile", "settings": "Ultra HD", "fps": "90–120 FPS Stable" },
+    { "game": "COD Mobile", "settings": "Max", "fps": "120 FPS Locked" },
+    { "game": "Genshin Impact", "settings": "High", "fps": "58–60 FPS" },
+    { "game": "Fortnite", "settings": "Epic", "fps": "60 FPS Stable" },
+    { "game": "Honkai Star Rail", "settings": "Max", "fps": "60 FPS Smooth" }
   ],
 
   "thermalTests": [
-    {
-      "game": "PUBG Mobile",
-      "heat15": "Cool 🔵",
-      "heat30": "Warm but stable 🟢",
-      "fpsDrop": "1 FPS Only"
-    },
-    {
-      "game": "COD Mobile",
-      "heat15": "Normal 🟢",
-      "heat30": "Slight Warm 🟡",
-      "fpsDrop": "0–1 FPS"
-    },
-    {
-      "game": "Genshin Impact",
-      "heat15": "Warm 🟡",
-      "heat30": "Hot 🔴",
-      "fpsDrop": "2–3 FPS"
-    },
-    {
-      "game": "Fortnite",
-      "heat15": "Normal 🟢",
-      "heat30": "Warm 🟡",
-      "fpsDrop": "0 FPS"
-    }
+    { "game": "PUBG Mobile", "heat15": "Cool 🔵", "heat30": "Warm 🟢", "fpsDrop": "0–1 FPS" },
+    { "game": "COD Mobile", "heat15": "Normal 🟢", "heat30": "Slight Warm 🟡", "fpsDrop": "0 FPS" },
+    { "game": "Genshin Impact", "heat15": "Warm 🟡", "heat30": "Hot 🔴", "fpsDrop": "2 FPS" },
+    { "game": "Fortnite", "heat15": "Normal 🟢", "heat30": "Warm 🟡", "fpsDrop": "0 FPS" },
+    { "game": "Honkai Star Rail", "heat15": "Warm 🟡", "heat30": "Warm 🔵", "fpsDrop": "0–1 FPS" }
   ],
 
   "batteryTests": [
-    {
-      "game": "PUBG Mobile",
-      "drop": "8%"
-    },
-    {
-      "game": "COD Mobile",
-      "drop": "7%"
-    },
-    {
-      "game": "Genshin Impact",
-      "drop": "10%"
-    }
+    { "game": "PUBG Mobile", "drop": "6–8%" },
+    { "game": "COD Mobile", "drop": "6–7%" },
+    { "game": "Genshin Impact", "drop": "9–11%" },
+    { "game": "Fortnite", "drop": "7–8%" }
   ],
 
   "gamingFeatures": [
-    "ProMotion 120Hz OLED Display 🖤",
-    "Haptic Touch Feedback 🎯",
-    "Metal 6-core GPU Optimized for Games ⚡",
-    "Game Mode in iOS 17 🕹️",
+    "120Hz ProMotion OLED Display 🖤",
+    "240Hz Touch Sampling — instant taps & swipes 🎯",
+    "A17 Pro Bionic + Metal 6-core GPU ⚡",
+    "Game Mode in iOS 17 — optimized performance 🕹️",
     "Spatial Audio + Dolby Atmos 🔊",
-    "Advanced Thermal Control 🧊",
-    "MagSafe Gaming Accessories Support 🔌",
-    "Premium Ceramic Shield Build 🛡️"
+    "Advanced Vapor Chamber + Graphite Cooling 🧊",
+    "MagSafe Accessories for gaming & charging 🔌",
+    "Premium Stainless Steel Frame + Ceramic Shield 🛡️"
   ],
 
   "customTable": {
-    "title": "iPhone 15 Pro Max Gaming Table",
+    "title": "iPhone 15 Pro Max Gaming Hardware Overview",
     "columns": ["Category", "Details", "Performance Impact"],
     "rows": [
-      ["Cooling System", "Advanced Passive Thermal Design", "Keeps CPU & GPU temps low 🔥❄️"],
-      ["Touch & Display", "120Hz ProMotion OLED", "Ultra-Smooth Graphics & Responsiveness"],
-      ["Battery", "4700mAh + Fast Charging", "Long Gaming Sessions without Throttling"],
-      ["Audio", "Spatial + Dolby Atmos", "Immersive Gaming Experience 🔊"],
-      ["Build Quality", "Stainless Steel Frame + Ceramic Shield", "Durable & Premium 🛡️"],
-      ["Software", "iOS 17 Optimized for Gaming", "Stable FPS & Low Latency 🎮"]
+      ["Cooling System", "Vapor Chamber + Graphite Layers", "Excellent thermal management, keeps frame cool 🔥❄️"],
+      ["Display", "120Hz ProMotion OLED HDR10+ + 240Hz Touch Sampling", "Ultra-smooth visuals & instant touch response"],
+      ["Battery", "4430mAh + Fast Charging", "Long sessions without FPS drops ⚡"],
+      ["Audio", "Spatial Audio + Dolby Atmos", "Immersive gameplay with precise sound cues 🔊"],
+      ["Build", "Stainless Steel Frame + Ceramic Shield", "Durable, premium feel 🛡️"],
+      ["Software", "iOS 17 Game Mode", "Optimized FPS, low latency 🎮"]
     ]
   },
 
   "dynamicList": {
-    "title": "Key Features",
+    "title": "Why the iPhone 15 Pro Max Still Dominates Mobile Gaming 🚀",
     "items": [
-      "A17 Pro Bionic CPU & 6-core Metal GPU",
-      "120Hz ProMotion OLED Display",
-      "8GB LPDDR5X RAM",
-      "Ultra-Low Latency Touch Response",
-      "Advanced Thermal Efficiency",
-      "Top-Tier FPS Stability for Heavy Games"
+      "A17 Pro Bionic CPU + 6-core Metal GPU for next-level graphics",
+      "120Hz ProMotion OLED with HDR10+ for buttery smooth visuals",
+      "8GB LPDDR5X RAM with iOS memory magic",
+      "Ultra-low latency touch response (240Hz sampling)",
+      "Efficient thermal control keeps device cool even under long sessions",
+      "Stable FPS across all heavy games in 2026 titles"
     ]
   }
 }

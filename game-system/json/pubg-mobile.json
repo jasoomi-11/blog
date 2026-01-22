@@ -1,56 +1,56 @@
 {
   "shortIntro": {
-    "title": "What This Game Needs to Run Smoothly",
-    "para1": "PUBG Mobile is one of the most popular battle royale games on mobile. To enjoy smooth gameplay without lags or crashes, your device must meet certain minimum hardware and software requirements.",
-    "para2": "Low-end devices can run the game at 30 FPS with reduced settings, while mid-range and high-end devices can achieve stable 60-90 FPS or higher with high graphics settings."
+    "title": "What Your Device Needs to Crush PUBG Mobile",
+    "para1": "PUBG Mobile isn’t just another battle royale—it’s a fast-paced, chicken-dinner chasing arena where lag is your worst enemy. To keep your thumbs happy and your kills high, your device must meet certain specs.",
+    "para2": "Entry-level phones can get by at 25–30 FPS with minimal settings, while mid-range and flagship devices can hit buttery smooth 60–90 FPS or even more with full graphics turned on."
   },
 
-  "intro": "Below are the official minimum and recommended specifications required to run PUBG Mobile smoothly on Android devices.",
+  "intro": "Here’s the official lowdown on the minimum and recommended specs to get PUBG Mobile running smoothly on Android devices—so you can drop, loot, and dominate without frame drops.",
 
   "minimum": {
-    "OS Version": "Android 5.1.1 or above",
-    "RAM": "2GB minimum",
+    "OS Version": "Android 5.1.1 or newer",
+    "RAM": "2GB minimum (yes, you can try, but don’t blame us if it lags)",
     "CPU": "Snapdragon 435 / Exynos 7420 / MediaTek Helio P20 or equivalent",
     "GPU": "Adreno 505 / Mali-T860 or equivalent",
-    "Storage": "≈ 4GB Free",
-    "Internet": "Stable broadband or 3G/4G connection"
+    "Storage": "≈ 4GB Free (updates will make this grow!)",
+    "Internet": "Stable 3G/4G or broadband connection"
   },
 
   "recommended": {
     "OS Version": "Android 7.0 or above",
-    "RAM": "4GB or more",
+    "RAM": "4GB or more (for smooth chicken dinners)",
     "CPU": "Snapdragon 675 / Exynos 8895 / Helio G90T or better",
     "GPU": "Adreno 612 / Mali-G76 or better",
-    "Storage": "4–6GB Free",
-    "Internet": "Stable low-latency connection (4G/5G preferred)"
+    "Storage": "4–6GB Free (extra space for seasonal goodies)",
+    "Internet": "Low-latency 4G/5G or fast Wi-Fi for consistent aim and loot"
   },
 
-  "ios_intro": "iOS devices must meet the following minimum and recommended requirements for a smooth PUBG Mobile experience.",
+  "ios_intro": "iPhone and iPad fans, here’s what you need to dominate PUBG Mobile without frame drops or crashes.",
 
   "ios_minimum": [
     { "title": "OS Version", "value": "iOS 9.0 or later" },
     { "title": "Device", "value": "iPhone 5s / iPad 2 or newer" },
-    { "title": "Storage", "value": "≈ 4GB Free" }
+    { "title": "Storage", "value": "≈ 4GB Free (don’t forget updates!)" }
   ],
 
   "ios_recommended": [
     { "title": "OS Version", "value": "iOS 11 or later" },
-    { "title": "Device", "value": "iPhone 7 / iPhone 8 or newer" },
-    { "title": "Storage", "value": "At least 4GB Free" }
+    { "title": "Device", "value": "iPhone 7 / 8 or newer" },
+    { "title": "Storage", "value": "At least 4GB Free for smooth installs" }
   ],
 
-  "fps_intro": "Device performance varies based on hardware capability. Below is the expected FPS output for different device categories.",
-  
+  "fps_intro": "Your FPS experience depends heavily on your device. Here’s what to expect on different performance tiers:",
+
   "fps_list": [
-    { "category": "Low-End Devices", "fps": "25–30 FPS" },
-    { "category": "Mid-Range Devices", "fps": "40–60 FPS" },
-    { "category": "High-End Devices", "fps": "60–90 FPS Stable" }
+    { "category": "Low-End Devices", "fps": "25–30 FPS (choppy, but playable)" },
+    { "category": "Mid-Range Devices", "fps": "40–60 FPS (nice and smooth)" },
+    { "category": "High-End Devices", "fps": "60–90 FPS Stable (ultra buttery!)" }
   ],
 
-  "settings_intro": "Below are the best in-game settings for both low-end and high-end devices to achieve smooth performance and lag-free gameplay.",
+  "settings_intro": "Want perfect PUBG Mobile performance? Adjust these in-game settings based on your device tier for smooth gameplay and minimal lag.",
 
   "low_end": [
-    { "title": "Graphics", "value": "Smooth/Low" },
+    { "title": "Graphics", "value": "Smooth / Low" },
     { "title": "FPS", "value": "Medium" },
     { "title": "Effects", "value": "Low" },
     { "title": "Shadows", "value": "OFF" },
@@ -58,17 +58,17 @@
   ],
 
   "high_end": [
-    { "title": "Graphics", "value": "HDR/Ultra" },
+    { "title": "Graphics", "value": "HDR / Ultra (because why not!)" },
     { "title": "FPS", "value": "High (60-90 FPS)" },
     { "title": "Effects", "value": "High" },
     { "title": "Shadows", "value": "ON" },
-    { "title": "Anti-Aliasing", "value": "ON" }
+    { "title": "Anti-Aliasing", "value": "ON (smooth edges FTW)" }
   ],
 
-  "sectionIntro": "Below is the list of popular Android and iOS devices known to run PUBG Mobile smoothly and without lag.",
+  "sectionIntro": "Here’s a curated list of popular Android and iOS devices that run PUBG Mobile buttery smooth:",
 
   "androidDevices": [
-    "Samsung Galaxy S Series",
+    "Samsung Galaxy S Series (S21, S22, S23)",
     "Samsung Galaxy A Series (A50, A71, A72)",
     "Redmi Note Series",
     "Poco X Series / Poco F Series",
@@ -88,51 +88,51 @@
     "iPhone SE (2020 / 2022)"
   ],
 
-  "storageIntroText": "Below is the complete breakdown of PUBG Mobile’s download size, updates, and total required storage.",
+  "storageIntroText": "PUBG Mobile isn’t tiny. Here’s how much space you’ll actually need for installs and seasonal updates:",
 
   "storageDetails": [
     { "label": "Base Game Size", "value": "≈ 2.4 GB" },
-    { "label": "Additional Update Files", "value": "3–8 GB depending on season/updates" },
-    { "label": "Total Required Space", "value": "4–10 GB recommended" }
+    { "label": "Additional Update Files", "value": "3–8 GB depending on season / updates" },
+    { "label": "Total Required Space", "value": "4–10 GB recommended (yes, your phone loves storage!)" }
   ],
 
-  "faqIntroText": "Here are the most frequently asked questions about PUBG Mobile performance, device support, and optimization.",
+  "faqIntroText": "Got questions about PUBG Mobile performance, device support, or optimization? We got you:",
 
   "faqList": [
     {
       "question": "Can PUBG Mobile run on 2GB RAM devices?",
-      "answer": "Yes, but expect lower FPS and reduced graphics. Optimal performance is achieved on devices with 4GB RAM or higher."
+      "answer": "Yes, but expect low FPS and choppy visuals. For a smooth experience, go for 4GB or more."
     },
     {
       "question": "Does PUBG Mobile support high FPS modes?",
-      "answer": "Yes, most modern mid-range and high-end devices support 60 FPS, and some high-end devices can achieve 90 FPS in supported regions."
+      "answer": "Absolutely! Mid-range devices handle 60 FPS easily, and high-end phones can even push 90 FPS (like butter!)."
     },
     {
-      "question": "How much internet speed is required?",
-      "answer": "A stable connection of 2–5 Mbps is sufficient, but lower ping and higher bandwidth (4G/5G) provide smoother gameplay."
+      "question": "How fast does my internet need to be?",
+      "answer": "2–5 Mbps is the minimum, but 4G/5G or low-latency Wi-Fi ensures smooth loot grabs and no surprise deaths."
     }
   ],
 
   "title": "Device Comparison Insights",
-  "description": "Compare two or more mobile gaming devices side by side. Check FPS performance, thermal efficiency, and battery impact to make an informed choice.",
+  "description": "Compare mobile devices side by side for PUBG Mobile performance. Check FPS, thermal efficiency, battery life, and stability before you spend those coins.",
   "rows": [
     {
       "device1": "iPhone 14 Pro",
       "device2": "Samsung Galaxy S23 Ultra",
       "fps": "60-90 FPS",
-      "notes": "iPhone maintains cooler temperatures, Galaxy S23 Ultra has higher FPS potential"
+      "notes": "iPhone stays cooler, Galaxy S23 Ultra can hit slightly higher FPS in ultra settings."
     },
     {
       "device1": "Asus ROG Phone 6",
       "device2": "RedMagic 8 Pro",
       "fps": "90 FPS",
-      "notes": "Both handle ultra graphics without thermal throttling"
+      "notes": "Both handle ultra graphics without overheating or lag."
     },
     {
       "device1": "OnePlus 11",
       "device2": "Google Pixel 8 Pro",
       "fps": "60-90 FPS",
-      "notes": "OnePlus better battery efficiency, Pixel more consistent FPS"
+      "notes": "OnePlus has better battery efficiency; Pixel provides consistent FPS across sessions."
     }
   ]
 }

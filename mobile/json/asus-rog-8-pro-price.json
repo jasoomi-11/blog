@@ -3,10 +3,9 @@
     "name": "Asus ROG Phone 8 Pro",
     "thumbs": [
       "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/asus-rog-8-pro.webp"
-      
     ],
-    "summary": "Asus ROG Phone 8 Pro — next-gen flagship gaming smartphone powered by Snapdragon 8 Gen 3, 165Hz LTPO AMOLED, premium cooling system, and esports-grade performance for extreme mobile gaming 🎮🔥.",
-    "priceRange": "Varies by region",
+    "summary": "Asus ROG Phone 8 Pro — one of the last flagship gaming smartphones from the iconic ROG series, featuring Snapdragon 8 Gen 3, 165 Hz LTPO AMOLED, monster performance, advanced cooling, and pro‑grade cameras — built for esports, content creation, and uncompromised mobile play 🎮🔥. Note: Asus announced no future new phones in 2026, making this a collectible‑era gaming beast. 0",
+    "priceRange": "Approx. ₹94,999 – $1,199 (regional variance)",
 
     "countries": [
       {
@@ -35,10 +34,10 @@
         "flag": "🇵🇰",
         "country": "Pakistan",
         "currency": "PKR",
-        "displayPrice": "Rs 410,000 – Rs 470,000",
+        "displayPrice": "Rs 400,000 – Rs 480,000 (approx., late 2025/early 2026)",
         "variants": [
-          { "ram": "16GB / 512GB", "price": "Rs 410,000" },
-          { "ram": "24GB / 1TB", "price": "Rs 470,000" }
+          { "ram": "16GB / 512GB", "price": "Rs 400,000" },
+          { "ram": "24GB / 1TB", "price": "Rs 480,000" }
         ],
         "colors": ["Phantom Black"]
       },
@@ -50,6 +49,17 @@
         "variants": [
           { "ram": "16GB / 512GB", "price": "£950" },
           { "ram": "24GB / 1TB", "price": "£1,100" }
+        ],
+        "colors": ["Phantom Black"]
+      },
+      {
+        "flag": "🇪🇺",
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "displayPrice": "€1,050 – €1,250",
+        "variants": [
+          { "ram": "16GB / 512GB", "price": "€1,050" },
+          { "ram": "24GB / 1TB", "price": "€1,250" }
         ],
         "colors": ["Phantom Black"]
       },
@@ -76,49 +86,37 @@
         "colors": ["Phantom Black"]
       },
       {
-        "flag": "🇦🇪",
-        "country": "United Arab Emirates",
-        "currency": "AED",
-        "displayPrice": "AED 4,300 – AED 5,000",
-        "variants": [
-          { "ram": "16GB / 512GB", "price": "AED 4,300" },
-          { "ram": "24GB / 1TB", "price": "AED 5,000" }
-        ],
-        "colors": ["Phantom Black"]
-      },
-      {
-        "flag": "🇧🇩",
-        "country": "Bangladesh",
-        "currency": "BDT",
-        "displayPrice": "৳ 135,000 – ৳ 155,000",
-        "variants": [
-          { "ram": "16GB / 512GB", "price": "৳ 135,000" },
-          { "ram": "24GB / 1TB", "price": "৳ 155,000" }
-        ],
-        "colors": ["Phantom Black"]
-      },
-      {
         "flag": "🇵🇭",
         "country": "Philippines",
         "currency": "PHP",
-        "displayPrice": "₱ 70,000 – ₱ 82,000",
+        "displayPrice": "₱70,000 – ₱82,000",
         "variants": [
-          { "ram": "16GB / 512GB", "price": "₱ 70,000" },
-          { "ram": "24GB / 1TB", "price": "₱ 82,000" }
-        ],
-        "colors": ["Phantom Black"]
-      },
-      {
-        "flag": "🇪🇺",
-        "country": "Euro Zone",
-        "currency": "EUR",
-        "displayPrice": "€ 1,050 – € 1,250",
-        "variants": [
-          { "ram": "16GB / 512GB", "price": "€ 1,050" },
-          { "ram": "24GB / 1TB", "price": "€ 1,250" }
+          { "ram": "16GB / 512GB", "price": "₱70,000" },
+          { "ram": "24GB / 1TB", "price": "₱82,000" }
         ],
         "colors": ["Phantom Black"]
       }
-    ]
+    ],
+
+    "specs": {
+      "processor": "Qualcomm Snapdragon 8 Gen 3, Octa‑core up to 3.3 GHz (Adreno 750 GPU) for extreme multitasking and gaming performance. 1",
+      "memory": "LPDDR5X up to 24GB RAM",
+      "storage": "UFS 4.0 up to 1TB for massive game libraries",
+      "display": "6.78\" FHD+ LTPO AMOLED with up to 165 Hz refresh, HDR10+, 2500 nits peak brightness — perfect for competitive esports titles. 2",
+      "battery": "5500 mAh with 65W HyperCharge and 15W wireless charging (for convenience on the go). 3",
+      "os": "Android 14 with ROG UI out of the box",
+      "durability": "IP68 dust/water resistance for everyday peace of mind. 4",
+      "cameras": "Pro‑level triple camera configuration with Sony IMX890 main sensor and 6‑Axis Hybrid Gimbal Stabilizer 3.0 for shake‑free photos and videos. 5"
+    },
+
+    "features": [
+      "Esports‑grade 165 Hz gaming display with adaptive LTPO for battery efficiency. 6",
+      "Peak brightness up to 2500 nits for visibility even in sunlight. 7",
+      "720 Hz touch sampling for ultra‑responsive gaming controls. 8",
+      "Robust cooling system and optional AeroActive accessories on older models (still useful).",
+      "Pro audio with Dirac‑tuned stereo and spatial sound for immersive gameplay. 9"
+    ],
+
+    "notes": "Asus announced in early 2026 that it would halt new smartphone production, making existing ROG Phone models like the 8 Pro some of the last widely available gaming‑focused Android devices from the brand. 10"
   }
 }

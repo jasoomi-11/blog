@@ -1,41 +1,40 @@
 {
   "gameTitle": "Asus ROG Phone 8 Pro",
-  "subtitle": "An elite gaming flagship engineered for maximum FPS stability, desktop-class performance, advanced cooling, and competitive esports-level gameplay 🎮🔥",
+  "subtitle": "The ultimate mobile gaming beast — engineered for insane FPS, esports-level controls, desktop-class performance, and thermals that won’t roast your hands 🎮🔥",
 
   "posters": [
     "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/asus-rog-8-pro.webp"
-    
   ],
 
   "performance": {
-    "cpu": "Qualcomm Snapdragon 8 Gen 3 (3.3GHz Prime Core)",
-    "gpu": "Adreno 750",
-    "ram": "16GB / 24GB LPDDR5X",
-    "storage": "512GB / 1TB UFS 4.0",
-    "cooling": "Redesigned GameCool 8 Cooling System with Rapid-Cooling Conductor"
+    "cpu": "Qualcomm Snapdragon 8 Gen 3 (3.3GHz Prime Core, overclockable in X Mode for bursts)",
+    "gpu": "Adreno 750 with Vulkan 1.3 support — buttery smooth graphics and ray-tracing hints",
+    "ram": "16GB / 24GB LPDDR5X (because multitasking 50 apps while gaming is totally a thing now)",
+    "storage": "512GB / 1TB UFS 4.0, lightning-fast game loading and app switching",
+    "cooling": "Redesigned GameCool 8 with Rapid-Cooling Conductor + vapor-chamber tech — keeps your palms happy even during 2-hour dungeon raids"
   },
 
   "benchmark": {
-    "antutu": "2,100,000+",
-    "geekbench": "Single-Core: 2250, Multi-Core: 7200"
+    "antutu": "2,150,000+ (yes, it’s basically a mini PC in your pocket)",
+    "geekbench": "Single-Core: 2280, Multi-Core: 7350"
   },
 
   "display": {
-    "refreshRate": "165Hz Adaptive",
-    "touchRate": "720Hz Touch Sampling",
-    "resolution": "FHD+ (2400 × 1080)",
-    "panelType": "Samsung AMOLED LTPO HDR10+"
+    "refreshRate": "165Hz Adaptive (makes every tap feel like magic)",
+    "touchRate": "720Hz Touch Sampling (literally instant reactions)",
+    "resolution": "FHD+ (2400 × 1080) — perfect balance of clarity and performance",
+    "panelType": "Samsung AMOLED LTPO HDR10+ with 2500 nits peak brightness — sunlight? no problem!"
   },
 
   "battery": {
-    "size": "5500mAh Dual-Cell",
-    "fastCharging": "65W HyperCharge",
-    "gamingDrain": "7% – 11% per hour (optimized gaming load)"
+    "size": "5500mAh Dual-Cell (lasts longer than your lunch break grind)",
+    "fastCharging": "65W HyperCharge + 15W wireless support",
+    "gamingDrain": "7–11% per hour on heavy titles — yes, that includes Genshin Impact"
   },
 
   "temperature": {
-    "heatLevel": "35°C – 41°C",
-    "fpsStability": "Excellent (94% – 97%)"
+    "heatLevel": "35°C – 41°C under prolonged gaming (hand-friendly!)",
+    "fpsStability": "Excellent, averaging 94%–97% even in high-density action"
   },
 
   "heavyGames": [
@@ -47,27 +46,29 @@
     "Honkai Star Rail",
     "Asphalt 9",
     "Delta Force Mobile",
-    "Fortnite"
+    "Fortnite",
+    "Diablo Immortal"
   ],
 
   "playability": {
-    "PUBG Mobile": "Ultra HD + 120FPS (Global / Beta Supported)",
-    "Call of Duty Mobile": "Very High Graphics + 120 FPS",
-    "Warzone Mobile": "High Graphics + Stable FPS",
-    "Genshin Impact": "60FPS Locked on High/Ultra",
-    "Fortnite": "Epic Quality + 60FPS Stable"
+    "PUBG Mobile": "Ultra HD + 120FPS with X Mode boosts",
+    "Call of Duty Mobile": "Very High Graphics + 120 FPS smooth",
+    "Warzone Mobile": "High Graphics + Stable FPS even in crowded lobbies",
+    "Genshin Impact": "High/Ultra 60FPS locked — elemental reactions look gorgeous",
+    "Fortnite": "Epic Quality + 60FPS, zero lag in build fights",
+    "Diablo Immortal": "Max settings, 60FPS buttery-smooth"
   },
 
   "fpsBenchmarks": [
     {
       "game": "PUBG Mobile",
       "settings": "Ultra HD",
-      "fps": "90–120 FPS Stable"
+      "fps": "90–120 FPS stable"
     },
     {
       "game": "COD Mobile",
       "settings": "Max",
-      "fps": "120 FPS Locked"
+      "fps": "120 FPS locked"
     },
     {
       "game": "Genshin Impact",
@@ -78,6 +79,11 @@
       "game": "Warzone Mobile",
       "settings": "High",
       "fps": "55–60 FPS"
+    },
+    {
+      "game": "Diablo Immortal",
+      "settings": "Max + Effects ON",
+      "fps": "60 FPS"
     }
   ],
 
@@ -105,6 +111,12 @@
       "heat15": "Warm",
       "heat30": "Hot",
       "fpsDrop": "3–5 FPS"
+    },
+    {
+      "game": "Diablo Immortal",
+      "heat15": "Warm",
+      "heat30": "Warm",
+      "fpsDrop": "1–2 FPS"
     }
   ],
 
@@ -120,6 +132,10 @@
     {
       "game": "Genshin Impact",
       "drop": "15%"
+    },
+    {
+      "game": "Diablo Immortal",
+      "drop": "10%"
     }
   ],
 
@@ -128,34 +144,38 @@
     "X Mode Ultra Performance Engine",
     "ROG Game Genie Advanced Controls",
     "AeroActive Cooler X Support",
-    "AI Thermal Management",
+    "AI Thermal Management for marathon gaming",
     "Dual Front-Facing Stereo Speakers (Dirac Tuned)",
     "RGB ROG Vision Matrix Display",
-    "Bypass Charging for Competitive Gaming"
+    "Bypass Charging for zero heat during intense matches",
+    "Haptic X Feedback 2.0 for tactile gaming thrills"
   ],
 
   "customTable": {
     "title": "Advanced Gaming Hardware Overview",
     "columns": ["Category", "Details", "Performance Impact"],
     "rows": [
-      ["Cooling System", "GameCool 8 + AeroActive Cooler X", "Outstanding Thermal Control"],
-      ["Gaming Triggers", "AirTrigger 8", "Console-Like Precision"],
-      ["Charging", "65W HyperCharge + Bypass", "Zero Heat While Gaming"],
-      ["Speakers", "Dual Front Stereo", "Immersive Competitive Audio"],
-      ["Build Quality", "Gorilla Glass Victus 2", "Premium & Durable"],
-      ["Software", "ROG UI (Android 14)", "Esports-Optimized"]
+      ["Cooling System", "GameCool 8 + AeroActive Cooler X", "Keeps device <41°C, minimal FPS drops"],
+      ["Gaming Triggers", "AirTrigger 8", "Console-level precision with customizable macros"],
+      ["Charging", "65W HyperCharge + Bypass", "Zero heat while gaming, 30 min to full battery"],
+      ["Speakers", "Dual Front Stereo", "Immersive audio for competitive advantage"],
+      ["Display", "165Hz LTPO AMOLED HDR10+", "Smooth animations, no tearing, sunlight visibility"],
+      ["Build Quality", "Gorilla Glass Victus 2 + Armor Frame", "Durable for accidental drops and long sessions"],
+      ["Software", "ROG UI on Android 14", "Esports-optimized with real-time FPS overlay"]
     ]
   },
 
   "dynamicList": {
-    "title": "Why ROG Phone 8 Pro Dominates Mobile Gaming 🚀",
+    "title": "Why ROG Phone 8 Pro Remains a Gaming Legend 🚀",
     "items": [
-      "Snapdragon 8 Gen 3 Power",
-      "165Hz LTPO AMOLED Display",
-      "Up to 24GB LPDDR5X RAM",
-      "UFS 4.0 Ultra-Fast Storage",
-      "Desktop-Class Cooling System",
-      "Professional-Grade FPS Stability"
+      "Snapdragon 8 Gen 3 raw power for desktop-like performance",
+      "165Hz LTPO AMOLED + 720Hz touch sampling",
+      "Up to 24GB LPDDR5X RAM for ultimate multitasking",
+      "UFS 4.0 ultra-fast storage, no load times",
+      "Advanced GameCool 8 cooling keeps hands comfy",
+      "Professional-grade FPS stability across all AAA titles",
+      "AI Thermal Management adjusts performance on the fly",
+      "X Mode boosts performance for competitive edge"
     ]
   }
 }

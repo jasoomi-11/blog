@@ -33,7 +33,7 @@
 
 <!-- Dates -->
 <meta property="article:published_time" content="2025-12-08T10:00:00+05:00">
-<meta property="article:modified_time" content="2025-12-29T18:00:00+05:00">
+<meta property="article:modified_time" content="2026-01-22T18:00:00+05:00">
 
 <!-- PWA / Mobile -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -83,7 +83,7 @@
   "description":"PUBG Mobile full guide hub featuring sensitivity values, camera tuning, gyro settings, recoil control, device performance profiles, 90 fps compatibility, and optimization guides.",
   "inLanguage":"en",
   "datePublished":"2025-12-08T10:00:00+05:00",
-  "dateModified":"2025-12-29T18:00:00+05:00",
+  "dateModified":"2026-01-22T18:00:00+05:00",
   "articleSection":"Guides",
   "author":{
     "@type":"Organization",
@@ -754,7 +754,7 @@
 
     <!-- META -->
     <div class="hero-meta">
-      <span>By Blueverse Gaming</span> | <span>Last Updated <br>Dec 21, 2025</span>
+      <span>By Blueverse Gaming</span> | <span>Last Updated <br>Jan 22, 2026</span>
     </div>
 
     <!-- FEATURED IMAGE -->
@@ -775,232 +775,6 @@
 
 
 
-
-
-
-<!-- ================== AD CONTAINER ================== -->
-<div id="adContainer">
-  <div id="timer" class="waiting">⏳ Verifying...</div>
-  <div id="progressBar">
-    <div id="progress"></div>
-  </div>
-  <button id="adBtn" disabled>Continue</button>
-</div>
-
-<style>
-#adContainer{
-  max-width:420px;
-  margin:50px auto;
-  padding:24px;
-  background:linear-gradient(135deg,#1e3a8a,#2563eb);
-  border-radius:18px;
-  box-shadow:0 15px 35px rgba(0,0,0,.45);
-  text-align:center;
-  font-family:Segoe UI,system-ui;
-  color:#fff;
-}
-#timer{
-  font-size:18px;
-  font-weight:600;
-  margin-bottom:14px;
-  color:#c7d2fe;
-}
-#progressBar{
-  width:100%;
-  height:8px;
-  background:#94a3b8;
-  border-radius:6px;
-  overflow:hidden;
-  margin-bottom:18px;
-}
-#progress{
-  width:0%;
-  height:100%;
-  background:#22c55e;
-  transition:width 1s linear;
-}
-#adBtn{
-  width:100%;
-  padding:14px;
-  font-size:16px;
-  font-weight:700;
-  border:none;
-  border-radius:14px;
-  background:#22c55e;
-  color:#000;
-  cursor:pointer;
-  box-shadow:0 6px 18px rgba(0,0,0,.35);
-  transition:.3s;
-}
-#adBtn:hover:not(:disabled){
-  background:#16a34a;
-  transform:translateY(-2px);
-}
-#adBtn:disabled{
-  background:#94a3b8;
-  cursor:not-allowed;
-}
-@keyframes pulse{
-  0%{opacity:.6}
-  50%{opacity:1}
-  100%{opacity:.6}
-}
-.waiting{
-  animation:pulse 1s infinite;
-}
-</style>
-
-<script type="module">
-import { initializeApp } from "https://www.gstatic.com/firebasejs/10.11.0/firebase-app.js";
-import { getFirestore, doc, getDoc, updateDoc, arrayUnion, increment } from "https://www.gstatic.com/firebasejs/10.11.0/firebase-firestore.js";
-
-/* 🔥 FIREBASE CONFIG */
-const firebaseConfig = {
-  apiKey: "AIzaSyBe3E2eSUaDH5rZHguezaHjbxKmRA5QVd4",
-  authDomain: "rewards-b8f54.firebaseapp.com",
-  projectId: "rewards-b8f54"
-};
-
-const app = initializeApp(firebaseConfig);
-const db = getFirestore(app);
-
-/* ⚙️ SETTINGS */
-const COUNTDOWN = 5;
-const PLATFORM_EARNING = 0.0005;
-const DAILY_LIMIT = 120;
-const JSON_FILES = ["1.json","2.json","3.json"];
-
-/* 🎯 UI */
-const btn = document.getElementById("adBtn");
-const timer = document.getElementById("timer");
-const progress = document.getElementById("progress");
-
-/* 🔗 URL PARAMS */
-const params = new URLSearchParams(window.location.search);
-const uidParam = params.get("uid");
-const tokenParam = params.get("token");
-
-if (!uidParam || !tokenParam) {
-  btn.disabled = true;
-  timer.innerText = "Invalid access";
-}
-
-/* 🔗 GET NEXT UNUSED LINK */
-async function getNextLink(userData){
-  for (let file of JSON_FILES){
-    try{
-      const res = await fetch(file,{cache:"no-store"});
-      const data = await res.json();
-      const unused = data.filter(l => !userData.usedLinks?.includes(l));
-      if(unused.length) return unused[0];
-    }catch(e){}
-  }
-  return null;
-}
-
-/* 🔐 MAIN FUNCTION */
-async function init() {
-  if(!uidParam || !tokenParam) return;
-
-  const userRef = doc(db,"users",uidParam);
-  const snap = await getDoc(userRef);
-  if(!snap.exists()) {
-    btn.disabled = true;
-    timer.innerText = "Unauthorized";
-    return;
-  }
-
-  let userData = snap.data();
-  const today = new Date().toISOString().slice(0,10);
-
-  /* 🔁 DAILY RESET */
-  if(userData.tasksDate !== today){
-    await updateDoc(userRef,{
-      tasksDate: today,
-      todayClicks: 0,
-      usedTokens: [],
-      usedLinks: [],
-      lockedUntil: null
-    });
-    userData.todayClicks = 0;
-    userData.usedTokens = [];
-    userData.usedLinks = [];
-    userData.lockedUntil = null;
-  }
-
-  /* 🔒 LOCK CHECK */
-  if(userData.lockedUntil === today){
-    btn.disabled = true;
-    timer.innerText = "Come back tomorrow";
-    return;
-  }
-
-  /* 🔒 TOKEN CHECK */
-  if(userData.usedTokens?.includes(tokenParam)){
-    btn.disabled = true;
-    timer.innerText = "Already completed";
-    return;
-  }
-
-  /* 🔒 DAILY LIMIT CHECK */
-  if(userData.todayClicks >= DAILY_LIMIT){
-    btn.disabled = true;
-    timer.innerText = "Daily limit reached";
-    return;
-  }
-
-  /* 🔗 GET NEXT LINK */
-  const nextLink = await getNextLink(userData);
-  if(!nextLink){
-    btn.disabled = true;
-    timer.innerText = "No links available";
-    return;
-  }
-
-  /* ⏳ COUNTDOWN */
-  let sec = COUNTDOWN;
-  timer.innerText = `⏳ Available in ${sec}s`;
-  progress.style.width = "0%";
-  btn.disabled = true;
-
-  const iv = setInterval(()=>{
-    sec--;
-    timer.innerText = `⏳ Available in ${sec}s`;
-    progress.style.width = `${((COUNTDOWN-sec)/COUNTDOWN)*100}%`;
-    if(sec <= 0){
-      clearInterval(iv);
-      timer.innerText = "Click to continue";
-      btn.disabled = false;
-    }
-  },1000);
-
-  /* 👉 CLICK HANDLER */
-  btn.onclick = async () => {
-    btn.disabled = true;
-    timer.innerText = "Redirecting...";
-
-    const redirectUrl =
-      nextLink +
-      `?uid=${uidParam}&token=${btoa(crypto.randomUUID()+"|"+Date.now())}`;
-
-    /* 🔴 REDIRECT FIRST */
-    window.location.href = redirectUrl;
-
-    /* 🟢 FIRESTORE UPDATE AFTER CLICK */
-    await updateDoc(userRef,{
-      usedTokens: arrayUnion(tokenParam),
-      usedLinks: arrayUnion(nextLink),
-      totalClicks: increment(1),
-      todayClicks: increment(1),
-      totalEarnings: increment(PLATFORM_EARNING),
-      lockedUntil: today
-    });
-  };
-}
-
-/* ⚡ INIT */
-init();
-</script>
 
 
 
@@ -1181,7 +955,15 @@ init();
 </div>
 
 
-
+<div class="guide-item">
+    <span class="guide-badge">🎮 Pro Player Secrets</span>
+    <h3>🔥 PUBG Mobile Pro Tips & Secret Strategies: Solo & Squad Mastery (2026)</h3>
+    <p>
+        Unlock the hidden tricks of PUBG Mobile pros with this ultimate guide! Discover secret positioning, advanced recoil control, rotation hacks, loot efficiency, and team coordination techniques that top players swear by.  
+        Gain the edge in both solo and squad matches, survive longer, clutch more fights, and dominate every map like a true PUBG legend 🏆🎯.
+    </p>
+    <a href="/guides/pubg/pro-tip-secret.html" class="guide-btn">Explore Pro Secret Tips 👀</a>
+</div>
 
 
 
@@ -1284,7 +1066,7 @@ document.addEventListener("DOMContentLoaded", () => {
   </div>
 
   <div style="text-align:center; margin-top:20px; font-size:0.85rem; color:#7bb7dd;">
-    © 2025 BlueVerse. All Rights Reserved.
+    © 2026 BlueVerse. All Rights Reserved.
   </div>
 
 </footer>

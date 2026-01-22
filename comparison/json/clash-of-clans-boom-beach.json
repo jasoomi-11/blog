@@ -4,126 +4,121 @@
       {
         "name": "Clash of Clans",
         "thumbnail": "/assets/thumb/clash-of-clans.webp",
-        "genre": "Strategy Base-Building & Clan Warfare 🏰⚔️",
+        "genre": "Village Building & Epic Clan Battles 🏰⚔️",
         "developer": "Supercell",
         "release": "2012",
-        "gameplay": "A classic strategy game where players build villages, train armies, and raid others for loot. Clan wars, base layouts, and long-term progression are the soul of Clash of Clans. Simple to learn, brutally addictive 😅🔥."
+        "gameplay": "Build your empire from scratch, train quirky yet deadly troops, and raid other villages for loot. Master base layouts, participate in Clan Wars, and climb the global leaderboard. Fun fact: your walls might save you, but a sneaky Goblin never sleeps 😅🔥."
       },
       {
         "name": "Boom Beach",
         "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/boom-beach.webp",
-        "genre": "Strategy Assault & Island Warfare 🏝️💣",
+        "genre": "Island Assault Strategy 🌴💣",
         "developer": "Supercell",
         "release": "2014",
-        "gameplay": "A strategic island assault game focused on attacking enemy bases with precise troop deployment. Less about base defense, more about tactical offense and timing. Boom Beach rewards smart planning over spam attacks 🧠🎯."
+        "gameplay": "Plan surgical strikes on enemy bases with precise troop deployments. Less about defending your island, more about outsmarting opponents with timing, gunboat powers, and strategic flares. Boom Beach is basically chess… with explosions 🧠💥."
       }
     ]
   },
-
   "systemRequirements": {
     "games": [
       {
         "name": "Clash of Clans",
         "platform": "Android / iOS",
-        "storage": "500 MB 📦",
+        "storage": "550 MB 📦",
         "ram": "2 GB Recommended",
-        "cpuGpu": "Low to mid-range devices supported",
-        "fps": "Stable 60 FPS",
-        "graphics": "Cartoon-style, colorful visuals 🎨",
-        "online": "Online Required",
-        "battery": "Low 🔋 (Perfect for casual play)"
+        "cpuGpu": "Smooth on low to mid-range devices",
+        "fps": "Stable 60 FPS for smooth raids",
+        "graphics": "Vibrant cartoon-style visuals 🎨",
+        "online": "Required",
+        "battery": "Low 🔋 (Great for marathon sessions)"
       },
       {
         "name": "Boom Beach",
         "platform": "Android / iOS",
-        "storage": "600 MB 📦",
+        "storage": "650 MB 📦",
         "ram": "2 GB Recommended",
         "cpuGpu": "Low to mid-range devices supported",
         "fps": "Stable 60 FPS",
-        "graphics": "Clean tropical military visuals 🌴",
-        "online": "Online Required",
-        "battery": "Low to Moderate"
+        "graphics": "Clean tropical military visuals 🌊",
+        "online": "Required",
+        "battery": "Low to moderate 🔋"
       }
     ]
   },
-
   "keyFeatures": {
     "games": [
       {
         "name": "Clash of Clans",
-        "modes": "Multiplayer Raids, Clan Wars, Clan Capital, Builder Base",
-        "playerLimits": "Up to 50 players per clan 👥",
-        "graphicsStyle": "Cartoon fantasy warfare ✨",
-        "customization": "Village layouts, heroes, skins, sceneries",
+        "modes": "Clan Wars, Clan Capital, Builder Base, Multiplayer Raids",
+        "playerLimits": "50 players per clan 👥",
+        "graphicsStyle": "Bright, colorful, fantasy war vibes ✨",
+        "customization": "Village layouts, heroes, skins, decorations",
         "events": "Clan Games, seasonal events, special challenges 🎉",
-        "mechanics": "Base design, army composition, spell timing"
+        "mechanics": "Base design strategy, troop synergy, spell timing"
       },
       {
         "name": "Boom Beach",
         "modes": "PvE Islands, PvP Attacks, Task Force Operations",
         "playerLimits": "Task Forces up to 50 players",
-        "graphicsStyle": "Military island theme 🌊",
-        "customization": "Statues, troop upgrades, base defenses",
+        "graphicsStyle": "Tropical military theme 🌴🔫",
+        "customization": "Statues, troop upgrades, defensive setups",
         "events": "Mega Crab, Dr. T events 🦀",
-        "mechanics": "Gunboat abilities, troop control, surgical attacks"
+        "mechanics": "Gunboat abilities, precise troop control, timing attacks"
       }
     ]
   },
-
   "prosCons": {
     "games": [
       {
         "name": "Clash of Clans",
         "pros": [
-          "Massive global community 🌍",
-          "Deep clan-based gameplay",
-          "Endless updates even after 10+ years",
-          "Easy to play, hard to master",
-          "Great for both casual and competitive players"
+          "Huge global community 🌍",
+          "Clan-based gameplay with endless tactics",
+          "Frequent updates & seasonal content",
+          "Easy to start, hard to master",
+          "Perfect for casual and competitive players alike"
         ],
         "cons": [
-          "Long upgrade times ⏳",
-          "Progress can feel slow without patience",
-          "Heavily time-gated mechanics"
+          "Upgrade times can feel like forever ⏳",
+          "Time-gated mechanics require patience",
+          "Progress can be slow without strategy"
         ]
       },
       {
         "name": "Boom Beach",
         "pros": [
-          "Skill-based attacks feel very rewarding 🎯",
-          "Less grinding compared to Clash of Clans",
-          "Great PvE content",
-          "Strategic depth in troop control"
+          "Strategic attacks feel rewarding 🎯",
+          "Less grindy than Clash of Clans",
+          "PvE content is fun and challenging",
+          "Requires brain over brute force 🧠"
         ],
         "cons": [
-          "Smaller player base",
-          "Base defense feels less important",
-          "Slower update cycle",
-          "Less variety in attack styles"
+          "Smaller player community",
+          "Defensive gameplay is less emphasized",
+          "Updates arrive slower than CoC",
+          "Fewer attack style options"
         ]
       }
     ]
   },
-
   "popularityCommunity": {
     "games": [
       {
         "name": "Clash of Clans",
         "activePlayers": "100M+ Monthly Active Players 🌍",
-        "socialMedia": "Huge global fanbase",
-        "tournaments": "Clan War Leagues & Esports Events 🏆",
-        "engagement": "Base designs, attack strategies, clan wars, memes 😂"
+        "socialMedia": "Massive global fanbase, memes & guides",
+        "tournaments": "Clan War Leagues & competitive esports 🏆",
+        "engagement": "Epic base designs, raid strategies, viral memes 😂"
       },
       {
         "name": "Boom Beach",
-        "activePlayers": "Smaller but loyal community",
-        "socialMedia": "Niche but active",
-        "tournaments": "Limited competitive scene",
-        "engagement": "Strategy guides, Mega Crab runs, Task Force plays"
+        "activePlayers": "Smaller but fiercely loyal community",
+        "socialMedia": "Active niche forums & groups",
+        "tournaments": "Task Force competitions & limited events",
+        "engagement": "Strategic guides, Mega Crab runs, coordinated attacks"
       }
     ]
   },
-
   "pricingIAP": {
     "games": [
       {
@@ -131,18 +126,17 @@
         "price": "Free",
         "premiumFeatures": "Gold Pass, hero skins, magic items 🎫",
         "currency": "Gems 💎",
-        "specialOffers": "Seasonal passes and bundles"
+        "specialOffers": "Seasonal passes, bundles, and timed deals"
       },
       {
         "name": "Boom Beach",
         "price": "Free",
         "premiumFeatures": "Instant training, resources, statues",
         "currency": "Diamonds 💎",
-        "specialOffers": "Limited-time bundles"
+        "specialOffers": "Limited-time bundles and resource packs"
       }
     ]
   },
-
   "deviceCompatibility": {
     "games": [
       {
@@ -150,34 +144,33 @@
         "devices": "Android & iOS",
         "osVersion": "Android 5.0+ / iOS 11+",
         "crossPlatform": "Mobile only",
-        "pcConsole": "Playable via emulators"
+        "pcConsole": "Playable via emulators (Unofficial)"
       },
       {
         "name": "Boom Beach",
         "devices": "Android & iOS",
         "osVersion": "Android 5.0+ / iOS 11+",
         "crossPlatform": "Mobile only",
-        "pcConsole": "Playable via emulators"
+        "pcConsole": "Playable via emulators (Unofficial)"
       }
     ]
   },
-
   "faqs": [
     {
       "question": "Which game is better overall?",
-      "answer": "Clash of Clans 🏆 wins in long-term content, community size, and updates."
+      "answer": "Clash of Clans 🏆 for its massive community, regular updates, and long-term content."
     },
     {
-      "question": "Which game requires more skill?",
-      "answer": "Boom Beach 🎯 focuses more on precise attacks and timing."
+      "question": "Which game requires more strategy?",
+      "answer": "Boom Beach 🎯 rewards precise troop placement and tactical thinking."
     },
     {
-      "question": "Which game is more casual?",
-      "answer": "Clash of Clans is more relaxed and beginner-friendly 😄."
+      "question": "Which game is more beginner-friendly?",
+      "answer": "Clash of Clans 😄 is perfect for casual players and new strategists."
     },
     {
-      "question": "Can I play both games as free-to-play?",
-      "answer": "Yes 👍 both are fair for F2P players with patience."
+      "question": "Can both be played for free?",
+      "answer": "Yes 👍 both games are very fair for F2P players, though patience helps."
     }
   ]
 }
