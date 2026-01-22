@@ -777,14 +777,13 @@
 
 
 
+
 <!-- ================== AD CONTAINER ================== -->
 <div id="adContainer">
   <div id="timer" class="waiting">⏳ Verifying...</div>
-
   <div id="progressBar">
     <div id="progress"></div>
   </div>
-
   <button id="adBtn" disabled>Continue</button>
 </div>
 
@@ -854,7 +853,6 @@
 <script type="module">
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.11.0/firebase-app.js";
 import { getFirestore, doc, getDoc, updateDoc, arrayUnion, increment } from "https://www.gstatic.com/firebasejs/10.11.0/firebase-firestore.js";
-import { getAuth, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/10.11.0/firebase-auth.js";
 
 /* 🔥 FIREBASE CONFIG */
 const firebaseConfig = {
@@ -865,7 +863,6 @@ const firebaseConfig = {
 
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
-const auth = getAuth(app);
 
 /* ⚙️ SETTINGS */
 const COUNTDOWN = 5;
@@ -901,17 +898,17 @@ async function getNextLink(userData){
   return null;
 }
 
-/* 🔐 AUTH CHECK */
-onAuthStateChanged(auth, async user => {
-  if(!user || user.uid !== uidParam){
+/* 🔐 MAIN FUNCTION */
+async function init() {
+  if(!uidParam || !tokenParam) return;
+
+  const userRef = doc(db,"users",uidParam);
+  const snap = await getDoc(userRef);
+  if(!snap.exists()) {
     btn.disabled = true;
     timer.innerText = "Unauthorized";
     return;
   }
-
-  const userRef = doc(db,"users",user.uid);
-  const snap = await getDoc(userRef);
-  if(!snap.exists()) return;
 
   let userData = snap.data();
   const today = new Date().toISOString().slice(0,10);
@@ -945,14 +942,14 @@ onAuthStateChanged(auth, async user => {
     return;
   }
 
-  /* 🔒 LIMIT CHECK */
+  /* 🔒 DAILY LIMIT CHECK */
   if(userData.todayClicks >= DAILY_LIMIT){
     btn.disabled = true;
     timer.innerText = "Daily limit reached";
     return;
   }
 
-  /* 🔗 LINK */
+  /* 🔗 GET NEXT LINK */
   const nextLink = await getNextLink(userData);
   if(!nextLink){
     btn.disabled = true;
@@ -977,20 +974,20 @@ onAuthStateChanged(auth, async user => {
     }
   },1000);
 
-  /* 👉 CLICK */
-  btn.onclick = () => {
+  /* 👉 CLICK HANDLER */
+  btn.onclick = async () => {
     btn.disabled = true;
     timer.innerText = "Redirecting...";
 
     const redirectUrl =
       nextLink +
-      `?uid=${user.uid}&token=${btoa(crypto.randomUUID()+"|"+Date.now())}`;
+      `?uid=${uidParam}&token=${btoa(crypto.randomUUID()+"|"+Date.now())}`;
 
     /* 🔴 REDIRECT FIRST */
     window.location.href = redirectUrl;
 
-    /* 🟢 UPDATE AFTER REDIRECT */
-    updateDoc(userRef,{
+    /* 🟢 FIRESTORE UPDATE AFTER CLICK */
+    await updateDoc(userRef,{
       usedTokens: arrayUnion(tokenParam),
       usedLinks: arrayUnion(nextLink),
       totalClicks: increment(1),
@@ -999,8 +996,12 @@ onAuthStateChanged(auth, async user => {
       lockedUntil: today
     });
   };
-});
+}
+
+/* ⚡ INIT */
+init();
 </script>
+
 
 
 
