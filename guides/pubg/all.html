@@ -776,16 +776,18 @@
 
 
 
+
 <!-- ================== AD CONTAINER ================== -->
 <div id="adContainer">
-  <div id="timer" class="waiting">⏳ Please wait...</div>
+  <div id="timer" class="waiting">⏳ Verifying...</div>
+
   <div id="progressBar">
     <div id="progress"></div>
   </div>
+
   <button id="adBtn" disabled>Continue</button>
 </div>
 
-<!-- ================== STYLES ================== -->
 <style>
 #adContainer{
   max-width:420px;
@@ -798,14 +800,12 @@
   font-family:Segoe UI,system-ui;
   color:#fff;
 }
-
 #timer{
   font-size:18px;
   font-weight:600;
   margin-bottom:14px;
   color:#c7d2fe;
 }
-
 #progressBar{
   width:100%;
   height:8px;
@@ -814,14 +814,12 @@
   overflow:hidden;
   margin-bottom:18px;
 }
-
 #progress{
   width:0%;
   height:100%;
   background:#22c55e;
   transition:width 1s linear;
 }
-
 #adBtn{
   width:100%;
   padding:14px;
@@ -835,29 +833,27 @@
   box-shadow:0 6px 18px rgba(0,0,0,.35);
   transition:.3s;
 }
-
 #adBtn:hover:not(:disabled){
   background:#16a34a;
   transform:translateY(-2px);
 }
-
 #adBtn:disabled{
   background:#94a3b8;
   cursor:not-allowed;
 }
-
 @keyframes pulse{
   0%{opacity:.6}
   50%{opacity:1}
   100%{opacity:.6}
 }
-.waiting{animation:pulse 1s infinite;}
+.waiting{
+  animation:pulse 1s infinite;
+}
 </style>
 
-<!-- ================== SCRIPT ================== -->
 <script type="module">
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.11.0/firebase-app.js";
-import { getFirestore, doc, getDoc, updateDoc, increment, arrayUnion } from "https://www.gstatic.com/firebasejs/10.11.0/firebase-firestore.js";
+import { getFirestore, doc, getDoc, updateDoc, arrayUnion, increment } from "https://www.gstatic.com/firebasejs/10.11.0/firebase-firestore.js";
 import { getAuth, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/10.11.0/firebase-auth.js";
 
 /* 🔥 FIREBASE CONFIG */
@@ -866,134 +862,146 @@ const firebaseConfig = {
   authDomain: "rewards-b8f54.firebaseapp.com",
   projectId: "rewards-b8f54"
 };
+
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
 const auth = getAuth(app);
 
 /* ⚙️ SETTINGS */
-const COUNTDOWN = 5; // seconds
-const EARNING = 0.01; // per click
-const DAILY_LIMIT = 20;
-const LINKS_JSON = "/links.json";
+const COUNTDOWN = 5;
+const PLATFORM_EARNING = 0.0005;
+const DAILY_LIMIT = 120;
+const JSON_FILES = ["1.json","2.json","3.json"];
 
-/* 🎯 UI ELEMENTS */
+/* 🎯 UI */
 const btn = document.getElementById("adBtn");
 const timer = document.getElementById("timer");
 const progress = document.getElementById("progress");
 
-/* 🔗 TODAY */
-const today = ()=>new Date().toISOString().slice(0,10);
+/* 🔗 URL PARAMS */
+const params = new URLSearchParams(window.location.search);
+const uidParam = params.get("uid");
+const tokenParam = params.get("token");
 
-/* 🧠 TAB / NEW TAB BLOCK */
-const TAB_KEY = "ACTIVE_TOKEN";
+if (!uidParam || !tokenParam) {
+  btn.disabled = true;
+  timer.innerText = "Invalid access";
+}
 
-/* 🔗 AUTH CHECK */
+/* 🔗 GET NEXT UNUSED LINK */
+async function getNextLink(userData){
+  for (let file of JSON_FILES){
+    try{
+      const res = await fetch(file,{cache:"no-store"});
+      const data = await res.json();
+      const unused = data.filter(l => !userData.usedLinks?.includes(l));
+      if(unused.length) return unused[0];
+    }catch(e){}
+  }
+  return null;
+}
+
+/* 🔐 AUTH CHECK */
 onAuthStateChanged(auth, async user => {
-  if(!user) {
-    document.getElementById("adContainer").style.display="none";
+  if(!user || user.uid !== uidParam){
+    btn.disabled = true;
+    timer.innerText = "Unauthorized";
     return;
   }
 
-  const uid = user.uid;
-
-  // CREATE UNIQUE TOKEN
-  const token = btoa(uid + "-" + Date.now() + "-" + Math.random());
-
-  if(sessionStorage.getItem(TAB_KEY) && sessionStorage.getItem(TAB_KEY)!==token){
-    btn.disabled=true;
-    timer.innerText="Multiple tabs blocked";
-    return;
-  }
-  sessionStorage.setItem(TAB_KEY, token);
-
-  const userRef = doc(db,"users",uid);
+  const userRef = doc(db,"users",user.uid);
   const snap = await getDoc(userRef);
   if(!snap.exists()) return;
 
   let userData = snap.data();
+  const today = new Date().toISOString().slice(0,10);
 
-  // ACCOUNT STATUS
-  if(userData.status==="frozen"){
-    btn.disabled=true;
-    timer.innerText="Account frozen";
-    return;
-  }
-
-  // DAILY RESET
-  if(userData.tasksDate !== today()){
+  /* 🔁 DAILY RESET */
+  if(userData.tasksDate !== today){
     await updateDoc(userRef,{
-      tasksDate: today(),
+      tasksDate: today,
       todayClicks: 0,
       usedTokens: [],
-      usedLinks: []
+      usedLinks: [],
+      lockedUntil: null
     });
     userData.todayClicks = 0;
     userData.usedTokens = [];
     userData.usedLinks = [];
+    userData.lockedUntil = null;
   }
 
-  // TOKEN REUSE
-  if(userData.usedTokens?.includes(token)){
-    btn.disabled=true;
-    timer.innerText="Already completed";
+  /* 🔒 LOCK CHECK */
+  if(userData.lockedUntil === today){
+    btn.disabled = true;
+    timer.innerText = "Come back tomorrow";
     return;
   }
 
-  // DAILY LIMIT
+  /* 🔒 TOKEN CHECK */
+  if(userData.usedTokens?.includes(tokenParam)){
+    btn.disabled = true;
+    timer.innerText = "Already completed";
+    return;
+  }
+
+  /* 🔒 LIMIT CHECK */
   if(userData.todayClicks >= DAILY_LIMIT){
-    btn.disabled=true;
-    timer.innerText="Daily limit reached";
+    btn.disabled = true;
+    timer.innerText = "Daily limit reached";
     return;
   }
 
-  // FETCH UNIQUE LINK
-  const res = await fetch(LINKS_JSON, {cache:"no-store"});
-  const data = await res.json();
-  const available = data.filter(l => !userData.usedLinks.includes(l.id));
-  if(!available.length){
-    btn.disabled=true;
-    timer.innerText="No ads available";
+  /* 🔗 LINK */
+  const nextLink = await getNextLink(userData);
+  if(!nextLink){
+    btn.disabled = true;
+    timer.innerText = "No links available";
     return;
   }
 
-  const linkObj = available[Math.floor(Math.random() * available.length)];
-
-  // COUNTDOWN
+  /* ⏳ COUNTDOWN */
   let sec = COUNTDOWN;
-  btn.disabled = true;
-  timer.innerText = `Available in ${sec}s`;
+  timer.innerText = `⏳ Available in ${sec}s`;
   progress.style.width = "0%";
+  btn.disabled = true;
 
   const iv = setInterval(()=>{
     sec--;
-    timer.innerText = `Available in ${sec}s`;
-    progress.style.width = `${((COUNTDOWN - sec)/COUNTDOWN)*100}%`;
-    if(sec<=0){
+    timer.innerText = `⏳ Available in ${sec}s`;
+    progress.style.width = `${((COUNTDOWN-sec)/COUNTDOWN)*100}%`;
+    if(sec <= 0){
       clearInterval(iv);
       timer.innerText = "Click to continue";
       btn.disabled = false;
     }
   },1000);
 
-  // CLICK HANDLER
-  btn.onclick = async()=>{
+  /* 👉 CLICK */
+  btn.onclick = () => {
     btn.disabled = true;
     timer.innerText = "Redirecting...";
 
-    await updateDoc(userRef,{
+    const redirectUrl =
+      nextLink +
+      `?uid=${user.uid}&token=${btoa(crypto.randomUUID()+"|"+Date.now())}`;
+
+    /* 🔴 REDIRECT FIRST */
+    window.location.href = redirectUrl;
+
+    /* 🟢 UPDATE AFTER REDIRECT */
+    updateDoc(userRef,{
+      usedTokens: arrayUnion(tokenParam),
+      usedLinks: arrayUnion(nextLink),
       totalClicks: increment(1),
       todayClicks: increment(1),
-      totalEarnings: increment(EARNING),
-      usedTokens: arrayUnion(token),
-      usedLinks: arrayUnion(linkObj.id)
+      totalEarnings: increment(PLATFORM_EARNING),
+      lockedUntil: today
     });
-
-    sessionStorage.removeItem(TAB_KEY);
-
-    location.replace(linkObj.url);
   };
 });
 </script>
+
 
 
 
