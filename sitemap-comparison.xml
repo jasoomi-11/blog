@@ -4,7 +4,7 @@
   <!-- Section Homepage -->
   <url>
     <loc>https://blog.blueverse.space/comparison/comparison.html</loc>
-    <lastmod>2026-01-17</lastmod>
+    <lastmod>2026-01-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -215,6 +215,10 @@ Dec Update To 17 Feb -->
   
   
   
+  
+  
+  
+  
   <!-- 28 Dec Update To 28 Jan -->
  
   
@@ -284,9 +288,15 @@ Dec Update To 17 Feb -->
     <priority>0.9</priority>
   </url>
 
+<!--  23 Jan Update To 23 feb -->
 
 
-
+<url>
+    <loc>https://blog.blueverse.space/comparison/apex-legends-pubg-mobile.html</loc>
+    <lastmod>2026-01-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
 
 
 

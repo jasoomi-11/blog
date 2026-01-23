@@ -3,20 +3,20 @@
     "name": "Samsung Galaxy S23 Ultra",
     "thumbs": [
       "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/s23-ultra.webp"
-      
     ],
-    "summary": "Samsung Galaxy S23 Ultra — premium flagship with Snapdragon 8 Gen 2, Dynamic AMOLED 2X display, pro‑grade camera, and multi‑day battery life — perfect for gamers, creators, and power users alike.",
-    "priceRange": "Varies by region and storage variant",
+    "summary": "Samsung Galaxy S23 Ultra — premium flagship with Snapdragon 8 Gen 2, stunning Dynamic AMOLED 2X display, pro‑grade quad camera setup, top‑tier performance, and long‑lasting battery life — ideal for gamers, creators, and power users 👑📱.",
+    "priceRange": "Regional pricing varies with official retail and retailer promotions (2026).",
 
     "countries": [
       {
         "flag": "🇺🇸",
         "country": "United States",
         "currency": "USD",
-        "displayPrice": "$899 – $999 (commonly found on sale)",
+        "displayPrice": "$889 – $1,099 (official retail / sales)",
         "variants": [
-          { "ram": "12GB / 256GB", "price": "$899 – $949" },
-          { "ram": "12GB / 512GB", "price": "$969 – $1,019" }
+          { "ram": "12GB / 256GB", "price": "$889 – $949" },
+          { "ram": "12GB / 512GB", "price": "$969 – $1,019" },
+          { "ram": "12GB / 1TB", "price": "$1,049 – $1,099" }
         ],
         "colors": ["Phantom Black", "Green", "Cream", "Lavender"]
       },
@@ -24,88 +24,34 @@
         "flag": "🇮🇳",
         "country": "India",
         "currency": "INR",
-        "displayPrice": "₹109,999 – ₹154,999 (official with offers)",
+        "displayPrice": "₹77,000 – ₹1,55,000 (retail & discounts)",
         "variants": [
-          { "ram": "12GB / 256GB", "price": "₹109,999 – ₹124,999" },
-          { "ram": "12GB / 512GB", "price": "₹129,999 – ₹134,999" },
-          { "ram": "12GB / 1TB", "price": "₹154,999" }
+          { "ram": "12GB / 256GB", "price": "₹77,000 – ₹94,999" },
+          { "ram": "12GB / 512GB", "price": "₹99,999 – ₹1,61,999" },
+          { "ram": "12GB / 1TB", "price": "₹1,54,999 – ₹1,55,000" }
         ],
-        "colors": ["Phantom Black", "Green", "Cream", "Lavender"]
+        "colors": ["Phantom Black", "Green", "Cream", "Lavender"] 
       },
       {
         "flag": "🇵🇰",
         "country": "Pakistan",
         "currency": "PKR",
-        "displayPrice": "Rs 332,999 – Rs 401,999",
+        "displayPrice": "≈ Rs 329,999 – Rs 389,999",
         "variants": [
-          { "ram": "12GB / 256GB", "price": "Rs 332,999 – Rs 389,999" },
-          { "ram": "12GB / 512GB", "price": "Rs 389,999 – Rs 401,999" }
+          { "ram": "12GB / 256GB", "price": "Rs 329,999 – Rs 359,999" },
+          { "ram": "12GB / 512GB", "price": "Rs 369,999 – Rs 389,999" }
         ],
-        "colors": ["Phantom Black", "Graphite", "Green", "Sky Blue"]
+        "colors": ["Phantom Black", "Green", "Cream", "Lavender"]
       },
       {
         "flag": "🇬🇧",
         "country": "United Kingdom",
         "currency": "GBP",
-        "displayPrice": "£949 – £1,099 (frequent discounts)",
+        "displayPrice": "£899 – £1,099",
         "variants": [
-          { "ram": "12GB / 256GB", "price": "£949 – £999" },
-          { "ram": "12GB / 512GB", "price": "£1,049 – £1,099" }
-        ],
-        "colors": ["Phantom Black", "Green", "Cream", "Lavender"]
-      },
-      {
-        "flag": "🇨🇦",
-        "country": "Canada",
-        "currency": "CAD",
-        "displayPrice": "CA$1,300 – CA$1,700",
-        "variants": [
-          { "ram": "12GB / 256GB", "price": "CA$1,300 – CA$1,350" },
-          { "ram": "12GB / 512GB", "price": "CA$1,500 – CA$1,700" }
-        ],
-        "colors": ["Phantom Black", "Cream", "Green", "Lavender"]
-      },
-      {
-        "flag": "🇦🇺",
-        "country": "Australia",
-        "currency": "AUD",
-        "displayPrice": "A$1,500 – A$1,900",
-        "variants": [
-          { "ram": "12GB / 256GB", "price": "A$1,500 – A$1,600" },
-          { "ram": "12GB / 512GB", "price": "A$1,700 – A$1,900" }
-        ],
-        "colors": ["Phantom Black", "Green", "Cream", "Lavender"]
-      },
-      {
-        "flag": "🇦🇪",
-        "country": "United Arab Emirates",
-        "currency": "AED",
-        "displayPrice": "AED 3,899 – AED 4,299",
-        "variants": [
-          { "ram": "12GB / 256GB", "price": "AED 3,899 – AED 3,999" },
-          { "ram": "12GB / 512GB", "price": "AED 4,099 – AED 4,299" }
-        ],
-        "colors": ["Phantom Black", "Cream", "Green", "Lavender"]
-      },
-      {
-        "flag": "🇧🇩",
-        "country": "Bangladesh",
-        "currency": "BDT",
-        "displayPrice": "৳135,000 – ৳170,000 (official & grey options)",
-        "variants": [
-          { "ram": "12GB / 256GB", "price": "৳135,000 – ৳145,000" },
-          { "ram": "12GB / 512GB", "price": "৳155,000 – ৳170,000" }
-        ],
-        "colors": ["Phantom Black", "Green", "Cream", "Lavender"]
-      },
-      {
-        "flag": "🇵🇭",
-        "country": "Philippines",
-        "currency": "PHP",
-        "displayPrice": "₱51,000 – ₱70,000",
-        "variants": [
-          { "ram": "12GB / 256GB", "price": "₱51,000 – ₱58,000" },
-          { "ram": "12GB / 512GB", "price": "₱60,000 – ₱70,000" }
+          { "ram": "12GB / 256GB", "price": "£899 – £949" },
+          { "ram": "12GB / 512GB", "price": "£999 – £1,049" },
+          { "ram": "12GB / 1TB", "price": "£1,049 – £1,099" }
         ],
         "colors": ["Phantom Black", "Green", "Cream", "Lavender"]
       },
@@ -113,10 +59,57 @@
         "flag": "🇪🇺",
         "country": "Euro Zone",
         "currency": "EUR",
-        "displayPrice": "€1,100 – €1,399",
+        "displayPrice": "€1,050 – €1,399",
         "variants": [
-          { "ram": "12GB / 256GB", "price": "€1,100 – €1,249" },
-          { "ram": "12GB / 512GB", "price": "€1,299 – €1,399" }
+          { "ram": "12GB / 256GB", "price": "€1,050 – €1,149" },
+          { "ram": "12GB / 512GB", "price": "€1,249 – €1,329" },
+          { "ram": "12GB / 1TB", "price": "€1,329 – €1,399" }
+        ],
+        "colors": ["Phantom Black", "Green", "Cream", "Lavender"]
+      },
+      {
+        "flag": "🇦🇺",
+        "country": "Australia",
+        "currency": "AUD",
+        "displayPrice": "A$1,399 – A$1,899",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "A$1,399 – A$1,499" },
+          { "ram": "12GB / 512GB", "price": "A$1,599 – A$1,699" },
+          { "ram": "12GB / 1TB", "price": "A$1,699 – A$1,899" }
+        ],
+        "colors": ["Phantom Black", "Green", "Cream", "Lavender"]
+      },
+      {
+        "flag": "🇦🇪",
+        "country": "United Arab Emirates",
+        "currency": "AED",
+        "displayPrice": "AED 3,899 – AED 4,299 (regional pricing)",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "AED 3,899 – AED 3,999" },
+          { "ram": "12GB / 512GB", "price": "AED 4,099 – AED 4,199" },
+          { "ram": "12GB / 1TB", "price": "AED 4,199 – AED 4,299" }
+        ],
+        "colors": ["Phantom Black", "Green", "Cream", "Lavender"]
+      },
+      {
+        "flag": "🇧🇩",
+        "country": "Bangladesh",
+        "currency": "BDT",
+        "displayPrice": "৳1,35,000 – ৳1,70,000",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "৳1,35,000 – ৳1,45,000" },
+          { "ram": "12GB / 512GB", "price": "৳1,55,000 – ৳1,70,000" }
+        ],
+        "colors": ["Phantom Black", "Green", "Cream", "Lavender"]
+      },
+      {
+        "flag": "🇵🇭",
+        "country": "Philippines",
+        "currency": "PHP",
+        "displayPrice": "₱50,000 – ₱70,000 (approx.)",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "₱50,000 – ₱55,000" },
+          { "ram": "12GB / 512GB", "price": "₱58,000 – ₱70,000" }
         ],
         "colors": ["Phantom Black", "Green", "Cream", "Lavender"]
       }

@@ -1,73 +1,74 @@
 {
   "gameTitle": "Samsung Galaxy S23 Ultra",
-  "subtitle": "The ultimate flagship powerhouse: insane performance, buttery-smooth gameplay, and a beast for heavy gaming & multitasking. 💪📱",
+  "subtitle": "The flagship beast that handles anything you throw at it — from ultra‑heavy games to seamless multitasking. Perfect for hardcore gamers and power users alike ⚡📱",
 
   "posters": [
     "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/s23-ultra.webp"
-  
   ],
 
   "performance": {
-    "cpu": "Snapdragon 8 Gen 2 (3.36GHz Prime Core / Octa-Core)",
+    "cpu": "Qualcomm Snapdragon 8 Gen 2 (3.36GHz Prime + Octa‑Core)",
     "gpu": "Adreno 740",
     "ram": "8GB / 12GB / 16GB LPDDR5X",
     "storage": "256GB / 512GB / 1TB UFS 4.0",
-    "cooling": "Advanced Vapor Chamber & Graphene Layer Heat Dissipation"
+    "cooling": "Vapor Chamber + Graphene thermal layers for marathon gaming 🧊"
   },
 
   "benchmark": {
-    "antutu": "1,420,000+",
-    "geekbench": "Single-Core: 1955, Multi-Core: 5350"
+    "antutu": "≈ 1,450,000+ (top‑tier flagship score)",
+    "geekbench": "Single‑Core: ~1950, Multi‑Core: ~5400"
   },
 
   "display": {
-    "refreshRate": "120Hz Adaptive AMOLED 2X",
+    "refreshRate": "120Hz Adaptive Dynamic AMOLED 2X",
     "touchRate": "240Hz Touch Sampling",
     "resolution": "WQHD+ (3088 × 1440)",
-    "panelType": "Dynamic AMOLED 2X HDR10+"
+    "panelType": "Dynamic AMOLED 2X with HDR10+ brilliance"
   },
 
   "battery": {
-    "size": "5000mAh Dual Cell",
-    "fastCharging": "45W Super Fast Charging",
-    "gamingDrain": "6%–10% per hour (smooth as butter 🧈)"
+    "size": "5000mAh Dual‑Cell",
+    "fastCharging": "45W Super Fast Charge",
+    "gamingDrain": "≈ 5%–9% per hour (smooth and efficient 🔋)"
   },
 
   "temperature": {
-    "heatLevel": "35°C – 40°C (gaming marathons, no sweat 😅)",
-    "fpsStability": "Extremely Stable (95% – 98%)"
+    "heatLevel": "Low to moderate (≈ 34°C–40°C under heavy use)",
+    "fpsStability": "Rock‑solid (~95%+ stability even in intense sessions)"
   },
 
   "heavyGames": [
     "PUBG Mobile",
-    "BGMI",
     "Call of Duty Mobile",
     "Genshin Impact",
     "Fortnite",
     "Honkai Star Rail",
     "Asphalt 9",
     "Farlight 84",
-    "Warzone Mobile"
+    "Warzone Mobile",
+    "Apex Legends Mobile"
   ],
 
   "playability": {
-    "PUBG Mobile": "Ultra HD + 90FPS",
-    "Call of Duty Mobile": "Max Graphics + 120FPS",
-    "Genshin Impact": "High Settings + 60FPS Stable",
-    "Fortnite": "Epic + 60FPS Smooth",
-    "Honkai Star Rail": "Max Settings, buttery gameplay"
+    "PUBG Mobile": "Ultra HD visuals + up to 90FPS with superb responsiveness 🎯",
+    "Call of Duty Mobile": "Max graphics + 120FPS without stutters",
+    "Genshin Impact": "High settings, smooth exploration & combat",
+    "Fortnite": "Epic quality + steady 60FPS",
+    "Honkai Star Rail": "Maxed visuals, buttery gameplay",
+    "Asphalt 9": "High graphics + smooth racing thrills 🚗💨",
+    "Warzone Mobile": "Stable high‑fps performance"
   },
 
   "fpsBenchmarks": [
     {
       "game": "PUBG Mobile",
       "settings": "Ultra HD",
-      "fps": "80–95 FPS Stable"
+      "fps": "80–95 FPS Consistent"
     },
     {
-      "game": "COD Mobile",
+      "game": "Call of Duty Mobile",
       "settings": "Max",
-      "fps": "120 FPS Stable"
+      "fps": "120 FPS Lock"
     },
     {
       "game": "Genshin Impact",
@@ -77,33 +78,33 @@
     {
       "game": "Fortnite",
       "settings": "Epic",
-      "fps": "60 FPS Stable"
+      "fps": "60 FPS Steady"
     }
   ],
 
   "thermalTests": [
     {
       "game": "PUBG Mobile",
-      "heat15": "Cool & comfortable",
-      "heat30": "Warm but stable",
-      "fpsDrop": "1 FPS only"
+      "heat15": "Cool & comfy",
+      "heat30": "Mild warmth (no throttling)",
+      "fpsDrop": "1–2 FPS max"
     },
     {
       "game": "COD Mobile",
-      "heat15": "Normal",
-      "heat30": "Slight Warm",
-      "fpsDrop": "0 FPS"
+      "heat15": "Balanced temp",
+      "heat30": "Slight warmth",
+      "fpsDrop": "0 FPS — butter smooth"
     },
     {
       "game": "Genshin Impact",
       "heat15": "Warm",
-      "heat30": "Hot but manageable",
-      "fpsDrop": "2–3 FPS"
+      "heat30": "Warm but steady",
+      "fpsDrop": "2 FPS around extended play"
     },
     {
       "game": "Fortnite",
       "heat15": "Normal",
-      "heat30": "Warm",
+      "heat30": "Warm — no throttles",
       "fpsDrop": "0 FPS"
     }
   ],
@@ -111,51 +112,53 @@
   "batteryTests": [
     {
       "game": "PUBG Mobile",
-      "drop": "8%"
+      "drop": "≈ 7–8%"
     },
     {
       "game": "COD Mobile",
-      "drop": "7%"
+      "drop": "≈ 6–7%"
     },
     {
       "game": "Genshin Impact",
-      "drop": "12%"
+      "drop": "≈ 12–14%"
     }
   ],
 
   "gamingFeatures": [
-    "120Hz Adaptive Display for ultra-smooth motion",
-    "Dynamic AMOLED 2X HDR10+ visuals",
-    "Super Fast Charging 45W",
-    "Stereo Speakers tuned by AKG",
-    "Game Booster 6.0 for optimized performance",
-    "Advanced thermal management with graphene layer",
-    "S Pen support for precision commands (yes, even in games!)",
-    "Wireless Dex mode for big-screen gaming"
+    "120Hz Adaptive Dynamic Display — ultra‑smooth visuals for every game 🎨",
+    "HDR10+ Support — deeper contrast and color pop",
+    "45W Super Fast Charging — minimal downtime 🔋",
+    "Stereo Speakers tuned by AKG — rich, immersive audio",
+    "Game Booster 6.0 — dedicated game performance & heat control",
+    "Graphene + Vapor Chamber Cooling — stays cool under fire 🧊",
+    "S Pen compatibility — precision control for certain titles ✍️",
+    "Wireless DeX — big‑screen wireless gaming experience"
   ],
 
   "customTable": {
-    "title": "Custom Table Section",
+    "title": "Galaxy S23 Ultra Gaming Breakdown",
     "columns": ["Category", "Details", "Performance Impact"],
     "rows": [
-      ["Cooling System", "Vapor Chamber + Graphene Layer", "Keeps FPS stable during long sessions"],
-      ["Display", "120Hz AMOLED 2X", "Smooth animations & responsive gameplay"],
-      ["Charging", "45W Super Fast", "Minimal downtime between matches"],
-      ["Speaker Quality", "Stereo AKG Speakers", "Immersive sound for battle awareness"],
-      ["Build Quality", "Armor Aluminum Frame + Gorilla Glass Victus 2", "Premium & durable"],
-      ["Software", "One UI 6 (Android 14)", "Optimized for heavy games & multitasking"]
+      ["Cooling System", "Vapor Chamber + Graphene", "Excellent thermal stability for long sessions"],
+      ["Display", "120Hz Dynamic AMOLED 2X", "Super fluid visuals & responsiveness"],
+      ["Charging", "45W Fast Charge", "Quick battery top‑ups between matches"],
+      ["Speaker Quality", "AKG Tuned Stereo", "Enhanced situational audio cues"],
+      ["Build Quality", "Armor Aluminum + Gorilla Glass Victus 2", "Premium and durable"],
+      ["Software", "One UI 6", "Optimized gaming + multitasking support"]
     ]
   },
 
   "dynamicList": {
     "title": "Key Features",
     "items": [
-      "WQHD+ Dynamic AMOLED 2X Display",
-      "LPDDR5X RAM",
-      "UFS 4.0 Storage",
-      "Advanced Cooling & Thermal Management",
-      "Game Booster 6.0",
-      "Esports-Grade FPS Stability"
+      "Dynamic WQHD+ AMOLED display",
+      "Leading‑edge Snapdragon 8 Gen 2 performance",
+      "LPDDR5X RAM for intensive multitasking",
+      "UFS 4.0 storage for ultra‑fast loading",
+      "Advanced cooling for extended gaming",
+      "Game Booster 6.0 status monitoring",
+      "AI‑enhanced performance tuning",
+      "Esports‑grade FPS stability"
     ]
   }
 }

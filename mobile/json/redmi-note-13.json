@@ -1,40 +1,40 @@
 {
   "gameTitle": "Redmi Note 13 5G",
-  "subtitle": "Affordable yet surprisingly capable gaming smartphone — handles mid-tier games like a champ without burning a hole in your pocket 🔥💸.",
+  "subtitle": "A surprisingly smooth mid‑range gamer’s pick — excellent performance for popular titles without burning your budget 🔥💸.",
 
   "posters": [
     "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/redmi-note-13.webp"
   ],
 
   "performance": {
-    "cpu": "MediaTek Dimensity 6080+ Octa-Core (2.6GHz Max Turbo)",
-    "gpu": "Mali-G57 MC2",
+    "cpu": "MediaTek Dimensity 6080 Octa‑Core (up to 2.4GHz Boost)",
+    "gpu": "Mali‑G57 MC2 Graphics",
     "ram": "6GB / 8GB LPDDR4X",
     "storage": "128GB / 256GB UFS 2.2",
-    "cooling": "Basic heat dissipation system with smart throttling 🥶"
+    "cooling": "Efficient heat spreader with intelligent throttling 🧊"
   },
 
   "benchmark": {
-    "antutu": "≈ 450,000",
-    "geekbench": "Single-Core: 730, Multi-Core: 1850"
+    "antutu": "≈ 460,000 (updated 2026 estimate)",
+    "geekbench": "Single‑Core: ~750, Multi‑Core: ~1920"
   },
 
   "display": {
-    "refreshRate": "90Hz AMOLED",
-    "touchRate": "180Hz Touch Sampling",
+    "refreshRate": "90Hz AMOLED (fluid visuals)",
+    "touchRate": "180Hz Touch Sampling (fast inputs)",
     "resolution": "FHD+ (2400 × 1080)",
-    "panelType": "AMOLED with HDR10"
+    "panelType": "AMOLED with vibrant HDR10 colors"
   },
 
   "battery": {
     "size": "5000mAh",
-    "fastCharging": "33W TurboCharge",
-    "gamingDrain": "6% – 10% per hour (depending on game intensity ⚡)"
+    "fastCharging": "33W Fast Charge",
+    "gamingDrain": "≈ 7% – 9% per hour depending on game stress ⚡"
   },
 
   "temperature": {
-    "heatLevel": "36°C – 41°C",
-    "fpsStability": "Stable for casual to mid-level gaming (~85%–90%)"
+    "heatLevel": "35°C – 40°C under load",
+    "fpsStability": "Mostly stable (~88%–92% during mid‑tier games)"
   },
 
   "heavyGames": [
@@ -42,60 +42,60 @@
     "Call of Duty Mobile",
     "BGMI",
     "Asphalt 9",
-    "CSR2",
+    "CSR Racing 2",
     "Free Fire Max",
-    "Genshin Impact (low-medium settings)"
+    "Genshin Impact (low‑medium settings)"
   ],
 
   "playability": {
-    "PUBG Mobile": "Smooth HD + 60FPS support, no lag spams 😎",
-    "Call of Duty Mobile": "High Graphics + 60FPS, perfect for weekend warriors",
-    "BGMI": "Smooth with Medium Graphics, occasional drops in crowded zones",
-    "Asphalt 9": "High Graphics + stable performance, fast cars, no crashes 🚗💨",
-    "CSR2": "Max settings with smooth drag racing thrills",
-    "Genshin Impact": "Playable at low-medium, don’t expect pro FPS 💀"
+    "PUBG Mobile": "Very smooth on Balanced + 60FPS 😎",
+    "Call of Duty Mobile": "High graphics + stable frame pacing",
+    "BGMI": "Smooth at medium settings, good hit registration",
+    "Asphalt 9": "High settings with few slowdowns 🚗💨",
+    "CSR2": "Fluid drag racing with max visuals",
+    "Genshin Impact": "Playable on low‑medium, not ideal for long sessions"
   },
 
   "fpsBenchmarks": [
     {
       "game": "PUBG Mobile",
-      "settings": "HD",
-      "fps": "55–60 FPS Stable"
+      "settings": "Balanced",
+      "fps": "58–60 FPS Stable"
     },
     {
       "game": "COD Mobile",
       "settings": "High",
-      "fps": "55–60 FPS Stable"
+      "fps": "56–60 FPS Smooth"
     },
     {
       "game": "Asphalt 9",
       "settings": "High",
-      "fps": "50–55 FPS Smooth"
+      "fps": "52–57 FPS"
     },
     {
       "game": "CSR2",
       "settings": "Max",
-      "fps": "60 FPS Stable"
+      "fps": "60 FPS Continuous"
     }
   ],
 
   "thermalTests": [
     {
       "game": "PUBG Mobile",
-      "heat15": "Normal",
-      "heat30": "Warm but playable",
-      "fpsDrop": "1–2 FPS"
+      "heat15": "Warm but comfortable",
+      "heat30": "Warm on back panel",
+      "fpsDrop": "1–2 FPS at extended play"
     },
     {
       "game": "COD Mobile",
-      "heat15": "Normal",
-      "heat30": "Slight warm",
+      "heat15": "Mild warmth",
+      "heat30": "Heat held well",
       "fpsDrop": "0–1 FPS"
     },
     {
       "game": "Asphalt 9",
-      "heat15": "Normal",
-      "heat30": "Warm",
+      "heat15": "Moderate heat",
+      "heat30": "Warm, no throttling",
       "fpsDrop": "0–1 FPS"
     }
   ],
@@ -103,50 +103,51 @@
   "batteryTests": [
     {
       "game": "PUBG Mobile",
-      "drop": "8%"
+      "drop": "≈ 7%"
     },
     {
       "game": "COD Mobile",
-      "drop": "7%"
+      "drop": "≈ 6%"
     },
     {
       "game": "Asphalt 9",
-      "drop": "6%"
+      "drop": "≈ 5%"
     }
   ],
 
   "gamingFeatures": [
-    "90Hz AMOLED Display (smooth scrolls and racing!)",
-    "Game Turbo Mode for optimized performance",
-    "Stereo Dual Speakers (for that vroom vroom feeling 🚗💨)",
-    "Adaptive Touch Sampling",
-    "5000mAh Battery with 33W TurboCharge",
-    "Lightweight & sleek design (your palms will thank you 😅)",
-    "MIUI Gaming Dashboard for performance tweaks"
+    "90Hz AMOLED Display — smooth frame transitions 🎨",
+    "MIUI Game Turbo — performance tuning on the fly",
+    "Dual Stereo Speakers — immersive audio experience 🎧",
+    "180Hz Touch Sampling — faster control response",
+    "5000mAh Battery with 33W Fast Charge",
+    "Comfortable lightweight body for longer sessions 😌",
+    "Dedicated Gaming Dashboard for quick tweaks"
   ],
 
   "customTable": {
     "title": "Redmi Note 13 5G Gaming Insights",
     "columns": ["Category", "Details", "Performance Impact"],
     "rows": [
-      ["Cooling System", "Smart Heat Dissipation", "Keeps phone warm, not hot 🔥❌"],
-      ["Display", "90Hz AMOLED + HDR10", "Smooth visuals & colors pop"],
-      ["Battery", "5000mAh + 33W Fast Charge", "Long gaming sessions without worry"],
-      ["Speakers", "Dual Stereo Speakers", "Immersive sound for racing & shooters"],
-      ["RAM", "6GB / 8GB LPDDR4X", "Smooth multitasking & medium gaming"],
-      ["Software", "MIUI 14 Gaming Mode", "Optimized game experience"]
+      ["Cooling System", "Smart Vent Design", "Keeps heat in check for longer play"],
+      ["Display", "90Hz AMOLED + HDR10", "Vibrant visuals & smooth frames"],
+      ["Battery", "5000mAh + 33W Charging", "Long playtime with quick boosts"],
+      ["Speakers", "Dual Stereo Output", "Better audio direction & clarity"],
+      ["RAM", "6GB / 8GB LPDDR4X", "Strong multitasking & gaming headroom"],
+      ["Software", "MIUI Game Tools", "Advanced optimization features"]
     ]
   },
 
   "dynamicList": {
     "title": "Key Highlights",
     "items": [
-      "Affordable mid-range gaming smartphone",
-      "Smooth 90Hz AMOLED display for gaming",
-      "5000mAh battery for long play sessions",
-      "Stereo speakers for immersive sound",
-      "Game Turbo mode for FPS optimization",
-      "Lightweight & sleek for comfortable grip"
+      "Great affordable gaming performance",
+      "Smooth 90Hz AMOLED gaming display",
+      "Long battery life for sessions",
+      "Rich stereo audio for games",
+      "Game Turbo mode enhances stability",
+      "Fast touch response for action games",
+      "Comfortable & lightweight for extended play"
     ]
   }
 }

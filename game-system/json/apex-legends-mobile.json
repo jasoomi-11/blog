@@ -1,134 +1,134 @@
 {
   "shortIntro": {
-    "title": "What Your Device Needs for Smooth Apex Legends Mobile Gameplay 🏹📱",
-    "para1": "Apex Legends Mobile is a fast-paced battle royale where every gunfight, ultimate, and movement matters. To survive the dropship and clutch your wins, your device needs to handle intense graphics, quick animations, and zero input lag.",
-    "para2": "Precision aiming, quick ultimate usage, and smooth squad fights depend heavily on your GPU, RAM, and device cooling. Play on weak hardware and you might accidentally slide into enemy fire 😅🔥."
+    "title": "Is Your Phone Ready for Apex Legends Mobile? Let’s Find Out 🎮📲",
+    "para1": "Apex Legends Mobile is not your average tap-and-shoot game. It’s fast, tactical, and packed with chaotic gunfights where even a tiny lag can cost you the match.",
+    "para2": "Smooth aiming, instant slides, and clutch ultimates depend on strong hardware. If your phone can’t keep up, you’ll be spectating more than playing 😅🔥."
   },
 
-  "intro": "Here’s the full minimum and recommended specifications to dominate Apex Legends Mobile on Android and iOS. Tested by pro players and casual looters alike 😎🎯.",
+  "intro": "Below are the updated minimum and ideal device requirements for running Apex Legends Mobile smoothly on Android and iOS — whether you’re a try-hard ranked grinder or a chill squad looter 😎.",
 
   "minimum": {
-    "OS Version": "Android 7.0 or higher",
-    "RAM": "3GB minimum (barely enough for consistent firefights 😬)",
-    "CPU": "Quad/Octa-Core 1.8–2.0GHz",
-    "GPU": "Adreno 506 / Mali-G72 or equivalent",
-    "Storage": "3–4GB free space",
-    "Internet": "Stable internet – lag = instant death 💀"
+    "OS Version": "Android 7.0 or newer",
+    "RAM": "3GB (playable, but don’t expect miracles 😬)",
+    "CPU": "Quad / Octa-Core around 2.0GHz",
+    "GPU": "Adreno 506, Mali-G72, or similar",
+    "Storage": "At least 4GB free space",
+    "Internet": "Consistent connection – lag turns legends into loot boxes 💀"
   },
 
   "recommended": {
-    "OS Version": "Android 11 or higher",
-    "RAM": "6GB+ for buttery smooth gameplay 💨",
-    "CPU": "Snapdragon 750 / 860 / 8 Gen or newer",
-    "GPU": "Adreno 640 / Mali-G78 or better",
-    "Storage": "5GB+ recommended for skins, updates, and map packs",
-    "Internet": "Fast Wi-Fi or 5G – because bullets don’t wait!"
+    "OS Version": "Android 11 or above",
+    "RAM": "6GB or more for stable FPS 🚀",
+    "CPU": "Snapdragon 860, 870, 8 Gen series or newer",
+    "GPU": "Adreno 640 / Mali-G78 or higher",
+    "Storage": "5GB+ free for updates, maps, and cosmetics",
+    "Internet": "Strong Wi-Fi or 5G – because fights don’t pause!"
   },
 
-  "ios_intro": "Apex Legends Mobile is extremely optimized for iOS devices 🍏. Smooth animations, zero input lag, and perfect squad fights thanks to Apple’s GPU magic.",
+  "ios_intro": "On iOS, Apex Legends Mobile runs like butter 🧈. Apple’s hardware optimization keeps animations fluid and gunplay razor-sharp, even in intense squad battles.",
 
   "ios_minimum": [
     { "title": "OS Version", "value": "iOS 12 or later" },
-    { "title": "Device", "value": "iPhone 7 / 8 or newer" },
-    { "title": "Storage", "value": "3–4GB free space minimum" }
+    { "title": "Device", "value": "iPhone 8 / 8 Plus or newer" },
+    { "title": "Storage", "value": "Minimum 4GB free space" }
   ],
 
   "ios_recommended": [
-    { "title": "OS Version", "value": "iOS 14 or later" },
-    { "title": "Device", "value": "iPhone X / 11 / 12 Series or newer" },
-    { "title": "Storage", "value": "5GB+ free space recommended for smooth updates & skins" }
+    { "title": "OS Version", "value": "iOS 14 or newer" },
+    { "title": "Device", "value": "iPhone X, 11, 12 series and above" },
+    { "title": "Storage", "value": "5GB+ free space for smooth patches and skins" }
   ],
 
-  "fps_intro": "FPS matters in Apex Mobile! High FPS = smooth aiming, precise movement, and fewer rage quits 😎.",
+  "fps_intro": "Frame rate can make or break your Apex experience. Higher FPS means smoother tracking, faster reactions, and fewer angry exits 😎.",
 
   "fps_list": [
-    { "category": "Low-End Devices", "fps": "20–30 FPS (ouch, enemies everywhere 😬)" },
-    { "category": "Mid-Range Devices", "fps": "40–50 FPS (smooth for casual squads)" },
-    { "category": "High-End Devices", "fps": "60–90 FPS+ (pro-level firefights, zero lag 💪)" }
+    { "category": "Entry-Level Phones", "fps": "25–30 FPS (playable but chaotic 😬)" },
+    { "category": "Mid-Tier Phones", "fps": "40–55 FPS (balanced and enjoyable)" },
+    { "category": "Flagship Phones", "fps": "60–90 FPS+ (competitive beast mode 💪)" }
   ],
 
-  "settings_intro": "Optimizing graphics is key! Less lag = more headshots 🔫🏆.",
+  "settings_intro": "Tuning your graphics settings properly can boost FPS more than upgrading weapons 🔫🏆.",
 
   "low_end": [
-    { "title": "Graphics Quality", "value": "Low or Default to avoid frame drops" },
-    { "title": "Frame Rate", "value": "Standard FPS (aim carefully 😅)" },
-    { "title": "Effects", "value": "Reduce particle and shadow effects for clearer enemies" },
-    { "title": "Background Apps", "value": "Close everything else unless you like surprise crashes 😡" }
+    { "title": "Graphics Quality", "value": "Low or Medium for stable gameplay" },
+    { "title": "Frame Rate", "value": "Standard to avoid sudden drops" },
+    { "title": "Visual Effects", "value": "Disable extra shadows and particles" },
+    { "title": "Background Apps", "value": "Close unused apps to save RAM" }
   ],
 
   "high_end": [
-    { "title": "Graphics Quality", "value": "High / Ultra (pretty explosions ✨)" },
-    { "title": "Frame Rate", "value": "Enable Max FPS for pro-level combat" },
-    { "title": "Thermal Control", "value": "Keep device cool or you'll drop mid-squad fight 🔥" },
-    { "title": "Storage Speed", "value": "Keep 1GB+ free to load weapons, skins, and maps instantly" }
+    { "title": "Graphics Quality", "value": "High or Ultra for stunning visuals ✨" },
+    { "title": "Frame Rate", "value": "Enable Max FPS for competitive play" },
+    { "title": "Thermal Management", "value": "Avoid overheating to prevent FPS throttling 🔥" },
+    { "title": "Free Storage", "value": "Keep extra space for faster loading" }
   ],
 
-  "sectionIntro": "These Android & iOS devices will give you the ultimate Apex Legends Mobile experience: smooth combat, fast squad rotations, and zero lag.",
+  "sectionIntro": "These smartphones and tablets deliver a top-tier Apex Legends Mobile experience with smooth rotations, sharp aiming, and reliable FPS.",
 
   "androidDevices": [
-    "Samsung Galaxy S21 / S22 / S23 / S24 Series",
-    "Xiaomi Redmi Note 12 / 13 Pro / Poco X5 / F6",
-    "Realme GT Neo 2 / 3 / 4",
-    "OnePlus Nord 3 / 4 / 5",
-    "Google Pixel 6 / 7 / 8 Series",
-    "Infinix Zero / GT Series"
+    "Samsung Galaxy S21, S22, S23, S24 lineup",
+    "Xiaomi Redmi Note 13 Pro, Poco X5, Poco F6",
+    "Realme GT Neo 3, GT Neo 4",
+    "OnePlus Nord 3, Nord 4, Nord CE series",
+    "Google Pixel 6, 7, and 8 family",
+    "Infinix Zero and GT gaming phones"
   ],
 
   "iosDevices": [
-    "iPhone X / XR / XS",
-    "iPhone 11 / 12 / 13 / 14 Series",
-    "iPhone SE 2020 / 2022",
-    "iPad Mini 5 / 6",
-    "iPad Air 3rd Gen+"
+    "iPhone X, XR, XS",
+    "iPhone 11, 12, 13, 14 series",
+    "iPhone SE (2020 & 2022)",
+    "iPad Mini 5 & 6",
+    "iPad Air 3rd generation and newer"
   ],
 
-  "storageIntroText": "Apex Mobile isn’t a tiny download – skins, legends, and map updates add up fast. Here’s the storage breakdown 📦:",
+  "storageIntroText": "Apex Legends Mobile grows over time with seasons and events. Here’s how much space you should expect 📦:",
 
   "storageDetails": [
-    { "label": "Base Game Size", "value": "≈ 2.5GB" },
-    { "label": "HD Texture Pack", "value": "500MB–1GB (optional, but gorgeous ✨)" },
-    { "label": "Seasonal Updates", "value": "300–700MB per season" },
-    { "label": "Total Required Space", "value": "5GB+ recommended for smooth gameplay" }
+    { "label": "Initial Download", "value": "Around 2.5GB" },
+    { "label": "HD Graphics Pack", "value": "500MB–1GB (optional but eye-candy ✨)" },
+    { "label": "Season Updates", "value": "300–700MB per update" },
+    { "label": "Safe Storage Amount", "value": "5GB+ for long-term smooth play" }
   ],
 
-  "faqIntroText": "FAQs for Apex Legends Mobile – answers to keep you winning without rage quitting 😎:",
+  "faqIntroText": "Common Apex Legends Mobile questions — answered without the rage 😎:",
 
   "faqList": [
     {
-      "question": "Is Apex Mobile heavy on phones?",
-      "answer": "Yes, especially in 3v3 or full squad firefights. A strong GPU and 6GB+ RAM will make your life easier."
+      "question": "Does Apex Legends Mobile require a powerful phone?",
+      "answer": "Yes. While it runs on budget devices, mid-range or better hardware delivers smoother fights and better aiming."
     },
     {
-      "question": "Can my phone run Apex at 60 FPS?",
-      "answer": "Only mid-range or high-end devices can handle 60+ FPS with Ultra settings. Low-end devices will struggle."
+      "question": "Is 60 FPS possible on mobile?",
+      "answer": "Yes, but only on capable mid-range and flagship phones with high FPS mode enabled."
     },
     {
-      "question": "Why does my phone heat up during Apex Mobile?",
-      "answer": "All the particle effects, map details, and ultimate skills make your phone work overtime. Close apps and stay cool 😅."
+      "question": "Why does Apex Mobile heat my phone?",
+      "answer": "Fast animations, detailed maps, and constant action push your CPU and GPU hard. Cooling and breaks help 😅."
     }
   ],
 
-  "title": "Device Comparison Insights 🔍",
-  "description": "Compare real-world Apex Mobile performance, FPS stability, graphics handling, and input smoothness for top Android & iOS devices.",
+  "title": "Real Device Performance Comparison 🔍",
+  "description": "Side-by-side comparison of Apex Legends Mobile performance based on FPS stability, heat control, and visual quality.",
 
   "rows": [
     {
       "device1": "Samsung Galaxy S22",
       "device2": "Xiaomi Redmi Note 13 Pro",
-      "performance": "Both handle squad battles smoothly with minimal lag.",
-      "notes": "S22 offers higher FPS in Ultra mode, Note 13 Pro stays cooler during long firefights."
+      "performance": "Both provide stable gameplay in ranked and casual matches.",
+      "notes": "S22 delivers higher peak FPS, while Note 13 Pro manages heat better."
     },
     {
       "device1": "Realme GT Neo 3",
       "device2": "Poco F6",
-      "performance": "Both devices run Apex with high-quality textures without stuttering.",
-      "notes": "GT Neo 3 excels in long squad matches, Poco F6 has slightly faster weapon loading."
+      "performance": "Smooth textures and responsive controls on both devices.",
+      "notes": "GT Neo 3 is better for long sessions; Poco F6 loads maps faster."
     },
     {
       "device1": "iPhone 13",
       "device2": "iPhone XR",
-      "performance": "Both run smooth 60+ FPS in squad fights.",
-      "notes": "iPhone 13 shines with ultra-quality effects, XR is solid but may drop a frame during heavy firefights."
+      "performance": "Consistent 60 FPS during most fights.",
+      "notes": "iPhone 13 handles Ultra effects better, XR may dip during heavy action."
     }
   ]
 }

@@ -1,0 +1,173 @@
+{
+  "gameTitle": "Xiaomi Black Shark 6 Pro",
+  "subtitle": "The mobile gladiator that laughs at heat, lag, and frame drops while you dominate every match 😎",
+
+  "posters": [
+    "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/xiaomi-black-shark-6-pro.webp"
+  ],
+
+  "whatMakesItSpecial": "Black Shark 6 Pro is all about gaming, pure and simple. Shoulder triggers, top-tier cooling, and blazing hardware turn your pocket into a mobile esports arena.",
+
+  "performance": {
+    "cpu": "Qualcomm Snapdragon 8 Gen 3 (4nm, up to 3.36GHz Prime Core)",
+    "gpu": "Adreno 750 (console-like graphics on mobile)",
+    "ram": "12GB / 16GB LPDDR5X (lightning-fast multitasking for heavy games)",
+    "storage": "256GB / 512GB UFS 4.0 (load levels before your coffee brews)",
+    "cooling": "Liquid Cooling + Vapor Chamber + Graphene Layer",
+    "realWorldImpact": "Peak performance remains rock-solid during 2–3 hour marathon gaming sessions."
+  },
+
+  "benchmark": {
+    "antutu": "1,450,000 – 1,470,000",
+    "geekbench": {
+      "singleCore": "1950 – 2000",
+      "multiCore": "5300 – 5600"
+    },
+    "note": "Raw numbers impress, but the smooth gameplay is where it truly shines."
+  },
+
+  "display": {
+    "size": "6.78-inch",
+    "refreshRate": "144Hz AMOLED",
+    "touchRate": "720Hz Touch Sampling",
+    "resolution": "FHD+ (2460 × 1080)",
+    "panelType": "Samsung E5 AMOLED, HDR10+",
+    "brightness": "Up to 1300 nits peak",
+    "experience": "Ultra-fluid visuals and lightning-quick touch response make aiming feel telepathic."
+  },
+
+  "battery": {
+    "size": "5000mAh Dual-Cell",
+    "fastCharging": "120W HyperCharge (0–100% in ~25 min)",
+    "gamingDrain": "7–10% per hour for heavy titles",
+    "smartCharging": "Heat management mode keeps battery cool during long play"
+  },
+
+  "temperature": {
+    "averageGaming": "35°C – 39°C",
+    "extremeLoad": "Up to 41°C",
+    "fpsStability": "93% – 97%",
+    "comfortLevel": "Warm but never uncomfortable, even during marathon sessions."
+  },
+
+  "heavyGames": [
+    "PUBG Mobile",
+    "BGMI",
+    "Call of Duty Mobile",
+    "Genshin Impact",
+    "Fortnite",
+    "Honkai Star Rail",
+    "Asphalt 9",
+    "Farlight 84",
+    "Warzone Mobile"
+  ],
+
+  "playability": {
+    "PUBG Mobile": "Ultra HD Graphics + 90FPS (competitive-ready)",
+    "Call of Duty Mobile": "Max Graphics + 120FPS",
+    "Genshin Impact": "High Settings + 60FPS Stable",
+    "Fortnite": "Epic + Locked 60FPS",
+    "Honkai Star Rail": "Max Settings, buttery-smooth gameplay"
+  },
+
+  "fpsBenchmarks": [
+    {
+      "game": "PUBG Mobile",
+      "settings": "Ultra HD",
+      "fps": "78–90 FPS Stable"
+    },
+    {
+      "game": "COD Mobile",
+      "settings": "Max",
+      "fps": "115–120 FPS"
+    },
+    {
+      "game": "Genshin Impact",
+      "settings": "High",
+      "fps": "55–60 FPS"
+    },
+    {
+      "game": "Fortnite",
+      "settings": "Epic",
+      "fps": "60 FPS Locked"
+    }
+  ],
+
+  "thermalTests": [
+    {
+      "game": "PUBG Mobile",
+      "after15Min": "Cool & comfy",
+      "after30Min": "Slightly warm",
+      "fpsDrop": "1 FPS"
+    },
+    {
+      "game": "COD Mobile",
+      "after15Min": "Normal",
+      "after30Min": "Warm",
+      "fpsDrop": "0–1 FPS"
+    },
+    {
+      "game": "Genshin Impact",
+      "after15Min": "Warm",
+      "after30Min": "Hot but controlled",
+      "fpsDrop": "2–3 FPS"
+    }
+  ],
+
+  "batteryTests": [
+    {
+      "game": "PUBG Mobile",
+      "oneHourDrop": "10%"
+    },
+    {
+      "game": "COD Mobile",
+      "oneHourDrop": "8%"
+    },
+    {
+      "game": "Genshin Impact",
+      "oneHourDrop": "14–15%"
+    }
+  ],
+
+  "gamingFeatures": [
+    "Ultrasonic Shoulder Triggers (AirTrigger Pro 2.0)",
+    "Shark Space for Maximum Performance",
+    "Advanced Game Dock Overlay",
+    "4D Haptics & Vibration Feedback",
+    "Front-Facing Stereo Speakers",
+    "Liquid Cooling + Graphene Thermal Layer",
+    "RGB Lighting Customization"
+  ],
+
+  "customTable": {
+    "title": "Gaming Hardware Breakdown",
+    "columns": ["Component", "Specification", "Gaming Benefit"],
+    "rows": [
+      ["Cooling System", "Liquid + Vapor + Graphene", "Keeps FPS rock-solid"],
+      ["Triggers", "AirTrigger Pro 2.0", "Faster aim & shooting"],
+      ["Charging", "120W HyperCharge", "Back in game in minutes"],
+      ["Speakers", "Dual Front Stereo", "Immersive sound for competitive edge"],
+      ["Build", "Aluminum Frame + Gorilla Glass Victus", "Premium durability"],
+      ["Software", "JOY UI (Android 14)", "Optimized for heavy gaming & multitasking"]
+    ]
+  },
+
+  "dynamicList": {
+    "title": "Why Gamers Love Black Shark 6 Pro",
+    "items": [
+      "144Hz AMOLED for ultra-smooth visuals",
+      "Snapdragon 8 Gen 3 power",
+      "LPDDR5X RAM + UFS 4.0 storage",
+      "Next-level thermal management",
+      "Esports-grade FPS stability",
+      "Marathon-ready battery & fast charge"
+    ]
+  },
+
+  "finalVerdict": {
+    "rating": "9.5 / 10",
+    "bestFor": "Hardcore gamers, esports enthusiasts, and mobile streamers",
+    "notIdealFor": "Casual players who rarely game",
+    "oneLineSummary": "A pocket-sized esports powerhouse that delivers top-tier performance without compromise."
+  }
+}

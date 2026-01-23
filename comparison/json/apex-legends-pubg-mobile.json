@@ -1,0 +1,183 @@
+{
+  "gameComparison": {
+    "games": [
+      {
+        "name": "Apex Legends Mobile",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/apex-legends.webp",
+        "genre": "Hero Battle Royale 🚀💨",
+        "developer": "Respawn Entertainment (EA)",
+        "release": "2022 (Mobile servers closed 2023 ❌)",
+        "gameplay": "Fast-paced squad-based battle royale featuring iconic Legends, tactical abilities, and wall-running movement. High skill ceiling with advanced mobility — glide, slide, and zip-line like a pro 💪🔥. Sadly, it’s now a legend of the past."
+      },
+      {
+        "name": "PUBG Mobile",
+        "thumbnail": "/assets/thumb/pubg-mobile.webp",
+        "genre": "Classic Battle Royale 🔫🏞️",
+        "developer": "Tencent Games / PUBG Corporation",
+        "release": "2018",
+        "gameplay": "The OG battle royale with massive maps, realistic shooting mechanics, vehicles, and survival strategy. Perfect for tense moments, chicken dinners, and squad coordination 🐔🏆. Runs on nearly every Android & iOS device."
+      }
+    ]
+  },
+
+  "systemRequirements": {
+    "games": [
+      {
+        "name": "Apex Legends Mobile",
+        "platform": "Android / iOS",
+        "storage": "4–5 GB 📦",
+        "ram": "4 GB Recommended",
+        "cpuGpu": "Mid-range to flagship processors (Snapdragon 720G+/A12+)",
+        "fps": "Up to 60 FPS",
+        "graphics": "Competitive-grade, crisp visuals 🔥",
+        "online": "Always Online Required",
+        "battery": "High drain ⚡ (speedy legends cost juice 😅)"
+      },
+      {
+        "name": "PUBG Mobile",
+        "platform": "Android / iOS",
+        "storage": "2–3 GB 📦",
+        "ram": "3 GB Recommended",
+        "cpuGpu": "Mid-range chipsets (Snapdragon 660+/A11+)",
+        "fps": "30–60 FPS depending on settings",
+        "graphics": "Realistic military-style visuals, highly optimized 🎯",
+        "online": "Always Online Required",
+        "battery": "Moderate drain; more if you drive vehicles 🏎️"
+      }
+    ]
+  },
+
+  "keyFeatures": {
+    "games": [
+      {
+        "name": "Apex Legends Mobile",
+        "modes": "Battle Royale, Arenas, Ranked BR",
+        "playerLimits": "60 players per match 🧑‍🤝‍🧑",
+        "graphicsStyle": "Clean sci-fi visuals focused on clarity ✨",
+        "customization": "Legend skins, weapon skins, banners",
+        "events": "Seasonal content (back when servers existed 😢)",
+        "mechanics": "Legend abilities, wall-running, zip-lines, tactical squad synergy"
+      },
+      {
+        "name": "PUBG Mobile",
+        "modes": "Classic BR, Arcade, EvoGround, TDM",
+        "playerLimits": "100 players per match 🪖",
+        "graphicsStyle": "Realistic military visuals with weather & terrain effects 🌦️",
+        "customization": "Weapon skins, outfits, parachute skins 🎨",
+        "events": "Weekly events, Royale Pass, seasonal missions",
+        "mechanics": "Classic gunplay, vehicles, strategic looting, map control"
+      }
+    ]
+  },
+
+  "prosCons": {
+    "games": [
+      {
+        "name": "Apex Legends Mobile",
+        "pros": [
+          "Fastest mobility in mobile BR 💨",
+          "Unique Legends with tactical abilities",
+          "High skill ceiling for competitive gamers",
+          "Perfect squad synergy gameplay"
+        ],
+        "cons": [
+          "Officially shut down ❌",
+          "No servers, updates, or progression",
+          "Hardware demanding for full graphics",
+          "Wasted potential 😔"
+        ]
+      },
+      {
+        "name": "PUBG Mobile",
+        "pros": [
+          "Huge map variety & vehicle options 🚗",
+          "Runs smoothly on mid-range devices",
+          "Classic BR with consistent updates",
+          "Lower hardware demand than Apex Legends Mobile",
+          "Strong competitive and esports scene 🏆"
+        ],
+        "cons": [
+          "Less mobility options than Apex",
+          "Gunplay can feel repetitive at times",
+          "Occasional long load times on older devices"
+        ]
+      }
+    ]
+  },
+
+  "popularityCommunity": {
+    "games": [
+      {
+        "name": "Apex Legends Mobile",
+        "activePlayers": "Service Terminated (2023)",
+        "socialMedia": "Small but passionate legacy fanbase",
+        "tournaments": "None (Mobile version closed)",
+        "engagement": "Throwback clips, highlight edits, and \"what went wrong\" videos 😢"
+      },
+      {
+        "name": "PUBG Mobile",
+        "activePlayers": "100M+ Monthly Active Players 🌍",
+        "socialMedia": "15M+ Followers",
+        "tournaments": "PUBG Mobile World Championship 🏆",
+        "engagement": "Gameplay streams, Royale Pass guides, tips & tricks 🎥"
+      }
+    ]
+  },
+
+  "pricingIAP": {
+    "games": [
+      {
+        "name": "Apex Legends Mobile",
+        "price": "Free (Inactive)",
+        "premiumFeatures": "Cosmetic items only",
+        "currency": "Syndicate Gold",
+        "specialOffers": "Unavailable due to shutdown ❌"
+      },
+      {
+        "name": "PUBG Mobile",
+        "price": "Free-to-Play",
+        "premiumFeatures": "Royale Pass, skins, crates 🎫",
+        "currency": "UC",
+        "specialOffers": "Seasonal bundles, events, lucky crates"
+      }
+    ]
+  },
+
+  "deviceCompatibility": {
+    "games": [
+      {
+        "name": "Apex Legends Mobile",
+        "devices": "Android & iOS",
+        "osVersion": "Android 8.0+ / iOS 13+",
+        "crossPlatform": "Mobile only",
+        "pcConsole": "Not supported"
+      },
+      {
+        "name": "PUBG Mobile",
+        "devices": "Android & iOS",
+        "osVersion": "Android 5.1+ / iOS 10+",
+        "crossPlatform": "Mobile only (Emulator support exists)",
+        "pcConsole": "Limited via Tencent Gaming Buddy / Gameloop"
+      }
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Can I play Apex Legends Mobile today?",
+      "answer": "No ❌ Servers were shut down in 2023, so the game is no longer playable."
+    },
+    {
+      "question": "Which game should I pick in 2026?",
+      "answer": "PUBG Mobile 🏆 — active servers, constant updates, and competitive gameplay."
+    },
+    {
+      "question": "Which game had better mobility?",
+      "answer": "Apex Legends Mobile 💨 — legendary movement, wall-sliding, and zip-lines."
+    },
+    {
+      "question": "Which game is better for long-term play?",
+      "answer": "PUBG Mobile — stable progression, Royale Pass rewards, and strong esports support 🔥"
+    }
+  ]
+}

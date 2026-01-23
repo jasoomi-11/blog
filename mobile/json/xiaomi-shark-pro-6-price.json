@@ -1,0 +1,143 @@
+{
+  "mobile": {
+    "name": "Xiaomi Black Shark 6 Pro",
+    "thumbs": [
+      "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/xiaomi-black-shark-6-pro.webp"
+    ],
+    "summary": "Xiaomi Black Shark 6 Pro — flagship gaming smartphone with Snapdragon 8 Gen 3, 144Hz AMOLED, shoulder triggers, 5000mAh battery and advanced cooling — perfect for esports and heavy gaming.",
+    "priceRange": "Varies by region",
+
+    "pricingInsights": {
+      "lastUpdated": "2026-01",
+      "note": "Prices may fluctuate due to import taxes, stock, and retailer policies.",
+      "officialVsMarket": "Official Xiaomi pricing is generally lower than third-party sellers in many regions.",
+      "taxInfo": "Prices include local taxes unless otherwise mentioned.",
+      "importWarning": "Imported models may cost 5–12% extra due to customs and markup.",
+      "bestTimeToBuy": "Best deals often appear during festive sales or flash sales.",
+      "availabilityStatus": "Limited stock in some regions; specialized gaming stores usually get them first."
+    },
+
+    "countries": [
+      {
+        "flag": "🇺🇸",
+        "country": "United States",
+        "currency": "USD",
+        "displayPrice": "$649 – $799",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "$649" },
+          { "ram": "16GB / 512GB", "price": "$799" }
+        ],
+        "colors": ["Obsidian Black", "Ice Silver"],
+        "priceNote": "Unlocked models; prices drop during Black Friday and Amazon Prime Day."
+      },
+      {
+        "flag": "🇮🇳",
+        "country": "India",
+        "currency": "INR",
+        "displayPrice": "₹69,999 – ₹84,999",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "₹69,999" },
+          { "ram": "16GB / 512GB", "price": "₹84,999" }
+        ],
+        "colors": ["Obsidian Black", "Ice Silver"],
+        "priceNote": "Includes GST; online platforms may offer bank discounts."
+      },
+      {
+        "flag": "🇵🇰",
+        "country": "Pakistan",
+        "currency": "PKR",
+        "displayPrice": "Rs 295,000 – Rs 340,000",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "Rs 295,000" },
+          { "ram": "16GB / 512GB", "price": "Rs 340,000" }
+        ],
+        "colors": ["Obsidian Black", "Ice Silver"],
+        "priceNote": "Mostly imported units; prices vary with PTA approval."
+      },
+      {
+        "flag": "🇬🇧",
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "displayPrice": "£580 – £720",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "£580" },
+          { "ram": "16GB / 512GB", "price": "£720" }
+        ],
+        "colors": ["Obsidian Black", "Ice Silver"],
+        "priceNote": "VAT included; limited seasonal discounts."
+      },
+      {
+        "flag": "🇨🇦",
+        "country": "Canada",
+        "currency": "CAD",
+        "displayPrice": "CA$900 – CA$1,150",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "CA$900" },
+          { "ram": "16GB / 512GB", "price": "CA$1,150" }
+        ],
+        "colors": ["Obsidian Black", "Ice Silver"],
+        "priceNote": "Prices vary by province; online bundles available occasionally."
+      },
+      {
+        "flag": "🇦🇺",
+        "country": "Australia",
+        "currency": "AUD",
+        "displayPrice": "A$1,000 – A$1,250",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "A$1,000" },
+          { "ram": "16GB / 512GB", "price": "A$1,250" }
+        ],
+        "colors": ["Obsidian Black", "Ice Silver"],
+        "priceNote": "GST included; limited stock affects pricing."
+      },
+      {
+        "flag": "🇦🇪",
+        "country": "United Arab Emirates",
+        "currency": "AED",
+        "displayPrice": "AED 3,200 – AED 3,800",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "AED 3,200" },
+          { "ram": "16GB / 512GB", "price": "AED 3,800" }
+        ],
+        "colors": ["Obsidian Black", "Ice Silver"],
+        "priceNote": "Lower taxes than Europe; check local gaming stores."
+      },
+      {
+        "flag": "🇧🇩",
+        "country": "Bangladesh",
+        "currency": "BDT",
+        "displayPrice": "৳ 92,000 – ৳ 110,000",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "৳ 92,000" },
+          { "ram": "16GB / 512GB", "price": "৳ 110,000" }
+        ],
+        "colors": ["Obsidian Black", "Ice Silver"],
+        "priceNote": "Unofficial imports common; warranty varies."
+      },
+      {
+        "flag": "🇵🇭",
+        "country": "Philippines",
+        "currency": "PHP",
+        "displayPrice": "₱ 54,000 – ₱ 67,000",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "₱ 54,000" },
+          { "ram": "16GB / 512GB", "price": "₱ 67,000" }
+        ],
+        "colors": ["Obsidian Black", "Ice Silver"],
+        "priceNote": "Mall prices higher than online stores."
+      },
+      {
+        "flag": "🇪🇺",
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "displayPrice": "€ 800 – € 1,000",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "€ 800" },
+          { "ram": "16GB / 512GB", "price": "€ 1,000" }
+        ],
+        "colors": ["Obsidian Black", "Ice Silver"],
+        "priceNote": "VAT included; prices vary slightly by country."
+      }
+    ]
+  }
+}

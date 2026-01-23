@@ -1,135 +1,135 @@
 {
   "shortIntro": {
-    "title": "What Your Device Needs for Smooth Boom Beach Gameplay 🏝️💣",
-    "para1": "Boom Beach may look calm with blue oceans and palm trees, but behind that peaceful vibe is a strategy-heavy warzone. From deploying troops to firing hero abilities and artillery strikes, your device still needs solid performance to avoid delays at the worst moment.",
-    "para2": "When every second matters and your troops are storming enemy bases, lag or slow loading can turn a perfect attack into a salty retreat 😅. A decent CPU, stable RAM, and good network connection make Boom Beach far more enjoyable."
+    "title": "What Your Device Needs to Conquer Boom Beach 🏝️💥",
+    "para1": "Boom Beach might look like a sunny paradise, but it’s a tactical battlefield where split-second decisions win or lose wars. From deploying troops to firing mortars, your device needs to keep up with every command.",
+    "para2": "Slow loading or laggy animations can turn a perfect assault into a hilarious defeat 😅. A capable CPU, steady RAM, and a reliable network connection make every attack feel satisfying."
   },
 
-  "intro": "Below are the minimum and recommended specifications to enjoy Boom Beach smoothly on Android and iOS devices — whether you’re a casual commander or a full-time island conqueror 😎🏝️.",
+  "intro": "Here’s the ultimate rundown of minimum and recommended specs for Boom Beach on Android and iOS — whether you’re casually attacking islands or running a full-on archipelago empire 😎🏝️.",
 
   "minimum": {
-    "OS Version": "Android 5.0 or higher",
-    "RAM": "2GB minimum (works, but don’t expect lightning-fast loading 😬)",
-    "CPU": "Quad-Core 1.4GHz or better",
-    "GPU": "Basic integrated GPU (Boom Beach is well optimized)",
-    "Storage": "1.5–2GB free space",
-    "Internet": "Stable internet required for attacks & events 🌐"
+    "OS Version": "Android 6.0+ (stable enough for basic raids 😬)",
+    "RAM": "2GB (works, but don’t expect buttery-fast animations)",
+    "CPU": "Quad-Core 1.5GHz+",
+    "GPU": "Basic mobile GPU (Boom Beach is highly optimized)",
+    "Storage": "2GB free space",
+    "Internet": "Stable connection required for online attacks 🌐"
   },
 
   "recommended": {
-    "OS Version": "Android 9 or higher",
-    "RAM": "4GB+ for smoother base loading and faster battles 💨",
-    "CPU": "Snapdragon 660 / Helio G-series or newer",
-    "GPU": "Adreno 512+ or equivalent",
-    "Storage": "3GB+ recommended for updates, events, and hero data",
-    "Internet": "Strong Wi-Fi or 4G/5G – goodbye connection errors 🚀"
+    "OS Version": "Android 10+",
+    "RAM": "4GB+ for smoother base loading and faster combat 💨",
+    "CPU": "Snapdragon 720 / Helio G95 or better",
+    "GPU": "Adreno 512+ / Mali-G57 or newer",
+    "Storage": "3GB+ to handle events, heroes, and updates",
+    "Internet": "Strong Wi-Fi or 4G/5G – because lag kills dreams 🚀"
   },
 
-  "ios_intro": "Boom Beach runs beautifully on iOS thanks to Supercell’s legendary optimization 🍏. Even older iPhones handle island raids smoothly with minimal lag.",
+  "ios_intro": "Boom Beach is a joy on iOS 🍏. Even older iPhones can handle island battles with minimal hiccups thanks to Supercell’s optimization wizardry.",
 
   "ios_minimum": [
-    { "title": "OS Version", "value": "iOS 11 or later" },
-    { "title": "Device", "value": "iPhone 6s or newer" },
-    { "title": "Storage", "value": "2GB free space minimum" }
+    { "title": "OS Version", "value": "iOS 12+" },
+    { "title": "Device", "value": "iPhone 6s / 7 or newer" },
+    { "title": "Storage", "value": "2GB free minimum" }
   ],
 
   "ios_recommended": [
-    { "title": "OS Version", "value": "iOS 14 or later" },
-    { "title": "Device", "value": "iPhone 8 / X / 11 Series or newer" },
-    { "title": "Storage", "value": "3GB+ free space for smooth updates and events" }
+    { "title": "OS Version", "value": "iOS 14+" },
+    { "title": "Device", "value": "iPhone 8 / X / 11 or newer" },
+    { "title": "Storage", "value": "3GB+ free for smooth updates & events" }
   ],
 
-  "fps_intro": "Boom Beach doesn’t demand extreme FPS, but smoother performance still improves response time and animations 🎯.",
+  "fps_intro": "FPS isn’t everything in Boom Beach, but smoother gameplay improves troop movement, animations, and your tactical precision 🎯.",
 
   "fps_list": [
-    { "category": "Low-End Devices", "fps": "30 FPS (stable, playable, no stress 😌)" },
-    { "category": "Mid-Range Devices", "fps": "45–60 FPS (smooth animations & quick commands)" },
-    { "category": "High-End Devices", "fps": "60 FPS+ (buttery smooth island domination 💪)" }
+    { "category": "Low-End Devices", "fps": "30 FPS (playable, tactical moves may feel slightly delayed 😌)" },
+    { "category": "Mid-Range Devices", "fps": "45–55 FPS (smooth attacks and crisp animations)" },
+    { "category": "High-End Devices", "fps": "60+ FPS (glorious island domination 💪🌴)" }
   ],
 
-  "settings_intro": "Simple settings tweaks can make Boom Beach feel faster and cleaner 🛠️.",
+  "settings_intro": "Tiny tweaks make a big difference: optimize graphics and close distractions for faster gameplay 🛠️.",
 
   "low_end": [
-    { "title": "Graphics Quality", "value": "Standard settings for consistent performance" },
-    { "title": "Animations", "value": "Keep default to reduce stutter" },
-    { "title": "Background Apps", "value": "Close unused apps to avoid random freezes 😡" },
-    { "title": "Battery Mode", "value": "Disable aggressive power saving during battles" }
+    { "title": "Graphics Quality", "value": "Standard – stable visuals without stutter" },
+    { "title": "Animations", "value": "Keep default to reduce frame drops" },
+    { "title": "Background Apps", "value": "Close unnecessary apps to prevent freezes 😡" },
+    { "title": "Battery Mode", "value": "Avoid aggressive power saving during battles" }
   ],
 
   "high_end": [
-    { "title": "Graphics Quality", "value": "High for crisp island visuals 🌴✨" },
+    { "title": "Graphics Quality", "value": "High – crystal-clear islands & troops 🌴✨" },
     { "title": "Performance Mode", "value": "Enable full performance if available" },
-    { "title": "Thermal Control", "value": "Avoid overheating during long war sessions 🔥" },
-    { "title": "Storage Space", "value": "Keep extra space free for smooth event updates" }
+    { "title": "Thermal Control", "value": "Avoid device overheating during long raids 🔥" },
+    { "title": "Storage Space", "value": "Keep extra space free for smooth events & updates" }
   ],
 
-  "sectionIntro": "These Android & iOS devices provide an excellent Boom Beach experience with fast base loading, smooth attacks, and reliable performance.",
+  "sectionIntro": "The following Android & iOS devices offer top-notch Boom Beach performance: fast base loads, smooth attacks, and lag-free fun.",
 
   "androidDevices": [
-    "Samsung Galaxy A15 / A25 / S21 / S22 Series",
-    "Xiaomi Redmi 10 / 12 / Note 12 / Note 13",
-    "Realme Narzo / C55 / GT Series",
-    "OnePlus Nord CE / Nord 2 / Nord 3",
+    "Samsung Galaxy A22 / A32 / S21 / S22 Series",
+    "Xiaomi Redmi 10 / Note 12 / Note 13 / Poco X5",
+    "Realme Narzo 50 / GT Neo Series",
+    "OnePlus Nord 2 / Nord CE / Nord 3",
     "Google Pixel 5 / 6 / 7 Series",
-    "Infinix Note / Zero Series"
+    "Infinix Zero / Note Series"
   ],
 
   "iosDevices": [
     "iPhone 6s / 7 / 8",
     "iPhone X / XR / XS",
-    "iPhone 11 / 12 / 13 Series",
+    "iPhone 11 / 12 / 13 / 14 Series",
     "iPhone SE (2020 / 2022)",
-    "iPad Mini 4 / 5 / 6",
+    "iPad Mini 5 / 6",
     "iPad Air 3rd Gen+"
   ],
 
-  "storageIntroText": "Boom Beach is lighter than many modern games, but regular updates still need breathing room 📦.",
+  "storageIntroText": "Boom Beach isn’t massive, but updates and events grow over time. Make sure your device has some breathing room 📦.",
 
   "storageDetails": [
-    { "label": "Base Game Size", "value": "≈ 700MB–1GB" },
-    { "label": "Game Updates", "value": "100–300MB occasionally" },
-    { "label": "Event Data", "value": "50–150MB during special operations" },
-    { "label": "Total Required Space", "value": "2.5–3GB recommended for smooth gameplay" }
+    { "label": "Base Game Size", "value": "≈ 800MB–1GB" },
+    { "label": "Game Updates", "value": "100–250MB per update" },
+    { "label": "Event Data", "value": "50–150MB during seasonal events" },
+    { "label": "Total Recommended Space", "value": "≈ 2.5–3GB for smooth gameplay" }
   ],
 
-  "faqIntroText": "Boom Beach FAQs – because every commander has questions before the invasion 😎:",
+  "faqIntroText": "Boom Beach FAQs – conquer islands smarter, not harder 😎:",
 
   "faqList": [
     {
       "question": "Is Boom Beach heavy on phones?",
-      "answer": "No 👍 Boom Beach is very well optimized and runs smoothly even on budget devices."
+      "answer": "Not at all 👍. Supercell optimized it well; even older or budget devices run it smoothly."
     },
     {
-      "question": "Does Boom Beach require high FPS?",
-      "answer": "Not really. Stable performance matters more than high FPS since Boom Beach is strategy-focused."
+      "question": "Do I need high FPS for Boom Beach?",
+      "answer": "Stable FPS matters more than max FPS. Tactical decisions outweigh frame rates here."
     },
     {
-      "question": "Why does Boom Beach lag during attacks?",
-      "answer": "Lag usually comes from weak internet or too many background apps. Close extras and check your connection 🌐."
+      "question": "Why does my game lag sometimes?",
+      "answer": "Most lag comes from weak internet or background apps. Close extras and check connection 🌐."
     }
   ],
 
   "title": "Device Comparison Insights 🔍",
-  "description": "Compare real-world Boom Beach performance, loading speed, animation smoothness, and long-session stability across popular Android and iOS devices.",
+  "description": "Compare real-world Boom Beach performance: base loading, animation smoothness, battle responsiveness, and stability across top Android and iOS devices.",
 
   "rows": [
     {
-      "device1": "Samsung Galaxy A25",
+      "device1": "Samsung Galaxy A32",
       "device2": "Redmi Note 12",
-      "performance": "Both handle large island bases smoothly without noticeable lag.",
-      "notes": "Galaxy A25 loads slightly faster, Redmi Note 12 stays cooler during long play sessions."
+      "performance": "Both handle big island bases and troop deployment without stutter.",
+      "notes": "Galaxy A32 loads slightly faster, Redmi Note 12 maintains cooler temperatures during long sessions."
     },
     {
-      "device1": "Realme Narzo 60",
+      "device1": "Realme Narzo 50",
       "device2": "Infinix Zero 5G",
-      "performance": "Stable gameplay with quick troop deployment and smooth animations.",
-      "notes": "Narzo feels snappier in menus, Infinix handles long events well."
+      "performance": "Smooth gameplay with responsive troop control and clean visuals.",
+      "notes": "Narzo 50 feels snappier in menus, Infinix keeps steady performance for long raids."
     },
     {
       "device1": "iPhone 11",
       "device2": "iPhone 8",
-      "performance": "Both run Boom Beach effortlessly.",
-      "notes": "iPhone 11 offers faster loading and smoother animations, iPhone 8 remains perfectly playable."
+      "performance": "Both handle Boom Beach effortlessly.",
+      "notes": "iPhone 11 offers faster base loading and slightly smoother animations; iPhone 8 remains perfectly playable."
     }
   ]
 }

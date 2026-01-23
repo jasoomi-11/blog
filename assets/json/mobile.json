@@ -138,5 +138,15 @@
     "badgeColor": "brown",
     "link": "/mobile/oneplus-11r.html"
   
+  },
+  
+   {
+    "title": " Xiaomi Black Shark 6 Pro",
+    "subtitle": "Check Out Top gaming Mobile at Glance",
+    "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/xiaomi-black-shark-6-pro.webp",
+    "badge": "OnePlus",
+    "badgeColor": "silver",
+    "link": "/mobile/xiaomi-black-shark-pro-6.html"
+  
   }
 ]

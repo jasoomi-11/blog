@@ -4,7 +4,7 @@
   <!-- Section Homepage -->
   <url>
     <loc>https://blog.blueverse.space/mobile/mobile.html</loc>
-    <lastmod>2026-01-05</lastmod>
+    <lastmod>2026-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -177,19 +177,20 @@
 
 
 
-<!-- 17 dec to 17 jan -->
+<!--  last update 
+17 Jan to 17 feb -->
 
 
 <url>
     <loc>https://blog.blueverse.space/mobile/redmi-note-13.html</loc>
-    <lastmod>2025-12-17</lastmod>
+    <lastmod>2026-01-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
 <url>
     <loc>https://blog.blueverse.space/mobile/pricing/redmi-note-13.html</loc>
-    <lastmod>2025-12-17</lastmod>
+    <lastmod>2026-01-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -197,14 +198,15 @@
 
 
 
-<!-- 20 dec to 20 jan -->
+<!-- Last update 
+20 jan to 20 feb -->
 
 
 
 
 <url>
     <loc>https://blog.blueverse.space/mobile/s23-ultra.html</loc>
-    <lastmod>2025-12-20</lastmod>
+    <lastmod>2026-01-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -212,14 +214,18 @@
 
 <url>
     <loc>https://blog.blueverse.space/mobile/pricing/s23-ultra.html</loc>
-    <lastmod>2025-12-20</lastmod>
+    <lastmod>2026-01-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   
   
+  
+  
+  
   <!-- 28 dec to 28 jan -->
+  
   
   
   <url>
@@ -282,7 +288,23 @@
 
 
 
+<!-- 23 jan to 23 feb-->
 
+
+
+<url>
+    <loc>https://blog.blueverse.space/mobile/xiaomi-black-shark-pro-6.html</loc>
+    <lastmod>2026-01-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+<url>
+    <loc>https://blog.blueverse.space/mobile/pricing/xiaomi-black-shark-6-pro.html</loc>
+    <lastmod>2026-01-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
 
 

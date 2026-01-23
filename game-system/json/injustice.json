@@ -1,0 +1,134 @@
+{
+  "shortIntro": {
+    "title": "Is Your Phone Ready for Injustice Mobile? Let’s Find Out 🦸‍♂️📲",
+    "para1": "Injustice: Gods Among Us Mobile isn’t just a tap-to-fight game. It’s packed with combos, specials, and epic super moves where even a tiny lag can ruin your timing.",
+    "para2": "Smooth inputs, instant special moves, and flawless combos all depend on strong hardware. If your phone can’t keep up, you’ll be spectating more than fighting 😅🔥."
+  },
+
+  "intro": "Here’s the updated minimum and recommended mobile requirements for running Injustice: Gods Among Us Mobile on Android and iOS — perfect for casual brawlers or hardcore PvP warriors 🏆.",
+
+  "minimum": {
+    "OS Version": "Android 6.0 or newer",
+    "RAM": "2GB (playable, but may stutter during combos 😬)",
+    "CPU": "Quad-Core 1.8GHz",
+    "GPU": "Adreno 506, Mali-G71 or similar",
+    "Storage": "At least 3GB free space",
+    "Internet": "Required for online battles – lag can turn heroes into zeroes 💀"
+  },
+
+  "recommended": {
+    "OS Version": "Android 11 or above",
+    "RAM": "4GB+ for smooth animations and PvP combat 🚀",
+    "CPU": "Snapdragon 720 / 860 or better",
+    "GPU": "Adreno 618 / Mali-G76 or higher",
+    "Storage": "4–5GB free for skins, packs, and updates",
+    "Internet": "Strong Wi-Fi or 5G – online fights don’t pause!"
+  },
+
+  "ios_intro": "On iOS, Injustice Mobile runs buttery smooth 🧈. Apple devices handle combos, cinematic moves, and animations flawlessly even in intense PvP battles.",
+
+  "ios_minimum": [
+    { "title": "OS Version", "value": "iOS 11 or later" },
+    { "title": "Device", "value": "iPhone 6S / 7 or newer" },
+    { "title": "Storage", "value": "Minimum 3GB free space" }
+  ],
+
+  "ios_recommended": [
+    { "title": "OS Version", "value": "iOS 14 or newer" },
+    { "title": "Device", "value": "iPhone X, 11, 12 series and above" },
+    { "title": "Storage", "value": "4GB+ free for smooth updates and skins" }
+  ],
+
+  "fps_intro": "Frame rate can make or break your Injustice experience. Higher FPS means smoother combos, faster reactions, and fewer accidental losses 😎.",
+
+  "fps_list": [
+    { "category": "Entry-Level Phones", "fps": "20–30 FPS (playable, but a bit clunky 😬)" },
+    { "category": "Mid-Tier Phones", "fps": "40–55 FPS (smooth combos and animations)" },
+    { "category": "Flagship Phones", "fps": "60–90 FPS+ (competitive beast mode 💪)" }
+  ],
+
+  "settings_intro": "Tweaking graphics and animations can boost FPS and make fights feel epic 🔥.",
+
+  "low_end": [
+    { "title": "Graphics Quality", "value": "Low or Medium for stable gameplay" },
+    { "title": "Frame Rate", "value": "Standard to avoid sudden stutters" },
+    { "title": "Visual Effects", "value": "Disable extra shadows or particle effects" },
+    { "title": "Background Apps", "value": "Close unused apps to save RAM" }
+  ],
+
+  "high_end": [
+    { "title": "Graphics Quality", "value": "High or Ultra for cinematic moves ✨" },
+    { "title": "Frame Rate", "value": "Enable Max FPS for competitive combos" },
+    { "title": "Thermal Management", "value": "Avoid overheating to maintain FPS 🔥" },
+    { "title": "Free Storage", "value": "Keep extra space for faster loading and skins" }
+  ],
+
+  "sectionIntro": "These smartphones deliver the best Injustice Mobile experience with smooth combos, cinematic super moves, and reliable FPS.",
+
+  "androidDevices": [
+    "Samsung Galaxy S21, S22, S23 series",
+    "Xiaomi Black Shark 5 & 6, Redmi Note 13 Pro",
+    "Realme GT Neo 3, GT Neo 4",
+    "OnePlus Nord 3, Nord 4, Nord CE series",
+    "Google Pixel 6, 7, 8",
+    "Infinix Zero & GT Gaming Phones"
+  ],
+
+  "iosDevices": [
+    "iPhone X, XR, XS",
+    "iPhone 11, 12, 13, 14 series",
+    "iPhone SE (2020 & 2022)",
+    "iPad Mini 5 & 6",
+    "iPad Air 3rd generation and newer"
+  ],
+
+  "storageIntroText": "Injustice Mobile grows with events, seasons, and character packs. Here’s the space you’ll need 📦:",
+
+  "storageDetails": [
+    { "label": "Initial Download", "value": "Around 2GB" },
+    { "label": "Character & Skin Packs", "value": "500MB–1GB optional (visual upgrades ✨)" },
+    { "label": "Season Updates", "value": "200–500MB per update" },
+    { "label": "Safe Storage Amount", "value": "4GB+ for smooth long-term play" }
+  ],
+
+  "faqIntroText": "Common Injustice Mobile questions — answered without the rage 😎:",
+
+  "faqList": [
+    {
+      "question": "Does Injustice Mobile need a powerful phone?",
+      "answer": "Yes. Budget phones run it, but mid-range or better hardware ensures smooth combos and cinematic effects."
+    },
+    {
+      "question": "Can I run Injustice at 60 FPS?",
+      "answer": "Yes, on capable mid-range or flagship phones with high FPS enabled."
+    },
+    {
+      "question": "Why does Injustice heat my phone?",
+      "answer": "Constant action, cinematic moves, and high-quality graphics push your CPU/GPU. Take breaks or cool your phone if needed 😅."
+    }
+  ],
+
+  "title": "Real Device Performance Comparison 🔍",
+  "description": "Side-by-side comparison of Injustice Mobile performance: FPS stability, thermal control, and smooth combo execution.",
+
+  "rows": [
+    {
+      "device1": "Samsung Galaxy S22",
+      "device2": "Xiaomi Black Shark 6 Pro",
+      "performance": "Both provide smooth combos and cinematic super moves.",
+      "notes": "S22 has slightly higher peak FPS; Black Shark 6 Pro handles long sessions better."
+    },
+    {
+      "device1": "Realme GT Neo 3",
+      "device2": "Poco F6",
+      "performance": "Responsive gameplay with minimal input lag.",
+      "notes": "GT Neo 3 is better for long sessions; Poco F6 loads skins and arenas faster."
+    },
+    {
+      "device1": "iPhone 13",
+      "device2": "iPhone XR",
+      "performance": "Stable 60 FPS with smooth cinematic moves.",
+      "notes": "iPhone 13 handles Ultra effects better; XR may dip during heavy action."
+    }
+  ]
+}
