@@ -1,0 +1,144 @@
+{
+  "mobile": {
+    "name": "RedMagic 9S Pro",
+    "thumbs": [
+      "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/redmagic-9s-pro.webp"
+    
+    ],
+    "summary": "RedMagic 9S Pro — flagship gaming phone with Snapdragon 8+ Gen 2 / 8 Gen 3, 120–165 Hz AMOLED, active cooling, large battery, and esports-ready performance for heavy mobile games.",
+    "priceRange": "Varies by region",
+
+    "pricingInsights": {
+      "lastUpdated": "2026-01",
+      "note": "Prices may fluctuate due to import duties, retailer margins, and currency changes.",
+      "officialVsMarket": "Official online launch prices often differ from local retail or imported stock.",
+      "taxInfo": "Displayed prices may include local taxes or VAT unless specified.",
+      "importWarning": "Imported units may cost 5–15% extra depending on customs and retailer markup.",
+      "bestTimeToBuy": "Festive sales, year-end discounts, and flash deals usually offer 5–10% savings.",
+      "availabilityStatus": "Limited stock in some regions; gaming-focused stores usually have first availability."
+    },
+
+    "countries": [
+      {
+        "flag": "🇺🇸",
+        "country": "United States",
+        "currency": "USD",
+        "displayPrice": "$649 – $799",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "$649" },
+          { "ram": "16GB / 512GB", "price": "$799" }
+        ],
+        "colors": ["Sleet Black", "Snowfall Silver", "Cyclone Black", "Frost White"],
+        "priceNote": "Launch pricing; local availability may vary with retailer and region."
+      },
+      {
+        "flag": "🇮🇳",
+        "country": "India",
+        "currency": "INR",
+        "displayPrice": "₹52,000 – ₹62,000",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "₹52,000" },
+          { "ram": "16GB / 512GB", "price": "₹62,000" }
+        ],
+        "colors": ["Sleet Black", "Snowfall Silver", "Cyclone Black", "Frost White"],
+        "priceNote": "Estimated from global launch prices; local retail may include GST and import charges."
+      },
+      {
+        "flag": "🇵🇰",
+        "country": "Pakistan",
+        "currency": "PKR",
+        "displayPrice": "Rs 167,000 – Rs 224,500",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "Rs 167,000" },
+          { "ram": "16GB / 512GB", "price": "Rs 224,500" }
+        ],
+        "colors": ["Sleet Black", "Snowfall Silver", "Cyclone Black", "Frost White"],
+        "priceNote": "Mostly imported units; check PTA approval and retailer availability."
+      },
+      {
+        "flag": "🇬🇧",
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "displayPrice": "£569 – £699",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "£569" },
+          { "ram": "16GB / 512GB", "price": "£699" }
+        ],
+        "colors": ["Sleet Black", "Snowfall Silver", "Cyclone Black", "Frost White"],
+        "priceNote": "Estimated from global prices including VAT; retailer may vary."
+      },
+      {
+        "flag": "🇨🇦",
+        "country": "Canada",
+        "currency": "CAD",
+        "displayPrice": "CA$899 – CA$1,099",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "CA$899" },
+          { "ram": "16GB / 512GB", "price": "CA$1,099" }
+        ],
+        "colors": ["Sleet Black", "Snowfall Silver", "Cyclone Black", "Frost White"],
+        "priceNote": "Prices include provincial taxes; local offers may reduce final cost."
+      },
+      {
+        "flag": "🇦🇺",
+        "country": "Australia",
+        "currency": "AUD",
+        "displayPrice": "A$999 – A$1,199",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "A$999" },
+          { "ram": "16GB / 512GB", "price": "A$1,199" }
+        ],
+        "colors": ["Sleet Black", "Snowfall Silver", "Cyclone Black", "Frost White"],
+        "priceNote": "Converted from USD; stock may vary by retailer."
+      },
+      {
+        "flag": "🇦🇪",
+        "country": "United Arab Emirates",
+        "currency": "AED",
+        "displayPrice": "AED 2,390 – AED 2,900",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "AED 2,390" },
+          { "ram": "16GB / 512GB", "price": "AED 2,900" }
+        ],
+        "colors": ["Sleet Black", "Snowfall Silver", "Cyclone Black", "Frost White"],
+        "priceNote": "Retailer pricing may differ slightly due to taxes and import fees."
+      },
+      {
+        "flag": "🇧🇩",
+        "country": "Bangladesh",
+        "currency": "BDT",
+        "displayPrice": "৳ 55,000 – ৳ 66,000",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "৳ 55,000" },
+          { "ram": "16GB / 512GB", "price": "৳ 66,000" }
+        ],
+        "colors": ["Sleet Black", "Snowfall Silver", "Cyclone Black", "Frost White"],
+        "priceNote": "Unofficial imports common; verify warranty before purchase."
+      },
+      {
+        "flag": "🇵🇭",
+        "country": "Philippines",
+        "currency": "PHP",
+        "displayPrice": "₱ 35,000 – ₱ 42,000",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "₱ 35,000" },
+          { "ram": "16GB / 512GB", "price": "₱ 42,000" }
+        ],
+        "colors": ["Sleet Black", "Snowfall Silver", "Cyclone Black", "Frost White"],
+        "priceNote": "Retail prices may vary by mall and online sellers."
+      },
+      {
+        "flag": "🇪🇺",
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "displayPrice": "€ 599 – € 749",
+        "variants": [
+          { "ram": "12GB / 256GB", "price": "€ 599" },
+          { "ram": "16GB / 512GB", "price": "€ 749" }
+        ],
+        "colors": ["Sleet Black", "Snowfall Silver", "Cyclone Black", "Frost White"],
+        "priceNote": "VAT included; minor country-to-country differences may occur."
+      }
+    ]
+  }
+}

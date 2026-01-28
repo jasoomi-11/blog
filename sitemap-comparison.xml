@@ -4,7 +4,7 @@
   <!-- Section Homepage -->
   <url>
     <loc>https://blog.blueverse.space/comparison/comparison.html</loc>
-    <lastmod>2026-01-23</lastmod>
+    <lastmod>2026-01-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -18,7 +18,7 @@
  
  <url>
     <loc>https://blog.blueverse.space/comparison/pubg-cod.html</loc>
-    <lastmod>2025-12-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -26,10 +26,11 @@
  
   <url>
     <loc>https://blog.blueverse.space/comparison/genshine-honkai.html</loc>
-    <lastmod>2025-12-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
+  
   
   
     <!-- last update
@@ -297,6 +298,20 @@ Dec Update To 17 Feb -->
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
+
+
+<!--  28 Jan Update To 28 feb -->
+
+
+<url>
+    <loc>https://blog.blueverse.space/comparison/pubg-cod-warzone.html</loc>
+    <lastmod>2026-01-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+
+
 
 
 

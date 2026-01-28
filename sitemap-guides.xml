@@ -88,7 +88,8 @@
 
  
  
-   <!-- 8 Dec to 8 Jan -->
+   <!-- Last update 
+   24 Jan to 24 Feb -->
  
  
  <url>
@@ -160,8 +161,8 @@
  
  
  
- <!--  last update 
- 13 Jan to 13 Feb  -->
+ <!-- last update 
+ 13  Jan to 13 Feb -->
  
  
  
@@ -172,6 +173,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  
   
    <url>
     <loc>https://blog.blueverse.space/guides/coc/th8-10.html</loc>
@@ -192,7 +194,9 @@
   
   
   
-   <!-- 14 Dec to 14 Jan -->
+   <!-- last update 
+   14 Jan to 14 Feb -->
+  
   
   
   
@@ -200,17 +204,22 @@
   
    <url>
     <loc>https://blog.blueverse.space/guides/coc/th11-13.html</loc>
-    <lastmod>2025-12-14</lastmod>
+    <lastmod>2026-01-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
  
   <url>
     <loc>https://blog.blueverse.space/guides/coc/th14-16.html</loc>
-    <lastmod>2025-12-14</lastmod>
+    <lastmod>2026-01-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
+
+
+
+
 
 
 <url>

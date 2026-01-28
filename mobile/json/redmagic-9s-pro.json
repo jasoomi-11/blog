@@ -1,0 +1,175 @@
+{
+  "gameTitle": "RedMagic 9S Pro",
+  "subtitle": "A powerhouse gaming phone that laughs at heat, frame drops, and lag like a pro gamer trolling noobs 😎🔥",
+
+  "posters": [
+    "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/redmagic-9s-pro.webp"
+    
+  ],
+
+  "whatMakesItSpecial": "RedMagic 9S Pro doesn’t just play games — it dominates them. With a built-in active cooling fan and an insane 165Hz display, it turns marathon gaming sessions into pure joy (minus sweaty palms).",
+
+  "performance": {
+    "cpu": "Qualcomm Snapdragon 8+ Gen 2 (4nm, up to 3.2GHz Prime Core)",
+    "gpu": "Adreno 740 (console-level mobile graphics on the go)",
+    "ram": "12GB / 16GB LPDDR5X (smooth multitasking & zero lag stress)",
+    "storage": "256GB / 512GB UFS 4.0 (blazing fast load times)",
+    "cooling": "Active TurboFan + Vapor Chamber + Graphene Layers",
+    "realWorldImpact": "Keeps peak FPS longer than most phones, even during intense Warzone Mobile or Genshin Impact sessions."
+  },
+
+  "benchmark": {
+    "antutu": "1,310,000 – 1,340,000",
+    "geekbench": {
+      "singleCore": "1880 – 1950",
+      "multiCore": "5150 – 5350"
+    },
+    "note": "Performance numbers are impressive, but the real magic is how stable they stay under fire."
+  },
+
+  "display": {
+    "size": "6.8-inch",
+    "refreshRate": "165Hz AMOLED",
+    "touchRate": "720Hz Touch Sampling",
+    "resolution": "FHD+ (2400 × 1080)",
+    "panelType": "Samsung E4 AMOLED, HDR10+",
+    "brightness": "Up to 1400 nits peak",
+    "experience": "Swipe, aim, and tap feel insanely fluid — your thumbs will thank you."
+  },
+
+  "battery": {
+    "size": "5000mAh Dual-Cell",
+    "fastCharging": "66W HyperCharge (0–100% ~38 min)",
+    "gamingDrain": "7%–10% per hour (heavy-duty titles)",
+    "smartCharging": "Adaptive charging to avoid overheating during long sessions"
+  },
+
+  "temperature": {
+    "averageGaming": "35°C – 38°C",
+    "extremeLoad": "Up to 41°C",
+    "fpsStability": "90%–95%",
+    "comfortLevel": "Warm, never uncomfortably hot — thanks to that turbo fan 😎"
+  },
+
+  "heavyGames": [
+    "PUBG Mobile",
+    "COD Mobile",
+    "Warzone Mobile",
+    "Genshin Impact",
+    "Fortnite",
+    "Honkai Star Rail",
+    "Asphalt 9",
+    "Farlight 84",
+    "Apex Legends Mobile"
+  ],
+
+  "playability": {
+    "PUBG Mobile": "Ultra HD Graphics + 90FPS (smooth and crispy)",
+    "COD Mobile": "Very High Graphics + 120FPS",
+    "Warzone Mobile": "Max Settings + Stable 120FPS",
+    "Genshin Impact": "High Settings + Stable 60FPS",
+    "Fortnite": "Epic Quality + 60FPS Locked",
+    "Honkai Star Rail": "Max Settings, buttery smooth combat"
+  },
+
+  "fpsBenchmarks": [
+    {
+      "game": "PUBG Mobile",
+      "settings": "Ultra HD",
+      "fps": "75–90 FPS (stable)"
+    },
+    {
+      "game": "COD Mobile",
+      "settings": "Max",
+      "fps": "115–120 FPS"
+    },
+    {
+      "game": "Warzone Mobile",
+      "settings": "Max",
+      "fps": "120 FPS stable, no sweaty thumbs required 😏"
+    },
+    {
+      "game": "Genshin Impact",
+      "settings": "High",
+      "fps": "55–60 FPS"
+    }
+  ],
+
+  "thermalTests": [
+    {
+      "game": "PUBG Mobile",
+      "after15Min": "Cool",
+      "after30Min": "Warm",
+      "fpsDrop": "1–2 FPS"
+    },
+    {
+      "game": "COD Mobile",
+      "after15Min": "Normal",
+      "after30Min": "Slight Warm",
+      "fpsDrop": "0–1 FPS"
+    },
+    {
+      "game": "Warzone Mobile",
+      "after15Min": "Warm",
+      "after30Min": "Controlled Heat",
+      "fpsDrop": "1 FPS"
+    }
+  ],
+
+  "batteryTests": [
+    {
+      "game": "PUBG Mobile",
+      "oneHourDrop": "10–11%"
+    },
+    {
+      "game": "COD Mobile",
+      "oneHourDrop": "8–9%"
+    },
+    {
+      "game": "Warzone Mobile",
+      "oneHourDrop": "9–10%"
+    }
+  ],
+
+  "gamingFeatures": [
+    "Active TurboFan for long gaming marathons ❄️🔥",
+    "Game Space X Turbo Mode for max FPS",
+    "Magnetic Shoulder Triggers for console-like precision",
+    "4D Haptic Vibration Feedback",
+    "Front-Facing Stereo Speakers with Dirac Audio",
+    "RGB LED Strip for that gamer flex ✨",
+    "Custom Game Genie Dashboard for tweaks"
+  ],
+
+  "customTable": {
+    "title": "Gaming Hardware Breakdown",
+    "columns": ["Component", "Specification", "Gaming Benefit"],
+    "rows": [
+      ["Cooling System", "Active TurboFan + Vapor Chamber", "Maintains stable FPS and prevents overheating"],
+      ["Triggers", "Magnetic Shoulder Buttons", "Quick and precise aim"],
+      ["Charging", "66W HyperCharge", "Full power before your next raid"],
+      ["Speakers", "Front Stereo with Dirac Audio", "Clear footsteps and gunshots"],
+      ["Build", "Glass & Metal Armor", "Premium feel + durability"],
+      ["Software", "RedMagic OS 6.0 (Android 14)", "Deep game customization and tweaks"]
+    ]
+  },
+
+  "dynamicList": {
+    "title": "Why Gamers Pick RedMagic 9S Pro",
+    "items": [
+      "165Hz Ultra-Smooth AMOLED Display",
+      "Snapdragon 8+ Gen 2 Beast CPU",
+      "LPDDR5X RAM + UFS 4.0 Storage",
+      "Active Cooling TurboFan",
+      "Stable FPS for Competitive Play",
+      "Long Gaming Marathons without throttling"
+    ]
+  },
+
+  "finalVerdict": {
+    "rating": "9.5 / 10",
+    "bestFor": "Hardcore gamers, streamers, esports enthusiasts",
+    "notIdealFor": "Casual candy crushers 🍬",
+    "oneLineSummary": "RedMagic 9S Pro is a gaming monster that keeps your thumbs happy and FPS stable."
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "shortIntro": {
+    "title": "Is Your Phone Ready for Call of Duty: Warzone Mobile? 🎮📱",
+    "para1": "Warzone Mobile is a fast-paced battle royale with intense gunfights, tactical movement, and squad-based gameplay. Even minor lag can cost you a win.",
+    "para2": "Smooth aiming, responsive controls, and instant reloads all depend on your device performance. If your phone struggles, you’ll spend more time spectating than winning 😅🔥."
+  },
+
+  "intro": "Here are the updated minimum and recommended device requirements for running Call of Duty: Warzone Mobile smoothly on Android and iOS — whether you’re grinding ranked matches or enjoying casual squad battles 😎.",
+
+  "minimum": {
+    "OS Version": "Android 7.0+",
+    "RAM": "3GB (playable, but expect occasional stutters 😬)",
+    "CPU": "Quad-Core 2.0GHz or higher",
+    "GPU": "Adreno 506 / Mali-G72 or similar",
+    "Storage": "4GB free space",
+    "Internet": "Stable 15 Mbps+ – lag can ruin Gulag fights 💀"
+  },
+
+  "recommended": {
+    "OS Version": "Android 11+",
+    "RAM": "6GB+ for stable FPS 🚀",
+    "CPU": "Snapdragon 860 / 870 / 8 Gen series",
+    "GPU": "Adreno 640 / Mali-G78 or higher",
+    "Storage": "5GB+ free for updates, maps, and cosmetics",
+    "Internet": "Strong 5G or Wi-Fi connection – because fights never stop!"
+  },
+
+  "ios_intro": "Warzone Mobile on iOS runs extremely smooth thanks to Apple’s optimization, giving fast animations, stable FPS, and precise aiming even in chaotic squad battles.",
+
+  "ios_minimum": [
+    { "title": "OS Version", "value": "iOS 12 or later" },
+    { "title": "Device", "value": "iPhone 8 / 8 Plus or newer" },
+    { "title": "Storage", "value": "Minimum 4GB free space" }
+  ],
+
+  "ios_recommended": [
+    { "title": "OS Version", "value": "iOS 14 or newer" },
+    { "title": "Device", "value": "iPhone X, 11, 12 series and above" },
+    { "title": "Storage", "value": "5GB+ free space for seasonal updates and skins" }
+  ],
+
+  "fps_intro": "Frame rate is key in Warzone Mobile — higher FPS = smoother aiming, faster reactions, and more wins 😎.",
+
+  "fps_list": [
+    { "category": "Entry-Level Phones", "fps": "25–30 FPS (playable, but slower reactions 😬)" },
+    { "category": "Mid-Tier Phones", "fps": "40–55 FPS (balanced and enjoyable)" },
+    { "category": "Flagship Phones", "fps": "60–90 FPS+ (competitive beast mode 💪)" }
+  ],
+
+  "settings_intro": "Optimizing graphics settings can improve FPS even more than upgrading your weapons 🔫🏆.",
+
+  "low_end": [
+    { "title": "Graphics Quality", "value": "Low / Medium for stable gameplay" },
+    { "title": "Frame Rate", "value": "Standard to avoid sudden drops" },
+    { "title": "Visual Effects", "value": "Disable shadows & extra particles" },
+    { "title": "Background Apps", "value": "Close apps to save RAM" }
+  ],
+
+  "high_end": [
+    { "title": "Graphics Quality", "value": "High / Ultra for sharp visuals ✨" },
+    { "title": "Frame Rate", "value": "Enable max FPS for competitive play" },
+    { "title": "Thermal Management", "value": "Avoid overheating to prevent FPS drops 🔥" },
+    { "title": "Free Storage", "value": "Keep extra space for faster loading" }
+  ],
+
+  "sectionIntro": "These smartphones deliver top-tier Warzone Mobile performance with smooth gameplay, sharp aiming, and reliable FPS.",
+
+  "androidDevices": [
+    "Samsung Galaxy S21, S22, S23, S24 series",
+    "Xiaomi Redmi Note 13 Pro, Poco X5, Poco F6",
+    "Realme GT Neo 3, GT Neo 4",
+    "OnePlus Nord 3, Nord 4, Nord CE series",
+    "Google Pixel 6, 7, 8 family",
+    "Infinix Zero and GT gaming phones"
+  ],
+
+  "iosDevices": [
+    "iPhone X, XR, XS",
+    "iPhone 11, 12, 13, 14 series",
+    "iPhone SE (2020 & 2022)",
+    "iPad Mini 5 & 6",
+    "iPad Air 3rd generation and newer"
+  ],
+
+  "storageIntroText": "Warzone Mobile grows with new seasons, maps, and events. Here’s the storage you should expect 📦:",
+
+  "storageDetails": [
+    { "label": "Initial Download", "value": "Around 3GB" },
+    { "label": "HD Graphics Pack", "value": "500MB–1GB (optional, for sharper visuals ✨)" },
+    { "label": "Season Updates", "value": "200–500MB per update" },
+    { "label": "Safe Storage Amount", "value": "5GB+ for long-term smooth gameplay" }
+  ],
+
+  "faqIntroText": "Common Warzone Mobile questions — answered clearly 😎:",
+
+  "faqList": [
+    {
+      "question": "Does Warzone Mobile require a high-end phone?",
+      "answer": "Yes, mid-range or better devices provide smoother FPS, responsive controls, and better aiming."
+    },
+    {
+      "question": "Is 60 FPS possible on mobile?",
+      "answer": "Yes, on capable mid-range and flagship phones with max FPS mode enabled."
+    },
+    {
+      "question": "Why does Warzone Mobile heat my phone?",
+      "answer": "Continuous action, detailed maps, and high graphics push CPU and GPU hard. Proper cooling and breaks help 😅."
+    }
+  ],
+
+  "title": "Real Device Performance Comparison 🔍",
+  "description": "Side-by-side comparison of Warzone Mobile performance based on FPS, heat management, and visual quality.",
+
+  "rows": [
+    {
+      "device1": "Samsung Galaxy S22",
+      "device2": "Xiaomi Redmi Note 13 Pro",
+      "performance": "Both devices provide smooth gameplay and stable FPS in ranked and casual matches.",
+      "notes": "S22 offers higher peak FPS; Note 13 Pro handles heat better during long sessions."
+    },
+    {
+      "device1": "Realme GT Neo 3",
+      "device2": "Poco F6",
+      "performance": "Responsive controls and smooth textures on both phones.",
+      "notes": "GT Neo 3 is better for long sessions; Poco F6 loads maps faster."
+    },
+    {
+      "device1": "iPhone 13",
+      "device2": "iPhone XR",
+      "performance": "Consistent 60 FPS during most matches.",
+      "notes": "iPhone 13 handles Ultra graphics better; XR may dip in heavy fights."
+    }
+  ]
+}

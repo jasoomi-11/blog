@@ -4,7 +4,7 @@
   <!-- Section Homepage -->
   <url>
     <loc>https://blog.blueverse.space/game-system/system.html</loc>
-    <lastmod>2026-01-23</lastmod>
+    <lastmod>2026-01-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -250,7 +250,12 @@
   </url>
 
 
-<!--17 Dec Must Update 17 Jan -->
+
+
+
+<!-- last update 
+
+17 Jan Must Update 17 Feb -->
   
 
 
@@ -284,17 +289,20 @@
 
 
 
-<!--24 Dec Must Update 24 Jan -->
+<!-- last update 
+
+24 Jan Must Update 24 Feb -->
   
 
 
 
 <url>
     <loc>https://blog.blueverse.space/game-system/weplay.html</loc>
-     <lastmod>2025-12-24T19:00:00+05:00</lastmod>
+     <lastmod>2026-01-25T19:00:00+05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
 
 
 
@@ -361,6 +369,15 @@
   </url>
 
 
+
+<!--28 jan Must Update 28 feb -->
+
+<url>
+    <loc>https://blog.blueverse.space/game-system/cod-warzone.html</loc>
+     <lastmod>2026-01-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
 
 

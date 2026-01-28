@@ -1,0 +1,184 @@
+{
+  "gameComparison": {
+    "games": [
+      {
+        "name": "PUBG Mobile",
+        "thumbnail": "/assets/thumb/pubg-mobile.webp",
+        "genre": "Realistic Battle Royale Shooter 🎯🪖",
+        "developer": "Krafton",
+        "release": "2018",
+        "gameplay": "PUBG Mobile brings the classic battle royale experience to mobile with expansive maps, realistic gunplay, and tactical survival gameplay. Players parachute into the map, scavenge weapons, and strategically fight until only one team or player survives. Long-range combat, careful positioning, and teamwork are key to victory 🔫💥."
+      },
+      {
+        "name": "Call of Duty: Warzone",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/cod-warzone.webp",
+        "genre": "Tactical FPS Battle Royale 🪖🔥",
+        "developer": "Activision",
+        "release": "2020",
+        "gameplay": "Warzone offers a fast-paced battle royale with tactical gunplay, large maps, and strategic loadouts. Players fight in teams of 2–4 across dynamic environments, using vehicles, advanced equipment, and respawn mechanics like the Gulag. It’s a competitive experience with emphasis on strategy, movement, and precise aiming 🎯🚁."
+      }
+    ]
+  },
+
+  "systemRequirements": {
+    "games": [
+      {
+        "name": "PUBG Mobile",
+        "platform": "Android / iOS",
+        "storage": "2–4 GB 📦",
+        "ram": "2–3 GB Recommended",
+        "cpuGpu": "Snapdragon 425 / A7+ equivalents",
+        "fps": "30–60 FPS",
+        "graphics": "Unreal Engine graphics with realistic lighting 🌄",
+        "online": "Always Online Required",
+        "battery": "Moderate to High usage ⚡"
+      },
+      {
+        "name": "Call of Duty: Warzone",
+        "platform": "PC / PlayStation / Xbox",
+        "storage": "80+ GB 📦",
+        "ram": "8 GB+ Recommended",
+        "cpuGpu": "High-end CPUs & GPUs",
+        "fps": "60+ FPS",
+        "graphics": "Ultra-realistic visuals with tactical detail 🔥",
+        "online": "Always Online Required",
+        "battery": "N/A (Console / PC)"
+      }
+    ]
+  },
+
+  "keyFeatures": {
+    "games": [
+      {
+        "name": "PUBG Mobile",
+        "modes": "Classic BR, Arcade, EvoGround",
+        "playerLimits": "Up to 100 players 🧑‍🤝‍🧑",
+        "graphicsStyle": "Realistic military-style visuals",
+        "customization": "Character skins, weapon skins, crates",
+        "events": "Seasonal events, themed updates 🎉",
+        "mechanics": "Bullet drop, recoil control, strategic movement, teamwork-focused"
+      },
+      {
+        "name": "Call of Duty: Warzone",
+        "modes": "Battle Royale, Plunder, Resurgence",
+        "playerLimits": "Up to 120+ players 🪖",
+        "graphicsStyle": "Modern tactical visuals with high detail 🔥",
+        "customization": "Loadouts, weapons, operators, perks",
+        "events": "Seasonal updates, esports events, collaborations",
+        "mechanics": "Advanced gunplay, Gulag respawn, vehicles, tactical loadouts"
+      }
+    ]
+  },
+
+  "prosCons": {
+    "games": [
+      {
+        "name": "PUBG Mobile",
+        "pros": [
+          "Realistic survival gameplay and map variety 🌄",
+          "Strategic team play and positioning",
+          "Long-range shooting mechanics for skilled players",
+          "Lightweight and optimized for mobile devices"
+        ],
+        "cons": [
+          "Matches can be long and slow-paced ⏱️",
+          "Battery intensive on high graphics ⚡",
+          "Lag can occur on older devices",
+          "Less dynamic compared to some modern BR games"
+        ]
+      },
+      {
+        "name": "Call of Duty: Warzone",
+        "pros": [
+          "Fast-paced tactical action and dynamic gameplay",
+          "Respawn system increases engagement 🔁",
+          "Highly competitive for hardcore players",
+          "Stunning graphics and map design",
+          "Vehicles and advanced mechanics add strategy"
+        ],
+        "cons": [
+          "Requires powerful hardware on PC/console 💻",
+          "Steep learning curve for new players",
+          "Extremely large storage requirements 📦",
+          "No official mobile support anymore"
+        ]
+      }
+    ]
+  },
+
+  "popularityCommunity": {
+    "games": [
+      {
+        "name": "PUBG Mobile",
+        "activePlayers": "100M+ Monthly Active Players 🌍",
+        "socialMedia": "Large global community with content creators",
+        "tournaments": "PUBG Mobile Club Open (PMCO) & regional esports",
+        "engagement": "Strong player interaction, live streams, guides, tips 🎥"
+      },
+      {
+        "name": "Call of Duty: Warzone",
+        "activePlayers": "20M+ concurrent on PC/Console",
+        "socialMedia": "Active esports and content creation community",
+        "tournaments": "Warzone World Championships, online events 🏆",
+        "engagement": "Competitive meta, streaming guides, ranked gameplay"
+      }
+    ]
+  },
+
+  "pricingIAP": {
+    "games": [
+      {
+        "name": "PUBG Mobile",
+        "price": "Free-to-Play",
+        "premiumFeatures": "Battle Pass, weapon skins, crates 🎫",
+        "currency": "UC (Unknown Cash)",
+        "specialOffers": "Seasonal events and limited-time bundles"
+      },
+      {
+        "name": "Call of Duty: Warzone",
+        "price": "Free-to-Play",
+        "premiumFeatures": "Battle Pass, weapons, cosmetics 🎮",
+        "currency": "COD Points",
+        "specialOffers": "Seasonal packs, event bundles, collaboration content"
+      }
+    ]
+  },
+
+  "deviceCompatibility": {
+    "games": [
+      {
+        "name": "PUBG Mobile",
+        "devices": "Android & iOS",
+        "osVersion": "Android 5.1+ / iOS 9+",
+        "crossPlatform": "Mobile only",
+        "pcConsole": "Supported on emulator only"
+      },
+      {
+        "name": "Call of Duty: Warzone",
+        "devices": "PC, PlayStation, Xbox",
+        "osVersion": "N/A",
+        "crossPlatform": "Crossplay supported",
+        "pcConsole": "Fully supported"
+      }
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Can you play Warzone on mobile?",
+      "answer": "No ❌ Call of Duty: Warzone is officially supported only on PC and consoles."
+    },
+    {
+      "question": "Is PUBG Mobile still popular?",
+      "answer": "Yes ✅ PUBG Mobile maintains a massive global player base with frequent updates and events."
+    },
+    {
+      "question": "Which game is more tactical?",
+      "answer": "PUBG Mobile focuses on long-range survival tactics and positioning, while Warzone emphasizes fast-paced loadouts, respawns, and advanced tactical mechanics."
+    },
+    {
+      "question": "Which game is better for competitive esports?",
+      "answer": "Call of Duty: Warzone has a stronger presence in PC/console esports with organized tournaments, while PUBG Mobile dominates mobile esports events."
+    }
+  ]
+}
