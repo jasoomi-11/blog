@@ -4,18 +4,18 @@
       {
         "name": "League of Legends: Wild Rift",
         "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/league-of-legends.webp",
-        "genre": "MOBA | Competitive 5v5 Strategy 🧠⚔️",
+        "genre": "MOBA | Tactical 5v5 Competitive Battles 🧠⚔️",
         "developer": "Riot Games",
         "release": "2020",
-        "gameplay": "Wild Rift is the mobile-optimized version of League of Legends, offering deep 5v5 MOBA gameplay with skill-based champions, precise controls, and real teamwork. Matches are faster than PC LoL but still demand map awareness, objective control, and smart decision-making. One wrong move and… boom, enemy ace 😅."
+        "gameplay": "Wild Rift brings the legendary League of Legends experience to mobile with refined controls and faster-paced matches. Every champion requires timing, positioning, and teamwork. Objectives matter, mistakes are punished instantly, and clutch plays can flip the entire match in seconds 😮🔥."
       },
       {
         "name": "Mobile Legends: Bang Bang",
         "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/mobile-legends.webp",
-        "genre": "MOBA | Fast-Paced Casual & Ranked 🎮🔥",
+        "genre": "MOBA | High-Speed Action & Ranked Chaos 🎮💥",
         "developer": "Moonton",
         "release": "2016",
-        "gameplay": "Mobile Legends focuses on quick, action-packed MOBA matches with simpler mechanics and faster snowballing. Easy to learn, addictive to play, and perfect for short sessions. Whether you’re pushing rank or just spamming heroes for fun, chaos is always guaranteed 😄."
+        "gameplay": "Mobile Legends is designed for fast, explosive matches where action never slows down. With simplified mechanics and rapid leveling, players jump straight into fights. Perfect for quick sessions, late-night ranked grinds, and non-stop team brawls 😄⚡."
       }
     ]
   },
@@ -25,24 +25,24 @@
       {
         "name": "League of Legends: Wild Rift",
         "platform": "Android / iOS",
-        "storage": "5–6 GB 📦",
-        "ram": "4 GB Recommended",
-        "cpuGpu": "Mid to high-end chipset (Snapdragon 720G+/A12+)",
-        "fps": "Up to 120 FPS (Supported devices)",
-        "graphics": "High-quality, clean esports visuals ✨",
-        "online": "Online Required",
-        "battery": "Moderate to High ⚡ (Strategic thinking drains energy too 😅)"
+        "storage": "Approx. 6 GB 📦",
+        "ram": "4 GB or Higher Recommended",
+        "cpuGpu": "Modern mid-to-flagship processors (Snapdragon 730+/A12 Bionic+)",
+        "fps": "Up to 120 FPS on supported devices",
+        "graphics": "Clean, sharp visuals optimized for competitive clarity ✨",
+        "online": "Internet Connection Required",
+        "battery": "Medium to High Drain ⚡ (Strategy never rests 😅)"
       },
       {
         "name": "Mobile Legends: Bang Bang",
         "platform": "Android / iOS",
-        "storage": "2–3 GB 📦",
-        "ram": "2–3 GB Recommended",
-        "cpuGpu": "Low to mid-range chipset (Snapdragon 450+/A10+)",
-        "fps": "60 FPS",
-        "graphics": "Colorful, lightweight visuals 🎨",
-        "online": "Online Required",
-        "battery": "Low to Moderate 🔋"
+        "storage": "Around 3 GB 📦",
+        "ram": "2 GB Minimum, 3 GB Recommended",
+        "cpuGpu": "Entry to mid-level processors (Snapdragon 460+/A10 Fusion)",
+        "fps": "Stable 60 FPS",
+        "graphics": "Bright, performance-friendly visuals 🎨",
+        "online": "Internet Connection Required",
+        "battery": "Low to Medium Consumption 🔋"
       }
     ]
   },
@@ -51,21 +51,21 @@
     "games": [
       {
         "name": "League of Legends: Wild Rift",
-        "modes": "Ranked, Normal PvP, ARAM, Special Modes",
-        "playerLimits": "5v5 MOBA 🧑‍🤝‍🧑",
-        "graphicsStyle": "Polished, competitive esports look 🏆",
-        "customization": "Champion skins, emotes, recalls",
-        "events": "Seasonal events, champion releases",
-        "mechanics": "Skill shots, vision control, objectives, team coordination"
+        "modes": "Ranked, PvP, ARAM, Rotating Event Modes",
+        "playerLimits": "5v5 Tactical MOBA 👥",
+        "graphicsStyle": "Professional esports-style presentation 🏆",
+        "customization": "Champion skins, animations, emotes",
+        "events": "Season-based updates, new champion launches",
+        "mechanics": "Precision skill shots, map vision, objective control, team synergy"
       },
       {
         "name": "Mobile Legends: Bang Bang",
-        "modes": "Classic, Ranked, Brawl, Arcade Modes",
-        "playerLimits": "5v5 MOBA ⚔️",
-        "graphicsStyle": "Vibrant, anime-inspired visuals 🌈",
-        "customization": "Hero skins, effects, recalls",
-        "events": "Frequent events, collaborations, giveaways 🎁",
-        "mechanics": "Simplified MOBA mechanics, fast leveling, quick team fights"
+        "modes": "Classic, Ranked, Brawl, Fun Arcade Modes",
+        "playerLimits": "5v5 Action MOBA ⚔️",
+        "graphicsStyle": "Stylized, colorful fantasy visuals 🌈",
+        "customization": "Hero skins, effects, recall animations",
+        "events": "Constant events, collaborations, reward tracks 🎁",
+        "mechanics": "Simplified gameplay, fast rotations, aggressive team fights"
       }
     ]
   },
@@ -75,33 +75,33 @@
       {
         "name": "League of Legends: Wild Rift",
         "pros": [
-          "High-skill competitive gameplay 🧠",
-          "Balanced champions & fair matchmaking",
-          "Strong esports foundation 🏆",
-          "No pay-to-win mechanics",
-          "Console-quality polish on mobile"
+          "Highly skill-based and rewarding gameplay 🧠",
+          "Well-balanced champions and fair progression",
+          "Strong competitive and esports ecosystem 🏆",
+          "Cosmetic-only monetization",
+          "Premium console-like polish on mobile"
         ],
         "cons": [
-          "Steeper learning curve",
-          "Matches require full focus 😅",
-          "Larger download size",
-          "Not ideal for very low-end devices"
+          "Requires time to learn mechanics",
+          "Matches demand full attention",
+          "Large installation size",
+          "Not ideal for older low-end devices"
         ]
       },
       {
         "name": "Mobile Legends: Bang Bang",
         "pros": [
-          "Easy to learn, quick fun 🎮",
-          "Runs smoothly on low-end phones",
-          "Shorter match duration",
-          "Huge global player base 🌍",
-          "Frequent updates & events"
+          "Beginner-friendly and instantly fun 🎮",
+          "Excellent performance on budget phones",
+          "Quick match completion",
+          "Massive international community 🌍",
+          "Regular updates and content drops"
         ],
         "cons": [
-          "Balance issues at times",
-          "Less strategic depth than Wild Rift",
-          "Heavy skin monetization 💸",
-          "Ranked can feel chaotic 😬"
+          "Occasional balance inconsistencies",
+          "Lower strategic depth",
+          "Heavy focus on cosmetic sales 💸",
+          "Ranked experience can feel unpredictable"
         ]
       }
     ]
@@ -111,17 +111,17 @@
     "games": [
       {
         "name": "League of Legends: Wild Rift",
-        "activePlayers": "Millions Worldwide",
-        "socialMedia": "Strong Riot Games ecosystem",
-        "tournaments": "Wild Rift Esports, Regional Leagues 🏆",
-        "engagement": "Competitive gameplay, guides, esports highlights, tier lists 📊"
+        "activePlayers": "Millions of Active Players Globally",
+        "socialMedia": "Backed by Riot’s global gaming network",
+        "tournaments": "Official regional leagues and esports events 🏆",
+        "engagement": "Competitive guides, pro play analysis, tier discussions 📊"
       },
       {
         "name": "Mobile Legends: Bang Bang",
-        "activePlayers": "100M+ Monthly Active Players 🌍",
-        "socialMedia": "Massive presence in Asia & SEA",
-        "tournaments": "MPL, M-Series World Championship 🏆",
-        "engagement": "Streams, memes, ranked rage clips, hero showcases 😂"
+        "activePlayers": "100M+ Monthly Players Worldwide 🌍",
+        "socialMedia": "Extremely strong presence in Asia & SEA",
+        "tournaments": "MPL leagues and M-Series championships 🏆",
+        "engagement": "Livestreams, memes, ranked clips, hero showcases 😂"
       }
     ]
   },
@@ -130,17 +130,17 @@
     "games": [
       {
         "name": "League of Legends: Wild Rift",
-        "price": "Free",
-        "premiumFeatures": "Cosmetic skins only",
+        "price": "Free to Play",
+        "premiumFeatures": "Cosmetic content only",
         "currency": "Wild Cores",
-        "specialOffers": "Seasonal bundles, event skins"
+        "specialOffers": "Event bundles and limited-time skins"
       },
       {
         "name": "Mobile Legends: Bang Bang",
-        "price": "Free",
-        "premiumFeatures": "Hero skins, effects, passes 🎟️",
+        "price": "Free to Play",
+        "premiumFeatures": "Skins, effects, passes 🎟️",
         "currency": "Diamonds",
-        "specialOffers": "Lucky spins, collab events, skin gachas"
+        "specialOffers": "Lucky draws, crossover skins, seasonal deals"
       }
     ]
   },
@@ -149,37 +149,37 @@
     "games": [
       {
         "name": "League of Legends: Wild Rift",
-        "devices": "Android & iOS",
+        "devices": "Android & iOS Smartphones",
         "osVersion": "Android 7.0+ / iOS 11+",
-        "crossPlatform": "Mobile only",
-        "pcConsole": "PC version available separately (League of Legends)"
+        "crossPlatform": "Mobile ecosystem only",
+        "pcConsole": "PC version exists separately (League of Legends)"
       },
       {
         "name": "Mobile Legends: Bang Bang",
-        "devices": "Android & iOS",
+        "devices": "Android & iOS Smartphones",
         "osVersion": "Android 5.0+ / iOS 9+",
-        "crossPlatform": "Mobile only",
-        "pcConsole": "Playable via emulators (Unofficial)"
+        "crossPlatform": "Mobile-only gameplay",
+        "pcConsole": "Playable on PC via third-party emulators"
       }
     ]
   },
 
   "faqs": [
     {
-      "question": "Which game is more competitive?",
-      "answer": "League of Legends: Wild Rift 🏆 offers deeper strategy, better balance, and a more competitive environment."
+      "question": "Which game rewards skill the most?",
+      "answer": "League of Legends: Wild Rift 🏆 focuses heavily on mechanics, teamwork, and decision-making."
     },
     {
-      "question": "Which game is better for casual players?",
-      "answer": "Mobile Legends 😄 is perfect for quick matches and casual fun without heavy learning."
+      "question": "Which game is easier for beginners?",
+      "answer": "Mobile Legends 😄 is more approachable with faster learning and simpler mechanics."
     },
     {
-      "question": "Which game has a bigger player base?",
-      "answer": "Mobile Legends 🌍 has a much larger global mobile player base."
+      "question": "Which title has the larger mobile audience?",
+      "answer": "Mobile Legends 🌍 dominates in terms of sheer mobile player count."
     },
     {
-      "question": "Which game is better for esports?",
-      "answer": "Wild Rift 🎯 is more esports-focused with Riot-backed competitive structure."
+      "question": "Which game is better for competitive esports fans?",
+      "answer": "Wild Rift 🎯 offers a more structured and professional esports environment."
     }
   ]
 }

@@ -5,43 +5,19 @@
       "/assets/thumb/poco-f5-pro.webp",
       ""
     ],
-    "summary": "POCO F5 Pro is a flagship-killer smartphone powered by Snapdragon 8+ Gen 1, featuring a WQHD+ AMOLED display, strong cooling, and excellent gaming performance at a much lower price than true gaming phones.",
-    "priceRange": "Varies by region",
+    "summary": "POCO F5 Pro delivers flagship-level Snapdragon 8+ Gen 1 performance with a vivid WQHD+ AMOLED screen, efficient cooling, and strong everyday and gaming performance at a price well below premium flagships 🎮💸.",
+    "priceRange": "Official retail ranges vary by country and configuration",
 
     "countries": [
       {
         "flag": "🇺🇸",
         "country": "United States",
         "currency": "USD",
-        "displayPrice": "$379 – $499",
+        "displayPrice": "$449 – $649",
         "variants": [
-          { "ram": "8GB / 256GB", "price": "$379" },
-          { "ram": "12GB / 256GB", "price": "$429" },
-          { "ram": "12GB / 512GB", "price": "$499" }
-        ],
-        "colors": ["Black", "White"]
-      },
-      {
-        "flag": "🇮🇳",
-        "country": "India",
-        "currency": "INR",
-        "displayPrice": "₹36,999 – ₹42,999",
-        "variants": [
-          { "ram": "8GB / 256GB", "price": "₹36,999" },
-          { "ram": "12GB / 256GB", "price": "₹39,999" },
-          { "ram": "12GB / 512GB", "price": "₹42,999" }
-        ],
-        "colors": ["Black", "White"]
-      },
-      {
-        "flag": "🇵🇰",
-        "country": "Pakistan",
-        "currency": "PKR",
-        "displayPrice": "Rs 135,000 – Rs 165,000",
-        "variants": [
-          { "ram": "8GB / 256GB", "price": "Rs 135,000" },
-          { "ram": "12GB / 256GB", "price": "Rs 150,000" },
-          { "ram": "12GB / 512GB", "price": "Rs 165,000" }
+          { "ram": "8GB / 256GB", "price": "$449" },
+          { "ram": "12GB / 256GB", "price": "$549" },
+          { "ram": "12GB / 512GB", "price": "$649" }
         ],
         "colors": ["Black", "White"]
       },
@@ -49,71 +25,11 @@
         "flag": "🇬🇧",
         "country": "United Kingdom",
         "currency": "GBP",
-        "displayPrice": "£349 – £449",
+        "displayPrice": "£379 – £499",
         "variants": [
-          { "ram": "8GB / 256GB", "price": "£349" },
-          { "ram": "12GB / 256GB", "price": "£399" },
-          { "ram": "12GB / 512GB", "price": "£449" }
-        ],
-        "colors": ["Black", "White"]
-      },
-      {
-        "flag": "🇨🇦",
-        "country": "Canada",
-        "currency": "CAD",
-        "displayPrice": "CA$520 – CA$650",
-        "variants": [
-          { "ram": "8GB / 256GB", "price": "CA$520" },
-          { "ram": "12GB / 256GB", "price": "CA$590" },
-          { "ram": "12GB / 512GB", "price": "CA$650" }
-        ],
-        "colors": ["Black", "White"]
-      },
-      {
-        "flag": "🇦🇺",
-        "country": "Australia",
-        "currency": "AUD",
-        "displayPrice": "A$580 – A$720",
-        "variants": [
-          { "ram": "8GB / 256GB", "price": "A$580" },
-          { "ram": "12GB / 256GB", "price": "A$650" },
-          { "ram": "12GB / 512GB", "price": "A$720" }
-        ],
-        "colors": ["Black", "White"]
-      },
-      {
-        "flag": "🇦🇪",
-        "country": "United Arab Emirates",
-        "currency": "AED",
-        "displayPrice": "AED 1,350 – AED 1,650",
-        "variants": [
-          { "ram": "8GB / 256GB", "price": "AED 1,350" },
-          { "ram": "12GB / 256GB", "price": "AED 1,500" },
-          { "ram": "12GB / 512GB", "price": "AED 1,650" }
-        ],
-        "colors": ["Black", "White"]
-      },
-      {
-        "flag": "🇧🇩",
-        "country": "Bangladesh",
-        "currency": "BDT",
-        "displayPrice": "৳ 55,000 – ৳ 65,000",
-        "variants": [
-          { "ram": "8GB / 256GB", "price": "৳ 55,000" },
-          { "ram": "12GB / 256GB", "price": "৳ 60,000" },
-          { "ram": "12GB / 512GB", "price": "৳ 65,000" }
-        ],
-        "colors": ["Black", "White"]
-      },
-      {
-        "flag": "🇵🇭",
-        "country": "Philippines",
-        "currency": "PHP",
-        "displayPrice": "₱ 21,000 – ₱ 25,000",
-        "variants": [
-          { "ram": "8GB / 256GB", "price": "₱ 21,000" },
-          { "ram": "12GB / 256GB", "price": "₱ 23,000" },
-          { "ram": "12GB / 512GB", "price": "₱ 25,000" }
+          { "ram": "8GB / 256GB", "price": "£379" },
+          { "ram": "12GB / 256GB", "price": "£429" },
+          { "ram": "12GB / 512GB", "price": "£499" }
         ],
         "colors": ["Black", "White"]
       },
@@ -121,11 +37,107 @@
         "flag": "🇪🇺",
         "country": "Euro Zone",
         "currency": "EUR",
-        "displayPrice": "€399 – €499",
+        "displayPrice": "€420 – €580",
         "variants": [
-          { "ram": "8GB / 256GB", "price": "€399" },
-          { "ram": "12GB / 256GB", "price": "€449" },
-          { "ram": "12GB / 512GB", "price": "€499" }
+          { "ram": "8GB / 256GB", "price": "€420" },
+          { "ram": "12GB / 256GB", "price": "€499" },
+          { "ram": "12GB / 512GB", "price": "€580" }
+        ],
+        "colors": ["Black", "White"]
+      },
+      {
+        "flag": "🇮🇳",
+        "country": "India",
+        "currency": "INR",
+        "displayPrice": "₹35,999 – ₹44,999",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "₹35,999" },
+          { "ram": "12GB / 256GB", "price": "₹39,999" },
+          { "ram": "12GB / 512GB", "price": "₹44,999" }
+        ],
+        "colors": ["Black", "White"]
+      },
+      {
+        "flag": "🇵🇰",
+        "country": "Pakistan",
+        "currency": "PKR",
+        "displayPrice": "Rs 104,000 – Rs 124,000",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "Rs 104,000" },
+          { "ram": "12GB / 256GB", "price": "Rs 114,000" },
+          { "ram": "12GB / 512GB", "price": "Rs 124,000" }
+        ],
+        "colors": ["Black", "White"]
+      },
+      {
+        "flag": "🇵🇭",
+        "country": "Philippines",
+        "currency": "PHP",
+        "displayPrice": "₱19,000 – ₱25,000",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "₱19,000" },
+          { "ram": "12GB / 256GB", "price": "₱21,500" },
+          { "ram": "12GB / 512GB", "price": "₱25,000" }
+        ],
+        "colors": ["Black", "White"]
+      },
+      {
+        "flag": "🇧🇩",
+        "country": "Bangladesh",
+        "currency": "BDT",
+        "displayPrice": "৳36,000 – ৳46,000",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "৳36,000" },
+          { "ram": "12GB / 256GB", "price": "৳40,000" },
+          { "ram": "12GB / 512GB", "price": "৳46,000" }
+        ],
+        "colors": ["Black", "White"]
+      },
+      {
+        "flag": "🇦🇪",
+        "country": "United Arab Emirates",
+        "currency": "AED",
+        "displayPrice": "AED 1,699 – AED 2,199",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "AED 1,699" },
+          { "ram": "12GB / 256GB", "price": "AED 1,899" },
+          { "ram": "12GB / 512GB", "price": "AED 2,199" }
+        ],
+        "colors": ["Black", "White"]
+      },
+      {
+        "flag": "🇰🇼",
+        "country": "Kuwait",
+        "currency": "KWD",
+        "displayPrice": "KWD 135 – KWD 180",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "KWD 135" },
+          { "ram": "12GB / 256GB", "price": "KWD 155" },
+          { "ram": "12GB / 512GB", "price": "KWD 180" }
+        ],
+        "colors": ["Black", "White"]
+      },
+      {
+        "flag": "🇸🇬",
+        "country": "Singapore",
+        "currency": "SGD",
+        "displayPrice": "SG$ 639 – SG$ 799",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "SG$ 639" },
+          { "ram": "12GB / 256GB", "price": "SG$ 719" },
+          { "ram": "12GB / 512GB", "price": "SG$ 799" }
+        ],
+        "colors": ["Black", "White"]
+      },
+      {
+        "flag": "🇦🇺",
+        "country": "Australia",
+        "currency": "AUD",
+        "displayPrice": "A$499 – A$699",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "A$499" },
+          { "ram": "12GB / 256GB", "price": "A$599" },
+          { "ram": "12GB / 512GB", "price": "A$699" }
         ],
         "colors": ["Black", "White"]
       }

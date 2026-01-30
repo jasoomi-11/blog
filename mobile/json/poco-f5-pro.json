@@ -1,6 +1,6 @@
 {
   "gameTitle": "POCO F5 Pro",
-  "subtitle": "A flagship-killer gaming phone that balances raw power, smooth FPS, solid cooling, and insane value for competitive mobile gamers without emptying your wallet 💸🎮.",
+  "subtitle": "A true flagship-class gaming smartphone built for players who want top-tier performance, smooth high-FPS gameplay, effective thermal control, and premium features — all without paying ultra-flagship prices 🎮🔥.",
 
   "posters": [
     "/assets/thumb/poco-f5-pro.webp",
@@ -8,34 +8,34 @@
   ],
 
   "performance": {
-    "cpu": "Qualcomm Snapdragon 8+ Gen 1 (Up to 3.2GHz)",
-    "gpu": "Adreno 730",
-    "ram": "8GB / 12GB LPDDR5",
-    "storage": "256GB / 512GB UFS 3.1",
-    "cooling": "LiquidCool Technology 2.0 with Vapor Chamber"
+    "cpu": "Qualcomm Snapdragon 8+ Gen 1 (3.2GHz flagship chipset)",
+    "gpu": "Adreno 730 (High-end mobile graphics)",
+    "ram": "8GB / 12GB LPDDR5 (fast multitasking & stable gaming)",
+    "storage": "256GB / 512GB UFS 3.1 (quick load times)",
+    "cooling": "Advanced LiquidCool Technology 2.0 with large vapor chamber"
   },
 
   "benchmark": {
-    "antutu": "1,150,000+",
-    "geekbench": "Single-Core: 1350, Multi-Core: 4100"
+    "antutu": "1,100,000 – 1,150,000+ (stable scores)",
+    "geekbench": "Single-Core: ~1350 | Multi-Core: ~4100"
   },
 
   "display": {
-    "refreshRate": "120Hz",
-    "touchRate": "480Hz Touch Sampling",
+    "refreshRate": "120Hz Adaptive Refresh Rate",
+    "touchRate": "480Hz Touch Sampling (ultra-fast response)",
     "resolution": "WQHD+ (3200 × 1440)",
-    "panelType": "AMOLED HDR10+"
+    "panelType": "AMOLED with HDR10+ Support"
   },
 
   "battery": {
-    "size": "5160mAh",
-    "fastCharging": "67W Turbo Charging",
-    "gamingDrain": "10% – 14% per hour (balanced performance 🔋)"
+    "size": "5160mAh High-capacity Battery",
+    "fastCharging": "67W Turbo Fast Charging",
+    "gamingDrain": "Approx. 10%–14% per hour during heavy gaming 🔋"
   },
 
   "temperature": {
-    "heatLevel": "38°C – 44°C",
-    "fpsStability": "Stable (88% – 92%)"
+    "heatLevel": "38°C – 44°C under extended gaming",
+    "fpsStability": "Consistent 88% – 92% FPS stability"
   },
 
   "heavyGames": [
@@ -51,22 +51,22 @@
   ],
 
   "playability": {
-    "PUBG Mobile": "HDR / Smooth + 90FPS Support",
-    "Call of Duty Mobile": "Very High Graphics + 120FPS",
-    "Genshin Impact": "High Settings at 55–60FPS",
-    "Fortnite": "High Quality + 60FPS",
-    "Honkai Star Rail": "High Settings Smooth"
+    "PUBG Mobile": "Smooth / HDR Graphics with up to 90FPS",
+    "Call of Duty Mobile": "Very High Graphics with 120FPS support",
+    "Genshin Impact": "High settings at stable 55–60FPS",
+    "Fortnite": "High quality graphics at ~60FPS",
+    "Honkai Star Rail": "High settings with smooth frame pacing"
   },
 
   "fpsBenchmarks": [
     {
       "game": "PUBG Mobile",
       "settings": "Smooth / HDR",
-      "fps": "80–90 FPS Stable"
+      "fps": "80–90 FPS (stable)"
     },
     {
-      "game": "COD Mobile",
-      "settings": "Max",
+      "game": "Call of Duty Mobile",
+      "settings": "Max Graphics",
       "fps": "110–120 FPS"
     },
     {
@@ -84,78 +84,78 @@
   "thermalTests": [
     {
       "game": "PUBG Mobile",
-      "heat15": "Warm but comfortable",
-      "heat30": "Noticeably warm",
+      "heat15": "Warm but comfortable to hold",
+      "heat30": "Moderately warm",
       "fpsDrop": "2–3 FPS"
     },
     {
-      "game": "COD Mobile",
-      "heat15": "Normal",
+      "game": "Call of Duty Mobile",
+      "heat15": "Cool to normal",
       "heat30": "Warm",
       "fpsDrop": "1–2 FPS"
     },
     {
       "game": "Genshin Impact",
       "heat15": "Warm",
-      "heat30": "Hot (reduce brightness 😅)",
+      "heat30": "Hot (brightness adjustment recommended 😅)",
       "fpsDrop": "4–6 FPS"
     },
     {
       "game": "Fortnite",
       "heat15": "Normal",
       "heat30": "Warm",
-      "fpsDrop": "2 FPS"
+      "fpsDrop": "Around 2 FPS"
     }
   ],
 
   "batteryTests": [
     {
       "game": "PUBG Mobile",
-      "drop": "11%"
+      "drop": "≈11% per hour"
     },
     {
-      "game": "COD Mobile",
-      "drop": "10%"
+      "game": "Call of Duty Mobile",
+      "drop": "≈10% per hour"
     },
     {
       "game": "Genshin Impact",
-      "drop": "15%"
+      "drop": "≈15% per hour"
     }
   ],
 
   "gamingFeatures": [
-    "Snapdragon 8+ Gen 1 Flagship Performance",
-    "WQHD+ AMOLED Display (Ultra Sharp 👀)",
-    "LiquidCool Vapor Chamber Cooling",
-    "MIUI Game Turbo Optimization",
+    "Flagship Snapdragon 8+ Gen 1 Performance",
+    "Sharp WQHD+ AMOLED Display at 120Hz 👀",
+    "Large Vapor Chamber Cooling System",
+    "MIUI Game Turbo with Performance Modes",
     "Dual Stereo Speakers with Dolby Atmos",
-    "X-Axis Linear Vibration Motor",
-    "High Touch Sampling for Fast Reflexes",
-    "Glass Back Premium Build"
+    "X-axis Linear Vibration for Better Feedback",
+    "High Touch Sampling for Competitive Gaming",
+    "Premium Glass Back Design"
   ],
 
   "customTable": {
-    "title": "POCO F5 Pro Gaming Breakdown",
-    "columns": ["Category", "Details", "Performance Impact"],
+    "title": "POCO F5 Pro – Gaming Performance Overview",
+    "columns": ["Category", "Specification", "Gaming Advantage"],
     "rows": [
-      ["Processor", "Snapdragon 8+ Gen 1", "Flagship-Level FPS"],
-      ["Cooling", "LiquidCool 2.0 VC", "Controls Heat During Long Matches"],
-      ["Display", "WQHD+ AMOLED 120Hz", "Crisp Visuals & Smooth Scrolling"],
-      ["Charging", "67W Turbo Charge", "Quick Top-Ups Between Games"],
-      ["Audio", "Stereo Speakers", "Better Enemy Direction Awareness"],
-      ["Software", "MIUI for POCO", "Aggressive Gaming Optimization"]
+      ["Processor", "Snapdragon 8+ Gen 1", "Smooth High-FPS Gameplay"],
+      ["Cooling", "LiquidCool VC System", "Reduced Throttling in Long Sessions"],
+      ["Display", "WQHD+ AMOLED 120Hz", "Sharp Visuals & Fluid Motion"],
+      ["Charging", "67W Fast Charge", "Quick Recharge Between Matches"],
+      ["Audio", "Dual Stereo Speakers", "Improved Positional Audio"],
+      ["Software", "MIUI for POCO", "Dedicated Gaming Optimization"]
     ]
   },
 
   "dynamicList": {
-    "title": "Why Gamers Love POCO F5 Pro",
+    "title": "Why POCO F5 Pro Is a Gamer Favorite in 2026",
     "items": [
-      "Snapdragon 8+ Gen 1 Flagship Chip",
-      "WQHD+ AMOLED Display at 120Hz",
-      "Strong FPS Stability for Competitive Games",
-      "Excellent Value for Money 💰",
-      "Reliable Cooling for Long Sessions",
-      "Smooth Multiplayer & Ranked Performance"
+      "Reliable flagship performance at a competitive price",
+      "Consistent FPS in popular competitive games",
+      "High-resolution AMOLED display with smooth refresh rate",
+      "Effective cooling for long gaming sessions",
+      "Fast charging minimizes downtime",
+      "Excellent value-for-money gaming phone 💰"
     ]
   }
 }

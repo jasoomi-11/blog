@@ -44,11 +44,20 @@
   "subtitle": "AoV complete  All guides Together 🏰⚔️",
   "link": "/guides/aov/all.html"
 },
+
+
    {
   "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/brawl-stars.webp",
   "title": "Brawl Stars",
   "subtitle": "Brawl Stars complete  All guides Together 🏰⚔️",
   "link": "/guides/brawl-stars/all.html"
+},
+
+{
+  "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/free-fire.webp",
+  "title": "Free Fire",
+  "subtitle": "Free Fire complete guide hub – all modes, tips, tricks & pro strategies in one place 🔥🎮",
+  "link": "/guides/freefire/all.html"
 }
    
    

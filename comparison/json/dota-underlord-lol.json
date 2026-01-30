@@ -4,18 +4,18 @@
       {
         "name": "League of Legends: Wild Rift",
         "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/league-of-legends.webp",
-        "genre": "MOBA (5v5 Competitive Strategy) 🧠⚔️",
+        "genre": "MOBA (5v5 Competitive Strategy & Action) 🧠⚔️",
         "developer": "Riot Games",
-        "release": "2020",
-        "gameplay": "Fast-paced 5v5 MOBA designed for mobile with shorter matches, skill-based champions, lanes, jungle objectives, and intense team fights. Smooth controls and esports-level balance 🎮🔥."
+        "release": "2020 (Actively Updated)",
+        "gameplay": "A polished mobile-first MOBA offering fast 5v5 matches, refined touch controls, balanced champions, lane/jungle strategy, and high-skill team fights. Designed for competitive play with a strong ranked focus and esports DNA 🎮🔥."
       },
       {
         "name": "Dota Underlords",
         "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/dota-underlords.webp",
-        "genre": "Auto Battler / Strategy ♟️🧩",
+        "genre": "Auto Battler / Tactical Strategy ♟️🧩",
         "developer": "Valve",
-        "release": "2019",
-        "gameplay": "Strategic auto-battler based on the Dota universe. Players build teams, manage gold, synergies, and positioning while units fight automatically. Focused on planning, counters, and long-term strategy 🧠📊."
+        "release": "2019 (Maintenance Mode)",
+        "gameplay": "A strategy-heavy auto battler set in the Dota universe. Players draft units, manage gold, build synergies, and position heroes while battles resolve automatically. Emphasizes planning, counters, and decision-making over reflexes 🧠📊."
       }
     ]
   },
@@ -25,24 +25,24 @@
       {
         "name": "League of Legends: Wild Rift",
         "platform": "Android / iOS",
-        "storage": "5–6 GB 📦",
-        "ram": "3–4 GB Recommended",
-        "cpuGpu": "Mid-range chipset (Snapdragon 665+/A11+)",
-        "fps": "60 FPS (120Hz supported devices)",
-        "graphics": "Highly polished & vibrant visuals ✨",
-        "online": "Online Required",
-        "battery": "Moderate ⚡"
+        "storage": "6–7 GB 📦",
+        "ram": "4 GB Recommended",
+        "cpuGpu": "Mid-range chipset (Snapdragon 720G+/A12+)",
+        "fps": "60 FPS (120Hz on supported devices)",
+        "graphics": "High-quality animated visuals with smooth effects ✨",
+        "online": "Internet Required",
+        "battery": "Moderate to High ⚡"
       },
       {
         "name": "Dota Underlords",
-        "platform": "Android / iOS",
+        "platform": "Android / iOS / PC",
         "storage": "2–3 GB 📦",
         "ram": "3 GB Recommended",
-        "cpuGpu": "Mid-range chipset",
+        "cpuGpu": "Low to mid-range chipset",
         "fps": "60 FPS",
-        "graphics": "Stylized fantasy board visuals 🎲",
-        "online": "Optional (Offline modes available)",
-        "battery": "Low to Moderate"
+        "graphics": "Stylized board-game fantasy visuals 🎲",
+        "online": "Optional (Offline supported)",
+        "battery": "Low"
       }
     ]
   },
@@ -52,20 +52,20 @@
       {
         "name": "League of Legends: Wild Rift",
         "modes": "Ranked, Normal PvP, ARAM, Co-op vs AI",
-        "playerLimits": "10 players (5v5) 🧑‍🤝‍🧑",
-        "graphicsStyle": "Colorful, animated MOBA visuals 🌈",
-        "customization": "Champion skins, emotes, icons",
-        "events": "Regular seasonal & crossover events 🎉",
-        "mechanics": "Laning, jungle objectives, skillshots, team coordination"
+        "playerLimits": "10 Players (5v5)",
+        "graphicsStyle": "Colorful, fluid MOBA-style animations 🌈",
+        "customization": "Champion skins, recalls, emotes, profile icons",
+        "events": "Frequent seasonal events & collaborations 🎉",
+        "mechanics": "Skillshots, laning, jungle control, objectives, team coordination"
       },
       {
         "name": "Dota Underlords",
         "modes": "Ranked, Casual, Duos, Offline Bots",
-        "playerLimits": "8 players per match 🎮",
-        "graphicsStyle": "Board-game inspired fantasy visuals ♟️",
-        "customization": "Boards, effects, cosmetics",
-        "events": "Limited seasonal updates",
-        "mechanics": "Auto combat, unit synergies, economy management"
+        "playerLimits": "8 Players",
+        "graphicsStyle": "Chessboard-inspired tactical visuals ♟️",
+        "customization": "Boards, effects, UI cosmetics",
+        "events": "Minimal seasonal changes",
+        "mechanics": "Auto combat, hero alliances, economy & positioning"
       }
     ]
   },
@@ -75,31 +75,31 @@
       {
         "name": "League of Legends: Wild Rift",
         "pros": [
-          "Highly competitive & skill-based gameplay 🏆",
-          "Strong esports ecosystem",
-          "Frequent updates & balance patches",
-          "Optimized controls for mobile",
-          "Huge active player base 🌍"
+          "Highly competitive & skill-driven gameplay 🏆",
+          "Active updates and balance changes",
+          "Large global player base 🌍",
+          "Smooth and responsive mobile controls",
+          "Strong ranked and esports appeal"
         ],
         "cons": [
-          "Steep learning curve for new players",
-          "Requires constant internet",
-          "Team dependency can be frustrating 😅"
+          "Challenging for beginners",
+          "Always-online requirement",
+          "Heavy reliance on team performance 😅"
         ]
       },
       {
         "name": "Dota Underlords",
         "pros": [
-          "Deep strategic gameplay 🧠",
-          "Can be played offline",
-          "Less mechanical skill required",
-          "Relaxed, thinking-focused experience"
+          "Deep strategic depth 🧠",
+          "Playable offline",
+          "No mechanical pressure",
+          "Relaxed and thoughtful pacing"
         ],
         "cons": [
-          "Declining active player base 📉",
-          "Fewer updates",
-          "Long matches",
-          "Not action-oriented"
+          "Very small active community 📉",
+          "Limited updates",
+          "Long match duration",
+          "Low action intensity"
         ]
       }
     ]
@@ -110,16 +110,16 @@
       {
         "name": "League of Legends: Wild Rift",
         "activePlayers": "Millions of Monthly Active Players 🌍",
-        "socialMedia": "10M+ Followers",
-        "tournaments": "Wild Rift Esports & Regional Leagues 🏆",
-        "engagement": "Streams, esports, champion guides, tier lists 🎥"
+        "socialMedia": "Large global presence across platforms",
+        "tournaments": "Regional & international Wild Rift events 🏆",
+        "engagement": "Livestreams, guides, tier lists, esports coverage 🎥"
       },
       {
         "name": "Dota Underlords",
-        "activePlayers": "Low / Niche Community",
-        "socialMedia": "Limited Activity",
-        "tournaments": "None (Esports discontinued)",
-        "engagement": "Casual strategy discussions, legacy players"
+        "activePlayers": "Small niche player base",
+        "socialMedia": "Low engagement",
+        "tournaments": "No active competitive scene",
+        "engagement": "Strategy discussions among legacy players"
       }
     ]
   },
@@ -128,15 +128,15 @@
     "games": [
       {
         "name": "League of Legends: Wild Rift",
-        "price": "Free",
-        "premiumFeatures": "Cosmetic skins only",
+        "price": "Free-to-Play",
+        "premiumFeatures": "Cosmetic-only purchases",
         "currency": "Wild Cores",
-        "specialOffers": "Seasonal skin bundles & passes 🎫"
+        "specialOffers": "Battle passes & limited-time skin bundles 🎫"
       },
       {
         "name": "Dota Underlords",
-        "price": "Free",
-        "premiumFeatures": "Cosmetics only",
+        "price": "Free-to-Play",
+        "premiumFeatures": "Cosmetic-only",
         "currency": "None",
         "specialOffers": "No active monetization"
       }
@@ -149,7 +149,7 @@
         "name": "League of Legends: Wild Rift",
         "devices": "Android & iOS",
         "osVersion": "Android 5.0+ / iOS 10+",
-        "crossPlatform": "Mobile only",
+        "crossPlatform": "Mobile-only matchmaking",
         "pcConsole": "Not available"
       },
       {
@@ -164,20 +164,20 @@
 
   "faqs": [
     {
-      "question": "Which game is more competitive?",
-      "answer": "League of Legends: Wild Rift 🏆 offers a highly competitive MOBA experience with ranked and esports."
+      "question": "Which game is more competitive in 2026?",
+      "answer": "League of Legends: Wild Rift 🏆 remains the more competitive option with ranked ladders and active esports support."
     },
     {
-      "question": "Which game is better for casual play?",
-      "answer": "Dota Underlords ♟️ is better for relaxed, strategy-focused gameplay."
+      "question": "Which game suits casual players better?",
+      "answer": "Dota Underlords ♟️ is better for casual, low-pressure strategic gameplay."
     },
     {
-      "question": "Does either game support offline play?",
-      "answer": "Dota Underlords supports offline modes, while Wild Rift requires internet ❌."
+      "question": "Can I play offline?",
+      "answer": "Dota Underlords supports offline modes, while Wild Rift requires an active internet connection ❌."
     },
     {
       "question": "Which game is better long-term?",
-      "answer": "League of Legends: Wild Rift has stronger long-term support, updates, and player base 🔥."
+      "answer": "Wild Rift offers stronger long-term value due to updates, events, and a healthy player base 🔥."
     }
   ]
 }
