@@ -225,14 +225,9 @@
   </url>
 
 
-
-
-
-
-
 <url>
     <loc>https://blog.blueverse.space/guides/coc/clan-wars.html</loc>
-    <lastmod>2025-12-14</lastmod>
+    <lastmod>2026-01-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -240,7 +235,7 @@
   
   <url>
     <loc>https://blog.blueverse.space/guides/coc/farming-resource.html</loc>
-    <lastmod>2025-12-14</lastmod>
+    <lastmod>2026-01-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -251,51 +246,63 @@
 
 
 
-   <!-- 15 Dec to 15 Jan -->
+   <!-- last update 
+   
+   15 Jan to 15 feb -->
 
   <url>
     <loc>https://blog.blueverse.space/guides/coc/heroes-guide.html</loc>
-    <lastmod>2025-12-15</lastmod>
+    <lastmod>2026-01-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
 
-<!-- 16 Dec to 16  Jan -->
+<!-- last Update 
+16 Jan to 16  Feb -->
 
 
 <url>
     <loc>https://blog.blueverse.space/guides/pubg/conqueror-rank.html</loc>
-    <lastmod>2025-12-16</lastmod>
+    <lastmod>2026-01-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
 <url>
     <loc>https://blog.blueverse.space/guides/pubg/weapons-guide.html</loc>
-    <lastmod>2025-12-16</lastmod>
+    <lastmod>2026-01-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
 <url>
     <loc>https://blog.blueverse.space/guides/pubg/vehicle-guide.html</loc>
-    <lastmod>2025-12-16</lastmod>
+    <lastmod>2026-01-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
 
-<!-- 17 Dec to 17 Jan -->
+
+
+
+<!-- last update 
+
+17 Jan to 17 feb -->
 
 
 
 <url>
     <loc>https://blog.blueverse.space/guides/mlbb/beginners-heroes-guide.html</loc>
-    <lastmod>2025-12-17</lastmod>
+    <lastmod>2026-01-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
+
+
+
 
 
 
@@ -380,6 +387,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  
+  
+  
+  
+  
+  
+  
   
   
     <!-- 1 jan to 1  feb-->
