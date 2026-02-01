@@ -1,69 +1,69 @@
 {
   "shortIntro": {
     "title": "What Your Device Needs for Smooth Knives Out Mobile Action 🔪📱",
-    "para1": "Knives Out Mobile is a battle royale packed with intense firefights, sneaky ambushes, and frantic looting. Surviving until the last circle requires a device that won’t lag mid-gunfight or freeze when you’re sprinting for cover.",
-    "para2": "Your aim, dodge rolls, and tactical maneuvers rely heavily on your CPU, GPU, and RAM. Play on a weak phone and you might accidentally parachute straight into enemy fire 😅💥."
+    "para1": "Knives Out Mobile is a fast-paced battle royale where split-second decisions decide survival. From close-range firefights to last-circle chaos, your device needs to stay smooth when the pressure is at its peak.",
+    "para2": "Every movement, aim adjustment, and tactical escape depends on your phone’s CPU, GPU, and RAM working together. Just like in <a href=\"/game-system/pubg-mobile.html\">PUBG Mobile system requirements</a>, weaker devices can struggle during intense combat and cost you crucial moments 😅💥."
   },
 
-  "intro": "Here’s the full minimum and recommended device specs to dominate Knives Out Mobile on Android and iOS. Tested by casual looters and pro survivors alike 😎🏆.",
+  "intro": "Below are the minimum and recommended device requirements for running Knives Out Mobile smoothly on Android and iOS. If you also play competitive shooters, you may want to check detailed <a href=\"game-system/pubg-mobile.html\">PUBG Mobile system requirements</a> for comparison 😎🏆.",
 
   "minimum": {
-    "OS Version": "Android 6.0 or higher",
-    "RAM": "2GB minimum (barely enough for smooth looting 😬)",
-    "CPU": "Quad-Core 1.6–1.8GHz",
-    "GPU": "Adreno 505 / Mali-G71 or equivalent",
-    "Storage": "2–3GB free space",
-    "Internet": "Stable connection required – lag = instant elimination 💀"
+    "OS Version": "Android 6.0 or newer",
+    "RAM": "2GB minimum (playable, but expect occasional stutters 😬)",
+    "CPU": "Quad-Core processor around 1.6–1.8GHz",
+    "GPU": "Adreno 505 / Mali-G71 or similar",
+    "Storage": "2–3GB free internal storage",
+    "Internet": "Stable internet required – lag usually means instant defeat 💀"
   },
 
   "recommended": {
     "OS Version": "Android 11 or higher",
-    "RAM": "4GB+ for buttery smooth gameplay 💨",
+    "RAM": "4GB or more for consistently smooth gameplay 💨",
     "CPU": "Snapdragon 720 / 860 or newer",
     "GPU": "Adreno 618 / Mali-G76 or better",
-    "Storage": "5GB+ recommended for skins, updates, and maps",
-    "Internet": "Fast Wi-Fi or 5G – bullets wait for no one!"
+    "Storage": "5GB+ free space for updates, maps, and cosmetics",
+    "Internet": "Fast Wi-Fi or 5G for low-latency combat"
   },
 
-  "ios_intro": "Knives Out Mobile runs beautifully on iOS 🍏. Smooth frame rates, precise controls, and perfect combat thanks to Apple’s GPU magic.",
+  "ios_intro": "Knives Out Mobile performs exceptionally well on iOS 🍏, delivering smooth frame rates, responsive controls, and stable combat similar to optimized shooters like PUBG Mobile.",
 
   "ios_minimum": [
     { "title": "OS Version", "value": "iOS 11 or later" },
-    { "title": "Device", "value": "iPhone 6s / 7 or newer" },
-    { "title": "Storage", "value": "2–3GB free space minimum" }
+    { "title": "Device", "value": "iPhone 6s / iPhone 7 or newer" },
+    { "title": "Storage", "value": "At least 2–3GB of free space" }
   ],
 
   "ios_recommended": [
     { "title": "OS Version", "value": "iOS 14 or later" },
-    { "title": "Device", "value": "iPhone X / 11 / 12 Series or newer" },
-    { "title": "Storage", "value": "5GB+ free space recommended for smooth updates & skins" }
+    { "title": "Device", "value": "iPhone X / 11 / 12 series or newer" },
+    { "title": "Storage", "value": "5GB+ free space for smooth updates and content downloads" }
   ],
 
-  "fps_intro": "FPS matters in Knives Out! High FPS = smooth aiming, faster rotations, and fewer rage quits 😎.",
+  "fps_intro": "Frame rate plays a huge role in Knives Out. Just like PUBG Mobile, higher FPS means smoother aiming, quicker reactions, and fewer frustrating moments. You can compare this with <a href=\"/game-system/pubg-mobile.html\">PUBG Mobile system requirements</a> 😎.",
 
   "fps_list": [
-    { "category": "Low-End Devices", "fps": "20–30 FPS (enemies everywhere, good luck 😬)" },
-    { "category": "Mid-Range Devices", "fps": "40–50 FPS (smooth for casual squads)" },
-    { "category": "High-End Devices", "fps": "60–90 FPS+ (pro-level firefights with zero lag 💪)" }
+    { "category": "Low-End Devices", "fps": "20–30 FPS (playable, but intense fights feel rough 😬)" },
+    { "category": "Mid-Range Devices", "fps": "40–50 FPS (smooth enough for regular squad play)" },
+    { "category": "High-End Devices", "fps": "60–90 FPS+ (competitive-level gameplay with fluid motion 💪)" }
   ],
 
-  "settings_intro": "Optimizing graphics is key! Less lag = more kills 🔫🏆.",
+  "settings_intro": "Tweaking your graphics settings can massively improve performance. The same optimization logic applies when meeting <a href=\"/game-system/pubg-mobile.html\">PUBG Mobile system requirements</a> — lower load equals smoother gunfights 🔫🏆.",
 
   "low_end": [
-    { "title": "Graphics Quality", "value": "Low or Default to avoid frame drops" },
-    { "title": "Frame Rate", "value": "Standard FPS (watch your aim 😅)" },
-    { "title": "Effects", "value": "Reduce shadows and particle effects for clarity" },
-    { "title": "Background Apps", "value": "Close everything else unless you enjoy surprise crashes 😡" }
+    { "title": "Graphics Quality", "value": "Low or Default to reduce stutters" },
+    { "title": "Frame Rate", "value": "Standard FPS for stable aiming 😅" },
+    { "title": "Effects", "value": "Lower shadows and effects for better visibility" },
+    { "title": "Background Apps", "value": "Close unused apps to avoid crashes and freezes 😡" }
   ],
 
   "high_end": [
-    { "title": "Graphics Quality", "value": "High / Ultra (explosions look amazing ✨)" },
-    { "title": "Frame Rate", "value": "Enable Max FPS for smooth firefights" },
-    { "title": "Thermal Control", "value": "Keep device cool or you’ll drop mid-chase 🔥" },
-    { "title": "Storage Speed", "value": "Keep 1GB+ free to load weapons, skins, and maps instantly" }
+    { "title": "Graphics Quality", "value": "High or Ultra for better visuals ✨" },
+    { "title": "Frame Rate", "value": "Enable Max FPS for smoother firefights" },
+    { "title": "Thermal Control", "value": "Avoid overheating to maintain stable performance 🔥" },
+    { "title": "Storage Speed", "value": "Keep at least 1GB free for faster loading times" }
   ],
 
-  "sectionIntro": "These Android & iOS devices will give you the ultimate Knives Out Mobile experience: smooth combat, fast rotations, and zero lag.",
+  "sectionIntro": "These Android and iOS devices deliver an excellent Knives Out Mobile experience. If you’re choosing between battle royale games, comparing this with <a href=\"/game-system/pubg-mobile.html\">PUBG Mobile system requirements</a> can help you decide.",
 
   "androidDevices": [
     "Samsung Galaxy S21 / S22 / S23 Series",
@@ -77,58 +77,58 @@
   "iosDevices": [
     "iPhone X / XR / XS",
     "iPhone 11 / 12 / 13 / 14 Series",
-    "iPhone SE 2020 / 2022",
+    "iPhone SE (2020 / 2022)",
     "iPad Mini 5 / 6",
-    "iPad Air 3rd Gen+"
+    "iPad Air (3rd Gen or newer)"
   ],
 
-  "storageIntroText": "Knives Out Mobile isn’t tiny – maps, skins, and updates add up fast. Here’s the storage breakdown 📦:",
+  "storageIntroText": "Knives Out Mobile requires more space than it seems. Storage demands are comparable to other battle royale titles like PUBG Mobile 📦:",
 
   "storageDetails": [
-    { "label": "Base Game Size", "value": "≈ 2GB" },
-    { "label": "HD Texture Pack", "value": "400–800MB (optional, but gorgeous ✨)" },
+    { "label": "Base Game Size", "value": "Approximately 2GB" },
+    { "label": "HD Texture Pack", "value": "400–800MB (optional but visually impressive ✨)" },
     { "label": "Seasonal Updates", "value": "200–500MB per season" },
-    { "label": "Total Required Space", "value": "≈ 4–5GB recommended for smooth gameplay" }
+    { "label": "Total Required Space", "value": "Around 4–5GB recommended for smooth gameplay" }
   ],
 
-  "faqIntroText": "FAQs for Knives Out Mobile – stay alive and avoid rage quitting 😎:",
+  "faqIntroText": "Frequently asked questions about Knives Out Mobile and device performance 😎:",
 
   "faqList": [
     {
-      "question": "Is Knives Out Mobile heavy on phones?",
-      "answer": "Yes, especially in full squad matches. Devices with 4GB+ RAM and decent GPU work best."
+      "question": "Is Knives Out Mobile demanding on smartphones?",
+      "answer": "Yes, especially during full squad matches. Devices that meet or exceed <a href=\"/game-system/pubg-mobile.html\">PUBG Mobile system requirements</a> usually perform well here too."
     },
     {
-      "question": "Can my phone run Knives Out at 60 FPS?",
-      "answer": "Only mid-range or high-end devices can handle 60+ FPS with Ultra settings. Low-end devices may struggle."
+      "question": "Can Knives Out run at 60 FPS?",
+      "answer": "Mid-range and high-end devices can reach 60 FPS or higher. Entry-level phones may struggle on higher settings."
     },
     {
-      "question": "Why does my phone heat up during Knives Out?",
-      "answer": "Particle effects, explosions, and map details make your phone work hard. Close apps and stay cool 😅."
+      "question": "Why does my phone heat up while playing?",
+      "answer": "Explosions, player density, and detailed environments push hardware hard. Lower settings and good airflow help a lot 😅."
     }
   ],
 
   "title": "Device Comparison Insights 🔍",
-  "description": "Compare real-world Knives Out Mobile performance, FPS stability, graphics handling, and input smoothness for top Android & iOS devices.",
+  "description": "A real-world comparison of Knives Out Mobile performance, focusing on FPS stability, graphics quality, and thermal behavior. Also useful for players comparing it with PUBG Mobile.",
 
   "rows": [
     {
       "device1": "Samsung Galaxy S22",
       "device2": "Xiaomi Redmi Note 13 Pro",
-      "performance": "Both handle squad battles smoothly with minimal lag.",
-      "notes": "S22 has slightly higher FPS in Ultra mode; Note 13 Pro stays cooler during long matches."
+      "performance": "Both devices handle squad-based combat smoothly with consistent frame rates.",
+      "notes": "Galaxy S22 delivers slightly higher FPS on Ultra settings, while the Note 13 Pro remains cooler in extended matches."
     },
     {
       "device1": "Realme GT Neo 3",
       "device2": "Poco F6",
-      "performance": "Both devices run Knives Out with high-quality textures without stuttering.",
-      "notes": "GT Neo 3 excels in long squad matches, Poco F6 loads weapons slightly faster."
+      "performance": "Both run Knives Out with high-quality textures and smooth movement.",
+      "notes": "GT Neo 3 is better for long sessions, while Poco F6 offers faster in-game loading times."
     },
     {
       "device1": "iPhone 13",
       "device2": "iPhone XR",
-      "performance": "Both run smooth 60+ FPS in squad fights.",
-      "notes": "iPhone 13 shines with ultra-quality effects; XR is solid but may drop a frame in intense firefights."
+      "performance": "Both maintain smooth 60+ FPS in most combat scenarios.",
+      "notes": "iPhone 13 excels in visual effects and stability, while XR may experience minor drops during heavy action."
     }
   ]
 }
