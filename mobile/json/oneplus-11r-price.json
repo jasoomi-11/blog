@@ -5,18 +5,18 @@
       "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/oneplus-11r.webp",
       ""
     ],
-    "summary": "OnePlus 11R is a performance-focused flagship killer powered by Snapdragon 8+ Gen 1, featuring a 120Hz AMOLED display, fast charging, and excellent sustained FPS — perfect for gaming and daily power users without paying ultra-flagship prices.",
-    "priceRange": "Varies by region",
+    "summary": "OnePlus 11R continues to shine in 2026 as a powerful flagship-level smartphone for gamers and performance lovers ⚡📱. Powered by the Snapdragon 8+ Gen 1 chipset, it delivers stable high FPS in demanding games, excellent thermal control, and smooth multitasking. The 120Hz AMOLED display keeps animations buttery-smooth, while fast charging and optimized OxygenOS make it a reliable daily driver without flagship-level pricing 😎.",
+    "priceRange": "Varies by region and storage configuration",
 
     "countries": [
       {
         "flag": "🇺🇸",
         "country": "United States",
         "currency": "USD",
-        "displayPrice": "$499 – $599",
+        "displayPrice": "$479 – $579",
         "variants": [
-          { "ram": "8GB / 128GB", "price": "$499" },
-          { "ram": "16GB / 256GB", "price": "$599" }
+          { "ram": "8GB / 128GB", "price": "$479" },
+          { "ram": "16GB / 256GB", "price": "$579" }
         ],
         "colors": ["Galactic Silver", "Sonic Black"]
       },
@@ -24,10 +24,10 @@
         "flag": "🇮🇳",
         "country": "India",
         "currency": "INR",
-        "displayPrice": "₹39,999 – ₹44,999",
+        "displayPrice": "₹37,999 – ₹42,999",
         "variants": [
-          { "ram": "8GB / 128GB", "price": "₹39,999" },
-          { "ram": "16GB / 256GB", "price": "₹44,999" }
+          { "ram": "8GB / 128GB", "price": "₹37,999" },
+          { "ram": "16GB / 256GB", "price": "₹42,999" }
         ],
         "colors": ["Galactic Silver", "Sonic Black"]
       },
@@ -35,10 +35,10 @@
         "flag": "🇵🇰",
         "country": "Pakistan",
         "currency": "PKR",
-        "displayPrice": "Rs 155,000 – Rs 175,000",
+        "displayPrice": "Rs 148,000 – Rs 168,000",
         "variants": [
-          { "ram": "8GB / 128GB", "price": "Rs 155,000" },
-          { "ram": "16GB / 256GB", "price": "Rs 175,000" }
+          { "ram": "8GB / 128GB", "price": "Rs 148,000" },
+          { "ram": "16GB / 256GB", "price": "Rs 168,000" }
         ],
         "colors": ["Galactic Silver", "Sonic Black"]
       },
@@ -46,10 +46,10 @@
         "flag": "🇬🇧",
         "country": "United Kingdom",
         "currency": "GBP",
-        "displayPrice": "£430 – £520",
+        "displayPrice": "£410 – £500",
         "variants": [
-          { "ram": "8GB / 128GB", "price": "£430" },
-          { "ram": "16GB / 256GB", "price": "£520" }
+          { "ram": "8GB / 128GB", "price": "£410" },
+          { "ram": "16GB / 256GB", "price": "£500" }
         ],
         "colors": ["Galactic Silver", "Sonic Black"]
       },
@@ -57,10 +57,10 @@
         "flag": "🇨🇦",
         "country": "Canada",
         "currency": "CAD",
-        "displayPrice": "CA$680 – CA$820",
+        "displayPrice": "CA$650 – CA$790",
         "variants": [
-          { "ram": "8GB / 128GB", "price": "CA$680" },
-          { "ram": "16GB / 256GB", "price": "CA$820" }
+          { "ram": "8GB / 128GB", "price": "CA$650" },
+          { "ram": "16GB / 256GB", "price": "CA$790" }
         ],
         "colors": ["Galactic Silver", "Sonic Black"]
       },
@@ -68,10 +68,10 @@
         "flag": "🇦🇺",
         "country": "Australia",
         "currency": "AUD",
-        "displayPrice": "A$750 – A$900",
+        "displayPrice": "A$720 – A$870",
         "variants": [
-          { "ram": "8GB / 128GB", "price": "A$750" },
-          { "ram": "16GB / 256GB", "price": "A$900" }
+          { "ram": "8GB / 128GB", "price": "A$720" },
+          { "ram": "16GB / 256GB", "price": "A$870" }
         ],
         "colors": ["Galactic Silver", "Sonic Black"]
       },
@@ -79,10 +79,10 @@
         "flag": "🇦🇪",
         "country": "United Arab Emirates",
         "currency": "AED",
-        "displayPrice": "AED 1,850 – AED 2,200",
+        "displayPrice": "AED 1,750 – AED 2,100",
         "variants": [
-          { "ram": "8GB / 128GB", "price": "AED 1,850" },
-          { "ram": "16GB / 256GB", "price": "AED 2,200" }
+          { "ram": "8GB / 128GB", "price": "AED 1,750" },
+          { "ram": "16GB / 256GB", "price": "AED 2,100" }
         ],
         "colors": ["Galactic Silver", "Sonic Black"]
       },
@@ -90,10 +90,10 @@
         "flag": "🇧🇩",
         "country": "Bangladesh",
         "currency": "BDT",
-        "displayPrice": "৳ 62,000 – ৳ 72,000",
+        "displayPrice": "৳ 60,000 – ৳ 70,000",
         "variants": [
-          { "ram": "8GB / 128GB", "price": "৳ 62,000" },
-          { "ram": "16GB / 256GB", "price": "৳ 72,000" }
+          { "ram": "8GB / 128GB", "price": "৳ 60,000" },
+          { "ram": "16GB / 256GB", "price": "৳ 70,000" }
         ],
         "colors": ["Galactic Silver", "Sonic Black"]
       },
@@ -101,10 +101,10 @@
         "flag": "🇵🇭",
         "country": "Philippines",
         "currency": "PHP",
-        "displayPrice": "₱ 38,000 – ₱ 45,000",
+        "displayPrice": "₱ 36,000 – ₱ 43,000",
         "variants": [
-          { "ram": "8GB / 128GB", "price": "₱ 38,000" },
-          { "ram": "16GB / 256GB", "price": "₱ 45,000" }
+          { "ram": "8GB / 128GB", "price": "₱ 36,000" },
+          { "ram": "16GB / 256GB", "price": "₱ 43,000" }
         ],
         "colors": ["Galactic Silver", "Sonic Black"]
       },
@@ -112,10 +112,10 @@
         "flag": "🇪🇺",
         "country": "Euro Zone",
         "currency": "EUR",
-        "displayPrice": "€ 520 – € 620",
+        "displayPrice": "€ 500 – € 600",
         "variants": [
-          { "ram": "8GB / 128GB", "price": "€ 520" },
-          { "ram": "16GB / 256GB", "price": "€ 620" }
+          { "ram": "8GB / 128GB", "price": "€ 500" },
+          { "ram": "16GB / 256GB", "price": "€ 600" }
         ],
         "colors": ["Galactic Silver", "Sonic Black"]
       }

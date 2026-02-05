@@ -1,41 +1,40 @@
 {
   "gameTitle": "OnePlus 11R",
-  "subtitle": "A performance-focused flagship killer that balances raw power, smooth FPS, fast charging, and everyday usability — without burning a hole in your wallet (or your hands 😄).",
+  "subtitle": "A true flagship-killer built for gamers and power users — delivering high FPS, insane fast charging, solid thermals, and smooth daily performance without the flagship price pain 😎",
 
   "posters": [
     "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/oneplus-11r.webp"
-    
   ],
 
   "performance": {
-    "cpu": "Qualcomm Snapdragon 8+ Gen 1 (Up to 3.2GHz)",
-    "gpu": "Adreno 730",
-    "ram": "8GB / 16GB LPDDR5",
-    "storage": "128GB / 256GB UFS 3.1",
-    "cooling": "Advanced Vapor Chamber Cooling with Graphite Layers"
+    "cpu": "Qualcomm Snapdragon 8+ Gen 1 (Clocked up to 3.2GHz)",
+    "gpu": "Adreno 730 GPU",
+    "ram": "8GB / 16GB LPDDR5 RAM",
+    "storage": "128GB / 256GB UFS 3.1 Storage",
+    "cooling": "Large Vapor Chamber Cooling with Multi-Layer Graphite Heat Dissipation"
   },
 
   "benchmark": {
-    "antutu": "1,100,000+",
-    "geekbench": "Single-Core: 1350, Multi-Core: 4100"
+    "antutu": "1,100,000+ Overall Score",
+    "geekbench": "Single-Core: ~1350 | Multi-Core: ~4100"
   },
 
   "display": {
-    "refreshRate": "120Hz Adaptive AMOLED",
-    "touchRate": "1000Hz Instant Touch Sampling (Gaming Mode)",
-    "resolution": "1.5K (2772 × 1240)",
-    "panelType": "Samsung E4 AMOLED HDR10+"
+    "refreshRate": "120Hz Adaptive AMOLED Display",
+    "touchRate": "Up to 1000Hz Touch Sampling (Gaming Mode)",
+    "resolution": "1.5K Resolution (2772 × 1240)",
+    "panelType": "Samsung E4 AMOLED with HDR10+ Support"
   },
 
   "battery": {
-    "size": "5000mAh",
-    "fastCharging": "100W SUPERVOOC",
-    "gamingDrain": "10% – 14% per hour (stable performance)"
+    "size": "5000mAh High-Capacity Battery",
+    "fastCharging": "100W SUPERVOOC Fast Charging",
+    "gamingDrain": "Around 10% – 14% per hour during intense gaming"
   },
 
   "temperature": {
-    "heatLevel": "37°C – 44°C",
-    "fpsStability": "Stable (88% – 93%)"
+    "heatLevel": "Approximately 37°C – 44°C under load",
+    "fpsStability": "Strong Stability Range (88% – 93%)"
   },
 
   "heavyGames": [
@@ -51,22 +50,22 @@
   ],
 
   "playability": {
-    "PUBG Mobile": "HDR + 90FPS (via optimization updates)",
-    "Call of Duty Mobile": "Very High Graphics + Max FPS",
-    "Genshin Impact": "High Settings 55–60FPS",
-    "Fortnite": "High Quality + 60FPS",
-    "Honkai Star Rail": "High Settings Smooth"
+    "PUBG Mobile": "HDR Graphics with 90FPS (via optimization updates)",
+    "Call of Duty Mobile": "Very High Graphics with Max Frame Rate",
+    "Genshin Impact": "High Settings running at 55–60FPS",
+    "Fortnite": "High Visual Quality at Stable 60FPS",
+    "Honkai Star Rail": "High Graphics with Smooth Gameplay"
   },
 
   "fpsBenchmarks": [
     {
       "game": "PUBG Mobile",
       "settings": "HDR",
-      "fps": "80–90 FPS Stable"
+      "fps": "80–90 FPS (Consistent)"
     },
     {
       "game": "COD Mobile",
-      "settings": "Max",
+      "settings": "Maximum",
       "fps": "90–120 FPS"
     },
     {
@@ -84,78 +83,78 @@
   "thermalTests": [
     {
       "game": "PUBG Mobile",
-      "heat15": "Cool & Comfortable",
-      "heat30": "Warm but controlled",
-      "fpsDrop": "1–3 FPS"
+      "heat15": "Cool and comfortable grip",
+      "heat30": "Slight warmth, well managed",
+      "fpsDrop": "Minimal (1–3 FPS)"
     },
     {
       "game": "COD Mobile",
-      "heat15": "Normal",
-      "heat30": "Slight Warm",
-      "fpsDrop": "0–2 FPS"
+      "heat15": "Normal temperature",
+      "heat30": "Light warmth",
+      "fpsDrop": "Almost none (0–2 FPS)"
     },
     {
       "game": "Genshin Impact",
-      "heat15": "Warm",
-      "heat30": "Noticeably Warm",
-      "fpsDrop": "4–6 FPS"
+      "heat15": "Warm feeling",
+      "heat30": "Noticeably warm but playable",
+      "fpsDrop": "Moderate (4–6 FPS)"
     },
     {
       "game": "Fortnite",
       "heat15": "Normal",
       "heat30": "Warm",
-      "fpsDrop": "2 FPS"
+      "fpsDrop": "Around 2 FPS"
     }
   ],
 
   "batteryTests": [
     {
       "game": "PUBG Mobile",
-      "drop": "11%"
+      "drop": "≈11% Battery Consumption"
     },
     {
       "game": "COD Mobile",
-      "drop": "10%"
+      "drop": "≈10% Battery Consumption"
     },
     {
       "game": "Genshin Impact",
-      "drop": "15%"
+      "drop": "≈15% Battery Consumption"
     }
   ],
 
   "gamingFeatures": [
-    "HyperBoost Gaming Engine",
-    "RAM-Vita Optimization",
-    "100W SUPERVOOC (0–100% in ~25 mins 😮)",
-    "X-Axis Linear Vibration Motor",
-    "Stereo Speakers with Dolby Atmos",
-    "OxygenOS Gaming Mode",
-    "Frame Stabilization AI",
-    "Thermal Throttling Protection"
+    "HyperBoost Gaming Optimization Engine",
+    "RAM-Vita Memory Management",
+    "100W SUPERVOOC Charging (0–100% in ~25 minutes 🤯)",
+    "Premium X-Axis Linear Vibration Motor",
+    "Dual Stereo Speakers with Dolby Atmos",
+    "OxygenOS Dedicated Gaming Mode",
+    "AI-Based Frame Rate Stabilization",
+    "Smart Thermal Throttling Protection"
   ],
 
   "customTable": {
-    "title": "Custom Table Section",
-    "columns": ["Category", "Details", "Performance Impact"],
+    "title": "Hardware & Gaming Impact Overview",
+    "columns": ["Category", "Specification", "Gaming Benefit"],
     "rows": [
-      ["Cooling System", "Vapor Chamber + Graphite Layers", "Good Heat Control"],
-      ["Charging Speed", "100W SUPERVOOC", "Zero Gaming Downtime"],
-      ["Display Quality", "1.5K AMOLED 120Hz", "Ultra Smooth Visuals"],
-      ["Haptics", "X-Axis Linear Motor", "Crisp Feedback"],
-      ["Software", "OxygenOS (Android 14)", "Clean & Fast UI"],
-      ["Build Quality", "Glass Back + Aluminum Frame", "Premium Feel"]
+      ["Cooling System", "Vapor Chamber + Graphite Layers", "Maintains stable FPS"],
+      ["Charging Speed", "100W SUPERVOOC", "Ultra-fast recharge between sessions"],
+      ["Display Quality", "1.5K AMOLED 120Hz", "Smooth and sharp visuals"],
+      ["Haptics", "X-Axis Linear Motor", "Precise vibration feedback"],
+      ["Software", "OxygenOS (Android 14)", "Clean, fast, and optimized"],
+      ["Build Quality", "Glass Back with Aluminum Frame", "Premium in-hand feel"]
     ]
   },
 
   "dynamicList": {
-    "title": "Key Features",
+    "title": "Why OnePlus 11R Stands Out",
     "items": [
-      "Snapdragon 8+ Gen 1 Power",
-      "1.5K AMOLED Display",
-      "120Hz Smooth Refresh Rate",
-      "100W Ultra-Fast Charging",
-      "Reliable FPS Stability",
-      "Flagship Gaming at Lower Cost"
+      "Flagship-Level Snapdragon Performance",
+      "Crisp 1.5K AMOLED Display",
+      "Ultra-Smooth 120Hz Refresh Rate",
+      "Blazing Fast 100W Charging",
+      "Reliable Long-Session FPS Stability",
+      "Top-Tier Gaming at a Smarter Price"
     ]
   }
 }

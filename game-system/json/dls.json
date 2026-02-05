@@ -1,31 +1,31 @@
 {
   "shortIntro": {
-    "title": "What Your Device Needs for Smooth Dream League Soccer Gameplay ⚽📱",
-    "para1": "Dream League Soccer (DLS) is all about smooth passes, clean tackles, and those satisfying long shots that make you feel like prime Ronaldo 😎. While it looks simple, consistent performance still depends on your device handling animations, replays, and AI smoothly.",
-    "para2": "Lag during a counter-attack or frame drops while defending a corner can turn an easy win into heartbreak 💔😅. The good news? DLS is friendly to most devices if you know the right specs."
+    "title": "What Your Device Really Needs for Smooth Dream League Soccer Gameplay ⚽📱",
+    "para1": "Dream League Soccer (DLS) is all about fluid ball movement, smart positioning, and those clutch goals that make you jump off the couch like a madman 😎🔥. While the game looks lightweight, it still relies on stable hardware to handle AI logic, player animations, and match replays without hiccups.",
+    "para2": "A single stutter during a one-on-one chance or lag while defending a late corner can flip a guaranteed win into pure pain 💔😅. The good news? DLS is well-optimized and forgiving if your device meets the right baseline specs."
   },
 
-  "intro": "Below are the minimum and recommended system requirements to enjoy Dream League Soccer on Android and iOS with smooth gameplay, fast loading, and zero rage moments 😄⚽.",
+  "intro": "Below are the updated minimum and recommended system requirements to enjoy Dream League Soccer on Android and iOS with smooth matches, fast loading screens, and zero rage quits 😄⚽.",
 
   "minimum": {
     "OS Version": "Android 6.0 or higher",
-    "RAM": "2GB minimum (playable, but don’t expect magic ✨)",
+    "RAM": "2GB minimum (runs fine, but keep expectations realistic ✨)",
     "CPU": "Quad-Core 1.6GHz or higher",
-    "GPU": "Adreno 405 / Mali-T720 or equivalent",
+    "GPU": "Adreno 405 / Mali-T720 or similar",
     "Storage": "500MB–1GB free space",
-    "Internet": "Not required for offline matches (big W 🏆)"
+    "Internet": "Not required for offline career matches (huge win 🏆)"
   },
 
   "recommended": {
     "OS Version": "Android 10 or higher",
-    "RAM": "4GB+ for smooth animations and replays 💨",
-    "CPU": "Snapdragon 665 / 720G or better",
-    "GPU": "Adreno 618 or higher",
-    "Storage": "1.5GB+ recommended for updates & teams",
-    "Internet": "Optional – only needed for online matches 🌐"
+    "RAM": "4GB or more for stable FPS and smoother replays 💨",
+    "CPU": "Snapdragon 665 / 720G or equivalent",
+    "GPU": "Adreno 618 or better",
+    "Storage": "1.5GB+ free space for updates & assets",
+    "Internet": "Optional – needed only for online modes 🌐"
   },
 
-  "ios_intro": "Dream League Soccer runs beautifully on iOS 🍏. Even older iPhones handle matches smoothly thanks to good optimization and lighter graphics.",
+  "ios_intro": "Dream League Soccer feels right at home on iOS 🍏. Thanks to solid optimization, even older iPhones deliver consistent gameplay with minimal frame drops.",
 
   "ios_minimum": [
     { "title": "OS Version", "value": "iOS 11 or later" },
@@ -36,34 +36,34 @@
   "ios_recommended": [
     { "title": "OS Version", "value": "iOS 14 or later" },
     { "title": "Device", "value": "iPhone X / XR / 11 Series or newer" },
-    { "title": "Storage", "value": "1.5GB+ free space for smooth updates & replays" }
+    { "title": "Storage", "value": "1.5GB+ free space for updates & replays" }
   ],
 
-  "fps_intro": "DLS doesn’t need crazy FPS numbers, but smoother frames = better ball control ⚽👌.",
+  "fps_intro": "DLS doesn’t chase extreme FPS numbers, but smoother frames always mean better control and cleaner gameplay ⚽👌.",
 
   "fps_list": [
-    { "category": "Low-End Devices", "fps": "25–30 FPS (playable, casual-friendly 😌)" },
-    { "category": "Mid-Range Devices", "fps": "40–50 FPS (smooth passes & tackles)" },
-    { "category": "High-End Devices", "fps": "60 FPS (buttery gameplay, silky animations 🧈)" }
+    { "category": "Low-End Devices", "fps": "25–30 FPS (playable and casual-friendly 😌)" },
+    { "category": "Mid-Range Devices", "fps": "40–50 FPS (smooth tackles and accurate passes)" },
+    { "category": "High-End Devices", "fps": "60 FPS (buttery smooth gameplay 🧈🔥)" }
   ],
 
-  "settings_intro": "Tweaking a few settings can make DLS feel way smoother, especially on budget phones 📱⚙️.",
+  "settings_intro": "A few smart tweaks can make Dream League Soccer feel noticeably smoother, especially on budget or older phones 📱⚙️.",
 
   "low_end": [
-    { "title": "Graphics Quality", "value": "Low or Medium for stable performance" },
-    { "title": "Crowd Detail", "value": "Reduce to avoid frame drops during replays" },
-    { "title": "Replays", "value": "Skip or shorten to save resources" },
-    { "title": "Background Apps", "value": "Close them unless you enjoy stutters 😅" }
+    { "title": "Graphics Quality", "value": "Low or Medium for consistent frame rates" },
+    { "title": "Crowd Detail", "value": "Lower it to avoid drops during celebrations" },
+    { "title": "Replays", "value": "Shorten or skip to reduce memory load" },
+    { "title": "Background Apps", "value": "Close unused apps to prevent stutter 😅" }
   ],
 
   "high_end": [
-    { "title": "Graphics Quality", "value": "High for crisp players & stadiums ✨" },
-    { "title": "Replays", "value": "Enable full replays (goal celebrations hit harder 😎)" },
-    { "title": "Frame Stability", "value": "Lock smooth gameplay for consistent control" },
-    { "title": "Storage Space", "value": "Keep 500MB+ free for fast loading" }
+    { "title": "Graphics Quality", "value": "High for sharper players and stadium visuals ✨" },
+    { "title": "Replays", "value": "Enable full replays for cinematic goals 😎" },
+    { "title": "Frame Stability", "value": "Keep gameplay locked and consistent" },
+    { "title": "Storage Space", "value": "Maintain 500MB+ free for faster loading" }
   ],
 
-  "sectionIntro": "These Android & iOS devices offer a great Dream League Soccer experience with smooth gameplay and quick loading times:",
+  "sectionIntro": "These Android and iOS devices deliver a reliable Dream League Soccer experience with smooth gameplay and quick match loading:",
 
   "androidDevices": [
     "Samsung Galaxy A14 / A24 / A34 / S21 Series",
@@ -82,53 +82,53 @@
     "iPad 6th Gen or newer"
   ],
 
-  "storageIntroText": "Dream League Soccer is lightweight compared to many football games, but updates still add up 📦⚽:",
+  "storageIntroText": "Dream League Soccer stays relatively lightweight compared to many football titles, but updates still stack up over time 📦⚽:",
 
   "storageDetails": [
     { "label": "Base Game Size", "value": "≈ 400–500MB" },
     { "label": "Team & Asset Updates", "value": "200–400MB over time" },
-    { "label": "Career Progress Data", "value": "Minimal (saved locally)" },
+    { "label": "Career Progress Data", "value": "Very minimal (stored locally)" },
     { "label": "Total Required Space", "value": "1–1.5GB recommended" }
   ],
 
-  "faqIntroText": "FAQs for Dream League Soccer – quick answers for smooth wins and stress-free goals 😄⚽:",
+  "faqIntroText": "FAQs for Dream League Soccer – quick answers to keep your matches smooth and stress-free 😄⚽:",
 
   "faqList": [
     {
       "question": "Is Dream League Soccer heavy on phones?",
-      "answer": "No 👍 DLS is lightweight and runs well on most low to mid-range devices."
+      "answer": "No 👍 DLS is lightweight and optimized for low to mid-range devices."
     },
     {
-      "question": "Can DLS run offline?",
-      "answer": "Yes 📴 You can enjoy full career matches without internet."
+      "question": "Can Dream League Soccer be played offline?",
+      "answer": "Yes 📴 Career mode works fully offline without internet."
     },
     {
-      "question": "Why does my game lag during replays?",
-      "answer": "Crowd detail and replay animations can cause drops on low-end phones. Lower graphics to fix it."
+      "question": "Why does the game lag during goal replays?",
+      "answer": "Replay animations and crowd effects can stress low-end hardware. Lower graphics settings to fix it."
     }
   ],
 
   "title": "Device Comparison Insights 🔍",
-  "description": "Compare real-world Dream League Soccer performance, loading times, animation smoothness, and stability across popular Android and iOS devices.",
+  "description": "Real-world Dream League Soccer performance comparison across popular Android and iOS devices, focusing on FPS stability, loading speed, and long-session comfort.",
 
   "rows": [
     {
       "device1": "Samsung Galaxy A34",
       "device2": "Redmi Note 12",
-      "performance": "Both run DLS smoothly with stable frame rates.",
-      "notes": "Galaxy A34 offers slightly smoother replays, Note 12 loads matches faster."
+      "performance": "Both deliver smooth and consistent gameplay.",
+      "notes": "Galaxy A34 has steadier replays, while Note 12 loads matches slightly faster."
     },
     {
       "device1": "Realme C55",
       "device2": "Infinix Note 30",
-      "performance": "Solid performance for casual and career mode play.",
-      "notes": "Realme stays cooler, Infinix handles longer sessions better."
+      "performance": "Reliable performance for career and casual play.",
+      "notes": "Realme stays cooler; Infinix handles long sessions better."
     },
     {
       "device1": "iPhone 11",
       "device2": "iPhone 8",
-      "performance": "Both deliver smooth gameplay without stutter.",
-      "notes": "iPhone 11 shines with high graphics, iPhone 8 remains perfectly playable."
+      "performance": "Smooth gameplay on both devices.",
+      "notes": "iPhone 11 supports higher visuals; iPhone 8 remains perfectly playable."
     }
   ]
 }
