@@ -1,0 +1,181 @@
+{
+  "gameComparison": {
+    "games": [
+      {
+        "name": "Honor of Kings",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/honor-of-kings.webp",
+        "genre": "Strategic 5v5 Mobile MOBA 🐉⚔️",
+        "developer": "TiMi Studio Group (Tencent)",
+        "release": "2015 (Global Expansion 2023)",
+        "gameplay": "Honor of Kings delivers fast-paced 5v5 MOBA battles with deep strategic layers. Players control myth-inspired heroes, secure jungle objectives, and dominate compact three-lane maps. Strong emphasis on rotations, positioning, and team coordination makes every ranked match highly competitive 🔥🎯."
+      },
+      {
+        "name": "Arena of Valor",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/arena-of-valor.webp",
+        "genre": "Competitive 5v5 Mobile MOBA ⚔️🌍",
+        "developer": "TiMi Studio Group (Tencent)",
+        "release": "2016",
+        "gameplay": "Arena of Valor offers classic 5v5 MOBA gameplay designed for global audiences. Featuring DC heroes, mythological warriors, and balanced lane combat, the game focuses on accessible mechanics while still rewarding strategic team fights and objective control 🏆✨."
+      }
+    ]
+  },
+
+  "systemRequirements": {
+    "games": [
+      {
+        "name": "Honor of Kings",
+        "platform": "Android / iOS",
+        "storage": "1–2 GB 📦",
+        "ram": "2 GB minimum, 3 GB recommended",
+        "cpuGpu": "Low to mid-range processors supported",
+        "fps": "Up to 60 FPS supported devices",
+        "graphics": "Highly optimized with smooth hero animations 🎨",
+        "online": "Stable internet required 🌐",
+        "battery": "Moderate usage during ranked matches ⚡"
+      },
+      {
+        "name": "Arena of Valor",
+        "platform": "Android / iOS",
+        "storage": "1.5–2.5 GB 📦",
+        "ram": "2–3 GB recommended",
+        "cpuGpu": "Mid-range chipset for stable performance",
+        "fps": "Up to 60 FPS",
+        "graphics": "Detailed battlefield visuals with polished effects ✨",
+        "online": "Always online connection required 🌍",
+        "battery": "Moderate drain depending on settings ⚡"
+      }
+    ]
+  },
+
+  "keyFeatures": {
+    "games": [
+      {
+        "name": "Honor of Kings",
+        "modes": "Ranked 5v5, Quick Match, Peak Tournament",
+        "playerLimits": "5v5 competitive battles 🧑‍🤝‍🧑",
+        "graphicsStyle": "Myth-inspired design with vibrant colors 🐲",
+        "customization": "Hero skins, arcana builds, advanced item setups 🎭",
+        "events": "Seasonal ranked resets, esports competitions 🏆",
+        "mechanics": "Compact maps, teleport portals, objective-focused gameplay, Tempest Dragon boss fights 🔥"
+      },
+      {
+        "name": "Arena of Valor",
+        "modes": "5v5 Ranked, Grand Battle, 3v3, 1v1 Duel",
+        "playerLimits": "5v5 main mode ⚔️",
+        "graphicsStyle": "Fantasy-themed heroes with crossover characters 🌟",
+        "customization": "Hero skins, enchantment builds, talent pages 🎨",
+        "events": "Season updates, crossover collaborations 🤝",
+        "mechanics": "Traditional jungle control, Dark Slayer objective, lane-focused team fights 🎯"
+      }
+    ]
+  },
+
+  "prosCons": {
+    "games": [
+      {
+        "name": "Honor of Kings",
+        "pros": [
+          "Deeper strategic gameplay and map control 🎯",
+          "Massive competitive player base 📈",
+          "Highly optimized for mid-range devices 📱",
+          "Strong esports ecosystem 🏆"
+        ],
+        "cons": [
+          "Steeper learning curve for beginners",
+          "Heavy competition in ranked mode",
+          "Some regional content variations 🌏"
+        ]
+      },
+      {
+        "name": "Arena of Valor",
+        "pros": [
+          "Beginner-friendly hero mechanics 👍",
+          "Global crossover characters including DC heroes 🦸",
+          "Multiple game modes beyond 5v5",
+          "Balanced and structured gameplay ⚖️"
+        ],
+        "cons": [
+          "Smaller global player base compared to Honor of Kings",
+          "Less esports visibility",
+          "Updates less frequent in some regions"
+        ]
+      }
+    ]
+  },
+
+  "popularityCommunity": {
+    "games": [
+      {
+        "name": "Honor of Kings",
+        "activePlayers": "One of the most played mobile games globally 🌍",
+        "socialMedia": "Millions of daily active players with strong Chinese dominance 📊",
+        "tournaments": "Major esports leagues with multi-million prize pools 🏆",
+        "engagement": "Strategy guides, competitive streams, ranked highlight videos 🎥"
+      },
+      {
+        "name": "Arena of Valor",
+        "activePlayers": "Strong presence in Southeast Asia and select regions 🌏",
+        "socialMedia": "Dedicated competitive community",
+        "tournaments": "Regional championships and invitational tournaments 🏅",
+        "engagement": "Hero build guides, lane strategy discussions, esports highlights 🎮"
+      }
+    ]
+  },
+
+  "pricingIAP": {
+    "games": [
+      {
+        "name": "Honor of Kings",
+        "price": "Free-to-Play 🆓",
+        "premiumFeatures": "Skins, arcana upgrades, cosmetic items 🎭",
+        "currency": "Tokens / Regional premium currency 💎",
+        "specialOffers": "Seasonal skins and limited-time events 🎁"
+      },
+      {
+        "name": "Arena of Valor",
+        "price": "Free-to-Play 🆓",
+        "premiumFeatures": "Hero skins, battle passes, cosmetic bundles 🎫",
+        "currency": "Vouchers 💎",
+        "specialOffers": "Crossover events and seasonal discounts 🎉"
+      }
+    ]
+  },
+
+  "deviceCompatibility": {
+    "games": [
+      {
+        "name": "Honor of Kings",
+        "devices": "Android & iOS smartphones 📱",
+        "osVersion": "Android 5.1+ / iOS 11+",
+        "crossPlatform": "Mobile only",
+        "pcConsole": "Not officially supported"
+      },
+      {
+        "name": "Arena of Valor",
+        "devices": "Android & iOS smartphones 📱",
+        "osVersion": "Android 5.0+ / iOS 10+",
+        "crossPlatform": "Mobile only",
+        "pcConsole": "Previously available on Nintendo Switch (limited support)"
+      }
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Which game has deeper strategy?",
+      "answer": "Honor of Kings offers deeper strategic gameplay with stronger emphasis on rotations, objective control, and coordinated team fights 🔥."
+    },
+    {
+      "question": "Is Arena of Valor beginner-friendly?",
+      "answer": "Yes 👍 Arena of Valor is easier for new players due to simpler hero kits and structured gameplay modes."
+    },
+    {
+      "question": "Which game has a larger player base?",
+      "answer": "Honor of Kings has a significantly larger global player base, especially in China 🌍."
+    },
+    {
+      "question": "Are both games free to play?",
+      "answer": "Yes 🆓 both Honor of Kings and Arena of Valor are free to download with optional cosmetic purchases."
+    }
+  ]
+}
