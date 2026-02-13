@@ -1,0 +1,134 @@
+{
+  "shortIntro": {
+    "title": "Is Your Phone Ready for Farlight 84? 🚀📱",
+    "para1": "Farlight 84 isn’t just another battle royale. It mixes jetpacks, hero abilities, vehicles, and chaotic squad fights into one fast-paced survival experience.",
+    "para2": "Quick dashes, smooth recoil control, and clean ability timing demand stable FPS. If your phone struggles, you’ll feel the lag before you even see the enemy 😅🔥."
+  },
+
+  "intro": "Below are the updated minimum and recommended device requirements for running Farlight 84 smoothly on Android and iOS — whether you’re pushing ranked or just vibing with your squad 🚀.",
+
+  "minimum": {
+    "OS Version": "Android 8.0 or newer",
+    "RAM": "3GB (basic gameplay, expect low settings 😬)",
+    "CPU": "Snapdragon 660 / Helio G70 level or equivalent",
+    "GPU": "Adreno 512, Mali-G52 or similar",
+    "Storage": "At least 4GB free space",
+    "Internet": "Stable 4G or Wi-Fi connection – packet loss = instant defeat 💀"
+  },
+
+  "recommended": {
+    "OS Version": "Android 11 or above",
+    "RAM": "6GB or more for stable FPS 🚀",
+    "CPU": "Snapdragon 778G, 870, Dimensity 1200 or newer",
+    "GPU": "Adreno 642L / Mali-G77 or higher",
+    "Storage": "5GB+ free for smooth updates and assets",
+    "Internet": "Strong Wi-Fi or 5G for competitive play"
+  },
+
+  "ios_intro": "On iOS, Farlight 84 feels extremely optimized 🍎✨. Animations stay fluid, jetpack boosts respond instantly, and firefights remain smooth even during heavy explosions.",
+
+  "ios_minimum": [
+    { "title": "OS Version", "value": "iOS 12 or later" },
+    { "title": "Device", "value": "iPhone 8 / 8 Plus or newer" },
+    { "title": "Storage", "value": "Minimum 4GB free space" }
+  ],
+
+  "ios_recommended": [
+    { "title": "OS Version", "value": "iOS 14 or newer" },
+    { "title": "Device", "value": "iPhone X, 11, 12, 13 series and above" },
+    { "title": "Storage", "value": "5GB+ free space for long-term smooth gameplay" }
+  ],
+
+  "fps_intro": "Frame rate is everything in Farlight 84. Faster FPS means cleaner tracking, smoother jetpack movement, and better reaction time ⚡.",
+
+  "fps_list": [
+    { "category": "Entry-Level Phones", "fps": "25–30 FPS (playable but noticeable drops 😬)" },
+    { "category": "Mid-Tier Phones", "fps": "40–60 FPS (smooth and competitive ready)" },
+    { "category": "Flagship Phones", "fps": "60–90 FPS+ (ultra smooth jetpack combat 💪)" }
+  ],
+
+  "settings_intro": "Optimizing graphics settings can dramatically improve performance — sometimes more than upgrading hardware 🎯.",
+
+  "low_end": [
+    { "title": "Graphics Quality", "value": "Low for stable performance" },
+    { "title": "Frame Rate", "value": "Standard or High (avoid Max on weak devices)" },
+    { "title": "Shadows & Effects", "value": "Turn off advanced shadows and bloom" },
+    { "title": "Background Apps", "value": "Close unused apps to free RAM" }
+  ],
+
+  "high_end": [
+    { "title": "Graphics Quality", "value": "High or Ultra for sharp visuals ✨" },
+    { "title": "Frame Rate", "value": "Enable Max FPS for competitive edge" },
+    { "title": "Thermal Control", "value": "Use cooling or avoid charging while playing 🔥" },
+    { "title": "Free Storage", "value": "Keep extra 2–3GB free for smoother loading" }
+  ],
+
+  "sectionIntro": "These smartphones and tablets provide a smooth and competitive Farlight 84 experience with stable FPS and minimal heating.",
+
+  "androidDevices": [
+    "Samsung Galaxy S21, S22, S23, S24 lineup",
+    "Xiaomi Redmi Note 13 Pro, Poco X6, Poco F6",
+    "Realme GT Neo 3, GT Neo 5",
+    "OnePlus Nord 3, Nord 4, OnePlus 11 series",
+    "Google Pixel 6, 7, and 8 family",
+    "Infinix GT 10 Pro and Zero gaming series"
+  ],
+
+  "iosDevices": [
+    "iPhone X, XR, XS",
+    "iPhone 11, 12, 13, 14 series",
+    "iPhone SE (2020 & 2022)",
+    "iPad Mini 5 & 6",
+    "iPad Air 3rd generation and newer"
+  ],
+
+  "storageIntroText": "Farlight 84 expands with new heroes, maps, and seasonal content. Here’s what you can expect 📦:",
+
+  "storageDetails": [
+    { "label": "Initial Download", "value": "Around 2GB–2.5GB" },
+    { "label": "HD Resources", "value": "500MB–1GB optional graphics pack ✨" },
+    { "label": "Season Updates", "value": "300–600MB per update" },
+    { "label": "Safe Storage Amount", "value": "5GB+ recommended for smooth updates" }
+  ],
+
+  "faqIntroText": "Common Farlight 84 questions — answered clearly and simply 😎:",
+
+  "faqList": [
+    {
+      "question": "Can Farlight 84 run on 3GB RAM phones?",
+      "answer": "Yes, but only on low settings. Expect occasional frame drops during intense battles."
+    },
+    {
+      "question": "Does Farlight 84 support high FPS mode?",
+      "answer": "Yes. Many mid-range and flagship devices support 60 FPS and above."
+    },
+    {
+      "question": "Why does my phone heat up while playing?",
+      "answer": "Jetpack mechanics, large maps, and continuous action stress the CPU and GPU. Playing in a cool environment helps reduce throttling."
+    }
+  ],
+
+  "title": "Real Device Performance Comparison 🔍",
+  "description": "Side-by-side comparison of Farlight 84 performance based on FPS stability, heat control, and visual clarity.",
+
+  "rows": [
+    {
+      "device1": "Samsung Galaxy S22",
+      "device2": "Xiaomi Redmi Note 13 Pro",
+      "performance": "Both deliver stable performance in classic and ranked matches.",
+      "notes": "Galaxy S22 reaches higher peak FPS, while Redmi Note 13 Pro maintains better temperature control."
+    },
+    {
+      "device1": "Realme GT Neo 3",
+      "device2": "Poco F6",
+      "performance": "Smooth hero abilities and fast map loading on both devices.",
+      "notes": "GT Neo 3 handles longer sessions better; Poco F6 feels slightly snappier in menus."
+    },
+    {
+      "device1": "iPhone 13",
+      "device2": "iPhone XR",
+      "performance": "Consistent 60 FPS in most scenarios.",
+      "notes": "iPhone 13 keeps higher graphics settings stable, XR may drop frames during heavy explosions."
+    }
+  ]
+}
