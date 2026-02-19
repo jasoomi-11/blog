@@ -1,0 +1,182 @@
+{
+  "gameComparison": {
+    "games": [
+      {
+        "name": "Shadow Fight 3",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/shadow-fight-3.webp",
+        "genre": "Action RPG Fighting ⚔️🔥",
+        "developer": "NEKKI",
+        "release": "2017",
+        "gameplay": "A story-driven 3D fighting game blending RPG mechanics with tactical combat. Players customize gear, master factions (Legion, Dynasty, Heralds), and perform skill-based combos with strategic timing. Smooth animations and realistic weapon physics create a console-like mobile fighting experience."
+      },
+      {
+        "name": "Mortal Kombat Mobile",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/mortal-combat.webp",
+        "genre": "Arcade 3v3 Fighting 🥊💀",
+        "developer": "NetherRealm Studios (Warner Bros.)",
+        "release": "2015",
+        "gameplay": "A fast-paced 3v3 card-based fighting game featuring iconic Mortal Kombat characters. Perform brutal X-Ray moves and Fatalities while collecting powerful fighters. Focused on team synergy, upgrades, and competitive online faction wars."
+      }
+    ]
+  },
+
+  "systemRequirements": {
+    "games": [
+      {
+        "name": "Shadow Fight 3",
+        "platform": "Android / iOS",
+        "storage": "2–3 GB 📦",
+        "ram": "3 GB Recommended",
+        "cpuGpu": "Mid-range processors (Snapdragon 660+/A10+)",
+        "fps": "Up to 60 FPS",
+        "graphics": "High-quality 3D animations with realistic physics ✨",
+        "online": "Online required for events & PvP",
+        "battery": "Moderate drain ⚡"
+      },
+      {
+        "name": "Mortal Kombat Mobile",
+        "platform": "Android / iOS",
+        "storage": "3–4 GB 📦",
+        "ram": "3–4 GB Recommended",
+        "cpuGpu": "Mid to high-end chipsets (Snapdragon 665+/A11+)",
+        "fps": "60 FPS supported",
+        "graphics": "Dark cinematic visuals with brutal effects 🔥",
+        "online": "Always Online Required",
+        "battery": "High drain during long matches ⚡"
+      }
+    ]
+  },
+
+  "keyFeatures": {
+    "games": [
+      {
+        "name": "Shadow Fight 3",
+        "modes": "Story Mode, PvP Duels, Events",
+        "playerLimits": "1v1 Combat ⚔️",
+        "graphicsStyle": "Realistic 3D martial arts visuals",
+        "customization": "Weapons, armor sets, perks, faction builds 🎨",
+        "events": "Limited-time events & boss fights",
+        "mechanics": "Skill-based combat, combos, dodging, weapon variety"
+      },
+      {
+        "name": "Mortal Kombat Mobile",
+        "modes": "3v3 Battles, Faction Wars, Towers",
+        "playerLimits": "3 Fighters per Team 🧑‍🤝‍🧑",
+        "graphicsStyle": "Dark, cinematic Mortal Kombat style",
+        "customization": "Character upgrades, equipment cards, talents",
+        "events": "Seasonal towers & special challenge characters",
+        "mechanics": "Tap & swipe combos, X-Ray attacks, Fatalities 💀"
+      }
+    ]
+  },
+
+  "prosCons": {
+    "games": [
+      {
+        "name": "Shadow Fight 3",
+        "pros": [
+          "Deep story campaign 📖",
+          "Skill-based combat system",
+          "Large weapon variety ⚔️",
+          "Less pay-to-win compared to competitors",
+          "Smooth animations and realistic feel"
+        ],
+        "cons": [
+          "Grinding required for top gear",
+          "PvP can feel repetitive",
+          "Energy system limits long sessions"
+        ]
+      },
+      {
+        "name": "Mortal Kombat Mobile",
+        "pros": [
+          "Iconic MK characters like Scorpion & Sub-Zero 🔥",
+          "Brutal Fatalities & X-Ray moves",
+          "Strong competitive Faction Wars 🏆",
+          "Frequent events and updates"
+        ],
+        "cons": [
+          "Heavy grind for rare characters",
+          "Strong pay-to-win elements 💸",
+          "Large storage size"
+        ]
+      }
+    ]
+  },
+
+  "popularityCommunity": {
+    "games": [
+      {
+        "name": "Shadow Fight 3",
+        "activePlayers": "10M+ Monthly Players 🌍",
+        "socialMedia": "Strong YouTube & Discord community",
+        "tournaments": "Community-driven PvP events",
+        "engagement": "Combo tutorials, build guides, faction debates ⚔️"
+      },
+      {
+        "name": "Mortal Kombat Mobile",
+        "activePlayers": "20M+ Monthly Players 🌎",
+        "socialMedia": "Massive global MK fanbase",
+        "tournaments": "Faction Wars competitive ranking 🏆",
+        "engagement": "Fatality showcases, tower challenge streams 🎥"
+      }
+    ]
+  },
+
+  "pricingIAP": {
+    "games": [
+      {
+        "name": "Shadow Fight 3",
+        "price": "Free-to-Play",
+        "premiumFeatures": "Cosmetic items & faster progression",
+        "currency": "Coins & Gems 💎",
+        "specialOffers": "Event packs & gear bundles"
+      },
+      {
+        "name": "Mortal Kombat Mobile",
+        "price": "Free-to-Play",
+        "premiumFeatures": "Character packs & tower bundles 🎫",
+        "currency": "Souls & Koins",
+        "specialOffers": "Limited-time diamond character packs"
+      }
+    ]
+  },
+
+  "deviceCompatibility": {
+    "games": [
+      {
+        "name": "Shadow Fight 3",
+        "devices": "Android & iOS",
+        "osVersion": "Android 5.0+ / iOS 11+",
+        "crossPlatform": "Mobile only",
+        "pcConsole": "Not supported"
+      },
+      {
+        "name": "Mortal Kombat Mobile",
+        "devices": "Android & iOS",
+        "osVersion": "Android 6.0+ / iOS 11+",
+        "crossPlatform": "Mobile only",
+        "pcConsole": "Separate console version available"
+      }
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Which game has better graphics?",
+      "answer": "Mortal Kombat Mobile offers darker cinematic visuals, while Shadow Fight 3 focuses on realistic martial arts animations."
+    },
+    {
+      "question": "Which game is more skill-based?",
+      "answer": "Shadow Fight 3 rewards timing, dodging, and strategic builds more heavily."
+    },
+    {
+      "question": "Is Mortal Kombat Mobile pay-to-win?",
+      "answer": "It has stronger monetization elements compared to Shadow Fight 3."
+    },
+    {
+      "question": "Which game is better for story lovers?",
+      "answer": "Shadow Fight 3 provides a deeper narrative-driven campaign experience."
+    }
+  ]
+}

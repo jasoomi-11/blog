@@ -1,0 +1,134 @@
+{
+  "shortIntro": {
+    "title": "Can Your Phone Handle Shadow Fight 3? ⚔️📱",
+    "para1": "Shadow Fight 3 is not just another tap-to-fight game. It features realistic physics, detailed 3D animations, dynamic lighting, and weapon-based combat that push mobile hardware harder than you think.",
+    "para2": "If your device struggles with RAM or GPU power, you may experience frame drops during intense combos or boss fights. Let’s check whether your phone is ready for smooth martial arts action 😎."
+  },
+
+  "intro": "Below are the updated minimum and recommended system requirements for running Shadow Fight 3 smoothly on Android and iOS devices in 2026 — whether you play casually or grind events daily.",
+
+  "minimum": {
+    "OS Version": "Android 5.0 (Lollipop) or newer",
+    "RAM": "2GB (basic playable experience)",
+    "CPU": "Quad-core 1.5GHz or equivalent",
+    "GPU": "Adreno 506 / Mali-T720 or similar",
+    "Storage": "At least 2.5GB free space",
+    "Internet": "Required for events, duels, and cloud saves"
+  },
+
+  "recommended": {
+    "OS Version": "Android 10 or above",
+    "RAM": "4GB or more for stable 60 FPS ⚡",
+    "CPU": "Snapdragon 660 / Helio G90T or newer",
+    "GPU": "Adreno 512 / Mali-G72 or higher",
+    "Storage": "3GB+ free space for updates and event content",
+    "Internet": "Stable Wi-Fi or 4G/5G for smooth PvP duels"
+  },
+
+  "ios_intro": "On iOS, Shadow Fight 3 benefits from Apple’s hardware optimization, delivering smoother animations and consistent combat performance even during heavy visual effects.",
+
+  "ios_minimum": [
+    { "title": "OS Version", "value": "iOS 11 or later" },
+    { "title": "Device", "value": "iPhone 6S / SE (1st Gen) or newer" },
+    { "title": "Storage", "value": "Minimum 3GB free space" }
+  ],
+
+  "ios_recommended": [
+    { "title": "OS Version", "value": "iOS 14 or newer" },
+    { "title": "Device", "value": "iPhone X, XR, 11, 12 series and above" },
+    { "title": "Storage", "value": "4GB+ free space for long-term smooth performance" }
+  ],
+
+  "fps_intro": "Frame rate stability directly affects your reaction timing, dodge precision, and combo execution in Shadow Fight 3.",
+
+  "fps_list": [
+    { "category": "Entry-Level Phones", "fps": "25–30 FPS (playable but occasional stutters)" },
+    { "category": "Mid-Tier Phones", "fps": "40–60 FPS (smooth and balanced combat)" },
+    { "category": "Flagship Phones", "fps": "60 FPS stable with max graphics enabled 🔥" }
+  ],
+
+  "settings_intro": "Optimizing in-game settings can dramatically improve smoothness without sacrificing too much visual quality.",
+
+  "low_end": [
+    { "title": "Graphics Quality", "value": "Low or Medium for stable FPS" },
+    { "title": "Shadow Effects", "value": "Reduce to avoid frame drops during heavy fights" },
+    { "title": "Background Apps", "value": "Close unused apps to free RAM" },
+    { "title": "Battery Mode", "value": "Disable power saving for better performance" }
+  ],
+
+  "high_end": [
+    { "title": "Graphics Quality", "value": "High for detailed armor and weapon textures ✨" },
+    { "title": "Performance Mode", "value": "Enable if your device supports it" },
+    { "title": "Thermal Control", "value": "Avoid overheating to prevent FPS throttling" },
+    { "title": "Free Storage", "value": "Keep extra space for faster loading times" }
+  ],
+
+  "sectionIntro": "These smartphones provide a reliable Shadow Fight 3 experience with smooth animations and responsive controls.",
+
+  "androidDevices": [
+    "Samsung Galaxy A52, A54, S21, S22 series",
+    "Xiaomi Redmi Note 12, 13 Pro",
+    "Poco X5, Poco F5, Poco F6",
+    "Realme Narzo 60, GT Neo series",
+    "OnePlus Nord 2, Nord 3, Nord CE",
+    "Google Pixel 6, 7, 8 series"
+  ],
+
+  "iosDevices": [
+    "iPhone 8, X, XR",
+    "iPhone 11, 12, 13, 14 series",
+    "iPhone SE (2020 & 2022)",
+    "iPad Mini 5 & newer",
+    "iPad Air 3rd generation and newer"
+  ],
+
+  "storageIntroText": "Shadow Fight 3 grows with events, equipment sets, and seasonal content. Here’s what to expect:",
+
+  "storageDetails": [
+    { "label": "Initial Download", "value": "Around 1.8GB" },
+    { "label": "Additional Data", "value": "500MB–1GB after updates" },
+    { "label": "Event Updates", "value": "200–400MB per major event" },
+    { "label": "Safe Storage Amount", "value": "3GB+ for smooth long-term gameplay" }
+  ],
+
+  "faqIntroText": "Frequently asked Shadow Fight 3 system requirement questions:",
+
+  "faqList": [
+    {
+      "question": "Does Shadow Fight 3 require a high-end phone?",
+      "answer": "No. It runs on mid-range devices, but 4GB RAM or higher ensures smoother combat and fewer frame drops."
+    },
+    {
+      "question": "Can Shadow Fight 3 run on 2GB RAM?",
+      "answer": "Yes, but expect lower graphics settings and occasional lag during intense fights."
+    },
+    {
+      "question": "Is Shadow Fight 3 offline?",
+      "answer": "Story mode can be played offline, but events, duels, and cloud saves require an internet connection."
+    }
+  ],
+
+  "title": "Real Device Performance Comparison 🔍",
+  "description": "Side-by-side comparison of Shadow Fight 3 performance based on FPS stability, heat management, and combat smoothness.",
+
+  "rows": [
+    {
+      "device1": "Samsung Galaxy A54",
+      "device2": "Redmi Note 13 Pro",
+      "performance": "Both deliver stable mid-tier performance with smooth combo animations.",
+      "notes": "Galaxy A54 maintains steadier FPS, while Note 13 Pro loads battles slightly faster."
+    },
+    {
+      "device1": "Poco F6",
+      "device2": "Realme GT Neo 3",
+      "performance": "Excellent smoothness at high settings.",
+      "notes": "Poco F6 offers better sustained FPS; GT Neo 3 handles long sessions with less heating."
+    },
+    {
+      "device1": "iPhone 13",
+      "device2": "iPhone XR",
+      "performance": "Both run smoothly with stable 60 FPS in most fights.",
+      "notes": "iPhone 13 supports higher visual detail, XR may reduce effects automatically."
+    }
+  ]
+}
