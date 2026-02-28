@@ -1,0 +1,174 @@
+{
+  "gameTitle": "RedMagic 7S Pro",
+  "subtitle": "A cooling-obsessed performance monster that runs games like it’s plugged into a desktop 🧊🔥",
+
+  "posters": [
+    "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/redmagic-7s-pro.webp",
+    ""
+  ],
+
+  "whatMakesItSpecial": "This phone was engineered with one goal: zero-compromise mobile gaming. With an active cooling fan, esports-grade touch response, and sustained high FPS performance, the RedMagic 7S Pro focuses entirely on power, stability, and competitive edge — not gimmicks.",
+
+  "performance": {
+    "cpu": "Qualcomm Snapdragon 8+ Gen 1 (4nm, up to 3.2GHz Prime Core)",
+    "gpu": "Adreno 730 (enhanced clock speeds for gaming optimization)",
+    "ram": "12GB / 16GB / 18GB LPDDR5 (high-speed multitasking performance)",
+    "storage": "256GB / 512GB UFS 3.1 (fast load times and quick installs)",
+    "cooling": "ICE 10.0 Multi-Dimensional Cooling + Built-in Turbo Fan (20,000 RPM)",
+    "realWorldImpact": "Maintains peak clock speeds longer than most Snapdragon 8+ Gen 1 phones thanks to active internal cooling and minimal throttling."
+  },
+
+  "benchmark": {
+    "antutu": "1,080,000 – 1,120,000",
+    "geekbench": {
+      "singleCore": "1300 – 1350",
+      "multiCore": "4200 – 4400"
+    },
+    "note": "Benchmarks are strong, but its real strength is sustained performance during long gaming sessions."
+  },
+
+  "display": {
+    "size": "6.8-inch",
+    "refreshRate": "120Hz",
+    "touchRate": "960Hz Touch Sampling",
+    "resolution": "FHD+ (2400 × 1080)",
+    "panelType": "AMOLED, 10-bit color, 100% DCI-P3",
+    "brightness": "Up to 700 nits typical",
+    "experience": "Ultra-responsive input with zero ghosting, built for competitive shooters and fast reflex gaming."
+  },
+
+  "battery": {
+    "size": "5000mAh Dual-Cell",
+    "fastCharging": "65W Fast Charging (Global) / 135W (China Variant)",
+    "gamingDrain": "10% – 14% per hour (competitive titles)",
+    "smartCharging": "Charge Separation Mode to power device directly without heating battery"
+  },
+
+  "temperature": {
+    "averageGaming": "34°C – 38°C",
+    "extremeLoad": "Up to 40°C",
+    "fpsStability": "90% – 95%",
+    "comfortLevel": "Noticeably cooler than most flagships due to internal fan cooling."
+  },
+
+  "heavyGames": [
+    "PUBG Mobile",
+    "BGMI",
+    "Call of Duty Mobile",
+    "Genshin Impact",
+    "Fortnite",
+    "Apex Legends Mobile",
+    "Asphalt 9",
+    "Farlight 84",
+    "Warzone Mobile"
+  ],
+
+  "playability": {
+    "PUBG Mobile": "Ultra HD Graphics + 90FPS (stable competitive performance)",
+    "Call of Duty Mobile": "Very High Graphics + 120FPS",
+    "Genshin Impact": "High Settings + Stable 55–60FPS",
+    "Fortnite": "Epic Quality + 60FPS",
+    "Apex Legends Mobile": "High Settings + Smooth 60FPS"
+  },
+
+  "fpsBenchmarks": [
+    {
+      "game": "PUBG Mobile",
+      "settings": "Ultra HD",
+      "fps": "80–90 FPS (stable)"
+    },
+    {
+      "game": "COD Mobile",
+      "settings": "Max",
+      "fps": "115–120 FPS"
+    },
+    {
+      "game": "Genshin Impact",
+      "settings": "High",
+      "fps": "50–60 FPS"
+    },
+    {
+      "game": "Fortnite",
+      "settings": "Epic",
+      "fps": "55–60 FPS"
+    }
+  ],
+
+  "thermalTests": [
+    {
+      "game": "PUBG Mobile",
+      "after15Min": "Cool",
+      "after30Min": "Slight Warm",
+      "fpsDrop": "1–2 FPS"
+    },
+    {
+      "game": "COD Mobile",
+      "after15Min": "Normal",
+      "after30Min": "Warm",
+      "fpsDrop": "0–1 FPS"
+    },
+    {
+      "game": "Genshin Impact",
+      "after15Min": "Warm",
+      "after30Min": "Warm but stable",
+      "fpsDrop": "3–5 FPS"
+    }
+  ],
+
+  "batteryTests": [
+    {
+      "game": "PUBG Mobile",
+      "oneHourDrop": "12–13%"
+    },
+    {
+      "game": "COD Mobile",
+      "oneHourDrop": "10–11%"
+    },
+    {
+      "game": "Genshin Impact",
+      "oneHourDrop": "16–18%"
+    }
+  ],
+
+  "gamingFeatures": [
+    "Built-in 20,000 RPM Turbo Cooling Fan",
+    "520Hz Dual IC Shoulder Triggers",
+    "Game Space Performance Dashboard",
+    "RGB Lighting Strip Design",
+    "Advanced Haptic Feedback Engine",
+    "Under-Display Front Camera (Full-Screen Gaming)",
+    "Charge Separation Technology"
+  ],
+
+  "customTable": {
+    "title": "Gaming Hardware Breakdown",
+    "columns": ["Component", "Specification", "Gaming Benefit"],
+    "rows": [
+      ["Cooling System", "ICE 10.0 + Internal Turbo Fan", "Lower Thermals & Sustained FPS"],
+      ["Triggers", "520Hz Shoulder Triggers", "Faster Reaction & Precision"],
+      ["Charging", "65W / 135W Fast Charge", "Rapid Power Recovery"],
+      ["Display", "120Hz AMOLED + 960Hz Touch", "Ultra-Responsive Gameplay"],
+      ["Build", "Aviation-Grade Aluminum Frame", "Durable & Heat Resistant"],
+      ["Software", "RedMagic OS (Android 13/14)", "Gaming-First Optimization"]
+    ]
+  },
+
+  "dynamicList": {
+    "title": "Why Gamers Choose RedMagic 7S Pro",
+    "items": [
+      "Active Internal Cooling Fan",
+      "Snapdragon 8+ Gen 1 Overclocked Performance",
+      "Esports-Level Touch Sampling (960Hz)",
+      "Full-Screen Display with Hidden Camera",
+      "Consistent High FPS Under Load",
+      "Built Specifically for Competitive Gaming"
+    ]
+  },
+
+  "finalVerdict": {
+    "rating": "9.4 / 10",
+    "bestFor": "Hardcore mobile gamers, FPS players, performance-focused users",
+    "notIdealFor": "Photography-focused users or casual light users",
+    "oneLineSummary": "A pure gaming machine that prioritizes performance and cooling above everything else."
+  }
+}
