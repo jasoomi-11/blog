@@ -1,0 +1,182 @@
+{
+  "gameComparison": {
+    "games": [
+      {
+        "name": "Genshin Impact",
+        "thumbnail": "/assets/thumb/genshine-impact.webp",
+        "genre": "Open-World Anime Action RPG 🌍⚔️",
+        "developer": "HoYoverse",
+        "release": "2020",
+        "gameplay": "A massive fantasy world called Teyvat where players explore lush regions, climb mountains, glide across valleys, and fight enemies using elemental reactions. The combat mixes character switching with elemental combos like Pyro + Hydro or Cryo + Electro to create flashy reactions. Between story quests, world puzzles, bosses, and co-op adventures, the game feels like a living anime world that keeps expanding with new regions and characters ✨"
+      },
+      {
+        "name": "Wuthering Waves",
+        "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/wuthering-waves.webp",
+        "genre": "Fast-Paced Open-World Action RPG 🌪️⚔️",
+        "developer": "Kuro Games",
+        "release": "2024",
+        "gameplay": "A darker sci-fi fantasy world where players become the Rover and explore the ruined planet Solaris-3. Combat is extremely fluid with dodges, aerial attacks, parries, and stylish combos that reward precise timing. Enemies hit harder, bosses feel more skill-based, and players can absorb Echo monsters to gain abilities. The game focuses heavily on movement freedom, reactive combat, and stylish action that feels closer to an anime action game than a traditional RPG 🔥"
+      }
+    ]
+  },
+
+  "systemRequirements": {
+    "games": [
+      {
+        "name": "Genshin Impact",
+        "platform": "Android / iOS / PC / PlayStation",
+        "storage": "20+ GB 📦",
+        "ram": "4 GB Minimum / 6 GB Recommended",
+        "cpuGpu": "Snapdragon 845+ / Apple A12+ equivalent",
+        "fps": "30–60 FPS depending on device",
+        "graphics": "Beautiful anime-style landscapes and lighting 🌄",
+        "online": "Internet required for login and events",
+        "battery": "Moderate to high depending on graphics"
+      },
+      {
+        "name": "Wuthering Waves",
+        "platform": "Android / iOS / PC",
+        "storage": "18–22 GB 📦",
+        "ram": "6 GB Recommended",
+        "cpuGpu": "Snapdragon 865+ / Apple A13+ equivalent",
+        "fps": "Up to 60 FPS",
+        "graphics": "Sharp, modern anime visuals with darker tones 🌫️",
+        "online": "Always online required",
+        "battery": "High due to advanced combat effects ⚡"
+      }
+    ]
+  },
+
+  "keyFeatures": {
+    "games": [
+      {
+        "name": "Genshin Impact",
+        "modes": "Story Exploration, Domains, Boss Hunts, Co-op",
+        "playerLimits": "4 players in co-op 🌍",
+        "graphicsStyle": "Bright anime fantasy world with vibrant regions ✨",
+        "customization": "Character builds, artifacts, weapons, cosmetics",
+        "events": "Frequent seasonal events and region expansions",
+        "mechanics": "Elemental reaction combat, exploration puzzles, character swapping"
+      },
+      {
+        "name": "Wuthering Waves",
+        "modes": "Story Campaign, Open-World Exploration, Boss Hunts",
+        "playerLimits": "Primarily single player experience",
+        "graphicsStyle": "Dark sci-fi anime world with atmospheric environments 🌑",
+        "customization": "Character builds, Echo abilities, weapons",
+        "events": "Seasonal patches and limited character banners",
+        "mechanics": "Parry system, dodge counters, aerial combos, Echo monster abilities"
+      }
+    ]
+  },
+
+  "prosCons": {
+    "games": [
+      {
+        "name": "Genshin Impact",
+        "pros": [
+          "Huge open world with constant updates 🌍",
+          "Beautiful anime visuals and music",
+          "Deep elemental combat system",
+          "Large roster of unique characters",
+          "Cross-platform play across PC, mobile, and console"
+        ],
+        "cons": [
+          "Large storage size",
+          "Gacha system can be expensive 💸",
+          "Story pacing can feel slow in early chapters"
+        ]
+      },
+      {
+        "name": "Wuthering Waves",
+        "pros": [
+          "Extremely fluid and skill-based combat ⚔️",
+          "Fast movement with wall running and aerial combos",
+          "Challenging boss fights",
+          "Echo system adds unique gameplay variety"
+        ],
+        "cons": [
+          "Newer game with less overall content",
+          "Performance issues on some devices",
+          "Smaller character roster compared to older RPGs"
+        ]
+      }
+    ]
+  },
+
+  "popularityCommunity": {
+    "games": [
+      {
+        "name": "Genshin Impact",
+        "activePlayers": "60M+ Monthly Players 🌍",
+        "socialMedia": "20M+ Followers across platforms",
+        "tournaments": "Mostly community events and speedruns",
+        "engagement": "Fan art, theory crafting, character builds, story discussions 🎥"
+      },
+      {
+        "name": "Wuthering Waves",
+        "activePlayers": "Millions of active players after launch",
+        "socialMedia": "Rapidly growing global community",
+        "tournaments": "Community challenges and speedruns",
+        "engagement": "Combat showcases, boss challenge videos, Echo build guides 🎮"
+      }
+    ]
+  },
+
+  "pricingIAP": {
+    "games": [
+      {
+        "name": "Genshin Impact",
+        "price": "Free-to-Play",
+        "premiumFeatures": "Character banners, battle pass, cosmetics 🎫",
+        "currency": "Primogems",
+        "specialOffers": "Limited character banners and seasonal packs"
+      },
+      {
+        "name": "Wuthering Waves",
+        "price": "Free-to-Play",
+        "premiumFeatures": "Character banners, weapons, premium pass",
+        "currency": "Astrite",
+        "specialOffers": "Event banners and launch bundles"
+      }
+    ]
+  },
+
+  "deviceCompatibility": {
+    "games": [
+      {
+        "name": "Genshin Impact",
+        "devices": "Android, iOS, PC, PlayStation",
+        "osVersion": "Android 7.0+ / iOS 12+",
+        "crossPlatform": "Yes (shared account progress)",
+        "pcConsole": "Fully supported"
+      },
+      {
+        "name": "Wuthering Waves",
+        "devices": "Android, iOS, PC",
+        "osVersion": "Android 8.0+ / iOS 13+",
+        "crossPlatform": "Shared progression across platforms",
+        "pcConsole": "PC supported, console planned"
+      }
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Which game has better combat?",
+      "answer": "Wuthering Waves ⚔️ focuses on faster, more skill-based combat with dodges and parries."
+    },
+    {
+      "question": "Which game has the bigger world?",
+      "answer": "Genshin Impact 🌍 has a much larger world with multiple regions released over several years."
+    },
+    {
+      "question": "Which game is better for exploration?",
+      "answer": "Genshin Impact offers more exploration content including puzzles, hidden quests, and world secrets."
+    },
+    {
+      "question": "Which game should new players try first?",
+      "answer": "Both are great, but Genshin Impact is easier for beginners while Wuthering Waves rewards players who enjoy fast action combat 🔥"
+    }
+  ]
+}

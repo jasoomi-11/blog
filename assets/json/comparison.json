@@ -125,7 +125,7 @@
   "badge": "MOBA | Strategy",
   "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/dota-underlords-lol.webp",
   "title": "Dota Underlords VS League of Legends Wild Rift",
-  "subtitle": "Strategy Auto-Battler vs 5v5 MOBA ",
+  "subtitle": "",
   "link": "/comparison/dota-underlords-lol.html"
 },
 
@@ -133,14 +133,14 @@
   "badge": "RPG | Open-World",
   "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/genshine-tower-of-fantasy.webp",
   "title": "Genshin Impact VS Tower of Fantasy",
-  "subtitle": "Open-World RPGs Showdown: Exploration",
+  "subtitle": "",
   "link": "/comparison/genshine-tower-of-fantasy.html"
 },
 {
   "badge": "Sports | Football ⚽",
   "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/dls-fifa-mobile.webp",
   "title": "Dream League Soccer VS FIFA Mobile",
-  "subtitle": "Offline Career vs Online Competitive Football Showdown",
+  "subtitle": "",
   "link": "/comparison/dls-fifa-mobile.html"
 },
 
@@ -156,7 +156,7 @@
   "badge": "Battle Royale | Shooter",
   "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/apex-legends-pubg-mobile.webp",
   "title": "Apex Legends Mobile VS PUBG Mobile",
-  "subtitle": "Fast-Paced Legends 💨 VS Classic Battle Royale 🎯",
+  "subtitle": "",
   "link": "/comparison/apex-legends-pubg-mobile.html"
 },
 
@@ -164,7 +164,7 @@
   "badge": "Battle Royale | Shooter",
   "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/pubg-cod-warzone.webp",
   "title": "PUBG:Mobile VS COD:Warzone",
-  "subtitle": "Shooters  💨 VS Shooters  🎯",
+  "subtitle": "",
   "link": "/comparison/pubg-cod-warzone.html"
 },
 
@@ -173,15 +173,22 @@
   "badge": "MOBA | 5v5 Strategy",
   "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/honor-king-arena-valor.webp",
   "title": "Honor of Kings VS Arena of Valor",
-  "subtitle": "Global MOBA 👑 VS Classic Arena ⚔️",
+  "subtitle": "",
   "link": "/comparison/honor-king-arena-valor.html"
 },
 {
   "badge": "Fighting | 1v1 & 3v3 Combat",
   "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/shadow-3-mortal-combat.webp",
   "title": "Shadow Fight 3 VS Mortal Kombat Mobile",
-  "subtitle": "Skill-Based Martial Arts ⚔️ VS Brutal Arcade Combat 💀",
+  "subtitle": "",
   "link": "/comparison/shadow-3-mortal-combat.html"
+},
+{
+  "badge": "Open World | Action RPG Adventure",
+  "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/genshine-wuthering-waves.webp",
+  "title": "Genshin Impact VS Wuthering Waves",
+  "subtitle": "",
+  "link": "/comparison/genshine-wuthering-waves.html"
 }
 
   

@@ -4,7 +4,7 @@
   <!-- Section Homepage -->
   <url>
     <loc>https://blog.blueverse.space/comparison/comparison.html</loc>
-    <lastmod>2026-02-19</lastmod>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -349,6 +349,19 @@ must update on in April -->
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
+
+
+<!--  14 March newly Created
+must update on in May -->
+
+
+<url>
+    <loc>https://blog.blueverse.space/comparison/genshine-wuthering-waves.html</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
 
 
 </urlset>
