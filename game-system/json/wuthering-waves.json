@@ -1,0 +1,134 @@
+{
+  "shortIntro": {
+    "title": "Can Your Phone Handle Wuthering Waves? Let’s Check ⚡📱",
+    "para1": "Wuthering Waves is a high-speed open-world action RPG with cinematic combat, fluid dodges, and stunning visuals. It pushes mobile hardware much harder than typical RPGs.",
+    "para2": "From real-time parries to smooth character switching, performance matters a lot. If your device struggles, you’ll face frame drops instead of enemies 😅🔥."
+  },
+
+  "intro": "Below are the latest minimum and recommended system requirements to run Wuthering Waves smoothly on Android and iOS — whether you're exploring the open world or battling elite bosses 😎.",
+
+  "minimum": {
+    "OS Version": "Android 8.0 or newer",
+    "RAM": "6GB (bare minimum for playable experience 😬)",
+    "CPU": "Snapdragon 660 / Helio G90 or equivalent",
+    "GPU": "Adreno 512 / Mali-G76 or similar",
+    "Storage": "At least 10GB free space",
+    "Internet": "Stable connection required for updates and events 🌐"
+  },
+
+  "recommended": {
+    "OS Version": "Android 11 or above",
+    "RAM": "8GB or more for smooth combat 🚀",
+    "CPU": "Snapdragon 865, 870, 8 Gen series or newer",
+    "GPU": "Adreno 650 / Mali-G78 or higher",
+    "Storage": "15GB+ free for updates, textures, and patches",
+    "Internet": "Strong Wi-Fi or 5G for seamless gameplay"
+  },
+
+  "ios_intro": "On iOS, Wuthering Waves delivers a much more stable and optimized experience. Apple’s hardware ensures smoother animations and consistent frame pacing during combat 🧈.",
+
+  "ios_minimum": [
+    { "title": "OS Version", "value": "iOS 13 or later" },
+    { "title": "Device", "value": "iPhone XR / XS or newer" },
+    { "title": "Storage", "value": "Minimum 10GB free space" }
+  ],
+
+  "ios_recommended": [
+    { "title": "OS Version", "value": "iOS 15 or newer" },
+    { "title": "Device", "value": "iPhone 11, 12, 13 series and above" },
+    { "title": "Storage", "value": "15GB+ free for smoother updates and assets" }
+  ],
+
+  "fps_intro": "Frame rate plays a huge role in Wuthering Waves. Fast combat and dodging mechanics require smooth FPS for proper timing and reaction ⚡.",
+
+  "fps_list": [
+    { "category": "Entry-Level Phones", "fps": "20–30 FPS (frequent drops 😬)" },
+    { "category": "Mid-Tier Phones", "fps": "35–50 FPS (playable with tweaks)" },
+    { "category": "Flagship Phones", "fps": "55–60 FPS+ (smooth and responsive 💪)" }
+  ],
+
+  "settings_intro": "Optimizing graphics settings can dramatically improve performance, especially during heavy combat scenes and boss fights 🧠.",
+
+  "low_end": [
+    { "title": "Graphics Quality", "value": "Low for stable gameplay" },
+    { "title": "Frame Rate", "value": "Standard or Medium" },
+    { "title": "Effects", "value": "Disable bloom, motion blur, and shadows" },
+    { "title": "Resolution", "value": "Lower resolution for smoother FPS" }
+  ],
+
+  "high_end": [
+    { "title": "Graphics Quality", "value": "High or Ultra for best visuals ✨" },
+    { "title": "Frame Rate", "value": "Enable 60 FPS mode" },
+    { "title": "Thermal Control", "value": "Use cooling to prevent throttling 🔥" },
+    { "title": "Storage", "value": "Keep extra space for faster asset loading" }
+  ],
+
+  "sectionIntro": "These smartphones and tablets can run Wuthering Waves smoothly with stable FPS and better visual quality.",
+
+  "androidDevices": [
+    "Samsung Galaxy S21, S22, S23, S24 lineup",
+    "Xiaomi Poco F5, Poco F6, Redmi Note 13 Pro+",
+    "Realme GT Neo 3, GT Neo 5",
+    "OnePlus 10 Pro, 11, Nord 3",
+    "Google Pixel 7 and 8 series",
+    "Infinix GT 10 Pro gaming phone"
+  ],
+
+  "iosDevices": [
+    "iPhone XR, XS",
+    "iPhone 11, 12, 13, 14 series",
+    "iPhone SE (2022)",
+    "iPad Mini 6",
+    "iPad Air 4th generation and newer"
+  ],
+
+  "storageIntroText": "Wuthering Waves is a large open-world game with frequent updates and new content. Here’s expected storage usage 📦:",
+
+  "storageDetails": [
+    { "label": "Initial Download", "value": "Around 6–8GB" },
+    { "label": "HD Resources", "value": "2–4GB additional assets" },
+    { "label": "Updates", "value": "500MB–1.5GB per patch" },
+    { "label": "Safe Storage Amount", "value": "15GB+ recommended" }
+  ],
+
+  "faqIntroText": "Common Wuthering Waves questions — simplified for you 😎:",
+
+  "faqList": [
+    {
+      "question": "Is Wuthering Waves heavy for mobile?",
+      "answer": "Yes. It’s a high-end open-world RPG, so mid-range or flagship devices are recommended for smooth gameplay."
+    },
+    {
+      "question": "Can low-end phones run Wuthering Waves?",
+      "answer": "Yes, but with low settings and reduced FPS. Expect occasional lag during combat."
+    },
+    {
+      "question": "Why does Wuthering Waves lag or heat up?",
+      "answer": "The game uses advanced graphics and real-time combat, which puts pressure on CPU and GPU. Lower settings and cooling help reduce lag."
+    }
+  ],
+
+  "title": "Real Device Performance Comparison 🔍",
+  "description": "Side-by-side comparison of Wuthering Waves performance based on FPS stability, heat control, and visual quality.",
+
+  "rows": [
+    {
+      "device1": "Samsung Galaxy S23",
+      "device2": "Poco F6",
+      "performance": "Both deliver smooth gameplay with high graphics settings.",
+      "notes": "S23 offers more stable FPS, while Poco F6 handles thermals better."
+    },
+    {
+      "device1": "Realme GT Neo 5",
+      "device2": "OnePlus 11",
+      "performance": "Fast loading and responsive combat on both devices.",
+      "notes": "OnePlus 11 maintains higher FPS consistency in long sessions."
+    },
+    {
+      "device1": "iPhone 13",
+      "device2": "iPhone XR",
+      "performance": "Stable gameplay across most scenarios.",
+      "notes": "iPhone 13 supports higher graphics and smoother combat, XR may drop frames in intense fights."
+    }
+  ]
+}

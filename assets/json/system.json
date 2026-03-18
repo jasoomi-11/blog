@@ -227,7 +227,7 @@
   "badge": "♟️⚔️🏆",
   "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/dota-underlords.webp",
   "title": "Dota Underlords",
-  "subtitle": "System Requirements, Performance & Device Compatibility",
+  "subtitle": "",
   "link": "/game-system/dota-underlords.html"
 },
 
@@ -235,7 +235,7 @@
   "badge": "♟️⚔️🏆",
   "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/knives-out.webp",
   "title": "knives Out",
-  "subtitle": "System Requirements, Performance & Device Compatibility",
+  "subtitle": "",
   "link": "/game-system/knives-out.html"
 },
 
@@ -281,10 +281,17 @@
   "badge": "🥋⚔️🔥",
   "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/shadow-fight-3.webp",
   "title": "Shadow Fight 3",
-  "subtitle": "System Requirements, FPS & Performance",
+  "subtitle": "",
   "link": "/game-system/shadow-fight-3.html"
+},
+{
+  "badge": "🥋⚔️🔥",
+  "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/wuthering-waves.webp",
+  "title": "Wuthering Waves",
+  "subtitle": "",
+  "link": "/game-system/wuthering-waves.html"
 }
-    
+
     
     
     

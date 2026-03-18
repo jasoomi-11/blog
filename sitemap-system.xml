@@ -4,7 +4,7 @@
   <!-- Section Homepage -->
   <url>
     <loc>https://blog.blueverse.space/game-system/system.html</loc>
-    <lastmod>2026-02-19</lastmod>
+    <lastmod>2026-03-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -407,6 +407,17 @@ next Update must b in April-->
     <priority>0.8</priority>
   </url>
 
+
+<!-- newly created on 18 March
+
+next Update must b in May-->
+
+<url>
+    <loc>https://blog.blueverse.space/game-system/wuthering-waves.html</loc>
+     <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
 
 
