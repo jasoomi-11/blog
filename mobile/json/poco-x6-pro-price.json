@@ -1,0 +1,144 @@
+{
+  "mobile": {
+    "name": "Poco X6 Pro",
+    "thumbs": [
+      "/assets/thumb/poco-x6-pro.webp",
+      ""
+    ],
+    "summary": "Poco X6 Pro — flagship-level gaming phone with Dimensity 8300 Ultra, 1.5K AMOLED 120Hz display, LPDDR5X RAM, UFS 4.0 storage and 67W fast charging — one of the strongest gaming phones in its price range.",
+    "priceRange": "Varies by region",
+
+    "pricingInsights": {
+      "lastUpdated": "2026-01",
+      "note": "Prices may change depending on flash sales, online offers, and stock availability.",
+      "officialVsMarket": "Official Xiaomi pricing is usually lower than local market prices because many regions sell it through online flash sales first.",
+      "taxInfo": "Prices shown normally include GST / VAT depending on the country.",
+      "importWarning": "Imported variants may cost 5–12% more due to customs duties and retailer margins.",
+      "bestTimeToBuy": "Big online sales like 11.11, Black Friday, and New Year sales usually reduce the price by 5–15%.",
+      "availabilityStatus": "Widely available online; offline stores sometimes charge slightly higher prices."
+    },
+
+    "countries": [
+      {
+        "flag": "🇺🇸",
+        "country": "United States",
+        "currency": "USD",
+        "displayPrice": "$299 – $399",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "$299" },
+          { "ram": "12GB / 512GB", "price": "$399" }
+        ],
+        "colors": ["Black", "Yellow", "Gray"],
+        "priceNote": "Mostly sold through global online stores; price drops often during seasonal sales."
+      },
+      {
+        "flag": "🇮🇳",
+        "country": "India",
+        "currency": "INR",
+        "displayPrice": "₹26,999 – ₹31,999",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "₹26,999" },
+          { "ram": "12GB / 512GB", "price": "₹31,999" }
+        ],
+        "colors": ["Black", "Yellow", "Gray"],
+        "priceNote": "Includes GST; online bank offers often reduce the final price."
+      },
+      {
+        "flag": "🇵🇰",
+        "country": "Pakistan",
+        "currency": "PKR",
+        "displayPrice": "Rs 109,999 – Rs 129,999",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "Rs 109,999" },
+          { "ram": "12GB / 512GB", "price": "Rs 129,999" }
+        ],
+        "colors": ["Black", "Yellow", "Gray"],
+        "priceNote": "Official Xiaomi Pakistan listing available; PTA-approved versions may cost slightly more."
+      },
+      {
+        "flag": "🇬🇧",
+        "country": "United Kingdom",
+        "currency": "GBP",
+        "displayPrice": "£260 – £340",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "£260" },
+          { "ram": "12GB / 512GB", "price": "£340" }
+        ],
+        "colors": ["Black", "Yellow", "Gray"],
+        "priceNote": "VAT included; price varies by online retailer."
+      },
+      {
+        "flag": "🇨🇦",
+        "country": "Canada",
+        "currency": "CAD",
+        "displayPrice": "CA$420 – CA$520",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "CA$420" },
+          { "ram": "12GB / 512GB", "price": "CA$520" }
+        ],
+        "colors": ["Black", "Yellow", "Gray"],
+        "priceNote": "Mostly sold through international online stores."
+      },
+      {
+        "flag": "🇦🇺",
+        "country": "Australia",
+        "currency": "AUD",
+        "displayPrice": "A$470 – A$620",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "A$470" },
+          { "ram": "12GB / 512GB", "price": "A$620" }
+        ],
+        "colors": ["Black", "Yellow", "Gray"],
+        "priceNote": "GST included; price changes during flash sales."
+      },
+      {
+        "flag": "🇦🇪",
+        "country": "United Arab Emirates",
+        "currency": "AED",
+        "displayPrice": "AED 1,050 – AED 1,350",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "AED 1,050" },
+          { "ram": "12GB / 512GB", "price": "AED 1,350" }
+        ],
+        "colors": ["Black", "Yellow", "Gray"],
+        "priceNote": "Usually cheaper than Europe due to lower taxes."
+      },
+      {
+        "flag": "🇧🇩",
+        "country": "Bangladesh",
+        "currency": "BDT",
+        "displayPrice": "৳ 32,000 – ৳ 39,000",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "৳ 32,000" },
+          { "ram": "12GB / 512GB", "price": "৳ 39,000" }
+        ],
+        "colors": ["Black", "Yellow", "Gray"],
+        "priceNote": "Mostly unofficial imports; warranty depends on seller."
+      },
+      {
+        "flag": "🇵🇭",
+        "country": "Philippines",
+        "currency": "PHP",
+        "displayPrice": "₱ 16,999 – ₱ 21,999",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "₱ 16,999" },
+          { "ram": "12GB / 512GB", "price": "₱ 21,999" }
+        ],
+        "colors": ["Black", "Yellow", "Gray"],
+        "priceNote": "Online sales often cheaper than mall prices."
+      },
+      {
+        "flag": "🇪🇺",
+        "country": "Euro Zone",
+        "currency": "EUR",
+        "displayPrice": "€320 – €420",
+        "variants": [
+          { "ram": "8GB / 256GB", "price": "€320" },
+          { "ram": "12GB / 512GB", "price": "€420" }
+        ],
+        "colors": ["Black", "Yellow", "Gray"],
+        "priceNote": "VAT included; price varies slightly between countries."
+      }
+    ]
+  }
+}

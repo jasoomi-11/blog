@@ -1,0 +1,174 @@
+{
+  "gameTitle": "Poco X6 Pro",
+  "subtitle": "A budget flagship that punches way above its price and turns heavy games into easy wins 🎮🔥",
+
+  "posters": [
+    "/assets/thumb/poco-x6-pro.webp",
+    ""
+  ],
+
+  "whatMakesItSpecial": "This isn’t just another mid-range phone pretending to be fast. The Poco X6 Pro was built around raw gaming performance first — a flagship-level processor, ultra-fast RAM, and one of the smoothest displays in its price range. It feels like a phone made for gamers who want power without paying flagship money.",
+
+  "performance": {
+    "cpu": "MediaTek Dimensity 8300 Ultra (4nm, up to 3.35GHz)",
+    "gpu": "Mali-G615 (flagship-level mobile gaming GPU)",
+    "ram": "8GB / 12GB LPDDR5X (extremely fast memory)",
+    "storage": "256GB / 512GB UFS 4.0 (ultra-fast game loading)",
+    "cooling": "LiquidCool Technology 2.0 + Large Vapor Chamber",
+    "realWorldImpact": "Runs heavy games smoother than most phones in the same price range and keeps performance stable even in long gaming sessions."
+  },
+
+  "benchmark": {
+    "antutu": "1,350,000 – 1,460,000",
+    "geekbench": {
+      "singleCore": "1650 – 1750",
+      "multiCore": "4800 – 5100"
+    },
+    "note": "Raw numbers are flagship-level for a mid-range price, which is why gamers love it."
+  },
+
+  "display": {
+    "size": "6.67-inch",
+    "refreshRate": "120Hz Adaptive",
+    "touchRate": "480Hz (2160Hz instant touch in Game Mode)",
+    "resolution": "1.5K CrystalRes (2712 × 1220)",
+    "panelType": "AMOLED HDR10+ Display",
+    "brightness": "Up to 1800 nits peak",
+    "experience": "Super sharp visuals and very smooth gameplay, especially in competitive shooters."
+  },
+
+  "battery": {
+    "size": "5000mAh",
+    "fastCharging": "67W Turbo Charging (0–100% ~45 min)",
+    "gamingDrain": "10% – 14% per hour (competitive games)",
+    "smartCharging": "Optimized charging system reduces heat during gaming"
+  },
+
+  "temperature": {
+    "averageGaming": "36°C – 39°C",
+    "extremeLoad": "Up to 41°C",
+    "fpsStability": "88% – 93%",
+    "comfortLevel": "Gets warm during heavy games but still comfortable for long sessions."
+  },
+
+  "heavyGames": [
+    "PUBG Mobile",
+    "Call of Duty Mobile",
+    "Genshin Impact",
+    "Honkai Star Rail",
+    "Fortnite",
+    "Warzone Mobile",
+    "Asphalt 9",
+    "Farlight 84",
+    "Mobile Legends Bang Bang"
+  ],
+
+  "playability": {
+    "PUBG Mobile": "Smooth + Extreme FPS (very stable competitive performance)",
+    "Call of Duty Mobile": "Very High Graphics + 90/120 FPS supported devices",
+    "Genshin Impact": "High Settings + 55–60 FPS stable",
+    "Fortnite": "High Graphics + Smooth 60 FPS",
+    "Honkai Star Rail": "High Settings with smooth combat and exploration"
+  },
+
+  "fpsBenchmarks": [
+    {
+      "game": "PUBG Mobile",
+      "settings": "Smooth + Extreme",
+      "fps": "80–90 FPS (stable)"
+    },
+    {
+      "game": "COD Mobile",
+      "settings": "Very High",
+      "fps": "90–110 FPS"
+    },
+    {
+      "game": "Genshin Impact",
+      "settings": "High",
+      "fps": "55–60 FPS"
+    },
+    {
+      "game": "Fortnite",
+      "settings": "High",
+      "fps": "55–60 FPS"
+    }
+  ],
+
+  "thermalTests": [
+    {
+      "game": "PUBG Mobile",
+      "after15Min": "Cool",
+      "after30Min": "Slight Warm",
+      "fpsDrop": "1–2 FPS"
+    },
+    {
+      "game": "COD Mobile",
+      "after15Min": "Normal",
+      "after30Min": "Warm",
+      "fpsDrop": "1 FPS"
+    },
+    {
+      "game": "Genshin Impact",
+      "after15Min": "Warm",
+      "after30Min": "Hot but controlled",
+      "fpsDrop": "3–5 FPS"
+    }
+  ],
+
+  "batteryTests": [
+    {
+      "game": "PUBG Mobile",
+      "oneHourDrop": "11–13%"
+    },
+    {
+      "game": "COD Mobile",
+      "oneHourDrop": "10–12%"
+    },
+    {
+      "game": "Genshin Impact",
+      "oneHourDrop": "15–18%"
+    }
+  ],
+
+  "gamingFeatures": [
+    "Dimensity 8300 Ultra Flagship Gaming Chip",
+    "LPDDR5X RAM + UFS 4.0 Storage",
+    "1.5K AMOLED 120Hz Gaming Display",
+    "Game Turbo Optimization Mode",
+    "Dual Stereo Speakers with Dolby Atmos",
+    "Ultra-fast 2160Hz touch response in gaming mode",
+    "Large vapor-chamber cooling system"
+  ],
+
+  "customTable": {
+    "title": "Gaming Hardware Breakdown",
+    "columns": ["Component", "Specification", "Gaming Benefit"],
+    "rows": [
+      ["Processor", "Dimensity 8300 Ultra", "Smooth performance in heavy games"],
+      ["RAM", "LPDDR5X", "Faster loading and multitasking"],
+      ["Storage", "UFS 4.0", "Games open extremely fast"],
+      ["Display", "1.5K AMOLED 120Hz", "Sharper and smoother gameplay"],
+      ["Cooling", "LiquidCool Technology 2.0", "Stable FPS in long sessions"],
+      ["Audio", "Dual Stereo Speakers", "Better gaming immersion"]
+    ]
+  },
+
+  "dynamicList": {
+    "title": "Why Gamers Choose Poco X6 Pro",
+    "items": [
+      "Flagship-level performance at a mid-range price",
+      "Ultra-fast RAM and storage",
+      "Smooth 120Hz AMOLED display",
+      "Great performance in heavy games",
+      "Very strong value for competitive gamers",
+      "One of the best gaming phones under budget"
+    ]
+  },
+
+  "finalVerdict": {
+    "rating": "9.3 / 10",
+    "bestFor": "Budget gamers, competitive players, students who want flagship performance",
+    "notIdealFor": "People who only want camera-focused phones",
+    "oneLineSummary": "The Poco X6 Pro proves you don’t need flagship money to get flagship gaming performance."
+  }
+}
