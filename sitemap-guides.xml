@@ -13,7 +13,7 @@
 
   <url>
     <loc>https://blog.blueverse.space/guides/extra-guide.html</loc>
-    <lastmod>2026-03-28</lastmod>
+    <lastmod>2026-04-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -539,7 +539,15 @@
   </url>
   
   
+  <!-- Next On June-->
   
+  
+    <url>
+    <loc>https://blog.blueverse.space/guides/extra/bgmi-pubg.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   
   
   
