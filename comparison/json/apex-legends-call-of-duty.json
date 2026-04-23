@@ -4,18 +4,18 @@
       {
         "name": "Apex Legends Mobile",
         "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Asset@main/blog/apex-legends.webp",
-        "genre": "High-Skill Hero Battle Royale 🚀🔫",
-        "developer": "Respawn Entertainment (EA)",
-        "release": "2022 (Officially Shut Down ❌)",
-        "gameplay": "A lightning-fast battle royale built around iconic Legends, tactical abilities, wall-sliding movement, and intense squad-based combat. Stylish gunfights, clutch revives, and insane mobility made it a fan favorite 💨🔥 Sadly, it burned bright and disappeared too soon."
+        "genre": "Hero-Based Tactical Battle Royale 🚀🔫",
+        "developer": "Respawn Entertainment & Electronic Arts",
+        "release": "2022 (Service Discontinued in 2023 ❌)",
+        "gameplay": "A fast-paced, hero-based battle royale designed specifically for mobile devices, featuring unique Legends with tactical and ultimate abilities. The game delivered smooth movement mechanics like sliding, climbing, and zip-lines, combined with strategic squad-based combat. Despite its polished gameplay and strong competitive potential, the game was discontinued, making it a short-lived yet iconic mobile FPS experience."
       },
       {
         "name": "Call of Duty: Mobile",
         "thumbnail": "/assets/thumb/call-of-duty-mobile.webp",
-        "genre": "All-in-One FPS Shooter (MP + BR) 🎯🔫",
-        "developer": "TiMi Studio Group (Activision)",
-        "release": "2019",
-        "gameplay": "A complete Call of Duty experience on mobile featuring classic multiplayer modes, ranked matches, zombies, and a massive battle royale. Fast gunplay, responsive controls, and constant updates keep the action fresh 🎮⚡."
+        "genre": "Competitive FPS Shooter (Multiplayer + Battle Royale) 🎯🔫",
+        "developer": "TiMi Studio Group & Activision",
+        "release": "2019 (Actively Supported ✅)",
+        "gameplay": "A feature-rich first-person shooter that combines classic Call of Duty multiplayer modes like Team Deathmatch, Domination, and Search & Destroy with a large-scale Battle Royale mode. Known for its highly optimized performance, customizable loadouts, and consistent seasonal updates, it delivers smooth gunplay, responsive controls, and a strong competitive ecosystem for both casual and hardcore players."
       }
     ]
   },
@@ -25,24 +25,24 @@
       {
         "name": "Apex Legends Mobile",
         "platform": "Android / iOS",
-        "storage": "4–5 GB 📦",
-        "ram": "4 GB Recommended",
-        "cpuGpu": "Mid-range to flagship processors (Snapdragon 720G+/A12+)",
+        "storage": "4–6 GB 📦",
+        "ram": "4 GB Recommended (6 GB for best performance)",
+        "cpuGpu": "Snapdragon 720G / Dimensity 800U or higher, Apple A12 Bionic+",
         "fps": "Up to 60 FPS",
-        "graphics": "Sharp, competitive-grade visuals 🔥",
+        "graphics": "High-quality visuals with realistic lighting and smooth animations 🔥",
         "online": "Always Online Required",
-        "battery": "High drain ⚡ (Speed comes at a cost 😅)"
+        "battery": "High battery consumption due to advanced graphics ⚡"
       },
       {
         "name": "Call of Duty: Mobile",
         "platform": "Android / iOS",
-        "storage": "3–4 GB 📦",
-        "ram": "3–4 GB Recommended",
-        "cpuGpu": "Mid-range chipsets (Snapdragon 660+/A11+)",
-        "fps": "60 FPS (120Hz supported devices)",
-        "graphics": "Highly optimized with crisp detail 🎯",
+        "storage": "3–5 GB 📦 (increases with updates)",
+        "ram": "3 GB Minimum, 4 GB Recommended",
+        "cpuGpu": "Snapdragon 660 / Helio G90T or higher, Apple A11 Bionic+",
+        "fps": "Up to 60 FPS (120 FPS on supported devices)",
+        "graphics": "Highly optimized visuals with scalable settings 🎯",
         "online": "Always Online Required",
-        "battery": "Moderate to High depending on mode"
+        "battery": "Moderate to High depending on graphics and mode"
       }
     ]
   },
@@ -51,21 +51,21 @@
     "games": [
       {
         "name": "Apex Legends Mobile",
-        "modes": "Battle Royale, Ranked BR, Arenas",
+        "modes": "Battle Royale, Ranked Mode, Arenas (3v3)",
         "playerLimits": "60 players per match 🧑‍🤝‍🧑",
-        "graphicsStyle": "Clean sci-fi visuals focused on clarity ✨",
-        "customization": "Legend skins, weapon skins, banners",
-        "events": "Seasonal content (back when servers existed 😢)",
-        "mechanics": "Legend abilities, advanced movement, zip-lines, squad synergy"
+        "graphicsStyle": "Futuristic sci-fi visuals with clean UI and high clarity ✨",
+        "customization": "Legend skins, weapon skins, emotes, banners",
+        "events": "Seasonal events and limited-time modes (before shutdown)",
+        "mechanics": "Unique hero abilities, squad synergy, advanced movement system including sliding and zip-lines"
       },
       {
         "name": "Call of Duty: Mobile",
-        "modes": "Multiplayer, Ranked, Battle Royale, Zombies",
-        "playerLimits": "100 players in BR 🪖",
-        "graphicsStyle": "Detailed military-style shooter visuals 🔥",
-        "customization": "Custom loadouts, operators, perks, weapon blueprints 🎨",
-        "events": "Regular seasons, themed updates, collaborations",
-        "mechanics": "Classic COD gunplay, scorestreaks, fast-paced respawns"
+        "modes": "Multiplayer, Ranked, Battle Royale, Zombies (limited-time)",
+        "playerLimits": "100 players in Battle Royale 🪖",
+        "graphicsStyle": "Realistic military-style graphics with detailed environments 🔥",
+        "customization": "Weapon loadouts, perks, operators, camo skins, blueprints 🎨",
+        "events": "Frequent seasonal updates, collaborations, and live events",
+        "mechanics": "Classic COD gunplay, scorestreaks, fast respawns, tactical gameplay"
       }
     ]
   },
@@ -75,31 +75,31 @@
       {
         "name": "Apex Legends Mobile",
         "pros": [
-          "Incredible movement and fluid gunplay 💨",
-          "Legends with unique tactical abilities",
-          "High skill ceiling for competitive players",
-          "Closest thing to console Apex on mobile"
+          "Advanced movement system unmatched by most mobile shooters 💨",
+          "Unique Legends with diverse abilities",
+          "High skill-based gameplay and competitive depth",
+          "Console-quality mechanics adapted for mobile"
         ],
         "cons": [
-          "Officially discontinued ❌",
-          "No servers, updates, or progression",
-          "Demanding hardware requirements",
-          "Wasted potential 😔"
+          "Officially discontinued in 2023 ❌",
+          "No servers or online functionality",
+          "No future updates or support",
+          "Required high-end hardware for smooth gameplay"
         ]
       },
       {
         "name": "Call of Duty: Mobile",
         "pros": [
-          "Multiple game modes packed into one app 🎮",
-          "Responsive controls and polished gun mechanics",
-          "Strong ranked and esports scene 🏆",
-          "Runs smoothly on mid-range devices",
-          "Frequent updates keep content fresh"
+          "Wide variety of game modes in one app 🎮",
+          "Smooth performance across mid-range devices",
+          "Strong competitive and esports scene 🏆",
+          "Regular updates, new maps, and seasonal content",
+          "Highly customizable controls and loadouts"
         ],
         "cons": [
-          "Storage size grows over time",
-          "Aggressive monetization 💸",
-          "Battle Royale mode lacks depth compared to pure BR titles"
+          "Large storage size over time",
+          "In-game purchases can feel aggressive 💸",
+          "Battle Royale mode is less tactical compared to dedicated BR games"
         ]
       }
     ]
@@ -109,17 +109,17 @@
     "games": [
       {
         "name": "Apex Legends Mobile",
-        "activePlayers": "Service Terminated (2023)",
-        "socialMedia": "Small but passionate legacy fanbase",
-        "tournaments": "None (Mobile version closed)",
-        "engagement": "Throwback clips, nostalgia edits, and \"what went wrong\" videos 😢"
+        "activePlayers": "Service Shut Down (2023)",
+        "socialMedia": "Inactive official presence, community-driven nostalgia content",
+        "tournaments": "None (Service discontinued)",
+        "engagement": "Community still shares highlights, comparisons, and discussions about its potential 😢"
       },
       {
         "name": "Call of Duty: Mobile",
         "activePlayers": "50M+ Monthly Active Players 🌍",
-        "socialMedia": "15M+ Followers",
-        "tournaments": "COD Mobile World Championship 🏆",
-        "engagement": "Competitive gameplay, loadout guides, ranked streams 🎥"
+        "socialMedia": "15M+ Followers across platforms",
+        "tournaments": "Official World Championship and regional esports events 🏆",
+        "engagement": "Highly active community with streamers, ranked gameplay, and strategy content 🎥"
       }
     ]
   },
@@ -128,17 +128,17 @@
     "games": [
       {
         "name": "Apex Legends Mobile",
-        "price": "Free (Inactive)",
-        "premiumFeatures": "Cosmetic items only",
+        "price": "Free-to-Play (No longer available ❌)",
+        "premiumFeatures": "Cosmetic skins and battle pass (discontinued)",
         "currency": "Syndicate Gold",
-        "specialOffers": "Unavailable due to shutdown ❌"
+        "specialOffers": "Unavailable due to shutdown"
       },
       {
         "name": "Call of Duty: Mobile",
         "price": "Free-to-Play",
-        "premiumFeatures": "Battle Pass, operators, weapon blueprints 🎫",
-        "currency": "CP",
-        "specialOffers": "Seasonal draws, bundles, lucky crates"
+        "premiumFeatures": "Battle Pass, premium skins, weapon blueprints 🎫",
+        "currency": "COD Points (CP)",
+        "specialOffers": "Lucky draws, seasonal bundles, limited-time offers"
       }
     ]
   },
@@ -157,27 +157,27 @@
         "devices": "Android & iOS",
         "osVersion": "Android 5.1+ / iOS 10+",
         "crossPlatform": "Mobile only",
-        "pcConsole": "Limited emulator support"
+        "pcConsole": "Supported via official emulator (Gameloop)"
       }
     ]
   },
 
   "faqs": [
     {
-      "question": "Is Apex Legends Mobile playable today?",
-      "answer": "No ❌ EA officially shut down Apex Legends Mobile in 2023."
+      "question": "Is Apex Legends Mobile still available to play in 2026?",
+      "answer": "No ❌ Apex Legends Mobile was officially shut down by EA in 2023 and is no longer playable."
     },
     {
-      "question": "Which game should you play right now?",
-      "answer": "Call of Duty: Mobile 🏆 is the clear choice with active servers and regular updates."
+      "question": "Which game is best for active players right now?",
+      "answer": "Call of Duty: Mobile 🏆 is the best choice due to active servers, frequent updates, and a strong competitive scene."
     },
     {
-      "question": "Which game had the best movement?",
-      "answer": "Apex Legends Mobile 💨 had unmatched mobility and fluid combat."
+      "question": "Which game had better movement mechanics?",
+      "answer": "Apex Legends Mobile 💨 offered superior movement with sliding, climbing, and fast-paced mobility mechanics."
     },
     {
-      "question": "Which game is better for long-term players?",
-      "answer": "Call of Duty: Mobile offers steady progression, ranked play, and long-term support 🔥"
+      "question": "Which game is better for long-term progression?",
+      "answer": "Call of Duty: Mobile provides consistent updates, ranked progression, and long-term content support 🔥"
     }
   ]
 }

@@ -5,17 +5,17 @@
       "/assets/thumb/asus-rog-7.webp",
       ""
     ],
-    "summary": "Asus ROG Phone 7 — flagship gaming phone with Snapdragon 8 Gen 2, 165 Hz AMOLED, 6000 mAh battery and vapor-chamber cooling — ideal for heavy games & esports.",
+    "summary": "Asus ROG Phone 7 — a premium gaming smartphone powered by Snapdragon 8 Gen 2, featuring a 165Hz AMOLED display, advanced vapor-chamber cooling, AirTrigger controls, and a massive 6000mAh battery — built for ultra-smooth gaming, esports performance, and sustained high FPS sessions in 2026.",
     "priceRange": "Varies by region",
 
     "pricingInsights": {
-      "lastUpdated": "2026-01",
-      "note": "Prices may fluctuate based on import duties, stock availability, and seller margins.",
-      "officialVsMarket": "In many regions, official ASUS pricing is lower than local market prices due to limited stock.",
-      "taxInfo": "Displayed prices usually include local sales tax or VAT unless stated otherwise.",
-      "importWarning": "Imported units may cost 5–15% more depending on customs and retailer markup.",
-      "bestTimeToBuy": "Festive sales, year-end discounts, and flash sales often reduce prices by 5–10%.",
-      "availabilityStatus": "Limited availability in some regions; gaming-focused stores tend to stock it first."
+      "lastUpdated": "2026-04",
+      "note": "Prices fluctuate frequently due to currency rates, import duties, and stock availability in different regions.",
+      "officialVsMarket": "Official ASUS pricing is often lower, but limited availability pushes local reseller prices higher in many countries.",
+      "taxInfo": "Prices typically include VAT, GST, or local taxes depending on the region; imported units may exclude official tax coverage.",
+      "importWarning": "Imported or non-PTA-approved devices may cost 5–20% less initially but require additional registration fees in some regions.",
+      "bestTimeToBuy": "Major sale events like Black Friday, Eid sales, 11.11, and year-end clearance can reduce prices by 8–15%.",
+      "availabilityStatus": "Moderate to limited availability globally; gaming-focused retailers and online marketplaces stock it more consistently than offline stores."
     },
 
     "countries": [
@@ -23,121 +23,121 @@
         "flag": "🇺🇸",
         "country": "United States",
         "currency": "USD",
-        "displayPrice": "$699 – $899",
+        "displayPrice": "$649 – $879",
         "variants": [
-          { "ram": "12GB / 256GB", "price": "$699" },
-          { "ram": "16GB / 512GB", "price": "$899" }
+          { "ram": "12GB / 256GB", "price": "$649" },
+          { "ram": "16GB / 512GB", "price": "$879" }
         ],
         "colors": ["Phantom Black", "Storm White"],
-        "priceNote": "Unlocked models; prices may drop during Black Friday or Prime Day."
+        "priceNote": "Unlocked global variant; discounts common during Amazon and Best Buy seasonal sales."
       },
       {
         "flag": "🇮🇳",
         "country": "India",
         "currency": "INR",
-        "displayPrice": "₹74,999 – ₹84,999",
+        "displayPrice": "₹69,999 – ₹82,999",
         "variants": [
-          { "ram": "12GB / 256GB", "price": "₹74,999" },
-          { "ram": "16GB / 512GB", "price": "₹84,999" }
+          { "ram": "12GB / 256GB", "price": "₹69,999" },
+          { "ram": "16GB / 512GB", "price": "₹82,999" }
         ],
         "colors": ["Phantom Black", "Storm White"],
-        "priceNote": "Includes GST; bank offers can reduce effective price."
+        "priceNote": "Includes GST; bank discounts and exchange offers can reduce final cost significantly."
       },
       {
         "flag": "🇵🇰",
         "country": "Pakistan",
         "currency": "PKR",
-        "displayPrice": "Rs 317,000 – Rs 345,000",
+        "displayPrice": "Rs 295,000 – Rs 340,000",
         "variants": [
-          { "ram": "12GB / 256GB", "price": "Rs 317,000" },
-          { "ram": "16GB / 512GB", "price": "Rs 345,000" }
+          { "ram": "12GB / 256GB", "price": "Rs 295,000" },
+          { "ram": "16GB / 512GB", "price": "Rs 340,000" }
         ],
         "colors": ["Phantom Black", "Storm White"],
-        "priceNote": "Mostly imported units; price varies by PTA approval status."
+        "priceNote": "Mostly imported units; PTA-approved devices can cost significantly more due to heavy taxes."
       },
       {
         "flag": "🇬🇧",
         "country": "United Kingdom",
         "currency": "GBP",
-        "displayPrice": "£630 – £780",
+        "displayPrice": "£600 – £750",
         "variants": [
-          { "ram": "12GB / 256GB", "price": "£630" },
-          { "ram": "16GB / 512GB", "price": "£780" }
+          { "ram": "12GB / 256GB", "price": "£600" },
+          { "ram": "16GB / 512GB", "price": "£750" }
         ],
         "colors": ["Phantom Black", "Storm White"],
-        "priceNote": "VAT included; discounts appear during seasonal sales."
+        "priceNote": "VAT included; strong discounts during Black Friday and Boxing Day sales."
       },
       {
         "flag": "🇨🇦",
         "country": "Canada",
         "currency": "CAD",
-        "displayPrice": "CA$950 – CA$1,200",
+        "displayPrice": "CA$900 – CA$1,150",
         "variants": [
-          { "ram": "12GB / 256GB", "price": "CA$950" },
-          { "ram": "16GB / 512GB", "price": "CA$1,200" }
+          { "ram": "12GB / 256GB", "price": "CA$900" },
+          { "ram": "16GB / 512GB", "price": "CA$1,150" }
         ],
         "colors": ["Phantom Black", "Storm White"],
-        "priceNote": "Taxes vary by province; online retailers may offer bundles."
+        "priceNote": "Prices vary by province taxes; online deals often include gaming accessories."
       },
       {
         "flag": "🇦🇺",
         "country": "Australia",
         "currency": "AUD",
-        "displayPrice": "A$1,050 – A$1,320",
+        "displayPrice": "A$980 – A$1,250",
         "variants": [
-          { "ram": "12GB / 256GB", "price": "A$1,050" },
-          { "ram": "16GB / 512GB", "price": "A$1,320" }
+          { "ram": "12GB / 256GB", "price": "A$980" },
+          { "ram": "16GB / 512GB", "price": "A$1,250" }
         ],
         "colors": ["Phantom Black", "Storm White"],
-        "priceNote": "GST included; limited stock affects pricing."
+        "priceNote": "GST included; availability depends on online retailers like JB Hi-Fi and Amazon."
       },
       {
         "flag": "🇦🇪",
         "country": "United Arab Emirates",
         "currency": "AED",
-        "displayPrice": "AED 3,500 – AED 4,300",
+        "displayPrice": "AED 3,200 – AED 4,000",
         "variants": [
-          { "ram": "12GB / 256GB", "price": "AED 3,500" },
-          { "ram": "16GB / 512GB", "price": "AED 4,300" }
+          { "ram": "12GB / 256GB", "price": "AED 3,200" },
+          { "ram": "16GB / 512GB", "price": "AED 4,000" }
         ],
         "colors": ["Phantom Black", "Storm White"],
-        "priceNote": "Often cheaper than Europe due to lower taxes."
+        "priceNote": "Often one of the best regions for pricing due to lower taxes and high stock availability."
       },
       {
         "flag": "🇧🇩",
         "country": "Bangladesh",
         "currency": "BDT",
-        "displayPrice": "৳ 99,000 – ৳ 115,000",
+        "displayPrice": "৳ 95,000 – ৳ 112,000",
         "variants": [
-          { "ram": "12GB / 256GB", "price": "৳ 99,000" },
-          { "ram": "16GB / 512GB", "price": "৳ 115,000" }
+          { "ram": "12GB / 256GB", "price": "৳ 95,000" },
+          { "ram": "16GB / 512GB", "price": "৳ 112,000" }
         ],
         "colors": ["Phantom Black", "Storm White"],
-        "priceNote": "Unofficial imports common; warranty may vary."
+        "priceNote": "Unofficial imports dominate the market; warranty and support may vary."
       },
       {
         "flag": "🇵🇭",
         "country": "Philippines",
         "currency": "PHP",
-        "displayPrice": "₱ 58,000 – ₱ 70,000",
+        "displayPrice": "₱ 55,000 – ₱ 68,000",
         "variants": [
-          { "ram": "12GB / 256GB", "price": "₱ 58,000" },
-          { "ram": "16GB / 512GB", "price": "₱ 70,000" }
+          { "ram": "12GB / 256GB", "price": "₱ 55,000" },
+          { "ram": "16GB / 512GB", "price": "₱ 68,000" }
         ],
         "colors": ["Phantom Black", "Storm White"],
-        "priceNote": "Mall prices higher than online stores."
+        "priceNote": "Online platforms like Lazada and Shopee offer better pricing than physical stores."
       },
       {
         "flag": "🇪🇺",
         "country": "Euro Zone",
         "currency": "EUR",
-        "displayPrice": "€ 850 – € 1,050",
+        "displayPrice": "€ 800 – € 1,000",
         "variants": [
-          { "ram": "12GB / 256GB", "price": "€ 850" },
-          { "ram": "16GB / 512GB", "price": "€ 1,050" }
+          { "ram": "12GB / 256GB", "price": "€ 800" },
+          { "ram": "16GB / 512GB", "price": "€ 1,000" }
         ],
         "colors": ["Phantom Black", "Storm White"],
-        "priceNote": "VAT included; prices vary slightly by country."
+        "priceNote": "VAT included; prices vary slightly across countries like Germany, France, and Italy."
       }
     ]
   }
