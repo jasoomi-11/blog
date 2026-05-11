@@ -1,54 +1,54 @@
 {
   "gameTitle": "Asus ROG Phone 7",
-  "subtitle": "A no-compromise gaming beast that treats lag, heat, and frame drops like rookie enemies 😎",
+  "subtitle": "A no-compromise gaming beast that destroys lag, heat, and frame drops before the match even begins 🔥🎮",
 
   "posters": [
     "/assets/thumb/asus-rog-7.webp",
-    ""
+    "/assets/thumb/asus-rog-7-gaming.webp"
   ],
 
-  "whatMakesItSpecial": "This phone isn’t trying to be everything for everyone. It has one clear mission: deliver desktop-level gaming performance in your pocket — and it takes that job very seriously.",
+  "whatMakesItSpecial": "The ROG Phone 7 isn’t trying to look like a gaming phone — it IS one. Every part of this device is engineered for extreme mobile gaming, from the Snapdragon 8 Gen 2 chipset and advanced vapor cooling to AirTriggers, bypass charging, and esports-level FPS stability. It delivers console-grade performance in a pocket-sized form factor.",
 
   "performance": {
-    "cpu": "Qualcomm Snapdragon 8 Gen 2 (4nm, up to 3.2GHz Prime Core)",
-    "gpu": "Adreno 740 (console-level mobile graphics)",
-    "ram": "12GB / 16GB LPDDR5X (ultra-fast, zero reload stress)",
-    "storage": "256GB / 512GB UFS 4.0 (blink-and-it’s-loaded speed)",
-    "cooling": "GameCool 7 Vapor Chamber + Boron Nitride Thermal Layers",
-    "realWorldImpact": "Sustains peak performance longer than most flagship phones without aggressive throttling."
+    "cpu": "Qualcomm Snapdragon 8 Gen 2 (4nm TSMC Architecture, up to 3.2GHz Prime Core)",
+    "gpu": "Adreno 740 GPU with advanced Vulkan optimization and hardware ray tracing support",
+    "ram": "12GB / 16GB LPDDR5X RAM (ultra-fast multitasking and near-zero game reloads)",
+    "storage": "256GB / 512GB UFS 4.0 Storage (extremely fast app loading and texture streaming)",
+    "cooling": "GameCool 7 Vapor Chamber + Boron Nitride Thermal Layers + Graphite Sheets",
+    "realWorldImpact": "Maintains stable FPS during long gaming sessions while avoiding aggressive thermal throttling common in most flagship phones."
   },
 
   "benchmark": {
-    "antutu": "1,320,000 – 1,350,000",
+    "antutu": "1,320,000 – 1,380,000",
     "geekbench": {
-      "singleCore": "1900 – 2000",
-      "multiCore": "5200 – 5400"
+      "singleCore": "1950 – 2050",
+      "multiCore": "5250 – 5450"
     },
-    "note": "Numbers are impressive, but the real win is how long it holds them."
+    "note": "Raw benchmark numbers are powerful, but the real strength is sustained gaming performance under heavy load."
   },
 
   "display": {
     "size": "6.78-inch",
-    "refreshRate": "165Hz",
-    "touchRate": "720Hz Touch Sampling",
+    "refreshRate": "165Hz AMOLED Refresh Rate",
+    "touchRate": "720Hz Touch Sampling Rate",
     "resolution": "FHD+ (2448 × 1080)",
-    "panelType": "Samsung E4 AMOLED, HDR10+",
-    "brightness": "Up to 1500 nits peak",
-    "experience": "Scrolling feels illegal smooth, and aiming feels telepathic."
+    "panelType": "Samsung E4 AMOLED, HDR10+, 111% DCI-P3",
+    "brightness": "Up to 1500 nits peak brightness",
+    "experience": "Ultra-responsive touch response makes aiming, swiping, and competitive gameplay feel incredibly smooth and instant."
   },
 
   "battery": {
-    "size": "6000mAh Dual-Cell",
-    "fastCharging": "65W HyperCharge (0–100% ~42 min)",
-    "gamingDrain": "8% – 12% per hour (competitive titles)",
-    "smartCharging": "Bypass Charging to reduce heat during long sessions"
+    "size": "6000mAh Dual-Cell Battery",
+    "fastCharging": "65W HyperCharge (0–100% in around 42 minutes)",
+    "gamingDrain": "8% – 12% battery drain per hour in competitive titles",
+    "smartCharging": "Supports Bypass Charging and Steady Charging to reduce heat and battery wear during marathon sessions"
   },
 
   "temperature": {
     "averageGaming": "36°C – 40°C",
-    "extremeLoad": "Up to 42°C",
-    "fpsStability": "92% – 96%",
-    "comfortLevel": "Warm in long sessions, never alarmingly hot."
+    "extremeLoad": "Up to 42°C under maximum stress",
+    "fpsStability": "92% – 96% FPS consistency",
+    "comfortLevel": "Gets warm during demanding games but remains stable and comfortable compared to most gaming phones."
   },
 
   "heavyGames": [
@@ -60,37 +60,45 @@
     "Honkai Star Rail",
     "Asphalt 9",
     "Farlight 84",
-    "Warzone Mobile"
+    "Warzone Mobile",
+    "Arena Breakout",
+    "Minecraft RTX",
+    "Diablo Immortal"
   ],
 
   "playability": {
-    "PUBG Mobile": "Ultra HD Graphics + 90FPS (smooth competitive play)",
-    "Call of Duty Mobile": "Very High Graphics + 120FPS",
-    "Genshin Impact": "High Settings + Stable 60FPS",
-    "Fortnite": "Epic Quality + Locked 60FPS",
-    "Honkai Star Rail": "Max Settings, smooth combat & exploration"
+    "PUBG Mobile": "Ultra HDR Graphics + 90FPS with stable competitive gameplay",
+    "Call of Duty Mobile": "Very High Graphics + 120FPS smooth multiplayer experience",
+    "Genshin Impact": "High Settings with stable 60FPS exploration and combat",
+    "Fortnite": "Epic Quality Graphics with locked 60FPS gameplay",
+    "Honkai Star Rail": "Maximum Settings with smooth animations and combat effects"
   },
 
   "fpsBenchmarks": [
     {
       "game": "PUBG Mobile",
-      "settings": "Ultra HD",
-      "fps": "75–90 FPS (stable)"
+      "settings": "Ultra HDR",
+      "fps": "85–90 FPS (stable)"
     },
     {
       "game": "COD Mobile",
-      "settings": "Max",
+      "settings": "Max + Ultra FPS",
       "fps": "115–120 FPS"
     },
     {
       "game": "Genshin Impact",
       "settings": "High",
-      "fps": "55–60 FPS"
+      "fps": "55–60 FPS stable"
     },
     {
       "game": "Fortnite",
       "settings": "Epic",
       "fps": "60 FPS Locked"
+    },
+    {
+      "game": "Warzone Mobile",
+      "settings": "High",
+      "fps": "55–60 FPS"
     }
   ],
 
@@ -112,6 +120,12 @@
       "after15Min": "Warm",
       "after30Min": "Hot but controlled",
       "fpsDrop": "3–4 FPS"
+    },
+    {
+      "game": "Warzone Mobile",
+      "after15Min": "Warm",
+      "after30Min": "Moderately Hot",
+      "fpsDrop": "4–6 FPS"
     }
   ],
 
@@ -127,17 +141,24 @@
     {
       "game": "Genshin Impact",
       "oneHourDrop": "15–17%"
+    },
+    {
+      "game": "Warzone Mobile",
+      "oneHourDrop": "17–19%"
     }
   ],
 
   "gamingFeatures": [
-    "AirTrigger 6 Ultrasonic Shoulder Buttons (console-style control)",
-    "X Mode for Maximum Performance",
-    "Advanced Game Genie Overlay",
-    "4D Haptic Vibration Feedback",
+    "AirTrigger 6 Ultrasonic Shoulder Buttons for console-like controls",
+    "X Mode for maximum gaming performance optimization",
+    "Advanced Game Genie Overlay for live gaming tools",
+    "4D Haptic Vibration Feedback for immersive gameplay",
     "Front-Facing Dirac-Tuned Stereo Speakers",
-    "AeroActive Cooler 7 Support",
-    "RGB ROG Logo with Custom Lighting Effects"
+    "AeroActive Cooler 7 accessory support",
+    "RGB ROG Logo with customizable Aura lighting",
+    "Wi-Fi 7 + Snapdragon Elite Gaming enhancements",
+    "Dual USB-C Ports for ergonomic charging while gaming",
+    "Background Mode and Macro Controls for advanced gameplay customization"
   ],
 
   "customTable": {
@@ -149,7 +170,9 @@
       ["Charging", "65W HyperCharge", "Quick Top-Ups Between Matches"],
       ["Speakers", "Dual Front Stereo", "Clear Positional Audio"],
       ["Build", "Gorilla Glass Victus", "Durable & Premium Feel"],
-      ["Software", "ROG UI (Android 14)", "Deep Gaming Customization"]
+      ["Software", "ROG UI (Android 14)", "Deep Gaming Customization"],
+      ["Connectivity", "Wi-Fi 7 + Bluetooth 5.3", "Low Latency Online Gaming"],
+      ["Ports", "Dual USB-C Design", "Comfortable Charging During Gameplay"]
     ]
   },
 
@@ -157,18 +180,22 @@
     "title": "Why Gamers Choose ROG Phone 7",
     "items": [
       "165Hz Ultra-Smooth AMOLED Display",
-      "Flagship Snapdragon 8 Gen 2 Power",
-      "LPDDR5X RAM + UFS 4.0 Storage",
-      "Advanced Thermal Engineering",
+      "Flagship Snapdragon 8 Gen 2 Performance",
+      "LPDDR5X RAM + UFS 4.0 Speed",
+      "Advanced Vapor Chamber Cooling",
       "Esports-Level FPS Consistency",
-      "Built for Long Gaming Marathons"
+      "Built for Long Gaming Sessions",
+      "Console-Like AirTrigger Controls",
+      "Exceptional Stereo Speaker Quality",
+      "Massive 6000mAh Battery Backup",
+      "Minimal Thermal Throttling Even Under Heavy Load"
     ]
   },
 
   "finalVerdict": {
-    "rating": "9.6 / 10",
-    "bestFor": "Competitive gamers, streamers, esports players",
-    "notIdealFor": "People who only play Candy Crush",
-    "oneLineSummary": "A true gaming phone that doesn’t pretend — it performs."
+    "rating": "9.7 / 10",
+    "bestFor": "Competitive gamers, streamers, esports players, heavy multitaskers",
+    "notIdealFor": "Users looking for a lightweight casual-use phone only",
+    "oneLineSummary": "One of the best Android gaming phones ever made — brutally powerful, insanely smooth, and built entirely around gaming performance."
   }
 }
